@@ -1,0 +1,749 @@
+Practical and Efficient MPC from FHE, without ZKPoKs;;;Kelong Cong, Nigel P. Smart, Titouan Tanguy, MIchael Walter;;;2026/2403;;;last_week;;;none;;;2026-10-07;;;lattice
+Faster Provable Lattice Sieving with Spherical Codes;;;Divesh Aggarwal, Aditya Morolia, Noah Stephens-Davidowitz;;;2026/2388;;;last_week;;;none;;;2026-10-07;;;lattice
+Provable Subexponential Algorithms for NIST Third-Round Lattice Families;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2026/2386;;;last_week;;;none;;;2026-10-06;;;lattice
+SkrrtPIR: Doubly-Stateless Batch PIR from Single-Key RLWE Unpacking;;;Keewoo Lee, Yongha Son;;;2026/2385;;;last_week;;;none;;;2026-10-06;;;lattice
+The Lattice Isomorphism Problem with Hints;;;Mélissa Rossi;;;2026/2381;;;last_week;;;none;;;2026-10-06;;;lattice
+PoP! Goes the VOLE: Shorter Proofs of Possession for KEM Certificates;;;Slim Bettaieb, Alexandre Augusto Giron, Mukul Kulkarni, Marco Palumbi;;;2026/2375;;;last_week;;;none;;;2026-10-06;;;code,lattice
+PairSwitch: Efficient Galois-Paired Key Switching for Gentry–Lee Matrix FHE;;;Zhenyu Xiong, Mingsheng Wang, Han Wang;;;2026/2373;;;last_week;;;https://github.com/acprk/pairswitch-gl;;;2026-10-06;;;lattice
+DP-Guided Schedule Selection for $\mathbb{F}_2[x]$ Multiplication across ISAs;;;Junyu Zhou, Xiao Lan, Jing Wang, Hao Ren, Weiran Liu, Si Gao;;;2026/2371;;;last_week;;;none;;;2026-10-06;;;code
+StOMR: Stateful Oblivious Message Retrieval;;;Charles Gouert, Keewoo Lee, Dimitris Mouris, Yiannis Tselekounis, Jean-Luc Watson;;;2026/2369;;;last_week;;;none;;;2026-10-06;;;lattice
+Low-Latency Parallel Digit Decomposition and Sign Evaluation for CKKS;;;Jung Hee Cheon, Kyungah Cho, Junyoung Jung, Junho Lim;;;2026/2368;;;last_week;;;none;;;2026-10-05;;;lattice
+On the Instantiability of the Fujisaki–Okamoto Transform for Trapdoor Functions;;;Carter Luck, Xinyu Mao, Adam O'Neill;;;2026/2365;;;last_week;;;none;;;2026-10-05;;;lattice
+Optimized LLL Algorithm;;;Zhengjun Cao, Lihua Liu;;;2026/2361;;;last_week;;;none;;;2026-10-05;;;lattice
+One-Round Threshold XMSS and SPHINCS+ from Fully Homomorphic Encryption;;;Jung Hee Cheon, Kevin Choi, Hyeoncheol Joo, Taeseong Kim;;;2026/2360;;;last_week;;;none;;;2026-10-05;;;lattice
+Area-Efficient Hardware Architecture of the Post-Quantum HQC Cryptosystem with Side-Channel Protection;;;Kamal Raj, Peizhou Gan, Sayan Das, Anupam Chattopadhyay;;;2026/2359;;;last_week;;;none;;;2026-10-05;;;code
+BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies;;;Yanren Chen, Fangyu Zheng, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, Jingqiang Lin, Jiwu Jing;;;2026/2356;;;last_week;;;none;;;2026-10-05;;;lattice
+X-Wing on Cortex-M85: Architecture-Aware Integration and End-to-End Evaluation;;;Do-Yun Park, Hwa-Jeong Seo;;;2026/2352;;;last_week;;;none;;;2026-10-05;;;lattice
+Output Policies for Anomaly Detection with Homomorphic Encryption: Threshold Resolution, Decision Preservation, and Numerical Stability;;;Subeen Cho, Jiwon Bang, Minseo Kim, Seungwon Lee, Hwajeong Seo;;;2026/2349;;;last_week;;;none;;;2026-10-05;;;lattice
+HyBind: Structural Analysis of PQ/T Hybrid Cryptographic Usage;;;Jongbeom Ahn, Minseo Kim, Moonsun Heo, Subeen Cho, Hwajeong Seo;;;2026/2347;;;last_week;;;none;;;2026-10-05;;;lattice
+Randomness-Anchored Runtime Discovery of Cryptographic Operations on Linux Using eBPF;;;Sumin Jeong, Yulim Hyoung, Hagyeong Kim, Huiju Kang, Hwajeong Seo;;;2026/2345;;;last_week;;;none;;;2026-10-05;;;lattice
+Role-Specific Signature Placement in TLS 1.3: Cost Propagation and PQC Migration;;;Moonsun Heo, Subeen Cho, Jongbeom Ahn, Minseo Kim, Hwajeong Seo;;;2026/2344;;;last_week;;;none;;;2026-10-05;;;lattice
+Post-Quantum Command Authentication for Unmanned Systems: A KpqC Feasibility Study under Real-Time and Bandwidth Constraints;;;Yulim Hyoung, Daeun Lim, Jiwon Bang, Doyun Park, Hagyeong Kim, Hwajeong Seo;;;2026/2343;;;last_week;;;none;;;2026-10-05;;;lattice
+Deploying Native-Rust KpqC: Pluggable Post-Quantum KEMs and Signatures across TLS, Space Links, and the OQS Ecosystem;;;Yulim Hyoung, Doyun Park, Hyunji Kim, Hwajeong Seo;;;2026/2342;;;last_week;;;none;;;2026-10-05;;;lattice
+Measuring Parallel Execution of Classical–PQC Component Pairs in Hybrid TLS 1.3;;;Siwoo Eum, Minho Song, Seung-Won Lee, Hwajeong Seo;;;2026/2341;;;last_week;;;none;;;2026-10-05;;;lattice
+Pseudorandom Codes from LWE;;;Keewoo Lee;;;2026/2339;;;last_week;;;none;;;2026-10-05;;;lattice
+Trapdoor Projective Sampling and Identity-Based Anonymous Broadcast;;;Gaspard Meunier, Duong Hieu Phan;;;2026/2334;;;last_week;;;none;;;2026-10-04;;;lattice
+Rotate Once, Read Many Times: on the Output Noise of Multi-Value Bootstrapping;;;Philippe Chartier, Michel Koskas, Mohammed Lemou;;;2026/2332;;;last_week;;;none;;;2026-10-04;;;lattice
+What Makes Lattice Key Generation Expensive? Controlled Cost Attribution with Structured LWR, ML-KEM, and HAETAE on Cortex-M4;;;Yan Zhang, Meizi Li, Liang Tan;;;2026/2329;;;last_week;;;none;;;2026-10-04;;;lattice
+Automorphism-Compatible NTT and its Application to Homomorphic Encryption;;;Charanjit S. Jutla, Nathan Manohar, Guy Moshkowich;;;2026/2328;;;last_week;;;none;;;2026-10-04;;;lattice
+On the hull attacks against Construction A lattices;;;Jean-François Biasse, Alexandra V. Hostetler, Anuvrat Jaindungarwal;;;2026/2325;;;last_month;;;none;;;2026-10-03;;;lattice
+ATLAS: A Compact Module-LWR Signature Scheme;;;Karthick Srivatsan, Debranjan Pal, Anindya Ganguly, Suparna Kundu, Abhinava De, Puja Mondal, Harry Hart, Quinten Norga, Prajna Mahadev, Supriya Adhikary, Debayan Das, Chaoyun Li, Angshuman Karmakar;;;2026/2323;;;last_month;;;none;;;2026-10-03;;;lattice
+When Masking Preimage Computation Isn’t Enough: A Power Analysis Attack on Masked Implementations of Falcon;;;Keng-Yu Chen;;;2026/2313;;;last_month;;;none;;;2026-10-02;;;lattice
+Low-Noise Multi-Value Bootstrapping via Log-Unit Lattice Search and LUT Shifting;;;Olivier Bernard, Nolan Carouge, Marc Joye, Jean-Baptiste Orfila, Samuel Tap;;;2026/2310;;;last_month;;;none;;;2026-10-02;;;lattice
+Functional Verification of Additive FFT Assembly Implementations in Code-Based PQC;;;Jiaxiang Liu, Kuang-Lin Pan, Xiaomu Shi, Ming-Hsien Tsai, Bow-Yaw Wang, Bo-Yin Yang;;;2026/2307;;;last_month;;;none;;;2026-10-02;;;code
+Revisiting Partitioning: Output-Adaptive ABE for Circuits from LWE;;;Jiaqi Cheng, Rishab Goyal;;;2026/2305;;;last_month;;;none;;;2026-10-02;;;lattice
+CAROUSEL: GPU-Accelerated Private Vector Search via Homomorphic Sketching;;;Sohaib, Divyakant Agrawal, Amr El Abbadi, Soamar Homsi;;;2026/2302;;;last_month;;;none;;;2026-10-01;;;lattice
+Pseudorandom Correlation Generators for Matrix Triples;;;Maxime Bombar, Geoffroy Couteau, Nikolas Melissaris, Anuja Modi;;;2026/2298;;;last_month;;;none;;;2026-10-01;;;code,lattice
+Jambon: Asynchronous Universally Composable Threshold FHE with Low Communication;;;Jung Hee Cheon, Kevin Choi, Changmin Lee, JeongHwan Lee, Junho Lim, Duc Anh Luong;;;2026/2290;;;last_month;;;none;;;2026-10-01;;;lattice
+A Subexponential Algorithm for Binary LWE with Sublinear Samples;;;Zhili Chen, Kaijie Jiang, Anyu Wang, Chuanqi Zhang;;;2026/2289;;;last_month;;;none;;;2026-10-01;;;lattice
+Kettle: Short Post-Quantum Threshold Signatures from the HAWK Signature Scheme;;;Calvin Abou Haidar, Daniel Escudero, Thomas Espitau, Clément Hoffmann, Kaoru Takemure, Mehdi Tibouchi, Hernán Darío Vanegas Madrigal;;;2026/2288;;;last_month;;;none;;;2026-10-01;;;lattice
+Knuth–Yao masked (Gaussian) sampling;;;Calvin Abou Haidar, Clément Hoffmann;;;2026/2287;;;last_month;;;none;;;2026-10-01;;;lattice
+Poisoned Cryptography: Solving Direct-Sum LIP in Half the Dimension;;;Artyom Kuninets, Aleksandr Bakharev;;;2026/2281;;;last_month;;;none;;;2026-09-30;;;lattice
+A Cryptographic Perspective on Fingerprinting Machine Learning Model Weights;;;Huijia Lin, Kameron Shahabi;;;2026/2279;;;last_month;;;none;;;2026-09-30;;;lattice
+Masked CROSS: Masking the CROSS Digital Signature Scheme at Arbitrary Order;;;Khan Keren Mengwi, Puja Mondal, Achille Ecladore Tchahou Tchendjeu, Emmanuel Fouotsa, Suparna Kundu;;;2026/2278;;;last_month;;;none;;;2026-09-30;;;code,lattice
+Exact SVP on Haar-Random Lattices at the Heuristic Sieving Exponents;;;Yang Zhou, Zhedong Wang, Mingsheng Wang;;;2026/2271;;;last_month;;;none;;;2026-09-30;;;lattice
+Kopis: A KEM for Obfuscation;;;Andrea Basso, Michael Rosenberg;;;2026/2268;;;last_month;;;none;;;2026-09-29;;;lattice
+Chinese NGCC Algorithms: The First Week of AI Cryptanalysis;;;Markku-Juhani O. Saarinen;;;2026/2266;;;last_month;;;none;;;2026-09-29;;;lattice
+THEMIS: A Co-Designed System for Encrypted Transformer Inference;;;Shihao Li, Wenhao Wang, Lu Li, Xiaomei Tang, Jian Liu, Rongmao Chen, Cheng Hong, Guangfu Sun;;;2026/2264;;;last_month;;;none;;;2026-09-29;;;lattice
+Levis: Extension-Free Multi-Key Fully Homomorphic Encryption in the Plain Model;;;Baoyu Li, Binwu Xiang, Kang Yang;;;2026/2263;;;last_month;;;none;;;2026-09-29;;;lattice
+NOMOS: Secure Non-Interactive $k$NN under CKKS;;;Shihao Li, Wenhao Wang, Xiaomei Tang, Jian Liu, Rongmao Chen, Lu Li, zhigang chen, Guangfu Sun;;;2026/2262;;;last_month;;;none;;;2026-09-29;;;lattice
+A Provable Subexponential-Time Algorithm for LWE from \(n+o(n)\) Samples via Wagner-Style Gaussian Sampling;;;Xuyuan Han, Yiming Gao, Honggang Hu;;;2026/2261;;;last_month;;;none;;;2026-09-29;;;lattice
+PQMZ: Formally Verified Falcon-PKR for Post-Quantum Cryptographic Migration in Zcash;;;Hannes Hacker, Shekoufeh Neisarian, Sara Zain, Elif Bilge Kavun;;;2026/2260;;;last_month;;;none;;;2026-09-29;;;lattice
+Superposition Key-Recovery Attacks on Dilithium and Fiat-Shamir Signature Schemes;;;Carlos Cid, David Elkouss, Manuel Goulão;;;2026/2258;;;last_month;;;none;;;2026-09-29;;;lattice
+Cyclotomic Cosets: Hidden Subgroup and Quantum Sieving Algorithm for Prime-Power Moduli;;;Mathias Boucher, Pierre-Alain Fouque, Yixin Shen;;;2026/2249;;;last_month;;;none;;;2026-09-28;;;lattice
+ML-DSA masking sweetened with SUCRE: Shuffle-and-Unmask Countermeasure for REjection sampling;;;Sonia Belaïd, Ryad Benadjila, Julien Devevey, Morgane Guerreau, Thomas Legavre, Ange Martinelli, Thomas Ricosset, Matthieu Rivain, Mélissa Rossi;;;2026/2248;;;last_month;;;none;;;2026-09-28;;;lattice
+Error Propagation-Aware Scale Design for Efficient Homomorphic Encryption-Based LLM Inference;;;Sieun Seo, Chohong Min;;;2026/2242;;;last_month;;;none;;;2026-09-28;;;lattice
+One Unverified Coordinate Is Enough: Key Recovery from Faulty Fujisaki–Okamoto Rejection Checks in ML-KEM;;;Bhabani Sankar Das;;;2026/2239;;;last_month;;;none;;;2026-09-27;;;lattice
+Adelic reduction of module lattices;;;Henry Bambury, Seungki Kim, Changmin Lee, Phong Q. Nguyen;;;2026/2228;;;last_month;;;none;;;2026-09-26;;;lattice
+FALCON++: Shorter Signatures without NTRU Smoothing Estimates;;;Hao Yan, Nicholas Zhao;;;2026/2226;;;last_month;;;none;;;2026-09-26;;;lattice
+Breaking the G\'omez-Torrecillas--Lobillo--Navarro Cryptosystem: LLL Recovers the Secret Key Within Seconds;;;Abul Kalam, Santanu Sarkar;;;2026/2225;;;last_month;;;none;;;2026-09-26;;;code,lattice
+The Tower of Babel: Large Language Models for Side-channel Analysis;;;Iris Dania Jimenez, Stjepan Picek, Michael Hutter;;;2026/2224;;;last_month;;;none;;;2026-09-26;;;lattice
+SoK: The Landscape of Post-Quantum Multi-Party Signature Aggregation;;;Gaurav Kumar;;;2026/2222;;;last_month;;;none;;;2026-09-26;;;lattice
+Threshold Key Encapsulation Mechanisms via MPC: ML-KEM Compatibility and Optimization;;;The-Anh Ta, Dongxi Liu, Sid Chau, Jiafan Wang;;;2026/2220;;;last_month;;;none;;;2026-09-25;;;lattice
+Practical Attacks Against EALPN Using Belief Propagation;;;Pierre Galissant, Guilhem Jazeron, Léo Perrin;;;2026/2213;;;last_month;;;none;;;2026-09-25;;;lattice
+Hidden-Bits Generators with Succinct CRS and Openings;;;Pedro Branco, Nico Döttling, Yao-Ching Hsieh, Abhishek Jain, Akshayaram Srinivasan, Brent Waters;;;2026/2212;;;last_month;;;none;;;2026-09-25;;;lattice
+Structural Cryptanalysis of Polar-KEM: Direct Recovery of the Secret Isometry;;;Yuyang Xiao, Long Chen, Zhenfeng Zhang;;;2026/2211;;;last_month;;;none;;;2026-09-25;;;lattice
+Dance with Noise: Safely Trade Minor Decryption Failures for More Compact KEMs with Applications to IKEv2;;;Zidi Zhuang, Yuyang Xiao, Long Chen, Qiang Tang, Zhenfeng Zhang;;;2026/2201;;;last_month;;;none;;;2026-09-24;;;lattice
+Lifting Symmetries for Dimension Reduction in Module-LIP: rank 2 and rank 4;;;Hengyi Luo, Kaijie Jiang, Yanbin Pan;;;2026/2198;;;last_month;;;none;;;2026-09-24;;;lattice
+Multi-Key FHE Almost as Fast as Single-Key FHE;;;Abtin Afshar, Rishab Goyal;;;2026/2195;;;last_month;;;none;;;2026-09-23;;;lattice
+Stay in Your Lane: Fast Arithmetic over Large Finite Rings with CKKS;;;Hyeongmin Choe, Robin Köstler, Tim Seuré;;;2026/2190;;;last_month;;;none;;;2026-09-23;;;lattice
+Provable FFT-Accelerated Dual Attack on LWE Using the General Dual Lattice;;;Jiale Li, Li-Ping Wang, Huaxiong Wang;;;2026/2186;;;last_month;;;none;;;2026-09-23;;;lattice
+Swing the Lure: How to Cheaply Mitigate Sign Leakage in Falcon;;;Xiuhan Lin, Mehdi Tibouchi, Yang Yu;;;2026/2170;;;last_month;;;none;;;2026-09-23;;;lattice
+A Provable Correctness Analysis of the MATZOV-Style FFT Dual Attack on ML-KEM;;;Jiale Li, Li-Ping Wang, Huaxiong Wang;;;2026/2166;;;last_month;;;none;;;2026-09-23;;;lattice
+On the Limits of LWE and PCE based UPKE;;;Martin R. Albrecht, Benjamin Benčina, Russell W. F. Lai;;;2026/2164;;;last_month;;;none;;;2026-09-22;;;lattice
+Batch IT-MAC: Program the Randomness in Succinct VOLE;;;Liqiang Liu, Tianren Liu;;;2026/2159;;;last_month;;;none;;;2026-09-22;;;lattice
+New algorithms for quaternion ideals in SQIsign;;;Antonin Leroux, Sina Schaeffler;;;2026/2153;;;last_month;;;none;;;2026-09-22;;;lattice
+Tighter Nonuniform Trace Reductions from Ring-LWE to MP-LWE;;;Yihang Cheng, Xiangzheng Zhao, Hengyi Luo, Yanbin Pan, Siwei Sun;;;2026/2151;;;last_month;;;none;;;2026-09-22;;;lattice
+Identify Post-Quantum Cryptographic Algorithms for Automotive Security: Performance-Driven Guidance for Secure Boot, OTA, and V2X Communication;;;Dileep Singh Kushwaha, Parneet Kaur;;;2026/2149;;;last_month;;;none;;;2026-09-22;;;code,lattice
+Succinct Shortness Check Under a Few Kilobytes via Tensor Train Random Projections;;;Zhiyuan Geng, Maxime Plançon;;;2026/2146;;;last_month;;;none;;;2026-09-22;;;lattice
+Too Small to Hide: Single-Trace Key Recovery from ML-KEM Key Generation;;;Vahid Jahandideh;;;2026/2137;;;last_month;;;none;;;2026-09-21;;;lattice
+MAMBA-Frost: A Lattice KEM from Learning With Quantization;;;Shanxiang Lyu, Ke Ma, Junzuo Lai;;;2026/2136;;;last_month;;;none;;;2026-09-21;;;lattice
+ANSA-IBS: Identity-Based Signatures from Annular NTRU Trapdoors and Bimodal Fiat-Shamir with Aborts;;;Zhaohui Cheng, Hengfu Yang, Kaixin Xiong;;;2026/2134;;;last_month;;;none;;;2026-09-21;;;lattice
+A Survey of Constraint-Based Side-Channel Analysis: From Algebraic Attacks to Exact Probabilistic Inference;;;Gaurav Kumar;;;2026/2125;;;last_month;;;none;;;2026-09-20;;;lattice
+Every Signing Leaks: Breaking Falcon via Floating-Point Conversion Leakage;;;Yuanyuan Zhou, Weijia Wang, Yiteng Sun, Yu Yu;;;2026/2124;;;last_month;;;none;;;2026-09-20;;;lattice
+Multi-Key FHE with Compact Ciphertexts (or: MKFHE Strikes Back);;;Intak Hwang, Seonhong Min, Yongsoo Song;;;2026/2120;;;last_month;;;none;;;2026-09-20;;;lattice
+CKKS Bootstrapping in less than 10ms;;;Rending Ouyang, Jian Liu, Peimin Gao, Pan Xiao, Heng Zhang, Man Ho Au, Cong Zhang, Kui Ren, Chun Chen;;;2026/2119;;;last_month;;;none;;;2026-09-20;;;lattice
+I Prove, Therefore I Am: Spatiotemporal Multi-Party Computation;;;Ziqing Guo, Fuyuki Kitagawa, Xiao Liang;;;2026/2118;;;last_month;;;none;;;2026-09-20;;;lattice
+Provable dual attack on LWE via lattice projection;;;Hongyuan Qu, Chengliang Tian, Geng Wang, Guangwu Xu;;;2026/2117;;;last_month;;;none;;;2026-09-20;;;lattice
+Post-Quantum PKE and More from a Noisy Unstructured Linear Algebraic Assumption: Beyond LWE and LPN;;;Riddhi Ghosal, Paul Lou, Amit Sahai;;;2026/2113;;;last_month;;;none;;;2026-09-19;;;code,lattice
+Attacking CRT-RSA with Small Exponents via Unravelled Linearization;;;Zhaopeng Ding, Zhaopeng Dai, Yanshuo Zhang, Ziyang Yan, Ying Chen;;;2026/2109;;;last_month;;;none;;;2026-09-19;;;lattice
+Tree Encodings IV: Depth-Unbounded Attribute-Based Encryption and Delay Encryption;;;Damiano Abram, Giulio Malavolta, Lawrence Roy;;;2026/2094;;;last_month;;;none;;;2026-09-18;;;lattice
+Tree Encodings III: Time/Space Hardness from Lattice Problems;;;Damiano Abram, Giulio Malavolta, Lawrence Roy;;;2026/2093;;;last_month;;;none;;;2026-09-18;;;lattice
+Keep Track of Your Errors: Solving ILWE and Improving Attacks on ML-DSA;;;Mohamed ElGhamrawy, Thomas Eisenbarth, Julius Hermelink, Anja Rabich, Florian Sieck, Silvan Streit, Jonas Thietke, Zhiyuan Zhang;;;2026/2091;;;last_month;;;none;;;2026-09-18;;;lattice
+Faster SVP in Polynomial Space;;;Yansong Feng, Yiming Gao, Jiaqi Liu;;;2026/2084;;;last_month;;;none;;;2026-09-18;;;lattice
+Two-Bit Lifting for Ternary SIS: Polynomial-Time Collision Attacks on LtHash;;;Rui Ding, Xiaorui Gong, Hao Jiang, Lili Tang;;;2026/2083;;;last_month;;;none;;;2026-09-18;;;lattice
+Incremental Keyword Private Information Retrieval from d-ary Segmented Cuckoo Filters;;;Bao Ninh;;;2026/2082;;;last_month;;;none;;;2026-09-18;;;lattice
+FRI-Style Rank Metric PCS via FFT for Gabidulin Encoding;;;Songsong Li, Zhe Li, Shu Liu, Chaoping Xing, Chen Yuan;;;2026/2081;;;last_month;;;none;;;2026-09-18;;;code
+Radical Ring-LWR: Efficient Key Encapsulation and Signatures from Structured Rounding;;;Joost Renes, Joppe W. Bos, Haochen Huang, Selim Kirbiyik, Alberto Ovena, Sujoy Sinha Roy, Frederik Vercauteren, Peng Wang, Fangyu Zheng, Chenxin Zhong;;;2026/2078;;;last_month;;;none;;;2026-09-18;;;lattice
+Practical Group Signatures from Tag-Based NTRU Sampler;;;Corentin Jeudy;;;2026/2077;;;last_month;;;none;;;2026-09-18;;;lattice
+Symmetry-Graded Digit Extraction Framework for Faster BGV Bootstrapping;;;Zhenyu Xiong, Mingsheng Wang, Zhedong Wang, Han Wang;;;2026/2076;;;last_month;;;none;;;2026-09-17;;;lattice
+Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms;;;Yvonne Zhou, Mingyu Liang, Ivan Brugere, Danial Dervovic, Yue Guo, Antigoni Polychroniadou, Min Wu, Dana Dachman-Soled;;;2026/2073;;;last_month;;;none;;;2026-09-17;;;lattice
+Default Correct: A New Fault Surface in the Comparison Booleanisation of Kyber-KEM;;;Anirudh Jaiswal, Abhilash Kumar Das, Dhiman Saha;;;2026/2069;;;last_month;;;none;;;2026-09-17;;;lattice
+Maltese: Succinct Polynomial Commitment from Lattices;;;Katarina Cheng, Wilson Nguyen, Nirvan Tyagi;;;2026/2067;;;last_month;;;none;;;2026-09-17;;;lattice
+Optimizing HAETAE and SMAUG-T on Cortex-M4 for Resource-Constrained IoT Devices;;;JunHyeok Choi, DongHyun Shin, Seog Chung Seo;;;2026/2066;;;last_month;;;none;;;2026-09-17;;;lattice
+Area-Time Efficient NTRU Prime Decapsulation: ASIC Evaluation of the First Five-Way Char-3 Multiplier;;;Esra Yeniaras;;;2026/2064;;;last_month;;;none;;;2026-09-16;;;lattice
+Hamming Ideals and Grobner Bases for ISD-like Syndrome Decoding;;;Roberto La Scala, Marco Marchesin, Sharwan K. Tiwari;;;2026/2062;;;last_month;;;none;;;2026-09-16;;;code
+Trace-Factored BigSwitch for Matrix-Friendly FHE;;;Dong Jin Park, Hyunseok Jeong, Minwook Jeong, Jaeky Oh, Yongwoo Lee, Young-Sik Kim;;;2026/2058;;;last_month;;;none;;;2026-09-16;;;lattice
+A Locality-Sensitive Hashing Framework for Reducing Bounded Distance Decoding to EDCP;;;Ryann Cartor, Felice Manganiello, William Youmans;;;2026/2055;;;last_month;;;none;;;2026-09-16;;;code,lattice
+Lemur+: Compact Post-Quantum Synchronized Multi-Signatures and Multi-Hop Aggregation;;;Yini Lin, Hongxiao Wang, Muhammed F. Esgin, Amin Sakzad, Ron Steinfeld;;;2026/2054;;;last_month;;;none;;;2026-09-16;;;lattice
+A Polynomial-Time Attack on the McEliece Cryptosystem on Elliptic Codes with Arbitrary Divisors;;;Artyom Kuninets, Ekaterina Malygina, Evgeniy Melnichuk;;;2026/2050;;;last_month;;;none;;;2026-09-15;;;code
+Tighter and Friendlier Integer Bounds for Quaternion Algorithms - Application to SQIsign;;;Maciej Czuprynko, Anisha Mukherjee, Sujoy Sinha Roy;;;2026/2049;;;last_month;;;none;;;2026-09-15;;;lattice
+ROSETTA: Efficient and Accurate Privacy-Preserving LLM Decoding via Hybrid CKKS/TFHE Evaluation;;;Jiangrui Yu, Baosheng Zhang, Liang Kong, Lin Ding, Yi Chen, Ye Yu, Mingzhe Zhang, Meng Li;;;2026/2047;;;last_month;;;none;;;2026-09-15;;;lattice
+Square Root of All Evil: The Dangers of Falcon's Superfluous Square Roots;;;Hiroto Kaihara, Calvin Abou Haidar, Mehdi Tibouchi, Masayuki Abe;;;2026/2046;;;last_month;;;none;;;2026-09-15;;;lattice
+Practical Key Recovery Attacks on Full DuX and Reduced-Round YuX;;;Xingwei Ren, Bo Xu, Zhenyu Xiong, Yongqiang Li, Xichao Hu, Lin Jiao, Mingsheng Wang;;;2026/2045;;;last_month;;;none;;;2026-09-15;;;lattice
+On Solving Ideal-SVP and Ideal-BDD with Group Representations;;;Hongyuan Qu, Guangwu Xu;;;2026/2042;;;last_month;;;none;;;2026-09-15;;;lattice
+Barely Doubly-Efficient PIR from Quadratic Residuosity;;;Keewoo Lee;;;2026/2034;;;last_month;;;none;;;2026-09-15;;;lattice
+Leopard: A High-Performance Framework for Updatable Private Set Intersection;;;Xiaowei Li, Shi-Feng Sun, Yanxue Jia, Hao Li, Dawu Gu;;;2026/2027;;;last_month;;;none;;;2026-09-14;;;lattice
+A unified reduction from RLWE to MP-LWE;;;Alice Pellet-Mary, Wenwen Xia;;;2026/2026;;;last_month;;;none;;;2026-09-14;;;lattice
+On the eCK Security of MQV-Style LWE-Based Authenticated Key Exchange;;;Ruoyu Ding, Tianrun Yu, Yanbin Pan, Chi Cheng, Jian Weng;;;2026/2017;;;last_month;;;none;;;2026-09-14;;;lattice
+On Succinct Obfuscation via Propositional Proofs;;;Abhishek Jain, Zhengzhong Jin, Surya Mathialagan, Omer Paneth;;;2026/2009;;;last_month;;;none;;;2026-09-13;;;lattice
+NP-Hardness of Ideal Lattice Problems;;;Daniel E. Martin;;;2026/2003;;;last_month;;;none;;;2026-09-13;;;lattice
+Symmetric Models for Syndrome Decoding;;;Elisa Gorla, Simone Trebiani;;;2026/1995;;;last_month;;;none;;;2026-09-12;;;code
+Towards Practical Iterative Rejection Sampling: A Compact and Efficient Signature over Module Lattices;;;Yifan Ming, Jipeng Zhang, Zihan Liu, Guofeng Tang, Pengfei Chen, Yutao Sun, Si Gao, Cong Zhang, Long Chen;;;2026/1991;;;last_month;;;none;;;2026-09-12;;;lattice
+Two-Anchor Holdout/Hermite: Solving the TII-254 McEliece Key Recovery Challenge;;;Markku-Juhani O. Saarinen;;;2026/1986;;;last_month;;;none;;;2026-09-11;;;code
+Post-Quantum Private Set Intersection for Small Sets;;;Junxin Liu, Mike Rosulek, Ni Trieu;;;2026/1985;;;last_month;;;none;;;2026-09-11;;;lattice
+Improving GIJS Key Recovery for Classic McEliece;;;Stephen A. Weis;;;2026/1984;;;last_month;;;none;;;2026-09-11;;;code
+Akita: A High-Performance Lattice-Based Polynomial Commitment Scheme;;;Quang Dao, Omid Bodaghi, Amirhossein Khajehpour, Giuseppe Vitto, Mohammadtaghi Badakhshan, Markos Georghiades, Fengrun Liu, Jiapeng Zhang, Justin Thaler;;;2026/1983;;;last_month;;;none;;;2026-09-11;;;lattice
+Lattice-based Secret-Key Functional Encryption for Constant-Degree Polynomials;;;Valerio Cini, Russell W. F. Lai, Akin Ünal, Ivy K. Y. Woo;;;2026/1977;;;last_month;;;none;;;2026-09-11;;;lattice
+Oblivious Signaling;;;Mirza Kamrul Bashar Shuhan, Foteini Baldimtsi, Giuseppe Ateniese;;;2026/1975;;;last_month;;;none;;;2026-09-11;;;lattice
+The Closest-Vector Problem over Cyclotomics and its Application to Homomorphic Encryption;;;Natalie Lang, Dana Dachman-Soled;;;2026/1968;;;last_year;;;none;;;2026-09-10;;;lattice
+Lattice-based Threshold Traitor Tracing with Public Traceability;;;Sébastien Canard, Nathan Papon, Duong Hieu Phan;;;2026/1965;;;last_year;;;none;;;2026-09-10;;;lattice
+Three-Round Weak Non-Malleable Zero-Knowledge Argument;;;Xinxuan Zhang, Yuanju Wei, Zhichao Wang, Zhongliang Zhang, Ming Yang, Ruida Wang, Yi Deng, Hailong Wang;;;2026/1964;;;last_year;;;none;;;2026-09-10;;;lattice
+Arithmetic for Large-Characteristic Finite Fields in CKKS;;;Daehyun Jang, Junho Lee;;;2026/1958;;;last_year;;;none;;;2026-09-10;;;lattice
+PRISM: Efficient zkSNARKs for RNS-Based Homomorphic Encryption;;;Zhelei Zhou, Yun Li, Zhaomin Yang, Cheng Hong, Tao Wei;;;2026/1956;;;last_year;;;none;;;2026-09-10;;;lattice
+OAEP† Transform in the Post-Quantum World;;;You Lyu, Shengli Liu, Shuai Han, Bohang Chen;;;2026/1951;;;last_year;;;none;;;2026-09-09;;;lattice
+A Generalized ISD Framework for Large-Weight Syndrome Decoding;;;Shintaro Narisada, Hiroki Okada, Yusuke Aikawa, Kazuhide Fukushima;;;2026/1947;;;last_year;;;none;;;2026-09-09;;;code
+Improved Multi-Party Distributed Point Functions from Oblivious Tensor Evaluation;;;Kelong Cong, Emmanuela Orsini, Erik Pohle;;;2026/1942;;;last_year;;;none;;;2026-09-09;;;lattice
+Robust Additive Randomized Encodings With Transparent Setup;;;Sapir Bekerman Freizeit, Nir Bitansky;;;2026/1937;;;last_year;;;none;;;2026-09-09;;;lattice
+ReinsPIRe: High-Throughput, Low-Communication PIR with Server Preprocessing;;;Rasoul Akhavan Mahdavi, Sarvar Patel, Joon Young Seo, Kevin Yeo;;;2026/1934;;;last_year;;;none;;;2026-09-08;;;lattice
+Obfuscating Non-Evasive Programs: Making Witness Encryption Positional;;;Shafik Nassar, Brent Waters, David J. Wu;;;2026/1932;;;last_year;;;none;;;2026-09-08;;;lattice
+Reproducible Design-Space Study of Lightweight Lattice-Based Authentication and Signatures for Blockchain Transactions;;;Zhiqian Lin;;;2026/1925;;;last_year;;;none;;;2026-09-08;;;lattice
+Decryption-Failure Rate with Multidimensional Lattice Decoders: Unified Framework, Theory Refinement, and More Accurate Evaluation;;;Boyue Fang, Songlin Li, Yunlei Zhao;;;2026/1924;;;last_year;;;none;;;2026-09-08;;;lattice
+Pairing-based Succinct Half-Chosen VOLE;;;Liqiang Liu, Tianren Liu, Luojian Wei;;;2026/1922;;;last_year;;;none;;;2026-09-08;;;lattice
+Coral: General and Efficient Framework for Homomorphic Evaluation of Symmetric Ciphers;;;Jikang Bai, Ruida Wang, Xianhui Lu, Kunpeng Wang;;;2026/1917;;;last_year;;;none;;;2026-09-08;;;lattice
+A RAM-Efficient Implementation of Falcon;;;Thomas Pornin;;;2026/1915;;;last_year;;;none;;;2026-09-07;;;lattice
+Trapdoor Functions with Secure Key Leasing and Copy Protection;;;Fuyuki Kitagawa, Ryo Nishimaki, Yuki Shirakawa, Takashi Yamakawa;;;2026/1913;;;last_year;;;none;;;2026-09-07;;;lattice
+NTPIR: Efficient Silent-Preprocessing PIR using NTR;;;Zhihao Li, Cheng Hong;;;2026/1910;;;last_year;;;none;;;2026-09-07;;;lattice
+Revisiting Simple Power Analysis of Polynomial Multiplication in the HQC Implementation;;;Trevor Yap, Shivam Bhasin, Léo Weissbart;;;2026/1906;;;last_year;;;none;;;2026-09-07;;;code
+When Module Lattice Leaks: Horizontal Fusion Attacks on ML-DSA Implementation;;;Yuhan Zhao, Dalin He, Wei Cheng, Yuejun Liu, Jingdian Ming, Yongbin Zhou;;;2026/1904;;;last_year;;;none;;;2026-09-07;;;lattice
+Large-Universe (Multi-Authority) ABE from LWE;;;Pratish Datta, Yannis Rouselakis, Junichi Tomida, Nikhil Vanjani;;;2026/1895;;;last_year;;;none;;;2026-09-04;;;lattice
+A General Approach to Adaptor Signatures;;;Nico Döttling, Sri AravindaKrishnan Thyagarajan, Pratik Soni, Jay Taylor, Hendrik Waldner, Riccardo Zanotto;;;2026/1889;;;last_year;;;none;;;2026-09-04;;;lattice
+Compact Lattice-Based NIZK Arguments for Set Membership and Ring Signatures without RO;;;Nam Tran, Khoa Nguyen, Dongxi Liu, Josef Pieprzyk, Willy Susilo;;;2026/1885;;;last_year;;;none;;;2026-09-03;;;lattice
+AH-BKZ: A Lattice Reduction Algorithm with Asynchronous Hybrid Processing;;;Renya Hashimoto, Junji Shikata, Atsushi Takayasu, Yuntao Wang;;;2026/1876;;;last_year;;;none;;;2026-09-03;;;lattice
+Collusion-Resistant Constrained PRFs for Compute-&-Compare Predicates from LWE;;;Jiaqi Cheng, Rishab Goyal;;;2026/1874;;;last_year;;;none;;;2026-09-02;;;lattice
+DNSPIR: Private Information Retrieval Optimized for Privacy-Preserving DNS Lookups;;;Lea Nürnberger, Simon Pohmann, Mattia Veroni, Christian Weinert;;;2026/1872;;;last_year;;;none;;;2026-09-02;;;lattice
+PEEV: Parse Encrypt Execute Verify - A Verifiable FHE Framework;;;Omar Ahmed, Charles Gouert, Nektarios Georgios Tsoutsos;;;2026/1871;;;last_year;;;none;;;2026-09-02;;;lattice
+Terrazzo: Memory-Aware GPU Framework for Private Transformer Inference;;;Rostin Shokri, Nektarios Georgios Tsoutsos;;;2026/1870;;;last_year;;;none;;;2026-09-02;;;lattice
+High-Precision Homomorphic ALU over Arbitrary Moduli with $O(1)$ Bootstrapping;;;Jiaming Liu, Shihe Ma, Anyu Wang, Xiaoyun Wang;;;2026/1869;;;last_year;;;none;;;2026-09-02;;;lattice
+HEAT: Faster Fully Homomorphic Inference via Approximations-Weights Co-Adaptation;;;Alessandro Zirilli, Davide Marincione, Evgenios M. Kornaropoulos, Giuseppe Ateniese, Emanuele Rodolà;;;2026/1862;;;last_year;;;none;;;2026-09-02;;;lattice
+Anonymous Attribute-Based Signcryption: Definitions, Constructions, and Applications;;;Yongkang Lang, Fangguo Zhang, Zhiyuan An, Xinyi Huang, Xiaofeng Chen;;;2026/1861;;;last_year;;;none;;;2026-09-02;;;lattice
+Finding a Shortest Vector and More in $2^{n/2+o(n)}$ Time using $q$-ary Coset Difference Tree;;;Minki Hhan;;;2026/1859;;;last_year;;;none;;;2026-09-02;;;lattice
+LatticeBlindFold: A Lattice-Based Analogue of NovaBlindFold;;;Luca Dall'Ava;;;2026/1857;;;last_year;;;none;;;2026-09-01;;;lattice
+SVP Is NP-Hard for Some Rank-2 Cyclotomic Modules;;;Jiaqi Liu, Yansong Feng, Yanbin Pan;;;2026/1856;;;last_year;;;none;;;2026-09-01;;;lattice
+Distributed Key Generation for NTRU;;;Patrick Hough, Jérôme Nguyen, Caroline Sandsbråten, Tjerand Silde;;;2026/1854;;;last_year;;;none;;;2026-09-01;;;lattice
+Open EM Side-Channel Dataset for ML-KEM (Kyber) Implementations;;;Alain Alyosha Magazin, Karim M. Abdellatif;;;2026/1851;;;last_year;;;none;;;2026-09-01;;;lattice
+Order-Four Symmetry in BGV Bootstrapping: Faster Digit Extraction for Large Primes;;;Zhenyu Xiong, Mingsheng Wang, Zhedong Wang, Han Wang;;;2026/1847;;;last_year;;;none;;;2026-08-31;;;lattice
+Covert Federated Learning under Regulation based on Threshold Anamorphic Encryption;;;Wenxuan Xu, Huaqun Wang, Debiao He;;;2026/1846;;;last_year;;;none;;;2026-08-31;;;lattice
+Lattice-based NIKE with optimal tightness;;;Roman Langrehr, Si An Oliver Tran;;;2026/1845;;;last_year;;;none;;;2026-08-31;;;lattice
+Discrete Gaussian Sampling Meets BDGL Decoding: Solving the Shortest Vector Problem in $2^{0.5596n+o(n)}$ Time;;;Yiming Gao, Yansong Feng, Honggang Hu;;;2026/1844;;;last_year;;;none;;;2026-08-31;;;lattice
+Efficient Homomorphic Arithmetic Logical Units with \texorpdfstring{$O(1)$}{O(1)} Bootstrapping;;;Xuan Shen, Zhihao Li, Ruida Wang, Xianhui Lu;;;2026/1840;;;last_year;;;none;;;2026-08-31;;;lattice
+FHE for ALU over Large Prime Moduli and Application to One-Round Threshold ECDSA;;;Yuchen Wei, Kaisheng Ma, Mingyu Gao, Hongren Zheng;;;2026/1836;;;last_year;;;none;;;2026-08-30;;;lattice
+Decomposed LWE is Equivalent to Succinct LWE;;;Damiano Abram, Gal Arnon, Valerio Cini, Paul Lou, Giulio Malavolta, Lawrence Roy;;;2026/1829;;;last_year;;;none;;;2026-08-28;;;lattice
+WeaveTLS: High-Throughput Cross-Connection ML-DSA Authentication in Mutual TLS;;;Ganqin Liu, Hao Cheng, Jipeng Zhang;;;2026/1828;;;last_year;;;none;;;2026-08-28;;;lattice
+ATLAS: Automated Approximation of Transformers for Efficient Homomorphic Inference in One Hour;;;Jianhang Xie, Sicheng Tan, Vishnu Naresh Boddeti, Zhichao Lu;;;2026/1817;;;last_year;;;none;;;2026-08-27;;;lattice
+Atom: Single-Server Private Information Retrieval with Low Communication and Fast Computation;;;Baoyu Li, Binwu Xiang, Kang Yang, Yu Yu, Xiaogang Zhou;;;2026/1813;;;last_year;;;none;;;2026-08-27;;;lattice
+Communication-Efficient Private Join and Compute over Distributed Input Sets;;;Yunqing Sun, Xinran Cai, Hanlin Liu, Xiao Wang, Wei Dong;;;2026/1812;;;last_year;;;none;;;2026-08-27;;;lattice
+Efficient Soft Analytical Side-Channel Attacks on Large-Scale Cryptographic Computations;;;Yiteng Sun, Zhuo Huang, Yan Zhuang, Shuo Sun, Xinyu Li, Yu Yu, Weijia Wang;;;2026/1811;;;last_year;;;none;;;2026-08-27;;;lattice
+An Algebraic-Geometry Lower Bound against the ePrint:2026/1747 McEliece Key-Recovery Attack;;;Daniel Apon;;;2026/1810;;;last_year;;;none;;;2026-08-26;;;code
+Adaptive Multi-Algorithm Key Exchange for Quantum-Resilient Secure Communication: Dynamic Switching among QKD, Post-Quantum, and Classical Key Establishment with Entropy Fusion;;;Ogbodo Tochukwu Hillary, Bilkisu Larai Muhammad-Bello, Saleh El-Yakub Abdullahi;;;2026/1803;;;last_year;;;none;;;2026-08-26;;;lattice
+CVP Is NP-Complete for Principal Cyclotomic Ideals;;;Jiaqi Liu, Yansong Feng, Yanbin Pan;;;2026/1793;;;last_year;;;none;;;2026-08-24;;;lattice
+Lithium: Making Iterative Rejection Sampling Practical for Compact Lattice Signatures;;;Jipeng Zhang, Pengfei Chen, Long Chen, Cong Zhang, Jiaheng Zhang;;;2026/1790;;;last_year;;;none;;;2026-08-24;;;lattice
+Bit Operation Cost of ``Holdout'' Key-Recovery Attacks Against Classic McEliece;;;Markku-Juhani O. Saarinen;;;2026/1786;;;last_year;;;none;;;2026-08-24;;;code
+The Power of Rerandomization in Obfustopia: Collision-Resistant Hash, Somewhere-Extractable BARGs, and More;;;Shafik Nassar;;;2026/1785;;;last_year;;;none;;;2026-08-23;;;lattice
+Bootstrapping via Ring Switching without Slot Recovery;;;Zhaoyang Liang, Dan Ding;;;2026/1779;;;last_year;;;none;;;2026-08-23;;;lattice
+HOVER: Higher-Order Vanishing Endomorphism Recovery;;;Markku-Juhani O. Saarinen;;;2026/1778;;;last_year;;;none;;;2026-08-22;;;code
+Cofactor-torsion attacks on hinted scalar multiplications in SNARK circuits;;;Youssef El Housni;;;2026/1776;;;last_year;;;none;;;2026-08-22;;;lattice
+Lightweight Lattice-based Single-Party Public-Key Authenticated Key Exchange;;;Alex Aïdan, Sébastien Canard, Emmanuel Fouotsa, Nyiang Melchisedech Mbeng;;;2026/1761;;;last_year;;;none;;;2026-08-21;;;lattice
+Fully Homomorphic Encryption with Chosen-Ciphertext Security from LWE;;;Rupeng Yang, Zuoxia Yu, Willy Susilo;;;2026/1756;;;last_year;;;none;;;2026-08-21;;;lattice
+QuaILLL: Quaternion Ideal LLL and BKZ;;;Joshua Limbrey, Cong Ling, Christian Porter;;;2026/1755;;;last_year;;;none;;;2026-08-20;;;lattice
+Threshold Lattice-Based Zero-Knowledge Proofs;;;Scott Griffy, Victor Youdom Kemmoe, Ngoc Khanh Nguyen, Tjerand Silde;;;2026/1750;;;last_year;;;none;;;2026-08-20;;;lattice
+Extending Distinguishing to Key Recovery for Subfield Subcodes of GRS codes;;;Kirill Vedenev;;;2026/1747;;;last_year;;;none;;;2026-08-20;;;code
+Notes on Short-Limb Modular Multiplication Techniques: Barrett, Montgomery, Plantard, and the Explicit CRT;;;Bo-Yin Yang;;;2026/1743;;;last_year;;;none;;;2026-08-19;;;lattice
+Copy-Protection with Correlated Challenges: Point Functions and More via Decisional Coset Monogamy;;;Amit Behera, Alper Çakan, Vipul Goyal;;;2026/1736;;;last_year;;;none;;;2026-08-19;;;lattice
+Key Recovery from Residue-Confined Errors in the Pradhan CRT-RLWE Construction;;;Lukasz Olejnik, Bartosz Naskrecki;;;2026/1734;;;last_year;;;none;;;2026-08-19;;;lattice
+Generic Ring-Signature Transforms for Fiat-Shamir with Aborts and Hash-and-Sign with Retry;;;Haruhisa Kosuge, Koutarou Suzuki;;;2026/1731;;;last_year;;;none;;;2026-08-19;;;lattice
+New Techniques for Fast and Shallow FHE Bootstrapping and Beyond;;;Aayush Jain, Huijia Lin, Zeyu Liu, Sagnik Saha;;;2026/1730;;;last_year;;;none;;;2026-08-18;;;lattice
+Elementary-Vector Modeling for Shorter VOLE-Based Signatures from SD and PKP;;;Boyuan Gao, Zongyang Zhang, Weihan Li, Jianwei Liu, Jianting Ning;;;2026/1722;;;last_year;;;none;;;2026-08-18;;;code
+Improved Polynomial-Memory Algorithms via Nested Collision Search: Applications to Small Max-Norm LWE and Subset-Sum;;;Abul Kalam, Sudeshna Karmakar, Santanu Sarkar;;;2026/1720;;;last_year;;;none;;;2026-08-18;;;lattice
+Silent Threshold Encryption from Lattices;;;Jeffrey Champion, David J. Wu, Shota Yamada;;;2026/1716;;;last_year;;;none;;;2026-08-17;;;lattice
+How Compact Can NTRU Encryption Be? Heuristic Frontiers and Practical Schemes;;;Yijian Liu, Yu Zhang, Xianhui Lu, Yao Cheng, Yongjian Yin;;;2026/1715;;;last_year;;;none;;;2026-08-17;;;lattice
+Statistical Inference from Noisy Randomness Leakage for ML-DSA Attacks;;;Niklas Paskarbeit, Carsten Schubert, Marian Margraf, Jean-Pierre Seifert;;;2026/1712;;;last_year;;;none;;;2026-08-17;;;lattice
+A Descent to Hades: Attacks on PKP and PEP over Extension Fields;;;Alessandro Budroni, Jesús-Javier Chi-Domínguez, Jorge Chavez-Saab, Andre Esser;;;2026/1711;;;last_year;;;none;;;2026-08-17;;;code
+New Attacks on Mersenne Number-Based Cryptosystems: Relaxing Size Constraints;;;Mengce Zheng, Abderrahmane Nitaj;;;2026/1705;;;last_year;;;none;;;2026-08-16;;;lattice
+Post-Quantum TLS Migration: A Systematization of Hybrid Handshakes, PSKs, KeyUpdate, and Certificate Strategies;;;Hridoy Roy;;;2026/1703;;;last_year;;;none;;;2026-08-16;;;lattice
+DTRU: A Versatile, Compact, Simple, and Robust NTRU KEM with Double $E_8$ Encoding;;;Hengchuan Zou, Songlin Li, Jieyu Zheng, Xiaowen Hu, Hanyu Wei, Weizhi Ao, Yifan Dong, Wenbo Guo, Yunlei Zhao;;;2026/1701;;;last_year;;;none;;;2026-08-16;;;lattice
+Concurrently Secure Compact Blind Signatures from Module-SIS;;;Olivier Blazy, Lola-Baie Mallordy, Weiqiang Wen;;;2026/1690;;;last_year;;;none;;;2026-08-14;;;lattice
+A Hybrid Post-Quantum Encryption Architecture with Self-Hosted Key Management for SME Cloud Data Protection;;;Muhammad Shaheer Bin Junaid;;;2026/1689;;;last_year;;;none;;;2026-08-14;;;lattice
+Fully-Succinct Multi-Key FHE & Rate-1 Simulatable Threshold Decryption from LWE;;;Abtin Afshar, Rishab Goyal;;;2026/1683;;;last_year;;;none;;;2026-08-13;;;lattice
+Incomplete Ciphertext Comparison in ML-KEM: From an IND-CCA2 Break to Key Recovery;;;Bhabani Sankar Das;;;2026/1682;;;last_year;;;none;;;2026-08-13;;;lattice
+Fair-Weather No More: Guaranteed Efficiency in Secure Group Messaging;;;James Bartusek, Nir Bitansky, Yevgeniy Dodis, Rachit Garg, David J. Wu;;;2026/1677;;;last_year;;;none;;;2026-08-13;;;lattice
+Simple and Efficient SKL-IBE with Classical Revocation from LWE;;;Ho Nguyen Pham, Duong Hieu Phan, Quoc-Huy Vu, Weiqiang Wen;;;2026/1676;;;last_year;;;none;;;2026-08-13;;;lattice
+Verified Pythagorean Composition for Adaptive Cryptographic Games: Noise Flooding in Homomorphic Encryption;;;Yi Lee, Alexandru Cojocaru, Junyi Liu, Xiaodi Wu;;;2026/1671;;;last_year;;;none;;;2026-08-13;;;lattice
+Upper bounds for failure probabilities of reductions from low density subset sum problems to lattice problems on linearly independent vectors;;;Shoichi Kamada;;;2026/1658;;;last_year;;;none;;;2026-08-11;;;lattice
+Hardness of Euclidean Closest Vector within $n^{1/2-\epsilon}$ and Binary Nearest Codeword within $n^{1-\epsilon}$;;;Zhao Song;;;2026/1655;;;last_year;;;none;;;2026-08-11;;;code,lattice
+Track me if you can: Ephemeral coin tracing;;;Ignacio Amores-Sesar, Christian Cachin, Rohit Chatterjee, Luiza Soezima, François-Xavier Wicht, Michelle Yeo;;;2026/1645;;;last_year;;;none;;;2026-08-10;;;lattice
+A Torus-Structured Generalisation of NTRU: the NTC Assumption, its Cryptanalysis, and a Compact KEM;;;Sidoine Djimnaibeye, Djiby Sow, Mahamat Borgou Hassan;;;2026/1642;;;last_year;;;none;;;2026-08-09;;;lattice
+LUNA+: More Succinct Post-Quantum ZK-SNARKs from Computational Privacy;;;Yuki Kume, Ron Steinfeld, Amin Sakzad, Mert Yassi;;;2026/1639;;;last_year;;;none;;;2026-08-08;;;lattice
+How to use Polynomially-Hard iO: Turing Machine Obfuscation and More;;;Jesko Dujmovic, Yao-Ching Hsieh, Abhishek Jain, Willy Quach;;;2026/1636;;;last_year;;;none;;;2026-08-08;;;lattice
+Quasipolynomial Cryptanalysis of the McEliece Cryptosystem (or: PIR Meets McEliece);;;Ashrujit Ghoshal, Yuval Ishai, Aayush Jain, Nuozhou Sun;;;2026/1630;;;last_year;;;none;;;2026-08-07;;;code
+Lattice-based Signature Schemes for Bitcoin;;;Dmytro Zakharov, Mikhail Kudinov, Viktoria Balatska, Yaroslava Chopa;;;2026/1628;;;last_year;;;none;;;2026-08-06;;;lattice
+Code Generation of Faster Formally Verified NTT with Plantard Reduction;;;Donnie Y. Xu, Rajeev Gore, Amin Sakzad, Ron Steinfeld, Raymond K. Zhao;;;2026/1624;;;last_year;;;none;;;2026-08-06;;;lattice
+Relect: Single Secret Leader Election via FHE with Reduced Computation and Communication and Transparent Setup;;;Haofei Liang, Zeyu Liu, Yunhao Wang, Xiang Xie, Yu Yu, Fan Zhang;;;2026/1619;;;last_year;;;none;;;2026-08-05;;;lattice
+Two-Limb CRT Ring-LWE Encryption with Exact Decryption and Public Re-randomization;;;Damir Vodenicarevic, Andrei Fleiser, Pierre Seznec, Karen Mayen Naranjo, Lucas Foucher, Léo Besançon, Thybault Alabarbe, Jean-François Morcillo, Benjamin Reynes, Lilian Urvoy;;;2026/1618;;;last_year;;;none;;;2026-08-05;;;lattice
+Verifiable SelfMix;;;Doron Zarchy;;;2026/1617;;;last_year;;;none;;;2026-08-05;;;lattice
+Flip a Failure into a Success: Improved Bit Flipping Decoding for QC-MDPC Codes;;;Paolo Santini, Davide De Zuane, Alessio Baldelli, Marco Baldi;;;2026/1616;;;last_year;;;none;;;2026-08-05;;;code
+Algorithmic Optimization of the Gaussian Sampler in the FN-DSA Post-Quantum Signature Scheme;;;Nicolas HOULÈS, Thibaut Heckmann;;;2026/1610;;;last_year;;;none;;;2026-08-04;;;lattice
+Distributed Monotone Policy Encryption with Stronger Security for DNFs and Threshold Policies from Lattices;;;Rishab Goyal, Saikumar Yadugiri;;;2026/1609;;;last_year;;;none;;;2026-08-04;;;lattice
+Efficient Large-Integer Arithmetic for FHE;;;Ahmad Al Badawi, Andreea Alexandru, Gurgen Arakelov, Charles Gouert, Sergey Gomenyuk, Valentina Kononova, Yarkın Doröz, Yuriy Polyakov;;;2026/1608;;;last_year;;;none;;;2026-08-04;;;lattice
+Algebraic Analysis of Homomorphic Trace Evaluation and Its Applications;;;Han Xia;;;2026/1604;;;last_year;;;none;;;2026-08-04;;;lattice
+Power side-channel leakage distinguishers on LESSv2.0 - Exploiting sparse columns in Gaussian Elimination;;;Maciej Czuprynko, Rishub Nagpal, Tobias Schneider, Sujoy Sinha Roy;;;2026/1601;;;last_year;;;none;;;2026-08-04;;;code
+One Discrete Gaussian Sample in $2^{n/2+o(n)}$ Time;;;Jiseung Kim;;;2026/1599;;;last_year;;;none;;;2026-08-04;;;lattice
+Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-point Hessian;;;Minki Hhan;;;2026/1597;;;last_year;;;none;;;2026-08-04;;;lattice
+HAWK-$n$ Key Recovery Reduces to SVP in Dimension $n/2 + 1$;;;Zygimantas Straznickas, Stephen A. Weis;;;2026/1593;;;last_year;;;none;;;2026-08-03;;;lattice
+Sub-Cubic Homomorphic Matrix Multiplication via Self-Dual Normal Bases;;;Efe İzbudak, Kubra Kaytanci, Ferruh Ozbudak, Erkay Savas;;;2026/1592;;;last_year;;;none;;;2026-08-03;;;lattice
+A Polynomial-Time Quantum Algorithm for the Dihedral Coset Problem;;;Daniel R. Simon;;;2026/1591;;;last_year;;;none;;;2026-08-03;;;lattice
+Strided Frobenius Additive FFT and its Application to HQC;;;Ming-Shing Chen, Tun-You Chien, Chun-Ming Chiu, Cesare Huang, Han-Hsuan Lin, Chun-Tao Peng, Bo-Yin Yang;;;2026/1588;;;last_year;;;none;;;2026-08-03;;;code
+Solving the Shortest Vector Problem in $2^{0.7314n+o(n)}$ Time via Discrete Gaussian Sampling on Superlattices;;;Yiming Gao, Yansong Feng, Honggang Hu;;;2026/1587;;;last_year;;;none;;;2026-08-03;;;lattice
+Proving Threshold Regev PKE from Adaptive Hint-MLWE: Efficient, Non-interactive, and CCA Secure;;;Yisol Hwang, Shuichi Katsumata, Seonhong Min, Guilhem Niot, Yongsoo Song;;;2026/1585;;;last_year;;;none;;;2026-08-03;;;lattice
+Post-Quantum Internet Key Exchange via Authenticated Forward-Secure KEM;;;Yunlei Zhao, Biming Zhou, Zhixiang Zhao, Yifan Dong, Cheng Huang, Haodong Jiang;;;2026/1581;;;last_year;;;none;;;2026-08-03;;;lattice
+A Systematic Literature Review on Optimising CRYSTALS-Dilithium (ML-DSA) Performance for IoT Devices via Lightweight Hashing;;;Ceasar Njuguna Ngunu, Edward Ombui;;;2026/1576;;;last_year;;;none;;;2026-08-01;;;lattice
+The Non-Intersecting Codewords Problem and its Application to MPC-in-the-Head Signatures;;;Pierre Briaud, Philippe Gaborit, Romaric Neveu, Gilles Zémor;;;2026/1573;;;last_year;;;none;;;2026-07-31;;;code
+Power Analysis and Countermeasures on the MiMC Block Cipher;;;Elena Andreeva, Stefan Mangard, Rishub Nagpal, Arnab Roy, Stefano Trevisani;;;2026/1562;;;last_year;;;none;;;2026-07-30;;;lattice
+Dimension Reduction for SVP in Hawk: A Trace-Zero Approach;;;Guilhem Mureau, Alice Pellet-Mary;;;2026/1560;;;last_year;;;none;;;2026-07-30;;;lattice
+Revisiting Shamir Secret Sharing for Threshold Fully Homomorphic Encryption;;;Jiseung Kim, Seunghu Kim, Hyung Tae Lee;;;2026/1559;;;last_year;;;none;;;2026-07-30;;;lattice
+On the Hardness of some Vandermonde Knapsack problems;;;Dipayan Das, Arindam Mukherjee;;;2026/1554;;;last_year;;;none;;;2026-07-29;;;lattice
+Fine-Grained and Runtime-Configurable Precision for Exact FHE Inference;;;Wun-Ting Lin, Ja-Ling Wu;;;2026/1551;;;last_year;;;none;;;2026-07-29;;;lattice
+Algorithms for Sparse LWE and LPN with Small Secrets;;;Shashwat Agrawal, Amitabha Bagchi, Rajendra Kumar;;;2026/1550;;;last_year;;;none;;;2026-07-29;;;lattice
+Silent Distributed Cryptography for DNFs and Threshold Policies from Lattices;;;Abtin Afshar, Rishab Goyal, Saikumar Yadugiri;;;2026/1547;;;last_year;;;none;;;2026-07-29;;;lattice
+SoK: Confidential Transformer Inference and Retrieval-Augmented Generation;;;Timofey Yaluhin;;;2026/1544;;;last_year;;;none;;;2026-07-28;;;lattice
+Lattice-Based Shuffle Arguments using Subset Checking;;;Behzad Abdolmaleki, Prastudy Fauzi, Jiaqi Gu, Toomas Krips, Nahid Roustaeifar;;;2026/1540;;;last_year;;;none;;;2026-07-28;;;lattice
+Falcon Verify on AVX-512: Speed Records;;;David Rubin, Emanuele Cesena;;;2026/1539;;;last_year;;;none;;;2026-07-27;;;lattice
+An Attack on High Rate McEliece Cryptosystems Using Generalized Reed Solomon Codes with Weight 2 Mask;;;Julia Lieb, Abhinaba Mazumder, Michael Schaller;;;2026/1538;;;last_year;;;none;;;2026-07-27;;;code
+Privacy-Preserving Identity Management and Software Bill of Materials Vulnerability Detection: Practical Use Cases from the PRIVIDEMA Project;;;Mariya Georgieva Belorgey, Benoit Cogliati, Simon Demarty, Lois Huguenin-Dumittan, Özcan Öztürk, Salma Rasti Samiei, Oana Stan;;;2026/1536;;;last_year;;;none;;;2026-07-27;;;lattice
+Correcting the modulus switch error in TFHE bootstrapping for real-valued computation;;;Thomas Crasson, Florian Méhats;;;2026/1533;;;last_year;;;none;;;2026-07-27;;;lattice
+Toward a Secure Fixed-Point Implementation of the Falcon Signature Scheme;;;Daniel De Almeida Braga, Pierre-Alain Fouque, Bachir Lachguel, Thomas Prest;;;2026/1531;;;last_year;;;none;;;2026-07-26;;;lattice
+Shuffling is Not Enough: Breaking Permutation-Based Model Confidentiality in Hybrid FHE Inference;;;Jiseung Kim, Hyung Tae Lee;;;2026/1527;;;last_year;;;none;;;2026-07-25;;;lattice
+On the Suitability of Syndrome Decoding for Proof-of-Work under Quantum Adversaries: Design and Analysis;;;Aleck Nash, Kim-Kwang Raymond Choo, Henry Chimal-Dzul;;;2026/1526;;;last_year;;;none;;;2026-07-25;;;code
+NAIBI: Binding Reconciliation KEMs and Ephemeral Key Agreement over Non-Split Commutative Algebras;;;Sidoine Djimnaibeye, Djiby Sow, Mahamat Borgou Hassan, Daniel Tieudjo, Ganga Tchawa;;;2026/1525;;;last_year;;;none;;;2026-07-25;;;lattice
+Catching Many Traitors in Threshold Traitor Tracing: Lower Bounds and Constructions;;;Dan Boneh, Aditi Partap, Mark Zhandry;;;2026/1523;;;last_year;;;none;;;2026-07-24;;;lattice
+The McEliece Cryptosystem After Nearly Five Decades: A Survey of Security, Cryptanalysis, and Future Directions;;;Shabnam Jafarzade Mojaveri, Adel Khosravi;;;2026/1512;;;last_year;;;none;;;2026-07-24;;;code
+Encifher: A Trusted-Execution Coprocessor for Confidential Computation on Solana;;;Nitanshu Lokhande, Rishabh Gupta, Rachit Chahar, Arun Jangra, Aniket Prajapati, Muskan Kumari;;;2026/1504;;;last_year;;;none;;;2026-07-23;;;lattice
+Efficient Privacy-Preserving LSTM Inference on Encrypted Sequential Data;;;Qiang He, Jingwei Chen, Wenyuan Wu, Yong Feng;;;2026/1502;;;last_year;;;none;;;2026-07-23;;;lattice
+Multilevel Amortized Gaussian Elimination in Information-Set Decoding: Applications to HQC and PCG;;;Kévin Carrier, Valérian Hatey, Laura Luzzi, Jean-Pierre Tillich;;;2026/1498;;;last_year;;;none;;;2026-07-22;;;code
+Oblivious Sorting under Fully Homomorphic Encryption: A Comprehensive Survey and Performance Analysis;;;Omar Ahmed, Rostin Shokri, Nektarios Georgios Tsoutsos;;;2026/1495;;;last_year;;;none;;;2026-07-21;;;lattice
+Exploiting Load/Store Leakage of Sparse Vectors for Key Recovery in HQC;;;Gustavo Banegas, Benjamin Smith, Jad Zahreddine;;;2026/1491;;;last_year;;;none;;;2026-07-21;;;code
+MQ on my Hardware: Performance Analysis of MQOM on FPGA;;;Stelios Manasidis, Quinten Norga, Suparna Kundu, Ingrid Verbauwhede;;;2026/1483;;;last_year;;;none;;;2026-07-20;;;lattice
+Quantum-Safe Cryptography: A Migration Framework for Legacy Systems Toward NIST PQC Standards with the Crypto-Agility Readiness Score;;;Allan D. B. Costa;;;2026/1467;;;last_year;;;none;;;2026-07-17;;;lattice
+On Reduction Probability Models in Lattice Sieving;;;Marc Stevens, Michael Yonli;;;2026/1465;;;last_year;;;none;;;2026-07-17;;;lattice
+Optimal Distributed Monotone-Policy Encryption for DNFs and More from Lattices;;;Jeffrey Champion, David J. Wu;;;2026/1464;;;last_year;;;none;;;2026-07-17;;;lattice
+Power Reveals Timing Conceals - Side-Channel Attacks and Hiding Countermeasures for HQC's Fixed-Weight Vector Sampling;;;Dina Hesse, Markus Krausz, Raagavan Murugananthan, Tabea Wollinger, Tim Güneysu;;;2026/1462;;;last_year;;;none;;;2026-07-17;;;code
+A Practical Key-Recovery Attack on GRAFHEN;;;Jules Dumezy;;;2026/1460;;;last_year;;;none;;;2026-07-17;;;lattice
+Hybrid hash function based on the DLP and SIS problems;;;Dimitri Koshelev, Francesc Sebé;;;2026/1459;;;last_year;;;none;;;2026-07-17;;;lattice
+Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4;;;Jihoon Jang, Hanbeom Shin, Suhri Kim, Seokhie Hong, Donggeun Kwon;;;2026/1450;;;last_year;;;none;;;2026-07-16;;;code
+`ANSA-IBKEM`: Practical Quantum-Safe Identity-Based Key Encapsulation via Annular NTRU Trapdoors and Standardized PQC Arithmetic Reuse;;;Zhaohui Cheng, Kaixin Xiong;;;2026/1449;;;last_year;;;none;;;2026-07-16;;;lattice
+Improving Skipping Fault Correction Attacks on Randomized Dilithium via MILP;;;Haobo Ouyang, Chaoran Wang, Guowei Liu, Lixuan Wu, Meiqin Wang, Yanhong Fan;;;2026/1448;;;last_year;;;none;;;2026-07-16;;;lattice
+Faster NTRU-based Bootstrapping with Extended and Sorting-based Techniques;;;Jingwei Feng, Baofeng Wu, Dongdai Lin;;;2026/1447;;;last_year;;;none;;;2026-07-16;;;lattice
+Sublinear-Communication Layered MPC from HSS;;;Anasuya Acharya, Pierre Meyer, Divya Ravi, Rahul Satish;;;2026/1445;;;last_year;;;none;;;2026-07-15;;;lattice
+ABE for Unbounded Circuits from Circular LWE and Pairings;;;Shweta Agrawal, Supriyo Banerjee, Anuja Modi, Rajeev Raghunath, Anshu Yadav, Shota Yamada;;;2026/1439;;;last_year;;;none;;;2026-07-15;;;lattice
+Verifiable and Collusion-Resistant Multi-Party Quantum Private Set Operations;;;Zixian Gong, Kun Tian, Yi Zhang, Fengxia Liu;;;2026/1436;;;last_year;;;none;;;2026-07-14;;;lattice
+Simultaneous-Message and Succinct Secure Computation: Reusable and Multiparty Protocols;;;Siddharth Agarwal, Abhishek Jain, Akshayaram Srinivasan, David J. Wu;;;2026/1425;;;last_year;;;none;;;2026-07-12;;;lattice
+CMALU: Compact Fault-Tolerant Modular Arithmetic Logic Unit for Post-Quantum Cryptography;;;YoungBeom Kim, Malik Imran, Zain Ul Abideen, Ciara Rafferty, Ayesha Khalid, Máire O’Neill, Seog Chung Seo;;;2026/1423;;;last_year;;;none;;;2026-07-12;;;lattice
+LESS on the Cortex-M4: Characterizing the Speed–Memory Design Space of Code-Equivalence Signatures;;;Minwoo Lee, Minjoo Sim, Subeen Cho, Yulim Hyoung, Hwajeong Seo;;;2026/1422;;;last_year;;;none;;;2026-07-11;;;code
+An Optimized Native Rust Implementation of the KpqC Algorithms;;;Yu-Lim Hyoung, Do-Yun Park, Hyun-Ji Kim, Hwa-Jeong Seo;;;2026/1420;;;last_year;;;none;;;2026-07-11;;;lattice
+CT-KAT: A Multilayer Analysis Platform for Automated Screening of Constant-Time Risks in PQC C Implementations;;;Seung-Won Lee, Min-Seo Kim, Su-Min Jeong, Hwa-Jeong Seo;;;2026/1418;;;last_year;;;none;;;2026-07-11;;;lattice
+Beyond Size: Do Hybrid PQC Certificates Actually Enforce the Classical–PQC Binding? A Cost-and-Security Study;;;Minwoo Lee, Minjoo Sim, Siwoo Eum, Subeen Cho, Yulim Hyoung, Hwajeong Seo;;;2026/1416;;;last_year;;;none;;;2026-07-11;;;lattice
+Evaluating Hybrid KEM/DSA for KpqC and NIST PQC on ARM Cortex-M4;;;Minjoo Sim, Minwoo Lee, Subeen Cho, Yulim Hyoung, Hwajeong Seo;;;2026/1414;;;last_year;;;none;;;2026-07-11;;;code
+Improved Quantum Circuits for Information Set Decoding with Application to Code-Based Cryptography;;;Hyunji Kim, Kyungbae Jang, Hwajeong Seo;;;2026/1411;;;last_year;;;none;;;2026-07-11;;;code
+A Memory-Efficient and Assembly-Optimized Implementation of NTRU+;;;SuBeen Cho, Jiwon Bang, Minjoo Sim, Hwajeong Seo;;;2026/1410;;;last_year;;;none;;;2026-07-11;;;lattice
+Statistically Undetectable Backdoors in Deep Neural Networks;;;Andrej Bogdanov, Alon Rosen, Neekon Vafa;;;2026/1408;;;last_year;;;none;;;2026-07-10;;;lattice
+An $n^{n+o(n)}$-Time Algorithm for the Lattice Isomorphism Problem;;;Divesh Aggarwal, Kaijie Jiang, Zihan Li, Yinchen Liu;;;2026/1406;;;last_year;;;none;;;2026-07-10;;;lattice
+A New Framework for Efficient Multivariate Functional Bootstrapping;;;Kunyu Wu, Kuiyuan Duan, Dengfa Liu, Hongbo Li;;;2026/1401;;;last_year;;;none;;;2026-07-09;;;lattice
+What Happens When integrating Modulus Switching and Lossy Source Coding: A New Dual Attack Variant on LWE;;;Yechen Li, Qunxiong Zheng;;;2026/1400;;;last_year;;;none;;;2026-07-09;;;lattice
+HANNS: Low-Storage Non-Interactive Approximate Private Nearest Neighbor Search with Sublinear Comparison Complexity;;;Haowen Pan, Ruiqi Gan, Yunhao Fu, Yintai Sun, Zhou Zhang, Yuxiang Wang, Yi Chen, Bo Zhang, Haoyi Zhou, Yongxin Tong, Zhenyu Guan, Jin Dong, Song Bian;;;2026/1397;;;last_year;;;none;;;2026-07-08;;;lattice
+A Separation Principle for Lookup-Based zkML: Activation-Function Structure Cannot Reduce Per-Lookup Proving Cost;;;Min Jun Jo;;;2026/1390;;;last_year;;;none;;;2026-07-08;;;lattice
+SC-DT: Scalable Constant Round Secure Comparison and its Application to Privacy Decision Tree Evaluation;;;Qinghui Zhang, Xiaojun Chen, Yansong Zhang, Xudong Chen;;;2026/1389;;;last_year;;;none;;;2026-07-08;;;lattice
+Key-Recovery Attacks on TALUS: A Cryptanalytic Note;;;Guilhem Niot;;;2026/1386;;;last_year;;;none;;;2026-07-07;;;lattice
+Walsh LUT Evaluation on Lazy Bits for CKKS AES Transciphering;;;Rostin Shokri, Nektarios Georgios Tsoutsos;;;2026/1385;;;last_year;;;none;;;2026-07-07;;;lattice
+HAWK ``Guessing Game'' is not Polynomial-Time;;;Markku-Juhani O. Saarinen;;;2026/1377;;;last_year;;;none;;;2026-07-05;;;lattice
+Analysing the Post-Quantum Security of S/MIME;;;Sayan Das, Anupam Chattopadhyay;;;2026/1374;;;last_year;;;none;;;2026-07-04;;;lattice
+Halfspace Learning for Lattice Signature Key Recovery from Signs;;;Marcus Brinkmann, Nicolai Kraus, Alexander May;;;2026/1366;;;last_year;;;none;;;2026-07-02;;;lattice
+Time vs Success Probability Tradeoff for SVP and BDD with Implications to LWE and SIS;;;Divesh Aggarwal, Haoxiang Jin;;;2026/1364;;;last_year;;;none;;;2026-07-02;;;lattice
+Slicing Bits and Cutting Costs in CDT Sampling: High-Order Masking of FrodoKEM's Gaussian Sampler, Revisited;;;Calvin Abou Haidar, Thomas Espitau, Clément Hoffmann, Mehdi Tibouchi;;;2026/1363;;;last_year;;;none;;;2026-07-02;;;lattice
+PSOs as fast as PSI: Efficient Private Set Operations from Batch Homomorphic OKVS Decoding;;;Hyun Ji Kwag, Junhyuk Kwon, Changmin Lee, Yongha Son;;;2026/1358;;;last_year;;;none;;;2026-07-02;;;lattice
+Refined Evaluation Methods of Decryption Failure Rate in Lattice-Based Public-Key Encryption with Message Encoding;;;Guoqing Zhou, Lin Wang, Yue Cao, Baosheng Huang, Sen Hou, Dawu Gu;;;2026/1350;;;last_year;;;none;;;2026-06-30;;;lattice
+Sharper and Closed-Form Attacks on $\mathsf{SIS}$ When Modulus Is Small;;;Navid Abapour;;;2026/1349;;;last_year;;;none;;;2026-06-30;;;lattice
+On Canonical Liftings, Group Actions, and Linkable Ring Signatures;;;Alessandro Budroni, Giuseppe D'Alconzo, Leonardo Errati, Edoardo Persichetti;;;2026/1348;;;last_year;;;none;;;2026-06-30;;;code,lattice
+Double-Structured Genetic Algorithm for Solving the SVP Based on Double Optimization: Using Two Types of Chromosomes;;;Masaharu Fukase;;;2026/1345;;;last_year;;;none;;;2026-06-30;;;lattice
+Public Coefficient Matters: A Practical Differential Fault Attack on ML-DSA and HAETAE;;;WonGeun Shin, SeungHyeon Jeon, Daehyeon Bae, Sujin Park, HeeSeok Kim;;;2026/1344;;;last_year;;;none;;;2026-06-30;;;lattice
+Generalized Batched Decomposition Key-Switching for CKKS;;;Antonio J. Peña, Zaira Pindado, Hugo Sanz-González;;;2026/1340;;;last_year;;;none;;;2026-06-29;;;lattice
+Key recovery for the McEliece cryptosystem using higher-order vanishing;;;Tobias Hemmert;;;2026/1339;;;last_year;;;none;;;2026-06-29;;;code
+RotPIR: Sublinear Single-Server PIR with Efficient Pre-Processing via Oblivious Homomorphic Rotation;;;Zhou Zhang, Song Bian, Zhenyu Guan, Giuseppe Persiano;;;2026/1336;;;last_year;;;none;;;2026-06-29;;;lattice
+Apples, Oranges, and Signatures: Pitfalls and Methodology in ML-DSA Benchmarking;;;Sebastien Riou, Jong-Yeon Park, Liga Anwar, Axel Poschmann, Michael Hutter;;;2026/1333;;;last_year;;;none;;;2026-06-29;;;lattice
+LaMS: A p-adic Layered Modulus Switching for Provable Dual Attacks on LWE;;;Rui-Jie Wang, Zhong-Xiao Wang, Qun-Xiong Zheng, Xuan Zhao;;;2026/1326;;;last_year;;;none;;;2026-06-26;;;lattice
+Reliable Homomorphic Matching for Fuzzy Labeled PSI at Scale;;;Erkam Uzun;;;2026/1322;;;last_year;;;none;;;2026-06-26;;;lattice
+Cryptanalysis of HAWK: a Guessing Game;;;Ben Nelson, Joshua Limbrey, Cong Ling, Andrew Mendelsohn;;;2026/1318;;;last_year;;;none;;;2026-06-25;;;lattice
+HHE Kombat: Benchmarking Hybrid Homomorphic Encryption Schemes;;;Hossein Abdinasibfar, Camille Nuoskala, Antonis Michalas;;;2026/1314;;;last_year;;;none;;;2026-06-24;;;lattice
+So Long, and Thanks for All the Seeds: Attacking GGM-trees in Post-quantum signatures;;;Gustavo Banegas, Damya Bouizegarene;;;2026/1313;;;last_year;;;none;;;2026-06-24;;;code
+STRUCTURED LATTICES AND THEIR APPLICATIONS TO SECURITY;;;LENNY FUKSHANSKY, CAMILLA HOLLANTI, RAHINATOU Y. NJAH NCHIWO;;;2026/1301;;;last_year;;;none;;;2026-06-22;;;lattice
+Weak Keys Break the BUFF Security of HAWK;;;Quang Dao;;;2026/1298;;;last_year;;;none;;;2026-06-21;;;lattice
+Post-quantum Secure Non-Committing Registered Functional Encryption;;;Ramprasad Sarkar;;;2026/1293;;;last_year;;;none;;;2026-06-20;;;lattice
+Refined OJ Attacks: Tight Complexity for Rank Decoding Problems and Their Cryptographic Implications;;;Yongcheng Song, Rongmao Chen, Xinyi Huang, Jiang Zhang, Chao Lin;;;2026/1291;;;last_year;;;none;;;2026-06-19;;;code
+A Compact Signature Scheme Based on QC-MDGM Codes;;;Alessandro Annechini, Alessandro Barenghi, Gerardo Pelosi;;;2026/1290;;;last_year;;;none;;;2026-06-19;;;code
+BootNet: Homomorphic CNN Inference with Convolution and ReLU Fused in Bootstrapping;;;Zhaomin Yang, Chao Niu, Cheng Hong, Tao Wei;;;2026/1279;;;last_year;;;none;;;2026-06-18;;;lattice
+Parameter-Aware and Instruction-Driven Dilithium Optimization on AVX2 and NEON;;;Shi Ya, Liu Bingqian, Lu Xianhui, Qian Wenfei, Liu Ying, Wang Kunpeng;;;2026/1272;;;last_year;;;none;;;2026-06-17;;;lattice
+Efficient Private Set Intersection and Searchable Encryption using Homomorphic Bloom Filters;;;Anil Kumar Pradhan, Killari Nandini, Harsh Kasyap, Sayantan Mukherjee;;;2026/1267;;;last_year;;;none;;;2026-06-16;;;lattice
+A Billion Hard CRYSTALS: Exploring Practical Aspects of Arithmetic Masking for PQC in Hardware;;;Fabian Buschkowski, Niklas Höher, Pascal Sasdrich, Tim Güneysu;;;2026/1265;;;last_year;;;none;;;2026-06-16;;;lattice
+The Power of Low Rank: Fast CKKS Functional Bootstrapping for High-Precision Lookup Tables;;;Zhihao Li, Xuan Shen, Cheng Hong, Ruida Wang, Xianhui Lu, Tao Wei;;;2026/1264;;;last_year;;;none;;;2026-06-16;;;lattice
+LCPDTE: Low-Complexity Private Decision Tree Evaluation over Homomorphic Encryption;;;Dongjin Park, Gyeongwon Cha, Joon-Woo Lee;;;2026/1263;;;last_year;;;none;;;2026-06-16;;;lattice
+PQ-SMS: A Post-Quantum Sanitizable Multi-Signature Scheme for Satellite PKI;;;Long Wang, Zhaoman Liu, Jing Fan, Yanhong Fan;;;2026/1262;;;last_year;;;none;;;2026-06-16;;;lattice
+Bootstrapping is All You Need: Secure Transformer Inference via Improved CKKS Functional Bootstrapping;;;Pan Xiao, Rending Ouyang, Heng Zhang, Jiawen Zhang, Jian Liu;;;2026/1255;;;last_year;;;none;;;2026-06-14;;;lattice
+Atlantis: Lattice-based Anonymous Tokens with Private Metadata Bit;;;Foteini Baldimtsi, Aayush Yadav;;;2026/1248;;;last_year;;;none;;;2026-06-12;;;lattice
+Implementation of Learning with Errors in Non-Commuting Multiplicative Groups;;;Aleksejus Mihalkovich, Lina Dindiene, Eligijus Sakalauskas;;;2026/1233;;;last_year;;;none;;;2026-06-10;;;lattice
+A Heuristic Subexponential Attack on the McEliece Cryptosystem;;;Pierre Briaud, Axel Lemoine, Hugues Randriambololona, Jean-Pierre Tillich;;;2026/1232;;;last_year;;;none;;;2026-06-10;;;code
+The Best of Both Worlds: Hybrid Authenticated Key Exchange for QKD(N) without Signatures;;;Sebastian Clermont, Johanna Henrich;;;2026/1231;;;last_year;;;none;;;2026-06-10;;;code,lattice
+Formula Freshness for Staged Hybrid Authenticated Key Exchange;;;Anis Bkakria, Merland Chrislain Chadrel BAFOUETILA;;;2026/1230;;;last_year;;;none;;;2026-06-10;;;lattice
+Advancing Pseudorandom Codes: Beyond Parity Checks and Standard-Model CCA1 Security;;;Yu Chen, Xinyu Mao, Hongxu Yi;;;2026/1228;;;last_year;;;none;;;2026-06-10;;;lattice
+Chosen Ciphertext Secure Pseudorandom Codes in the Standard Model;;;Nico Döttling, Antoine Joux, Venkata Koppula, Mahesh Sreekumar Rajasree, Hendrik Waldner;;;2026/1227;;;last_year;;;none;;;2026-06-10;;;code
+Achieving Shannon Capacity for Computationally Bounded Errors;;;George Lu, Jad Silbak, Daniel Wichs;;;2026/1221;;;last_year;;;none;;;2026-06-09;;;lattice
+Latency-Aware, High-Throughput Homomorphic AES Evaluation with CKKS;;;Taeseong Kim, Jonghoo Lee, Taeyeong Noh, Jung Hee Cheon, Guillaume Hanrot;;;2026/1209;;;last_year;;;none;;;2026-06-08;;;lattice
+Preimage sampleable function families without discrete Gaussians;;;Eamonn W. Postlethwaite, Filip Trenkić;;;2026/1208;;;last_year;;;none;;;2026-06-08;;;lattice
+Character Block Encodings for Discrete CKKS: Single-Level LUTs and Low-Depth Arithmetic;;;Jules Dumezy, Elias Suvanto;;;2026/1200;;;last_year;;;none;;;2026-06-08;;;lattice
+Grand Danois: Succinct Multilinear Polynomial Commitments over Lattices;;;Anders Kallesoe, Hamidreza Khoshakhlagh;;;2026/1196;;;last_year;;;none;;;2026-06-07;;;lattice
+Accelerating NTRU+ Key Generation via Hierarchical Batch Inversion;;;Jonghyun Kim, Haehyun Cho, Jong Hwan Park;;;2026/1191;;;last_year;;;none;;;2026-06-07;;;lattice
+Rank Ceiling for Twiddle-Perturbation Faults on the Forward NTT;;;Chakshu Gupta;;;2026/1188;;;last_year;;;none;;;2026-06-06;;;lattice
+HEGIDE: A MIMD Oblivious Processor for Private Function Evaluation over CKKS;;;Jules Dumezy, Nicolas Ye, Pierre-Emmanuel Clet, Olive Chakraborty, Aymen Boudguiga;;;2026/1187;;;last_year;;;none;;;2026-06-06;;;lattice
+Butterfly Effect: Multi-Key FHE from Ring-LWR;;;Mansi Goyal, Ali Raya, Mohakjot Dhiman, Aditi Kar Gangopadhyay;;;2026/1186;;;last_year;;;none;;;2026-06-06;;;lattice
+Public-Key Pseudorandom Codes from Distorted McEliece Assumptions;;;Victor Dyseryn, Danilo Francati, Daniele Venturi;;;2026/1184;;;last_year;;;none;;;2026-06-05;;;code
+Permissionless Consensus from a Common Random String;;;Damiano Abram, Marshall Ball, Juan Garay, Aggelos Kiayias;;;2026/1179;;;last_year;;;none;;;2026-06-05;;;lattice
+Post-Quantum Migration Strategy for RSA Encryption;;;Udara Pathum, Ashen De Silva;;;2026/1172;;;last_year;;;none;;;2026-06-04;;;lattice
+A Fast, Configurable and DSP-Free Hardware Implementation of FrodoKEM;;;Jianchi Zhu, Yaodong Wei, Wenbo Kong, Xingrui Gu, Jing Tian;;;2026/1170;;;last_year;;;none;;;2026-06-04;;;lattice
+Towards Worst-case Hardness for Low-Noise LPN;;;Divesh Aggarwal, Rishav Gupta, Hai Hoang Nguyen, Kel Zin Tan, Prashant Nalini Vasudevan;;;2026/1168;;;last_year;;;none;;;2026-06-04;;;lattice
+SWIFT: Shallow and SIMD-Aware CKKS Functional Bootstrapping for Low-Latency;;;Jung Hee Cheon, Daehyun Jang, Jaehee Kang;;;2026/1163;;;last_year;;;none;;;2026-06-04;;;lattice
+Lemur: Scalable Post-Quantum Synchronized Multi-Signatures;;;Yini Lin, Muhammed F. Esgin, Amin Sakzad, Ron Steinfeld, Markku-Juhani O. Saarinen;;;2026/1161;;;last_year;;;none;;;2026-06-03;;;lattice
+Fine-Grained Residual Interval Screening Enhanced Least Square for the Secret Key Recovery of Dilithium;;;Kailong Shi, Hailong Zhang, Dongdai Lin, Zichen Wang;;;2026/1151;;;last_year;;;none;;;2026-06-03;;;lattice
+FATT Chance: On the Robustness of Standalone and Hybrid ML-KEM Key Exchange in TLS 1.3;;;Nadim Kobeissi;;;2026/1147;;;last_year;;;none;;;2026-06-02;;;lattice
+DASTE: Decentralized Ad-Hoc Access-Structured Threshold Encryption with Dynamic Policy Evolution;;;Anil Kumar Pradhan, Abhraneel Dutta;;;2026/1141;;;last_year;;;none;;;2026-06-02;;;lattice
+Tree Encodings II: Correlation Intractability for all Batched Relations;;;Damiano Abram, Giulio Malavolta, Lawrence Roy;;;2026/1140;;;last_year;;;none;;;2026-06-02;;;lattice
+Exploiting the complexity of Lattice Isomorphism Problem via Irreducible Decomposition;;;Kaijie Jiang, Yinchen Liu;;;2026/1139;;;last_year;;;none;;;2026-06-02;;;lattice
+Public Key Encryption Secure Against Quantum Leakage;;;Alper Cakan, Fuyuki Kitagawa, Ryo Nishimaki, Manasi Shingane, Takashi Yamakawa;;;2026/1131;;;last_year;;;none;;;2026-06-01;;;lattice
+Reassessing the Security of LPN-C and its HHE-Oriented Variants;;;Orr Dunkelman, Semira Einsele, Hans Heum, Morten Øygarden, Gerhard Wunder;;;2026/1130;;;last_year;;;none;;;2026-06-01;;;lattice
+Verifiable Bootstrapping from Lattice-based Folding;;;Amit Deo, Louis Tremblay Thibault;;;2026/1127;;;last_year;;;none;;;2026-06-01;;;lattice
+A correlation duet: Correlation attacks on correlation generators;;;Antoine Joux;;;2026/1126;;;last_year;;;none;;;2026-06-01;;;code
+On the Secrecy of the Encapsulation Coin in ML-KEM;;;Madjid G. Tehrani, William J Buchanan, Mouad Lemoudden;;;2026/1117;;;last_year;;;none;;;2026-05-31;;;lattice
+Single-Hop HRA-Secure Owner-Encrypted Lattice-Based Proxy Re-Encryption without Statistical Noise Flooding;;;Haotian Yin, Jie Zhang, Yuji Dong, Dominik Wojtczak, Eng Gee Lim;;;2026/1113;;;last_year;;;none;;;2026-05-30;;;lattice
+Finite-Field Arithmetic in CKKS;;;Tim Seuré, Elias Suvanto;;;2026/1102;;;last_year;;;none;;;2026-05-29;;;lattice
+A gentle introduction to lattice-based cryptography;;;Alfred Menezes;;;2026/1098;;;last_year;;;none;;;2026-05-29;;;lattice
+Asymmetric Message Franking in the Plain Model: Generic and Efficient Constructions;;;Milan Gonzalez-Thauvin, Keitaro Hashimoto;;;2026/1094;;;last_year;;;none;;;2026-05-29;;;lattice
+Practical Homomorphic LSTM via Programmable Bootstrapping;;;Thomas Crasson, Nathan Cassereau, Florian Méhats;;;2026/1091;;;last_year;;;none;;;2026-05-29;;;lattice
+Faster Polynomial Evaluations for SIMD FHEs and Application to BGV in HElib;;;Jiachen Zhao, Jiang Zhang, Binwu Xiang, Songyu Wu, Yi Deng, Dengguo Feng;;;2026/1089;;;last_year;;;none;;;2026-05-29;;;lattice
+FlipFields-New Building Blocks for Cryptograpic Primitives?;;;Christopher Wolf;;;2026/1088;;;last_year;;;none;;;2026-05-28;;;lattice
+From Perfect to Approximate Hints: Efficient LWE Secret Recovery Leveraging Low Hamming Weight;;;Minki Hhan, Ga Hee Hong, Jiseung Kim, Changmin Lee, JeongHwan Lee;;;2026/1081;;;last_year;;;none;;;2026-05-28;;;lattice
+Witness Pseudorandom Functions for Vector Commitments and Applications;;;Rishabh Bhadauria, Pedro Branco, Nico Döttling, Sanjam Garg, Guru-Vamsi Policharla;;;2026/1079;;;last_year;;;none;;;2026-05-28;;;lattice
+Post-Quantum HAWK Signature Acceleration with RISC-V-Based Hardware-Software Co-Design;;;Rishabh Shrivastava, Utsav Banerjee;;;2026/1078;;;last_year;;;none;;;2026-05-28;;;lattice
+Authenticated and Incremental Single-Server Private Information Retrieval;;;Pengfei Lu, Zengpeng Li, Mei Wang;;;2026/1077;;;last_year;;;none;;;2026-05-28;;;lattice
+Decentralizing Traitor Tracing: A Multi-Authority Approach;;;Rishab Goyal, Alex Snyder, Saikumar Yadugiri;;;2026/1076;;;last_year;;;none;;;2026-05-28;;;lattice
+GATOR: Group Action AdapTOR Signatures via MPC-in-the-Head;;;Nico Döttling, Manar Mohamed, Riccardo Zanotto;;;2026/1067;;;last_year;;;none;;;2026-05-27;;;code
+An Improved Hybrid Dual Attack on LWE with Sparse Secrets and its Application to FHE;;;Lei Bi, Yijian Liu, Xianhui Lu, Junjie Luo, Kunpeng Wang;;;2026/1060;;;last_year;;;none;;;2026-05-26;;;lattice
+Efficient MPC-Based Modulus Conversion for Threshold FHE Decryption;;;Ivan Damgård, Sebastian Kolby, Claudio Orlandi, Stanislas Pawlak;;;2026/1058;;;last_year;;;none;;;2026-05-26;;;lattice
+Multivariate Polynomial Inference in a Cryptographic Setting;;;Ramona Corbeanu, Diana Maimut, George Teseleanu;;;2026/1056;;;last_year;;;none;;;2026-05-26;;;lattice
+Streamlined Symmetric Private Information Retrieval via Rényi Divergence;;;Alex Davidson, Nuno Nogueira, Samuel Pearson, João Ribeiro;;;2026/1051;;;last_year;;;none;;;2026-05-25;;;lattice
+Unified Dual Attack Analyses: Covariance-Based Score Distribution Prediction for LWE;;;Yechen Li, Qunxiong Zheng;;;2026/1048;;;last_year;;;none;;;2026-05-25;;;lattice
+Ciphertext-Updatable Attribute-Based and Predicate Encryption from Lattices;;;Robert Schädlich, Linda Scheu-Hachtel, Erkan Tairi, Yuejun Wang;;;2026/1045;;;last_year;;;none;;;2026-05-24;;;lattice
+CoNAN: A Structure-Aware Framework for Lattice Cryptanalysis;;;Ali Raya, Vikas Kumar, Kushal Dey, Sugata Gangopadhyay;;;2026/1041;;;last_year;;;none;;;2026-05-23;;;lattice
+When Removing Reductions Goes Wrong: Auditing Reduction Placement in Production ML-DSA Implementations;;;Sunwoo Lee, Hyuk Lim, Seunghyun Yoon;;;2026/1032;;;last_year;;;none;;;2026-05-22;;;lattice
+Sparse Hermite Interpolation Method for Discrete-CKKS Functional Bootstrapping;;;Andreea Alexandru, Andrey Kim, Yuriy Polyakov, Hongren Zheng;;;2026/1026;;;last_year;;;none;;;2026-05-22;;;lattice
+Faster CoeffToSlot and SlotToCoeff for Sparsely Packed Ciphertexts with Application to CKKS Bootstrapping;;;Xiaopeng Zheng;;;2026/1023;;;last_year;;;none;;;2026-05-21;;;lattice
+Thorns in Polynomial Convolution: Correlation, Large Deviations, and Applications;;;Dongshu Cai, Yijian Liu, Jiabo Wang, Xianhui Lu;;;2026/1022;;;last_year;;;none;;;2026-05-21;;;lattice
+Efficient Homomorphic String Search via TFHE;;;Shintaro Narisada, Hiroki Okada, Takashi Nishide, Kazuhide Fukushima;;;2026/1016;;;last_year;;;none;;;2026-05-21;;;lattice
+Unified FPGA Design of Kyber and Dilithium with Provable Fault Tolerance;;;Siddhartha Chowdhury, Nimish Mishra, Sarani Bhattacharya, Debdeep Mukhopadhyay;;;2026/1008;;;last_year;;;none;;;2026-05-20;;;lattice
+Balanced and Adaptively Secure Asynchronous Common Coin and Byzantine Agreement With Sub-Quadratic Communication;;;Hanwen Feng, Tiancheng Mai, Qiang Tang;;;2026/998;;;last_year;;;none;;;2026-05-19;;;lattice
+On Arithmetic Invariants for Permutation Equivalence;;;Benjamin Benčina;;;2026/995;;;last_year;;;none;;;2026-05-19;;;lattice
+Suppressing Hidden Extension-Field Linearity in Rank-Metric Cryptography via Structural Incompatibility;;;Dengchuan Liao, Xiangxue Li, Yu Yu;;;2026/992;;;last_year;;;none;;;2026-05-19;;;code
+Single-Trace Power Analysis of LESS Key Generation;;;Süleyman Emir Akın, Abdullah Talayhan, Özcan Öztürk;;;2026/990;;;last_year;;;none;;;2026-05-19;;;code
+Maskaglia: A New, Efficient Approach to Masked Discrete Gaussian Sampling;;;Calvin Abou Haidar, Thomas Espitau, Clément Hoffmann, Mehdi Tibouchi;;;2026/988;;;last_year;;;none;;;2026-05-19;;;lattice
+Quantum algorithm for Discrete Gaussian Sampling;;;Clémence Chevignard, André Schrottenloher, Yixin Shen;;;2026/984;;;last_year;;;none;;;2026-05-18;;;lattice
+Zero-shot deep-unfolding decoder for QC-MDPC McEliece cryptosystems;;;Shingo Kukita, Rei Iseki, Takeshi Namatame, Kohtaro Watanabe;;;2026/982;;;last_year;;;none;;;2026-05-18;;;code
+Profiling-Device-Free SASCA Framework for ML-KEM;;;Yuxuan Wang;;;2026/981;;;last_year;;;none;;;2026-05-18;;;lattice
+Improved Dual Attack and Trapdoor Sampling via Quantum Rejection Sampling;;;Cong Ling, Hao Yan, Nicholas Zhao;;;2026/979;;;last_year;;;none;;;2026-05-18;;;lattice
+Functional Bootstrapping for a Single LWE Ciphertext with \(\tilde{O}(1)\) Polynomial Multiplications;;;Xiaopeng Zheng, Hongbo Li, Dingkang Wang;;;2026/975;;;last_year;;;none;;;2026-05-17;;;lattice
+Asynchronous Shamir-Based Threshold FHE: Smaller Moduli and Strong Simulation Security;;;Won Kim, Changmin Lee, JeongHwan Lee, Alain Passelègue, Damien Stehlé;;;2026/973;;;last_year;;;none;;;2026-05-16;;;lattice
+Breaking ACDGV MinRank Gabidulin encryption schemes over matrix codes;;;Thai Hung Le;;;2026/972;;;last_year;;;none;;;2026-05-16;;;code
+Explicit cost analysis of Toom-4 multiplication for incomplete NTT in lattice-based cryptography;;;Sakura Oku, Momonari Kudo;;;2026/971;;;last_year;;;none;;;2026-05-16;;;lattice
+Threshold FHE with Short Decryption Shares without a Semi-trusted Server;;;Hiroki Okada, Tsuyoshi Takagi;;;2026/957;;;last_year;;;none;;;2026-05-14;;;lattice
+Efficient Bootstrapping in Fully Homomorphic Encryption for Matrix Arithmetic;;;Eric Crockett, Craig Gentry, Hyojun Kim, Yeongmin Lee, Yongwoo Lee;;;2026/956;;;last_year;;;none;;;2026-05-14;;;lattice
+Black-box validation of Falcon key generation under numerical instability;;;Maxime Bros, Christopher Celi, Pierre Ciadoux, Ray Perlner;;;2026/954;;;last_year;;;none;;;2026-05-13;;;lattice
+Tight Lattice-Based Signatures without Trapdoors from Search LWE;;;Rutchathon Chairattana-Apirom, Nico Döttling, Julian Loss, Stefano Tessaro, Benedikt Wagner;;;2026/953;;;last_year;;;none;;;2026-05-13;;;lattice
+Constant-Round Secure Distributed Decoding and HQC Threshold Decryption;;;Pascal Giorgi, Fabien Laguillaumie, Lucas Ottow, Damien Vergnaud;;;2026/946;;;last_year;;;none;;;2026-05-13;;;code
+Optimized G+G Signature;;;Renjie Jin, Shuoqu Jian, Longjiang Qu;;;2026/943;;;last_year;;;none;;;2026-05-13;;;lattice
+Storing Less in-the-Head: An Area-Efficient Hardware Architecture for SDitH-v2;;;Stef Halmans, Niklas Höher, Dina Hesse, Sanjay Deshpande, Jakub Szefer, Tim Güneysu;;;2026/938;;;last_year;;;none;;;2026-05-12;;;code
+Efficient and Privacy-preserving Outsourced Training of Decision Tree Models Based on (Leveled) Fully Homomorphic Encryption;;;Tongyu Xu, Jun Wang, Honglian Liang, Shiwei Xu;;;2026/936;;;last_year;;;none;;;2026-05-12;;;lattice
+SoK: Private LLM Inference using Approximate Homomorphic Encryption;;;Ahmad Al Badawi, Andreea Alexandru, Yuriy Polyakov, Vinod Vaikuntanathan;;;2026/935;;;last_year;;;none;;;2026-05-12;;;lattice
+First-Order Masked Fine-Shuffling Implementation Against Side-Channel Attacks with Application to ML-KEM;;;Noura Ait Manssour, Souhayl Ben El Haj Soulami, Sylvain Duquesne, Guillaume Fumaroli;;;2026/934;;;last_year;;;none;;;2026-05-11;;;lattice
+Zephyr: GPU-Efficient Homomorphic Encryption for Privacy-Preserving Transformer Inference;;;Sieun Seo, Chohong Min;;;2026/932;;;last_year;;;none;;;2026-05-11;;;lattice
+Wombat: Post-Quantum Blind Signature from Standard Group Action Assumptions and More;;;Lucjan Hanzlik, Yi-Fu Lai, Eugenio Paracucchi, Edoardo Persichetti;;;2026/928;;;last_year;;;none;;;2026-05-11;;;code
+Fully Homomorphic Encryption on the Ring of Gaussian Periods;;;Yimeng He, San Ling, Yimin Shi, Benjamin Hong Meng Tan, Huaxiong Wang, Allen Siwei Yang;;;2026/927;;;last_year;;;none;;;2026-05-11;;;lattice
+LogVOLE: Succinct and Efficient Chosen-Input VOLE for ZK and Beyond;;;Lucien K. L. Ng, Peter Rindal, Akash Shah;;;2026/925;;;last_year;;;none;;;2026-05-11;;;lattice
+RIC: Randomize Invalid Coefficients to Mitigate Side-Channel Assisted Chosen-Ciphertext Attacks on ML-KEM;;;Junichi Sakamoto, Kentaro Imafuku;;;2026/924;;;last_year;;;none;;;2026-05-11;;;lattice
+Adaptively Secure Permissive Unbounded Inner Product Functional Encryption from Lattices;;;SUPRAVA ROY, Ratna Dutta;;;2026/921;;;last_year;;;none;;;2026-05-10;;;lattice
+Cryptanalysis of the Subfield Bilinear Collision Problem;;;Pierre Briaud, Romaric Neveu;;;2026/916;;;last_year;;;none;;;2026-05-09;;;code
+Execution-time and microarchitectural profiling of RustCrypto and PQClean ML-KEM/ML-DSA implementations under Linux cgroup resource constraints;;;Akram Bensebaa;;;2026/915;;;last_year;;;none;;;2026-05-09;;;lattice
+Post-Quantum Authenticated Key Exchange via Signcryption with Ephemeral Key Masking;;;Mostefa Kara, Konstantinos Karampidis, Muath AlShaikh;;;2026/914;;;last_year;;;none;;;2026-05-09;;;lattice
+Improved TensorPIR: Single-Server PIR with Lower Communication Cost;;;Yingchu Lv, Yanbin Pan, Huaxiong Wang;;;2026/912;;;last_year;;;none;;;2026-05-09;;;lattice
+On Succinct Non-Interactive Secure Computation with Malicious Security;;;Maya Farber Brodsky, Arka Rai Choudhuri, Abhishek Jain, Omer Paneth;;;2026/909;;;last_year;;;none;;;2026-05-08;;;lattice
+Threshold (T)FHE without smudging by means of correct threshold additive HE;;;Antonina Bondarchuk, Renaud Sirdey, Aymen Boudguiga, Olive Chakraborty;;;2026/901;;;last_year;;;none;;;2026-05-07;;;lattice
+SEFA: A Secure, Efficient, and Flexible Algorithm Design Strategy for Block Ciphers and Sponge Permutations;;;Gökçe Düzyol, Nida Fidan, Kamil Otal;;;2026/897;;;last_year;;;none;;;2026-05-07;;;lattice
+On the Properties of HighBits and LowBits Functions and their Applications;;;Alice Pellet-Mary, Michel Seck;;;2026/895;;;last_year;;;none;;;2026-05-07;;;lattice
+Cryptanalysis of Definite and Indefinite Lattice Isomorphism Problems With Applications to DEFI;;;Markus Kirschmer, Cong Ling, Ali Sadreddin;;;2026/890;;;last_year;;;none;;;2026-05-06;;;lattice
+RingSLIP: Ring Signatures from the Lattice Isomorphism Problem;;;Callum London, Daniel Gardham, Constantin Catalin Dragan;;;2026/889;;;last_year;;;none;;;2026-05-06;;;lattice
+From NIZK Arguments to ZAPs, Generically;;;Anish Banerjee, Brent Waters, David J. Wu;;;2026/886;;;last_year;;;none;;;2026-05-06;;;lattice
+Post-Quantum Public-Key Pseudorandom Correlation Functions for OT;;;Shweta Agrawal, Kaartik Bhushan, Geoffroy Couteau, Mahshid Riahinia;;;2026/877;;;last_year;;;none;;;2026-05-05;;;lattice
+Adaptively-Secure Flexible and Identity-Based Broadcast Encryption from Lattices;;;Rishab Goyal, Saikumar Yadugiri;;;2026/862;;;last_year;;;none;;;2026-05-02;;;lattice
+SoliloQuat: Throwing Caution to the Wind;;;Andrew Mendelsohn, Ben Nelson;;;2026/859;;;last_year;;;none;;;2026-05-01;;;lattice
+Lasagne: Practical Verifiable Computation over Encrypted Data;;;Xinxuan Zhang, Ruida Wang, Qingyun Niu, Peixin Liu, Xianhui Lu, Lutan Zhao, Rui Hou, Yi Deng;;;2026/857;;;last_year;;;none;;;2026-05-01;;;lattice
+MRFHE: Mixed-Radix Fully Homomorphic Encryption with Better Batch Bootstrapping;;;Jung Hee Cheon, Seungwan Hong, Minsik Kang, Jonghyun Kim, Taeseong Kim, Changmin Lee, Junho Lee;;;2026/853;;;last_year;;;none;;;2026-05-01;;;lattice
+Compressed FHE: Accelerating Encrypted Matrix Multiplication in CKKS with Precision-Balanced Low-Rank Factor Chains;;;Dimitrios Schoinianakis, Maryam Sabzevari;;;2026/845;;;last_year;;;none;;;2026-04-30;;;lattice
+All You Need Is Addition;;;Dimitrios Schoinianakis;;;2026/840;;;last_year;;;none;;;2026-04-29;;;lattice
+On the Resilience Order of Weightwise Almost Perfectly Balanced Functions;;;Martin Grenouilloux, Chunlei Li, Pierrick Méaux;;;2026/838;;;last_year;;;none;;;2026-04-29;;;lattice
+Detecting Post-Quantum and Hybrid TLS Deployments via Raw TLS Record Inspection;;;Muhammad Ibrahim, Vishnu Ajith, Muhammed Sihan Haroon;;;2026/834;;;last_year;;;none;;;2026-04-28;;;lattice
+Improving Correlation Power Analysis on Masked CRYSTALS-Kyber with Lattice Attack;;;Yen-Ting Kuo, Atsushi Takayasu;;;2026/820;;;last_year;;;none;;;2026-04-27;;;lattice
+SOLMAE: Lightweight Post-Quantum Signature based on NTRU lattices with Hybrid Sampling;;;Kwangjo Kim;;;2026/817;;;last_year;;;none;;;2026-04-25;;;lattice
+Suffix-Invariant Programmable PRFs and Applications to Stacked Garbling;;;Vipul Goyal, David Heath, Abhishek Jain, Yibin Yang;;;2026/815;;;last_year;;;none;;;2026-04-25;;;lattice
+Threshold Signatures as-a-Service: Achieving Threshold ML-DSA in One Online Round;;;Matthieu Rambaud, Sascha Roth, Antoine Urban;;;2026/814;;;last_year;;;none;;;2026-04-25;;;lattice
+Low-Depth Bootstrapping for Matrix-Native FHE;;;Rostin Shokri, Nektarios Georgios Tsoutsos;;;2026/811;;;last_year;;;none;;;2026-04-24;;;lattice
+Accelerating TFHE: Scalable Multiplication Algorithms and Efficient Carry Handling;;;Rostin Shokri, Nektarios Georgios Tsoutsos;;;2026/810;;;last_year;;;none;;;2026-04-24;;;lattice
+When Data Movement Becomes the Bottleneck in Modern Workloads: Compute-in-Transit as an Architectural Model;;;Flavio Bergamaschi;;;2026/807;;;last_year;;;none;;;2026-04-23;;;lattice
+X24 Down: Cryptanalysis of Hankel-based Multivariate Signatures;;;Alexandre Camelin, Thai Hung Le, Brice Minaud, Phong Q. Nguyen, Florian Tousnakhoff;;;2026/803;;;last_year;;;none;;;2026-04-23;;;code
+A Primer on Dependency in Polynomial Product: Identify, Exploit, and Trim;;;Yijian Liu, Jiangxia Ge, Yu Zhang, Jiabo Wang, Xianhui Lu;;;2026/802;;;last_year;;;none;;;2026-04-23;;;lattice
+On the Decoding Failure Rate of HQC;;;Alessandro Annechini, Alessandro Barenghi, Gerardo Pelosi;;;2026/795;;;last_year;;;none;;;2026-04-22;;;code
+Oriole: Adaptively Secure Partially Non-Interactive Threshold Signatures from Lattices;;;Kaijie Jiang, Hoeteck Wee, Chenzhi Zhu;;;2026/793;;;last_year;;;none;;;2026-04-22;;;lattice
+Batch-Puncturing Circuit CP-ABE (and More) from Lattices;;;Yongkang Lang, Fangguo Zhang, Jianghong Wei, Xinyi Huang, Xiaofeng Chen;;;2026/783;;;last_year;;;none;;;2026-04-21;;;lattice
+Panther: Robust Hybrid KEM Combiners via Structural Splicing;;;Basker Palaniswamy, Paolo Palmieri, Ashok Kumar Das;;;2026/781;;;last_year;;;none;;;2026-04-20;;;code,lattice
+Cobra: All-in-one for full-fledged defense — a hybrid nested KEM;;;Basker Palaniswamy, Paolo Palmieri, Ashok Kumar Das;;;2026/778;;;last_year;;;none;;;2026-04-20;;;code,lattice
+How Strong is the FO-Calypse, Really? Instantiating Plaintext-Checking Oracles against Masked Software Implementations of ML-KEM;;;Brieuc Balon, Gaëtan Cassiers, Thibaud Schoenauen, François-Xavier Standaert;;;2026/777;;;last_year;;;none;;;2026-04-20;;;lattice
+Towards More Efficient Registration-Based Encryption from LWE;;;Toi Tomita;;;2026/768;;;last_year;;;none;;;2026-04-19;;;lattice
+Cryptanalysis of the Sharafi–Daghigh digital signature scheme;;;Nour-eddine Rahmani, Taoufik Serraj, Abdelmalek Azizi;;;2026/767;;;last_year;;;none;;;2026-04-18;;;lattice
+CEDAR: A Compact and Efficient Decoder Architecture for RS-RM Code in HQC;;;Yazheng Tu, Tianyou Bao, Jiafeng Xie;;;2026/764;;;last_year;;;none;;;2026-04-18;;;code
+LEAH: Lightweight and Efficient Hardware Accelerator for Code-based PQC Scheme HQC;;;Yazheng Tu, Jiafeng Xie;;;2026/763;;;last_year;;;none;;;2026-04-18;;;code
+SPARQ: Scalable Privacy-preserving Aggregate Range Queries;;;Mahdieh Heidaripour, Maryam Rezapour, Benjamin Fuller, Hoda Maleki, Gagan Agrawal;;;2026/744;;;last_year;;;none;;;2026-04-15;;;lattice
+Tree Encodings I: How to Authenticate a Truth Table;;;Damiano Abram, Giulio Malavolta, Lawrence Roy;;;2026/741;;;last_year;;;none;;;2026-04-15;;;lattice
+Additive FFTs for HQC on ARM Cortex-M4, Revisited;;;Ming-Shing Chen, Tun-You Chien, Chun-Ming Chiu, Han-Hsuan Lin, Chun-Tao Peng, Bo-Yin Yang;;;2026/739;;;last_year;;;none;;;2026-04-15;;;code
+Compact Fully Asynchronous Updatable Public Key Encryption Scheme from Hamming Quasi-Cyclic Cryptosystem;;;Sanajit Patra, Ratna Dutta, Jayashree Dey;;;2026/736;;;last_year;;;none;;;2026-04-15;;;code
+Faster Logical Operations from Discrete CKKS;;;Jaehyung Kim;;;2026/732;;;last_year;;;none;;;2026-04-14;;;lattice
+Decomposition of Large Look-Up Tables for Fast Homomorphic Evaluation;;;Sonia Belaïd, Nicolas Bon, Matthieu Rivain;;;2026/724;;;last_year;;;none;;;2026-04-14;;;lattice
+(Mis)using the Lattice Isomorphism Problem. Cryptanalysis of the double-LIP and Construction of LIP-Based Blind Signatures;;;Veronika Kuchta, Francesco Sica;;;2026/722;;;last_year;;;none;;;2026-04-13;;;lattice
+Scalable Registration-Based Encryption from Lattices;;;Michael Klooß, Russell W. F. Lai, Jan Niklas Siemer, Monisha Swarnakar;;;2026/717;;;last_year;;;none;;;2026-04-13;;;lattice
+Drop-In Masked Modular Reduction for ML-DSA: Cutting Side-Channel Cost in the Root-of-Trust;;;Merve Karabulut, Reza Azarderakhsh;;;2026/711;;;last_year;;;none;;;2026-04-11;;;lattice
+Cross-Paradigm Models of Restricted Syndrome Decoding with Application to CROSS;;;Étienne Burle, Aleksei Udovenko;;;2026/705;;;last_year;;;none;;;2026-04-10;;;code,lattice
+GRAFHEN is not IND-CPA secure;;;Remi Geraud-Stewart;;;2026/700;;;last_year;;;none;;;2026-04-09;;;lattice
+HAWK with Hint: Algebraic Key Recovery from Side-Channel Leakage;;;Byoungchan Chi, Changmin Lee, Inhun Lee;;;2026/699;;;last_year;;;none;;;2026-04-09;;;lattice
+Breaking Optimized HQC: The First Cache-Timing Full Decryption Oracle Key-Recovery Attack in Post-Quantum Cryptography;;;Haiyue Dong, Qian Guo;;;2026/693;;;last_year;;;none;;;2026-04-08;;;code
+Evaluating PQC KEMs, Combiners, and Cascade Encryption via Adaptive IND-CPA Testing Using Deep Learning;;;Simon Calderon, Niklas Johansson, Onur Günlü;;;2026/689;;;last_year;;;none;;;2026-04-08;;;code,lattice
+Too Far Behind? Narrowing the Gap with a Dual-Enhanced Two-Stage Algebraic Algorithm for LWE;;;Rui-Jie Wang, Hong-Sen Yang, Zhong-Xiao Wang, Qun-Xiong Zheng, Ye-Chen Li;;;2026/688;;;last_year;;;none;;;2026-04-08;;;lattice
+Mergeable SNARGs for Trapdoor Languages and Their Applications;;;Zvika Brakerski, Maya Farber Brodsky, Omer Paneth, Tomer Solomon;;;2026/678;;;last_year;;;none;;;2026-04-07;;;lattice
+A note on the Unsuitability of LIGA for Linkable Ring Signatures: The perils of non-commutativity;;;Iñigo Diaz Iribarnegaray, Václav Gregor, Florian L’écu Leal;;;2026/671;;;last_year;;;none;;;2026-04-06;;;lattice
+Verification Facade: Masquerading Insecure Cryptographic Implementations as Verified Code;;;Nadim Kobeissi;;;2026/670;;;last_year;;;none;;;2026-04-06;;;lattice
+Signature Placement in Post-Quantum TLS Certificate Hierarchies: An Experimental Study of ML-DSA and SLH-DSA in TLS 1.3 Authentication;;;José Luis Delgado;;;2026/666;;;last_year;;;none;;;2026-04-05;;;lattice
+Applications of Bruhat-Chevalley-Renner Decomposition to Metric-Aware Code-Based Cryptography;;;Mahir Bilen Can, Eli Coe Naig;;;2026/665;;;last_year;;;none;;;2026-04-05;;;code
+Verifiable Divide-and-Conquer;;;Omer Paneth, Rafael Pass;;;2026/662;;;last_year;;;none;;;2026-04-05;;;lattice
+Improved Codes and Decoders for HQC;;;Sebastian Bitzer, Bharath Purtipli, Antonia Wachter-Zeh;;;2026/656;;;last_year;;;none;;;2026-04-04;;;code
+LWE is as Hard as Continuous LWE \& a Search-to-Decision Reduction;;;Prince Kirpa;;;2026/650;;;last_year;;;none;;;2026-04-03;;;lattice
+THED: Threshold Dilithium from FHE;;;Jai Hyun Park, Alain Passelègue, Damien Stehlé;;;2026/638;;;last_year;;;none;;;2026-04-01;;;lattice
+Low-Stack HAETAE for Memory-Constrained Microcontrollers;;;YoungBeom Kim, Christine van Vredendaal, Gustavo Banegas, Seog Chung Seo;;;2026/635;;;last_year;;;none;;;2026-04-01;;;lattice
+Progressive Sieving-Style Information-Set Decoding Algorithm;;;Tong Yu, Haodong Jiang, Hong Wang, Rongmao Chen, Qingfeng Cheng, Xinyi Huang, Yuefei Zhu;;;2026/633;;;last_year;;;none;;;2026-04-01;;;code,lattice
+Rethinking r-PKP: a New Formulation for the Relaxed Permuted Kernel Problem;;;Giuseppe D'Alconzo, Andrea Gangemi, Lorenzo Romano, Giuliano Romeo;;;2026/631;;;last_year;;;none;;;2026-03-31;;;code
+Asymptotic Analysis of Ternary Sparse LWE;;;Byoungchan Chi, Nathan Cho, Jiseung Kim, Changmin Lee;;;2026/630;;;last_year;;;none;;;2026-03-31;;;lattice
+Efficient Conflict-Free NTT Hardware Architecture with Single-Port RAMs: Applications to ML-DSA;;;Henrique S. Ogawa, Thales B. Paiva, Marcos A. Simplicio Jr, Syed M. Hafiz, Bahattin Yildiz;;;2026/621;;;last_year;;;none;;;2026-03-30;;;lattice
+Breaking the One-Way Property of a SHA-3 Implementation via Fault Injection: Key Recovery Attacks on Post-Quantum Digital Signatures;;;Mona Sobhani, Sönke Jendral, Elena Dubrova, Mats Näslund;;;2026/619;;;last_year;;;none;;;2026-03-30;;;code
+Spectral Method attacks Sparse LWE, Sparse LPN and Beyond;;;Shashwat Agrawal, Amitabha Bagchi, Rajendra Kumar;;;2026/614;;;last_year;;;none;;;2026-03-28;;;lattice
+Improving ML Attacks on LWE with Data Repetition and Stepwise Regression;;;Alberto Alfarano, Eshika Saxena, Emily Wenger, François Charton, Kristin Lauter;;;2026/612;;;last_year;;;none;;;2026-03-27;;;lattice
+Concrete Estimation of Correctness and IND-CPA-D Security for FHE via Rare Event Simulation;;;Mathieu Ballandras, Jean-Baptiste Orfila, Samuel Tap;;;2026/610;;;last_year;;;none;;;2026-03-27;;;lattice
+Post-Quantum Blockchains with Agility in Mind;;;Manuel B. Santos, Danno Ferrin, Ron Kahat, Michael Lodder;;;2026/609;;;last_year;;;none;;;2026-03-27;;;lattice
+Refined Approx-SVP Rank Reduction Conditions and Adaptive Lattice Reduction for MSIS Security Estimation;;;Xiaohan Zhang, Zijian Zhou, Longjiang Qu;;;2026/607;;;last_year;;;none;;;2026-03-27;;;lattice
+Oblivious SpaceSaving: Heavy-Hitter Detection over Fully Homomorphic Encryption;;;Sohaib .., Divyakant Agrawal, Amr El Abbadi;;;2026/603;;;last_year;;;none;;;2026-03-26;;;lattice
+Proving modern code-based dual attacks with second-order techniques;;;Charles Meyer-Hilfiger;;;2026/599;;;last_year;;;none;;;2026-03-26;;;code
+Efficiency Improvement of Deniable FHE: Tighter Deniability Analysis and TFHE-based Construction;;;Towa Toyooka, Yohei Watanabe, Mitsugu Iwamoto;;;2026/597;;;last_year;;;none;;;2026-03-26;;;lattice
+Performance Analysis of Parameterizable HQC Hardware Architecture;;;Nishant Pandey, Sanjay Deshpande, Dixit Dutt Bohra, Debapriya Basu Roy, Dip Sankar Banerjee, Jakub Szefer;;;2026/592;;;last_year;;;none;;;2026-03-25;;;code
+FrozenTRU: Cold Boot Attacks on NTRU-Based Hash-and-Sign Signatures;;;Hiroto Kaihara, Mehdi Tibouchi, Masayuki Abe;;;2026/582;;;last_year;;;none;;;2026-03-24;;;lattice
+Exploiting noisy single-bit leakage in ML-DSA;;;Kaveh Bashiri, Jan Geuenich, Johannes Mittmann;;;2026/580;;;last_year;;;none;;;2026-03-23;;;lattice
+A Universal Blinder: One-round Blind Signatures from FHE;;;Dan Boneh, Jaehyung Kim;;;2026/574;;;last_year;;;none;;;2026-03-23;;;lattice
+TAPAS: Efficient Two-Server Asymmetric Private Aggregation Beyond Prio(+);;;Harish Karthikeyan, Antigoni Polychroniadou;;;2026/564;;;last_year;;;none;;;2026-03-20;;;lattice
+New Approaches to Zero-Knowledge SNARG Constructions;;;Chaya Ganesh, Mor Weiss;;;2026/562;;;last_year;;;none;;;2026-03-20;;;lattice
+TP-NTT: Batch NTT Hardware with Application to Relinearization;;;Emre Koçer, Tolun Tosun, Beren Aydoğan, Erkay Savaş, Furkan Turan, Ingrid Verbauwhede;;;2026/556;;;last_year;;;none;;;2026-03-20;;;lattice
+Solving the Linear Code Equivalence Problem from Single Codeword Matching;;;Magali Bardet, Charles Brion, Ayoub Otmani, Mohamed Saeed, Nicolas Sendrier;;;2026/550;;;last_year;;;none;;;2026-03-19;;;code
+Look Ahead! Practical CCA-secure Steganography: Cover-Source Switching meets Lattice Gaussian Sampling;;;Russell W. F. Lai, Ivy K. Y. Woo, Hoover H. F. Yin;;;2026/549;;;last_year;;;none;;;2026-03-19;;;lattice
+HARE: Compact HQC via Distance-Informed Erasure Decoding;;;Tianrui Wang, Qicheng Teng, Anyu Wang, Jun Zhang, Bo Pang, Chunhuan Zhao, Sihuang Hu, Xiaoyun Wang;;;2026/544;;;last_year;;;none;;;2026-03-19;;;code
+Cheap Digit Decomposition and Large Plaintext Spaces in FHEW using Phase Splitting;;;Leonard Schild, Aysajan Abidin, Bart Preneel;;;2026/537;;;last_year;;;none;;;2026-03-17;;;lattice
+Ciphertext-Policy ABE for $\mathsf{NC}^1$ Circuits with Constant-Size Ciphertexts from Succinct LWE;;;Jiaqi Liu, Yuanyi Zhang, Fang-Wei Fu;;;2026/534;;;last_year;;;none;;;2026-03-17;;;lattice
+Full Secret Key Recovery of First-order Masked Crystals-Kyber implementation using multiple distinct chosen-ciphertexts;;;Souhayl Ben El Haj Soulami, Yann Connan, Sylvain Duquesne;;;2026/528;;;last_year;;;none;;;2026-03-16;;;lattice
+RISC-V based Vectorization of Classic McEliece Key Generation;;;Mahnaz Namazi Rizi, Nusa Zidaric, Lejla Batina, Nele Mentens;;;2026/523;;;last_year;;;none;;;2026-03-15;;;code
+Multi-Instance Security Degradation of Code-Based KEMs;;;Alexander May, Gabriel Sá Diogo;;;2026/517;;;last_year;;;none;;;2026-03-13;;;code
+Privacy at your Fingertips: Enabling Rapid Client-Side Operations in Fully Homomorphic Encryption;;;Aikata Aikata, Florian Krieger, Sujoy Sinha Roy;;;2026/515;;;last_year;;;none;;;2026-03-13;;;lattice
+FHorgEt: A Cryptographic Solution for Secure Machine Unlearning;;;David Balbás, Dario Fiore, Georgios Raikos, Damien Robissout, Claudio Soriente;;;2026/510;;;last_year;;;none;;;2026-03-12;;;lattice
+Compression And Decompression Under FHE Using Error-Correcting Codes and Copy-And-Recurse;;;Adi Akavia, Hayim Shaul, Ofer Shayevitz;;;2026/504;;;last_year;;;none;;;2026-03-11;;;lattice
+Efficient RLWE based Chosen-Ciphertext Secure Dual-Receiver Encryption and Sender-Binding KEM in the Standard Model;;;Laurin Benz, Robert Brede;;;2026/502;;;last_year;;;none;;;2026-03-11;;;lattice
+Linear Code Equivalence via Plücker Coordinates;;;Gessica Alecci, Giuseppe D'Alconzo;;;2026/495;;;last_year;;;none;;;2026-03-10;;;code
+SIMD HSS and aHMAC from Interval Encoding with Application to One-Bit-Per-Gate Garbling;;;Jaehyung Kim, Hanjun Li, Huijia Lin, Zeyu Liu;;;2026/485;;;last_year;;;none;;;2026-03-09;;;lattice
+A Hardware/Software Co-Optimization of HQC Using Tightly-Coupled Accelerators on a 32-bit Ibex Core;;;Seog Chung Seo, YoungBeom Kim;;;2026/478;;;last_year;;;none;;;2026-03-08;;;code
+Descent into Broken Trust: Uncovering ML-DSA Subkeys with Scarce Leakage and Local Optimization;;;Carsten Schubert, Niklas Julius Müller, Jean-Pierre Seifert, Marian Margraf;;;2026/472;;;last_year;;;none;;;2026-03-06;;;lattice
+Advanced cryptography from lattice isomorphism—new constructions of IBE and FHE;;;Huck Bennett, Zhengnan Lai, Noah Stephens-Davidowitz;;;2026/465;;;last_year;;;none;;;2026-03-05;;;lattice
+Icefish: Practical zk-SNARKs for Verifiable Genomics;;;Alexander Frolov, Maurice Shih, Rob Patro, Ian Miers;;;2026/463;;;last_year;;;none;;;2026-03-05;;;lattice
+Compact HQC with new (un)balance;;;Chaofeng Guan, Lan Luo, Haodong Jiang, Jianhua Hou, Tong Yu, Hong Wang, Kangquan Li, Longjiang Qu;;;2026/461;;;last_year;;;none;;;2026-03-05;;;code,lattice
+Naor-Yung Transform for IND-CCA Probing Security with Lattice Instantiations;;;Katharina Boudgoust, Laurent Imbert, Loïc Masure, Laz Panard;;;2026/459;;;last_year;;;none;;;2026-03-05;;;lattice
+Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU;;;Song Bian, Yintai Sun, Zian Zhao, Haowen Pan, Mingzhe Zhang, Zhenyu Guan;;;2026/456;;;last_year;;;none;;;2026-03-05;;;lattice
+A unified toolkit for advanced arithmetic in FHE;;;Lorenzo Rovida;;;2026/450;;;last_year;;;none;;;2026-03-04;;;lattice
+Memory-Efficient Implementation of SMAUG-T and HAETAE;;;Yulim Hyoung, Subeen Cho, Uijae Kim, Minwoo Lee, Hwajeong Seo, Minjoo Sim;;;2026/442;;;last_year;;;none;;;2026-03-04;;;lattice
+Performance Analysis of a Thread Pool-Based Parallel Execution Model for Hybrid Post-Quantum TLS 1.3 Handshakes;;;Si-Woo Eum, Min-Ho Song, Hwa-Jeong Seo;;;2026/440;;;last_year;;;none;;;2026-03-04;;;lattice
+Post-Quantum Anonymous Signatures from the Lattice Isomorphism Group Action;;;Chris van Noorden, Paola de Perthuis;;;2026/436;;;last_year;;;none;;;2026-03-03;;;lattice
+Finite Field Arithmetic for ML-KEM Using Zech's Logarithm;;;Masaaki Shirase;;;2026/432;;;last_year;;;none;;;2026-03-03;;;lattice
+An attack on the CFS scheme and on TII McEliece challenges;;;Magali Bardet, Axel Lemoine, Jean-Pierre Tillich;;;2026/430;;;last_year;;;none;;;2026-03-03;;;code
+Cryptanalysis of Polynomial Learning With Errors (PLWE): A Survey;;;Rahinatou Yuh Njah Nchiwo;;;2026/421;;;last_year;;;none;;;2026-03-02;;;lattice
+FALCON with message recovery, a specification;;;Felix Günther, Vadim Lyubashevsky, Rolfe Schmidt;;;2026/420;;;last_year;;;none;;;2026-03-02;;;lattice
+A White-Box Bootstrapping Approach for High Precision Comparison Over Homomorphic Encryption;;;Deokhwa Hong, Heesoo Lee, Young-Sik Kim, Yongwoo Lee;;;2026/418;;;last_year;;;none;;;2026-03-02;;;lattice
+Tweed: Adaptively Secure Lattice-Based Two-Round Threshold Signatures;;;Kaijie Jiang, Stefano Tessaro, Hoeteck Wee, Chenzhi Zhu;;;2026/417;;;last_year;;;none;;;2026-03-02;;;lattice
+An Ultra-Robust Privacy Preserving Scheme for Federated Learning using Distributed Homomorphic Encryption;;;Ikhlas Mastour, Layth Sliman, Boussad Ait Salem, Balthazar Bauer, Raoudha Ben Djemaa, Kamel Barkaoui;;;2026/416;;;last_year;;;none;;;2026-03-02;;;lattice
+Separating Non-Interactive Classical Verification of Quantum Computation from Falsifiable Assumptions;;;Mohammed Barhoush, Tomoyuki Morimae, Ryo Nishimaki, Takashi Yamakawa;;;2026/415;;;last_year;;;none;;;2026-02-28;;;lattice
+NIROPoK-Based Post-Quantum Sidechain Design on Ethereum;;;Hassan Khodaiemehr, Khadijeh Bagheri, Saeid Yazdinejad, Chen Feng;;;2026/401;;;last_year;;;none;;;2026-02-26;;;lattice
+Orthus: Practical Sublinear Batch-Verification of Lattice Relations from Standard Assumptions;;;Madalina Bolboceanu, Jonathan Bootle, Vadim Lyubashevsky, Antonio Merino-Gallardo, Gregor Seiler;;;2026/398;;;last_year;;;none;;;2026-02-26;;;lattice
+Anonymity of X-Wing and its Variants;;;Jiawei Bao, Jiaxin Pan;;;2026/396;;;last_year;;;none;;;2026-02-26;;;lattice
+Succinct Arguments for BatchQMA and Friends under 6 Rounds;;;Rishab Goyal, Aditya Jain, Shashwatha Mitra GB;;;2026/390;;;last_year;;;none;;;2026-02-25;;;lattice
+Lattice HD Wallets: Post-Quantum BIP32 Hierarchical Deterministic Wallets from Lattice Assumptions;;;Conor Deegan, James Fitzwater, Kamil Doruk Gur, David Nugent;;;2026/380;;;last_year;;;none;;;2026-02-24;;;lattice
+A Modular Approach to Succinct Arguments for QMA;;;James Bartusek, Jiahui Liu, Giulio Malavolta;;;2026/371;;;last_year;;;none;;;2026-02-23;;;lattice
+High-Precision Functional Bootstrapping for CKKS from Fourier Extension;;;Song Bian, Yunhao Fu, Ruiyu Shen, Haowen Pan, Anyu Wang, Zhenyu Guan;;;2026/367;;;last_year;;;none;;;2026-02-23;;;lattice
+Careful with the Ring: Enhanced Hybrid Decoding Attacks against Module/Ring-LWE;;;Jianhua Hou, Haodong Jiang;;;2026/366;;;last_year;;;none;;;2026-02-23;;;lattice
+LazyArc: Dynamic Out-of-Order Engine for High-Throughput FHE;;;Omar Ahmed, Nektarios Georgios Tsoutsos;;;2026/363;;;last_year;;;none;;;2026-02-23;;;lattice
+Janus-FHE: Reducing Microarchitectural Leakage in GPU-Based Homomorphic Encryption;;;Kashfia Farheen, Nektarios Georgios Tsoutsos;;;2026/362;;;last_year;;;none;;;2026-02-23;;;lattice
+Scytale: A Compiler Framework for Accelerating TFHE with Circuit Bootstrapping;;;Rostin Shokri, Nektarios Georgios Tsoutsos;;;2026/361;;;last_year;;;none;;;2026-02-23;;;lattice
+Publicly Certifiable Min-Entropy Without Quantum Communication;;;Ofer Casper, Barak Nehoran, Or Sattath;;;2026/356;;;last_year;;;none;;;2026-02-22;;;lattice
+Improved Reduction from RLWE to MP-LWE;;;Rahinatou Yuh Njah Nchiwo, Alice Pellet-Mary;;;2026/342;;;last_year;;;none;;;2026-02-20;;;lattice
+Syndrome Decoding with Hints;;;Letizia D'Achille, Andre Esser, Nicolai Kraus;;;2026/341;;;last_year;;;none;;;2026-02-20;;;code
+Multi-key Fully Homomorphic Encryption with Non-Interactive Setup in the Plain Model;;;Seonhong Min, Jeongeun Park, Yongsoo Song;;;2026/322;;;last_year;;;none;;;2026-02-19;;;lattice
+Distributed Monotone-Policy Encryption for DNFs from Lattices;;;Jeffrey Champion, David J. Wu;;;2026/318;;;last_year;;;none;;;2026-02-19;;;lattice
+GG-GSW: Chosen-Ciphertext Secure Leveled FHE From Gadget Trapdoors;;;Jérôme Nguyen;;;2026/316;;;last_year;;;none;;;2026-02-18;;;lattice
+Proving Knowledge of Syndrome Decoding Problems with Soundness;;;Felice Manganiello, Freeman Slaughter;;;2026/315;;;last_year;;;none;;;2026-02-18;;;code
+RISQrypt: Fast, Secure and Agile Hardware-Software Co-Design for Post-Quantum Cryptography;;;Tolun Tosun, Atıl Utku Ay, Quinten Norga, Suparna Kundu, Melik Yazıcı, Erkay Savaş, Ingrid Verbauwhede;;;2026/312;;;last_year;;;none;;;2026-02-18;;;lattice
+Hash Function Constructions from Lightweight Block Ciphers for Fully Homomorphic Encryption;;;Olivier Bernard, Marc Joye;;;2026/309;;;last_year;;;none;;;2026-02-18;;;lattice
+$\mathsf{TalonG}$: Bandwidth-Efficient Two-Round Threshold Signatures from Lattices;;;Liming Gao, Guofeng Tang, Dingding Jia, Yijian Liu, Bingqian Liu, Xianhui Lu, Kunpeng Wang, Yongjian Yin;;;2026/303;;;last_year;;;none;;;2026-02-18;;;lattice
+Non Interactive MPC, (Quantumly) Revisited;;;Prabhanjan Ananth, Divyanshu Bhardwaj, Aparna Gupte;;;2026/302;;;last_year;;;none;;;2026-02-18;;;lattice
+Quantum One Time Programs: Less Assumptions, More Feasibility and One Message 2PC;;;Prabhanjan Ananth, Divyanshu Bhardwaj;;;2026/300;;;last_year;;;none;;;2026-02-18;;;lattice
+CipherSkip: Efficient Sparse Matrix Multiplication with FHE;;;Wujie Xiong, Hao Zhou, Yutong Ye, Ruoming Jin, Lei Xu;;;2026/297;;;last_year;;;none;;;2026-02-18;;;lattice
+Quantum Oracle Distribution Switching and Applications to Falcon and Ring Signatures;;;Marvin Beckmann, Christian Majenz;;;2026/293;;;last_year;;;none;;;2026-02-17;;;lattice
+Tight Reductions for SIS-with-Hints Assumptions with Applications to Anonymous Credentials;;;Ngoc Khanh Nguyen, Jan Niklas Siemer;;;2026/291;;;last_year;;;none;;;2026-02-17;;;lattice
+How (not) to Switch FHE Schemes: Framework and Attacks in the IND-CPA-D Model;;;Giacomo Santato, Riccardo Zanotto;;;2026/285;;;last_year;;;none;;;2026-02-17;;;lattice
+On the Concrete Hardness Gap Between MLWE and LWE;;;Tabitha Ogilvie;;;2026/279;;;last_year;;;none;;;2026-02-16;;;lattice
+PhantomCrypt: Composing Existence and Content Deniability with Post-Quantum Envelope;;;Shahzad Ahmad, Stefan Rass, Zahra Seyedi;;;2026/275;;;last_year;;;none;;;2026-02-16;;;lattice
+Weighted Cryptography with Weight-Independent Complexity;;;Aarushi Goel, Swagata Sasmal, Mingyuan Wang;;;2026/273;;;last_year;;;none;;;2026-02-16;;;lattice
+Exact Error Analysis for Blind Rotation in Fully Homomorphic Encryption;;;Sin Kim, Seunghwan Lee, Dohyuk Kim, Dong-Joon Shin;;;2026/269;;;last_year;;;none;;;2026-02-16;;;lattice
+One Pair to Rule Them All: Towards an Optimal Algorithm for Solving Code Equivalence via Codeword Search;;;Alessandro Budroni, Andre Esser;;;2026/268;;;last_year;;;none;;;2026-02-16;;;code
+Dishonest-Majority Secure Computation via PIR-Authenticated Multiplication Triples;;;Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, Ariel Nof;;;2026/257;;;last_year;;;none;;;2026-02-13;;;code
+Adams Bridge Accelerator: Bridging the Post-Quantum Transition;;;Mojtaba Bisheh-Niasar, Emre Karabulut, Kiran Upadhyayula, Michael Norris, Bharat Pillilli;;;2026/256;;;last_year;;;none;;;2026-02-13;;;lattice
+On Compressing Linearly Shared Correlations;;;Geoffroy Couteau, Alexander Koch, Nikolas Melissaris, Peter Scholl, Sacha Servan-Schreiber, Xiaxi Ye;;;2026/255;;;last_year;;;none;;;2026-02-13;;;lattice
+On the Concrete Hardness of LWR with a Power of Two Modulus;;;Jules Baudrin, Rachelle Heim Boissier, François-Xavier Standaert;;;2026/250;;;last_year;;;none;;;2026-02-13;;;lattice
+Lightweight PQ KEM and Hybrid MQTT Protocol for 8-bit AVR Sensor Nodes;;;Yifan Dong, YoungBeom Kim, Jieyu Zheng, Zhichuang Liang, Boyue Fang, Seog Chung Seo, Maire O'Neill, Yunlei Zhao;;;2026/248;;;last_year;;;none;;;2026-02-13;;;lattice
+Neo and SuperNeo: Post-quantum folding with pay-per-bit costs over small fields;;;Wilson Nguyen, Srinath Setty;;;2026/242;;;last_year;;;none;;;2026-02-13;;;lattice
+Optimized Implementations of Keccak, Kyber, and Dilithium on the MSP430 Microcontroller;;;DongHyun Shin, YoungBeom Kim, Ayesha Khalid, Máire O'Neill, Seog Chung Seo;;;2026/235;;;last_year;;;none;;;2026-02-12;;;lattice
+FHE for SIMD Arithmetic Logic Units with Amortized $O(1)$ Bootstrapping per Ciphertext;;;Mingyu Gao, Hongren Zheng;;;2026/233;;;last_year;;;none;;;2026-02-12;;;lattice
+RAGtime-PIANO: Efficient Secure Remote RAG;;;Antonia Januszewicz, Jiachen Zhao, Meng Jiang, Taeho Jung;;;2026/231;;;last_year;;;none;;;2026-02-11;;;lattice
+Round-Optimal Identity-Based Blind Signature from Module Lattice Assumptions;;;Arup Mazumder, Mrittika Nandi, Shashank Singh;;;2026/226;;;last_year;;;none;;;2026-02-11;;;lattice
+Solving SIS in any norm via Gaussian sampling;;;Maiara F. Bollauf, Amaury Pouly, Yixin Shen;;;2026/225;;;last_year;;;none;;;2026-02-11;;;lattice
+Isochronous Fixed-Weight Sampling in Hardware;;;Adrian Marotzke;;;2026/218;;;last_year;;;none;;;2026-02-10;;;code,lattice
+Orbit: Optimizing Rescale and Bootstrap Placement with Integer Linear Programming Techniques for Secure Inference;;;Zikai Zhou, William Seo, Edward Chen, Alex Ozdemir, Fraser Brown, Wenting Zheng;;;2026/213;;;last_year;;;none;;;2026-02-10;;;lattice
+How to Classically Verify a Quantum Cat without Killing It;;;Yael Tauman Kalai, Dakshita Khurana, Justin Raizes;;;2026/210;;;last_year;;;none;;;2026-02-09;;;lattice
+Malicious Private Set Union with Two-Sided Output;;;Sihang Pu, Jiahui Gao, Ni Trieu;;;2026/204;;;last_year;;;none;;;2026-02-09;;;lattice
+Impossibility of CPAD security for a class of FHE schemes;;;Marina Checri, Pierre-Emmanuel Clet, Marc Renard, Renaud Sirdey;;;2026/203;;;last_year;;;none;;;2026-02-08;;;lattice
+ELLMo: Packing- and Depth-Aware Encrypted Transformer Inference;;;Seyda Nur Guzelhan, Lohit Daksha, Carlos Agulló Domingo, Gilbert Jonatan, John Kim, Jose L. Abellan, David Kaeli, Ajay Joshi;;;2026/198;;;last_year;;;none;;;2026-02-07;;;lattice
+Faster Pseudorandom Correlation Generators via Walsh-Hadamard Transform;;;Zhe Li, Hongqing Liu, Chaoping Xing, Yizhou Yao, Chen Yuan;;;2026/196;;;last_year;;;none;;;2026-02-06;;;code
+The HyperFrog Cryptosystem: High-Genus Voxel Topology as a Trapdoor for Post-Quantum KEMs;;;Victor Duarte Melo;;;2026/195;;;last_year;;;none;;;2026-02-06;;;lattice
+Verification Theatre: False Assurance in Formally Verified Cryptographic Libraries;;;Nadim Kobeissi;;;2026/192;;;last_year;;;none;;;2026-02-05;;;lattice
+A Visit to KAZ Attack: Finding a Minor Flaw and a Simplified Lattice Construction;;;Yongbo Hu, Chen Zhang, Guomiao Zhou;;;2026/188;;;last_year;;;none;;;2026-02-05;;;lattice
+Succinct Non-interactive Arguments of Proximity;;;Liyan Chen, Zhengzhong Jin, Daniel Wichs;;;2026/184;;;last_year;;;none;;;2026-02-04;;;lattice
+A Practical Neighborhood Search Attack on Oracle MLWE;;;Hongxiao Wang, Muhammed F. Esgin, Ron Steinfeld, Markku-Juhani O. Saarinen, Siu-Ming Yiu;;;2026/177;;;last_year;;;none;;;2026-02-03;;;lattice
+STIP: Efficient and Secure Non-Interactive Transformer Inference via Compact Packing;;;Zihao Wang, Rongmao Chen, Xinwen Gao, Yi Wang, Lin Liu, Zixin Lan, Zhaoyu Wang, Shaojing Fu, Qiong Wang, Xinyi Huang;;;2026/174;;;last_year;;;none;;;2026-02-03;;;lattice
+gcVM: Publicly Auditable MPC via Garbled Circuits with Applications to Private EVM-Compatible Computation;;;Avishay Yana, Meital Levy, Mike Rosulek, Hila Dahari-Garbian;;;2026/170;;;last_year;;;none;;;2026-02-02;;;lattice
+CommentonTechRxiv preprint 1374260 (DOI: 10.36227/techrxiv.176765338.86836807/v1): “Dimension Padding as a Structural Countermeasure to Linear Inversion in Dual-Public-Key Code-Based Cryptosystems”;;;Mohammad Sadegh Ghorlivandzadeh;;;2026/163;;;last_year;;;none;;;2026-01-31;;;code
+Dinocchio: Distributed Prover for Ring Arithmetic;;;Katerina Sotiraki, Yunhao Wang, Fan Zhang;;;2026/159;;;last_year;;;none;;;2026-01-30;;;lattice
+Hachi: Efficient Lattice-Based Multilinear Polynomial Commitments over Extension Fields;;;Ngoc Khanh Nguyen, George O'Rourke, Jiapeng Zhang;;;2026/156;;;last_year;;;none;;;2026-01-30;;;lattice
+Module Learning With Errors and Structured Extrapolated Dihedral Cosets;;;Weiqiang Wen, Jinwei Zheng;;;2026/155;;;last_year;;;none;;;2026-01-30;;;lattice
+BOLT: Bootstrapping-Aware Logic Resynthesis and Technology Mapping for Efficient TFHE Circuits;;;Bhuvnesh Chaturvedi, Ayantika Chatterjee, Anupam Chattopadhyay, Debdeep Mukhopadhyay;;;2026/153;;;last_year;;;none;;;2026-01-30;;;lattice
+On the Necessity of Public Contexts in Hybrid KEMs: A Case Study of X-Wing;;;Taehun Kang, Changmin Lee, Yongha Son;;;2026/140;;;last_year;;;none;;;2026-01-29;;;lattice
+Randomness-Recovery Trapdoors: a new methodology for enhancing anamorphic encryption;;;Xuan Thanh Do, Giuseppe Persiano, Duong Hieu Phan, Moti Yung;;;2026/135;;;last_year;;;none;;;2026-01-28;;;lattice
+Subspace Guessing and Rank-Metric Solvers with Hints;;;Anmoal Porwal, Harrison Banda, Jan Brinkmann, Anna Baumeister, Juliane Krämer, Antonia Wachter-Zeh;;;2026/132;;;last_year;;;none;;;2026-01-27;;;code
+Faultless Key Recovery: Iteration-Skip and Loop-Abort Fault Attacks on LESS;;;Xiao Huang, Zhuo Huang, Yituo He, Quan Yuan, Chao Sun, Mehdi Tibouchi, Yu Yu;;;2026/117;;;last_year;;;none;;;2026-01-24;;;code
+Generating Falcon Trapdoors via Gibbs Sampler;;;Chao Sun, Thomas Espitau, Junjie Song, Jinguang Han, Mehdi Tibouchi;;;2026/116;;;last_year;;;none;;;2026-01-24;;;lattice
+PETCHA: Post-quantum Efficient Transciphering with ChaCha;;;Antonio Guimarães, Gabriela M. Jacob, Hilder V. L. Pereira;;;2026/112;;;last_year;;;none;;;2026-01-23;;;lattice
+Veriﬁed non-recursive calculation of Beneš networks applied to Classic McEliece;;;Wrenna Robson, Samuel Kelly;;;2026/107;;;last_year;;;none;;;2026-01-23;;;code
+Privacy-Preserving LLM Inference in Practice: A Comparative Survey of Techniques, Trade-Offs, and Deployability;;;Davide Andreoletti, Alessandro Rudi, Emanuele Carpanzano, Francesco Lelli, Tiziano Leidi;;;2026/105;;;last_year;;;none;;;2026-01-22;;;lattice
+When Only Parts Matter: Efficient Privacy-Preserving Analytics with Fully Homomorphic Encryption;;;Alexandros Bakas, Dimitrios Schoinianakis;;;2026/103;;;last_year;;;none;;;2026-01-22;;;lattice
+Secure Computation for Fixed-point and Floating-point Arithmetic;;;Tianpei Lu, Bingsheng Zhang, Yuyang Feng, Kui Ren;;;2026/102;;;last_year;;;none;;;2026-01-22;;;lattice
+Structured Module Lattice-based Cryptography;;;Joppe W. Bos, Joost Renes, Frederik Vercauteren, Peng Wang;;;2026/098;;;last_year;;;none;;;2026-01-21;;;lattice
+Revisiting the Concrete Security of Falcon-type Signatures;;;Huiwen Jia, Shiduo Zhang, Yang Yu, Chunming Tang;;;2026/096;;;last_year;;;none;;;2026-01-21;;;lattice
+Optimized Implementation of ML-KEM on ARMv9-A with SVE2 and SME;;;Hanyu Wei, Wenqian Li, Shiyu Shen, Hao Yang, Yunlei Zhao;;;2026/093;;;last_year;;;none;;;2026-01-20;;;lattice
+Tag-Friendly Lattice Sampler and Applications;;;Corentin Jeudy, Olivier Sanders;;;2026/083;;;last_year;;;none;;;2026-01-19;;;lattice
+Rank Syndrome Decoding Estimator - An Asymptotic and Concrete Analysis;;;Andre Esser, Javier Verbel, Ricardo Villanueva-Polanco;;;2026/082;;;last_year;;;none;;;2026-01-19;;;code
+HYPERSHIELD: Protecting the Hypercube MPC-in-the-Head Framework Against Differential Probing Adversaries without Masking;;;Linda Pirker, Quinten Norga, Suparna Kundu, Anindya Ganguly, Barry van Leeuwen, Angshuman Karmakar, Ingrid Verbauwhede;;;2026/081;;;last_year;;;none;;;2026-01-19;;;code
+Lether: Practical Post-Quantum Account-Based Private Blockchain Payments;;;Hongxiao Wang, Muhammed F. Esgin, Ron Steinfeld, Siu-Ming Yiu;;;2026/076;;;last_year;;;none;;;2026-01-17;;;lattice
+Codeword Masking Can Be Harmful Under Replay Attacks on HQC;;;Jaeho Jeon, Yongseong Park, Jaeyeon Lee, Suseong Lee, Donghyen Kim, Young-Sik Kim;;;2026/071;;;last_year;;;none;;;2026-01-16;;;code
+Unlocking the True Potential of Decryption Failure Oracles: A Hybrid Adaptive-LDPC Attack on ML-KEM Using Imperfect Oracles;;;Qian Guo, Denis Nabokov, Thomas Johansson;;;2026/070;;;last_year;;;none;;;2026-01-16;;;lattice
+qFALL – Rapid Prototyping of Lattice-based Cryptography;;;Marvin Beckmann, Phil Milewski, Laurens Porzenheim, Marcel Luca Schmidt, Jan Niklas Siemer;;;2026/069;;;last_year;;;none;;;2026-01-16;;;lattice
+Practical Amortized Bootstrapping for NTRU-Based FHE;;;Wun-Ting Lin, Ja-Ling Wu;;;2026/068;;;last_year;;;none;;;2026-01-16;;;lattice
+Breaking the KAZ Suite: Practical Key Recovery Attacks on MySEAL 2.0’s Post-Quantum Candidates;;;Zhuo Huang, Chongrong Li, Yu Yu, Xiaogang Zhou;;;2026/064;;;last_year;;;none;;;2026-01-16;;;lattice
+(Fine-Grained) Unbounded Inner-Product Functional Encryption from LWE;;;Valerio Cini, Erkan Tairi;;;2026/062;;;last_year;;;none;;;2026-01-15;;;lattice
+Timed Commitments and Timed Encryption: Generic Constructions and Instantiations from Isogenies;;;Mingjie Chen, Jonas Meers;;;2026/057;;;last_year;;;none;;;2026-01-14;;;lattice
+Rejection Matters: Efficient Non-Profiling Side-Channel Attack on ML-DSA via Exploiting Public Templates;;;Yuhan Zhao, Wei Cheng, Zehua Qiao, Yuejun Liu, Yongbin Zhou;;;2026/056;;;last_year;;;none;;;2026-01-14;;;lattice
+Kilobyte-Bandwidth Subliminal Channels in FIPS 204 ML-DSA via Packed-Commitment Embedding;;;Mounir IDRASSI;;;2026/053;;;last_year;;;none;;;2026-01-13;;;lattice
+Masked Solving of Linear Equations System and Application to UOV Signatures;;;Jean-Sébastien Coron, François Gérard, Bowen Zhang;;;2026/048;;;last_year;;;none;;;2026-01-12;;;lattice
+SoK of Private Deep Neural Network Inference with Approximate Fully Homomorphic Encryption;;;Zaira Pindado, Thomas Spendlhofer, Mohamed Allam, Priyam Mehta, Lena Martens, Antonio J. Peña;;;2026/047;;;last_year;;;none;;;2026-01-12;;;lattice
+Euston: Efficient and User-Friendly Secure Transformer Inference with Non-Interactivity;;;Xinwen Gao, Shaojing Fu, Lin Liu, Zhuotao Liu, Yuchuan Luo, Yongjun Wang;;;2026/046;;;last_year;;;none;;;2026-01-12;;;lattice
+Jindo: Practical Lattice-Based Polynomial Commitments for Client-Side Proving;;;Intak Hwang, Hyeonbum Lee, Jinyeong Seo, Yongsoo Song;;;2026/044;;;last_year;;;none;;;2026-01-12;;;lattice
+Benchmarking of the Amortized Post Quantum Combiner for MLS;;;Britta Hale, Xisen Tian, Lee Wang;;;2026/034;;;last_year;;;none;;;2026-01-08;;;lattice
+Faster Short Pairing-Based NIZK Proofs for Ring LWE Ciphertexts;;;Olivier Bernard, Sarah Elkazdadi, Benoit Libert, Arthur Meyre, Jean-Baptiste Orfila, Nicolas Sarlin;;;2026/033;;;last_year;;;none;;;2026-01-08;;;lattice
+On Threshold Fully Homomorphic Encryption with Synchronized Decryptors;;;François Colin de Verdière, Alain Passelègue, Damien Stehlé;;;2026/031;;;last_year;;;none;;;2026-01-08;;;lattice
+Incremental Single-Server Private Information Retrieval;;;Pengfei Lu, Guangwu Xu, Zengpeng Li, Mei Wang, Haoyu Cui;;;2026/030;;;last_year;;;none;;;2026-01-08;;;lattice
+Practical SNARGs for Matrix Multiplications over Encrypted Data;;;Louis Tremblay Thibault, Michael Walter, Jiapeng Zhang;;;2026/027;;;last_year;;;none;;;2026-01-07;;;lattice
+JAGUAR: Efficient and Secure Unbalanced PSI under Malicious Adversaries in the Client-Server Setting;;;Weizhan Jing, Xiaojun Chen, Xudong Chen, Ye Dong, Qiang Liu, Tingyu Fan;;;2026/025;;;last_year;;;none;;;2026-01-07;;;lattice
+IND-CCA Lattice Threshold KEM under 30 KiB;;;Katharina Boudgoust, Oleksandra Lapiha, Rafaël del Pino, Thomas Prest;;;2026/021;;;last_year;;;none;;;2026-01-06;;;lattice
+Subversion-resilient Key-exchange in the Post-quantum World;;;Kévin Duverger, Pierre-Alain Fouque, Charlie Jacomme, Guilhem Niot, Cristina Onete;;;2026/019;;;last_year;;;none;;;2026-01-06;;;lattice
+Accelerating HQC with Additive FFT;;;Ming-Shing Chen, Chun-Ming Chiu, Chun-Tao Peng, Bo-Yin Yang;;;2026/014;;;last_year;;;none;;;2026-01-05;;;code
+Efficient Threshold ML-DSA;;;Sofía Celi, Rafaël del Pino, Thomas Espitau, Guilhem Niot, Thomas Prest;;;2026/013;;;last_year;;;none;;;2026-01-05;;;lattice
+HIGH: Harnessing GPU Parallelism for Optimized HQC Performance;;;Jiankuo Dong, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin;;;2026/012;;;last_year;;;none;;;2026-01-05;;;code
+SNARGs for NP and Non-Signaling PCPs, Revisited;;;Lalita Devadas, Samuel B. Hopkins, Yael Tauman Kalai, Pravesh K. Kothari, Alex Lombardi, Surya Mathialagan;;;2026/006;;;last_year;;;none;;;2026-01-03;;;lattice
+Batch Arguments with Optimal Communication;;;Nico Döttling, Giulio Malavolta, Omer Paneth;;;2026/003;;;last_year;;;none;;;2026-01-01;;;lattice
+ML-DSA-OSH: An Efficient, Open-Source Hardware Implementation of ML-DSA;;;Quinten Norga, Suparna Kundu, Ingrid Verbauwhede;;;2025/2337;;;last_year;;;none;;;2025-12-30;;;lattice
+Compact Adaptively Secure Identity-Based Encryption from Middle-Product Learning with Errors;;;Jingjing Fan, Xingye Lu, Man Ho Au, Siu Ming Yiu;;;2025/2336;;;last_year;;;none;;;2025-12-30;;;lattice
+SUMSIG: Compact Code-Based Signatures from Sum-Check Protocols;;;Debrup Chatterjee;;;2025/2331;;;last_year;;;none;;;2025-12-28;;;code
+Micali’s SNARG, Function Vector Commitments, and Fiat–Shamir;;;Ziyi Guan, Eylon Yogev;;;2025/2328;;;last_year;;;none;;;2025-12-26;;;lattice
+SHAFT: Secure, Handy, Accurate, and Fast Transformer Inference;;;Andes Y. L. Kei, Sherman S. M. Chow;;;2025/2324;;;last_year;;;none;;;2025-12-25;;;lattice
+High-Precision Exact FHE Made Simple, General, and Fast;;;Chris Peikert, Doron Zarchy, Guy Zyskind;;;2025/2321;;;last_year;;;none;;;2025-12-24;;;lattice
+InstantOMR: Oblivious Message Retrieval with Low Latency and Optimal Parallelizability;;;Haofei Liang, Zeyu Liu, Eran Tromer, Xiang Xie, Yu Yu;;;2025/2317;;;last_year;;;none;;;2025-12-23;;;lattice
+Accelerating NTRU-based Bootstrapping with Block Key Distributions;;;Jingwei Feng, Baofeng Wu, Dongdai Lin, Binwu Xiang;;;2025/2311;;;last_year;;;none;;;2025-12-23;;;lattice
+RACE: A Rapid ARM Cryptographic Engine for Code-Based Classic McEliece PQC Scheme;;;Wen Wu, Jiankuo Dong, Xuecheng Liu, Shuzhou Sun, Zhenjiang Dong, Jingqiang Lin, Fu Xiao;;;2025/2310;;;last_year;;;none;;;2025-12-23;;;code
+On the Concrete Practicality of Post-Quantum Multi-Authority Attribute-Based Encryption;;;Hassan Nasiraee;;;2025/2309;;;last_year;;;none;;;2025-12-23;;;lattice
+Succinct Garbled Circuits with Low-Depth Garbling Algorithms;;;Hanjun Li, Huijia Lin, George Lu;;;2025/2308;;;last_year;;;none;;;2025-12-23;;;lattice
+Computationally Succinct Authentication from DCR: Attribute-Based Laconic Function Evaluation and More;;;Pierre Meyer, Claudio Orlandi, Lawrence Roy, Peter Scholl;;;2025/2307;;;last_year;;;none;;;2025-12-22;;;lattice
+Fully Distributed Multi-Point Functions for PCGs and Beyond;;;Amit Agarwal, Srinivasan Raghuraman, Peter Rindal;;;2025/2294;;;last_year;;;none;;;2025-12-19;;;lattice
+LAKE: Lattice-Code Accelerated Kyber Encapsulation;;;Hassan Nasiraee;;;2025/2293;;;last_year;;;none;;;2025-12-19;;;lattice
+Achieving CPAD security for BFV: a pragmatic approach;;;Jean-Paul Bultel, Marina Checri, Caroline Fontaine, Marc Renard, Renaud Sirdey, Oana Stan;;;2025/2288;;;last_year;;;none;;;2025-12-19;;;lattice
+Laminate: Succinct SIMD-Friendly Verifiable FHE;;;Kabir Peshawaria, Zeyu Liu, Ben Fisch, Eran Tromer;;;2025/2285;;;last_year;;;none;;;2025-12-19;;;lattice
+Meta-PBS: Compact High-Precision Programmable Bootstrapping;;;Shihe Ma, Tairong Huang, Anyu Wang, Changtong Xu, Tao Wei, Xiaoyun Wang;;;2025/2284;;;last_year;;;none;;;2025-12-19;;;lattice
+On the representation of self-orthogonal codes and applications to cryptography;;;Marco Baldi, Rahmi El Mechri, Paolo Santini, Riccardo Schiavoni;;;2025/2279;;;last_year;;;none;;;2025-12-18;;;code,lattice
+ARION: Attention-Optimized Transformer Inference on Encrypted Data;;;Linhan Yang, Jingwei Chen, Wangchen Dai, Shuai Wang, Wenyuan Wu, Yong Feng;;;2025/2271;;;last_year;;;none;;;2025-12-18;;;lattice
+Accelerating FrodoKEM in Hardware;;;Sanjay Deshpande, Patrick Longa, Jakub Szefer;;;2025/2269;;;last_year;;;none;;;2025-12-17;;;lattice
+Certified-Everlasting Quantum NIZK Proofs;;;Nikhil Pappu;;;2025/2262;;;last_year;;;none;;;2025-12-16;;;lattice
+HQC Beyond the Standard: Ciphertext Compression and Refined DFR Analysis;;;Sebastian Bitzer, Jean-Christophe Deneuville, Emma Munisamy, Bharath Purtipli, Stefan Ritterhoff, Antonia Wachter-Zeh;;;2025/2259;;;last_year;;;none;;;2025-12-16;;;code,lattice
+\textsc{Npir}: High-Rate PIR for Databases with Moderate-Size Records;;;Yuliang Lin, Baosheng Wang, Yi Wang, Rongmao Chen;;;2025/2257;;;last_year;;;none;;;2025-12-16;;;lattice
+Scalable Private Set Intersection over Distributed Encrypted Data;;;Seunghun Paik, Nirajan Koirala, Jack Nero, Hyunjung Son, Yunki Kim, Jae Hong Seo, Taeho Jung;;;2025/2256;;;last_year;;;none;;;2025-12-16;;;lattice
+Rejection-Free Framework of Zero-Knowledge Proof Based on Hint-MLWE;;;Antoine Douteau, Adeline Roux-Langlois;;;2025/2239;;;last_year;;;none;;;2025-12-12;;;lattice
+MLWE’s impact on Web Metrics, mTLS TTLB, and AWS service endpoint connections;;;Mila Anastasova, Panos Kampanakis;;;2025/2235;;;last_year;;;none;;;2025-12-11;;;lattice
+Toward Practical Lattice-based Unbounded Inner Product Functional Encryption: Construction and Implementation;;;Suprava Roy, Ratna Dutta;;;2025/2232;;;last_year;;;none;;;2025-12-11;;;lattice
+Time Memory Trade-off For Enumeration;;;Yuanmi Chen, Zhao Chen, Tingting Guo, Chao Sun, Weiqiang Wen, Yu Yu;;;2025/2227;;;last_year;;;none;;;2025-12-10;;;lattice
+Learning with Errors with Output Dependencies: LWE, LWR, and Physical Learning Problems under the Same Umbrella;;;Clément Hoffmann, Pierrick Méaux, Mélissa Rossi, François-Xavier Standaert;;;2025/2225;;;last_year;;;none;;;2025-12-10;;;lattice
+Sparse Vector Reconstruction from Distance Spectrum using Soft Information;;;Magali Salom, Nicolas Sendrier, Valentin Vasseur;;;2025/2221;;;last_year;;;none;;;2025-12-09;;;code
+The Syndrome Weight Distribution in Quasi-Cyclic Codes, Applications to BIKE and HQC;;;Antoine Mesnard, Jean-Pierre Tillich, Valentin Vasseur;;;2025/2218;;;last_year;;;none;;;2025-12-09;;;code
+Obfuscating Pseudorandom Functions is Post-Quantum Complete;;;Pedro Branco, Abhishek Jain, Akshayaram Srinivasan;;;2025/2215;;;last_year;;;none;;;2025-12-08;;;lattice
+Accelerating TFHE with Sorted Bootstrapping Techniques;;;Loris Bergerat, Jean-Baptiste Orfila, Adeline Roux-Langlois, Samuel Tap;;;2025/2214;;;last_year;;;none;;;2025-12-08;;;lattice
+Vectorized SVE2 Optimization of the Post-Quantum Signature ML-DSA on ARMv9-A Architecture;;;Hanyu Wei, Wenqian Li, Shiyu Shen, Hao Yang, Wenbo Guo, Yunlei Zhao;;;2025/2208;;;last_year;;;none;;;2025-12-08;;;lattice
+On $k$-sum algorithms for $\{-1,1\}^m$ vectors;;;Pabasara Athukorala, Steven D. Galbraith;;;2025/2201;;;last_year;;;none;;;2025-12-05;;;lattice
+Privacy-Preserving Identifier Checking in 5G;;;Marcel D.S.K. Gräfenstein, Stefan Köpsell, Maryam Zarezadeh;;;2025/2200;;;last_year;;;none;;;2025-12-05;;;lattice
+Refined Modelling of the Primal Attack, and Variants Against Module-Learning With Errors;;;Paola de Perthuis, Filip Trenkić;;;2025/2195;;;last_year;;;none;;;2025-12-03;;;lattice
+An Improved Quantum Algorithm for 3-Tuple Lattice Sieving;;;Lynn Engelberts, Yanlin Chen, Amin Shiraz Gilani, Maya-Iggy van Hoof, Stacey Jeffery, Ronald de Wolf;;;2025/2189;;;last_year;;;none;;;2025-12-02;;;lattice
+Hardware Implementation of Stealthy and Lightweight Backdoor for CRYSTALS-Kyber;;;Suraj Mandal, Prasanna Ravi, M Dhilipkumar, Debapriya Basu Roy, Anupam Chattopadhyay;;;2025/2183;;;last_year;;;none;;;2025-12-02;;;lattice
+SVP$_p$ is Deterministically NP-Hard for all $p > 2$, Even to Approximate Within a Factor of $2^{\log^{1-\varepsilon} n}$;;;Isaac M Hair, Amit Sahai;;;2025/2181;;;last_year;;;none;;;2025-12-01;;;lattice
+Weight of Polynomial Products Mod $(X^n+1)$-Application to the HQC Cryptosystem-;;;Laila El Aimani;;;2025/2180;;;last_year;;;none;;;2025-12-01;;;code
+PQCUARK: A Scalar RISC-V ISA Extension for ML-KEM and ML-DSA;;;Xavier Carril, Alicia Manuel Pasoot, Emanuele Parisi, Carlos Andrés Lara-Niño, Oriol Farràs, Miquel Moretó;;;2025/2178;;;last_year;;;none;;;2025-12-01;;;lattice
+Extended Abstract: NICE-PAKE and TEMPO Instantiations from MLWE Rerandomizable Splittable KEMs;;;Nouri Alnahawi, Alexander Wiesmaier;;;2025/2175;;;last_year;;;none;;;2025-12-01;;;lattice
+Hybrid Subsupport Guessing: A New Hybrid Technique for the Rank Decoding Problem;;;Hugo Beeloo-Sauerbier Couvée, Antonia Wachter-Zeh, Violetta Weger;;;2025/2168;;;last_year;;;none;;;2025-11-28;;;code
+1-Adaptive Weak Pseudorandom Functions;;;Davide Li Calsi, Dominique Schröder, Julian Thomas;;;2025/2167;;;last_year;;;none;;;2025-11-28;;;lattice
+You Only Decapsulate Once: Ciphertext-Independent Single-Trace Passive Side-Channel Attacks on HQC;;;Zhenzhi Lai, Ruiyi Zhang, Zhiyuan Zhang, Julius Hermelink, Michael Schwarz, Van-Thuan Pham, Udaya Parampalli;;;2025/2162;;;last_year;;;none;;;2025-11-28;;;code
+One Fell Swoop: A Single-Trace Key-Recovery Attack on the Falcon Signing Algorithm;;;Kang Li, Shouran Ma, Haochen Dou, Qian Guo;;;2025/2159;;;last_year;;;none;;;2025-11-27;;;lattice
+Efficient Batched IBE from Lattices in the Standard Model;;;Saisi Xiong, Jie Chen;;;2025/2158;;;last_year;;;none;;;2025-11-27;;;lattice
+Taming the Stack: Proof-Preserving Blockwise FrodoKEM on RISC-V Devices with Hardware Acceleration;;;Frank Hartmann;;;2025/2157;;;last_year;;;none;;;2025-11-27;;;lattice
+Optimal Threshold Traitor Tracing;;;Sourav Das, Pratish Datta, Aditi Partap, Swagata Sasmal, Mark Zhandry;;;2025/2154;;;last_year;;;none;;;2025-11-26;;;lattice
+Semigroup-homomorphic Signature;;;Heng Guo, Kun Tian, Fengxia Liu, Zhiyong Zheng;;;2025/2153;;;last_year;;;none;;;2025-11-26;;;lattice
+Hardness of Problems with Hints in Code-Based Cryptography and Applications to Traitor Tracing;;;Thomas Debris-Alazard, Victor Dyseryn, Duong Hieu Phan;;;2025/2151;;;last_year;;;none;;;2025-11-25;;;code,lattice
+Low-Latency Fully Homomorphic Arithmetic Using Parallel Prefix Group Circuit with Primitive Gate Bootstrapping;;;Dohyuk Kim, Sin Kim, Seunghwan Lee, Dong-Joon Shin;;;2025/2150;;;last_year;;;none;;;2025-11-25;;;lattice
+New Post-Quantum IBE leveraging maturity, efficiency and security of standard schemes;;;Julien CAM;;;2025/2143;;;last_year;;;none;;;2025-11-23;;;lattice
+Nostalgia Cipher: Can Filtered LFSRs Be Secure Again? An Application to Hybrid Homomorphic Encryption with Sub-50 ms Latency;;;Nabil Chacal, Antonio Guimarães, Ange Martinelli, Pierrick Méaux, Romain Poussier;;;2025/2140;;;last_year;;;none;;;2025-11-23;;;lattice
+Scalable Private World Computer via Root iO: Application-Agnostic iO and Our Roadmap for Making It Practical;;;Sora Suegami, Enrico Bottazzi;;;2025/2139;;;last_year;;;none;;;2025-11-22;;;lattice
+Sharing the Mask: TFHE bootstrapping on Packed Messages;;;Bergerat Loris, Bonte Charlotte, Benjamin R. Curtis, Jean-Baptiste Orfila, Pascal Paillier, Samuel Tap;;;2025/2112;;;last_year;;;none;;;2025-11-17;;;lattice
+Quantum-safe Identity-binding Password Authenticated Key Exchange Protocols;;;Pratima Jana, Ratna Dutta;;;2025/2107;;;last_year;;;none;;;2025-11-16;;;lattice
+HRA-Secure Puncturable Attribute-Based Proxy Re-Encryption from Lattices for Secure Cloud Sharing;;;Tianqiao Zhang, Mingming Jiang, Fucai Luo, Yuyan Guo, Jinqiu Hou;;;2025/2105;;;last_year;;;none;;;2025-11-16;;;lattice
+Tag Functions and Their Applications to Lattice-based Signatures and IBEs — Compact Designs and Tighter Security;;;Parhat Abla;;;2025/2100;;;last_year;;;none;;;2025-11-15;;;lattice
+A Lattice-based Designated Verifier zkSNARK from Standard Assumptions;;;Mohammad Sadegh Ahmadi, Taraneh Eghlidos, Behzad Abdolmaleki, Ngoc Khanh Nguyen;;;2025/2099;;;last_year;;;none;;;2025-11-14;;;lattice
+Lore: An LWE-based Key Encapsulation Mechanism with Variable Modulus and CRT Compression;;;Zhongxiang Zheng, Anyu Wang, Chunhuan Zhao, Guangwu Xu, Zhengtao Jiang, Sibo Feng, Zhichen Yan, Shuang Sun, Xiaoyun Wang;;;2025/2093;;;last_year;;;none;;;2025-11-14;;;lattice
+Malicious Homomorphic Secret Sharing with Applications to DV-NIZK and More;;;Pedro Capitão, Hila Dahari-Garbian, Lisa Kohl, Zhe Li;;;2025/2077;;;last_year;;;none;;;2025-11-10;;;lattice
+VIA: Communication-Efficient Single-Server Private Information Retrieval;;;Chenyang Liu, Xukun Wang, Zhifang Zhang;;;2025/2074;;;last_year;;;none;;;2025-11-10;;;lattice
+Compact, Efficient and Non-Separable Hybrid Signatures;;;Julien Devevey, Morgane Guerreau, Maxime Roméas;;;2025/2059;;;last_year;;;none;;;2025-11-07;;;lattice
+Real-Time Encrypted Emotion Recognition Using Homomorphic Encryption;;;Gyeongwon Cha, Dongjin Park, Yejin Choi, Eunji Park, Joon-Woo Lee;;;2025/2058;;;last_year;;;none;;;2025-11-07;;;lattice
+Distributed Key Generation for Efficient Threshold-CKKS;;;Seonhong Min, Guillaume Hanrot, Jai Hyun Park, Alain Passelègue, Damien Stehlé;;;2025/2057;;;last_year;;;none;;;2025-11-07;;;lattice
+Handling Noisy Plaintext Checking Oracles with SPiRiT;;;Paco Poilbout, Thomas Roche, Laurent Imbert;;;2025/2045;;;last_year;;;none;;;2025-11-05;;;lattice
+Key-Recovery Side-Channel Attack on the Berlekamp-Massey Decoding Algorithm in the Classic McEliece KEM;;;Andrei Alexei, Marios Omar Choudary, Vlad-Florin Dragoi;;;2025/2043;;;last_year;;;none;;;2025-11-05;;;code
+On new variants of funcCPA security and related CCA-secure constructions;;;Caroline Fontaine, Marc Renard, Renaud Sirdey, Oana Stan;;;2025/2036;;;last_year;;;none;;;2025-11-03;;;lattice
+Forging Dilithium and Falcon Signatures by Single Fault Injection;;;Sven Bauer, Fabrizio De Santis;;;2025/2029;;;last_year;;;none;;;2025-11-01;;;lattice
+Improving ML-KEM and ML-DSA on OpenTitan - Efficient Multiplication Vector Instructions for OTBN;;;Ruben Niederhagen, Hoang Nguyen Hien Pham;;;2025/2028;;;last_year;;;none;;;2025-10-31;;;lattice
+Accurate BGV Parameters Selection: Accounting for Secret and Public Key Dependencies in Average-Case Analysis;;;Beatrice Biasioli, Chiara Marcolla, Nadir Murru, Matilda Urani;;;2025/2027;;;last_year;;;none;;;2025-10-31;;;lattice
+Migration to Post-Quantum Cryptography: From ECDSA to ML-DSA;;;Daniel Dinu;;;2025/2025;;;last_year;;;none;;;2025-10-31;;;lattice
+Select-Then-Compute: Encrypted Label Selection and Analytics over Distributed Datasets using FHE;;;Nirajan Koirala, Seunghun Paik, Sam Martin, Helena Berens, Tasha Januszewicz, Jonathan Takeshita, Jae Hong Seo, Taeho Jung;;;2025/2023;;;last_year;;;none;;;2025-10-30;;;lattice
+Head Start: Digit Extraction in TFHE from MSB to LSB;;;Jan-Pieter D'Anvers, Xander Pottier, Thomas de Ruijter, Ingrid Verbauwhede;;;2025/2012;;;last_year;;;none;;;2025-10-28;;;lattice
+When Randomness Isn’t Random: Practical Fault Attack on Post-Quantum Lattice Standards;;;Hariprasad Kelassery Valsaraj, Prasanna Ravi, Shivam Bhasin, Hongjun Wu;;;2025/2009;;;last_year;;;none;;;2025-10-28;;;lattice
+Reactive Correctness, sINDCPA-D-Security and Deterministic Evaluation for TFHE;;;Nigel Smart, Michael Walter;;;2025/2005;;;last_year;;;none;;;2025-10-27;;;lattice
+A Sparse Polynomial Multiplier for HQC Integrating Parallelism and Power-Based Side-Channel Countermeasures;;;Jaeho Jeon, Suseong Lee, Myeongjun Kim, Eunyoung Seo, Myunghyun Cho, Seonggyeom Kim, Bo Gyeong Kang, Young-Sik Kim;;;2025/2003;;;last_year;;;none;;;2025-10-27;;;code
+Pseudorandom Correlation Functions for Multiparty Beaver Triples from Sparse LPN;;;Sebastian Hasler, Pascal Reisert;;;2025/2002;;;last_year;;;none;;;2025-10-26;;;lattice
+Provable decryption failure security for practical lattice-based PKE;;;Christian Majenz, Fabrizio Sisinni;;;2025/1997;;;last_year;;;none;;;2025-10-25;;;lattice
+TWFalcon: Triple-Word Arithmetic for Falcon; Giving Falcon the Precision to Fly Securely;;;Stef Halmans, Christine van Vredendaal, Tobias Schneider, Frank Custers, Tim Güneysu;;;2025/1991;;;last_year;;;none;;;2025-10-24;;;lattice
+Accelerating the Primal Hybrid Attack against Sparse LWE using GPUs;;;Ludo N. Pulles, Paul Vié;;;2025/1990;;;last_year;;;none;;;2025-10-24;;;lattice
+Almost NTRU: Revisiting Noncommutativity Against Lattice Attacks;;;Ali Raya, Vikas Kumar, Seong Oun Hwang, Sugata Gangopadhyay;;;2025/1988;;;last_year;;;none;;;2025-10-24;;;lattice
+Single-Trace Key Recovery Attacks on HQC Using Valid and Invalid Ciphertexts;;;Haiyue Dong, Qian Guo, Denis Nabokov;;;2025/1987;;;last_year;;;none;;;2025-10-23;;;code
+OUF: Oblivious Universal Function with domain specific optimizations;;;Victor Delfour, Marc-Olivier Killijian;;;2025/1985;;;last_year;;;none;;;2025-10-23;;;lattice
+Fully Anonymous Secret Sharing;;;Allison Bishop, Matthew Green, Yuval Ishai, Abhishek Jain, Paul Lou;;;2025/1984;;;last_year;;;none;;;2025-10-23;;;lattice
+SCORE: A SlotToCoeff Optimization for Real-Vector Encryption in CKKS;;;Tim Seuré;;;2025/1983;;;last_year;;;none;;;2025-10-23;;;lattice
+TAPAS: Datasets for Learning the Learning with Errors Problem;;;Eshika Saxena, Alberto Alfarano, François Charton, Emily Wenger, Kristin Lauter;;;2025/1968;;;last_year;;;none;;;2025-10-20;;;lattice
+DPA-Style Attacks on HQC;;;Zhuo Huang, Weijia Wang, Xiaogang Zhou, Yu Yu;;;2025/1966;;;last_year;;;none;;;2025-10-20;;;code
+A Lattice-Based IND-CCA Threshold KEM from the BCHK+ Transform;;;Oleksandra Lapiha, Thomas Prest;;;2025/1958;;;last_year;;;none;;;2025-10-20;;;lattice
+Fast Batch Matrix Multiplication in Ciphertexts;;;Jung Hee Cheon, Minsik Kang, Junho Lee;;;2025/1957;;;last_year;;;none;;;2025-10-20;;;lattice
+A Chosen-Ciphertext Side-Channel Attack on Shuffled CRYSTALS-Kyber;;;Hao Zhang, Zewen Ye, Teng Wang, Yuanming Zhang, Tianyu Wang, Chengxuan Wang, Kejie Huang;;;2025/1956;;;last_year;;;none;;;2025-10-20;;;lattice
+KPIR-C: Keyword PIR with Arbitrary Server-Side Computation;;;Ali Arastehfard, Weiran Liu, Qixian Zhou, Zinan Shen, Liqiang Peng, Lin Qu, Shuya Feng, Yuan Hong;;;2025/1952;;;last_year;;;none;;;2025-10-19;;;lattice
+Minicrypt PRFs Do Not Admit Black-Box Oblivious Evaluations;;;Cruz Barnum, Mohammad Hajiabadi, David Heath, Jake Januzelli, Naman Kumar, Mike Rosulek;;;2025/1947;;;last_year;;;none;;;2025-10-18;;;lattice
+GPV Preimage Sampling with Weak Smoothness and Its Applications to Lattice Signatures;;;Shiduo Zhang, Huiwen Jia, Delong Ran, Yang Yu, Yu Yu, Xiaoyun Wang;;;2025/1940;;;last_year;;;none;;;2025-10-17;;;lattice
+Efficient Polynomial Multiplication for HQC on ARM Cortex-M4;;;Jihoon Jang, Myeonghoon Lee, Donggeun Kwon, Seokhie Hong, Suhri Kim, Sangjin Lee;;;2025/1939;;;last_year;;;none;;;2025-10-17;;;code
+Fully Homomorphic Encryption for Matrix Arithmetic;;;Craig Gentry, Yongwoo Lee;;;2025/1935;;;last_year;;;none;;;2025-10-16;;;lattice
+HORCRUX - A Lightweight PQC-RISC-V eXtension Architecture;;;Alessandra Dolmeta, Valeria Piscopo, Guido Masera, Maurizio Martina, Michael Hutter;;;2025/1934;;;last_year;;;none;;;2025-10-16;;;code,lattice
+Revisiting Multi-Key Blind Rotation: Optimized NTRU-based Bootstrapping for MKFHE;;;Xiaohan Wan, Mingqiang Wang, Xiaopeng Cheng, Haiyang Xue, Qi Zhang;;;2025/1933;;;last_year;;;none;;;2025-10-16;;;lattice
+Decoding Balanced Linear Codes With Preprocessing;;;Andrej Bogdanov, Rohit Chatterjee, Yunqi Li, Prashant Nalini Vasudevan;;;2025/1932;;;last_year;;;none;;;2025-10-16;;;code
+Accelerating LWE-Based Post-Quantum Cryptography with Approximate Computing;;;Diamante Simone CRESCENZO, Emanuele VALEA, Alberto BOSIO;;;2025/1927;;;last_year;;;none;;;2025-10-15;;;lattice
+Embedding belief propagation within a multi-task learning model : An example on Kyber's NTT;;;Thomas Marquet, Elisabeth Oswald;;;2025/1917;;;last_year;;;none;;;2025-10-14;;;lattice
+Unambiguous SNARGs for P from LWE with Applications to PPAD Hardness;;;Liyan Chen, Cody Freitag, Zhengzhong Jin, Daniel Wichs;;;2025/1913;;;last_year;;;none;;;2025-10-13;;;lattice
+Fast Slicer for Batch-CVP: Making Lattice Hybrid Attacks Practical;;;Alexander Karenin, Elena Kirshanova, Alexander May, Julian Nowakowski;;;2025/1910;;;last_year;;;none;;;2025-10-13;;;lattice
+MPCitH Signature from Restricted Syndrome Decoding;;;Michele Battagliola, Ethan Y. Chen, Hugo Sauerbier Couvée, Violetta Weger;;;2025/1908;;;last_year;;;none;;;2025-10-13;;;code
+Introducing GRAFHEN: GRoup-bAsed Fully Homomorphic Encryption without Noise;;;Pierre Guillot, Auguste Hoang Duc, Michel Koskas, Florian Méhats;;;2025/1907;;;last_year;;;none;;;2025-10-13;;;lattice
+A Simple and Efficient One-Shot Signature Scheme;;;Andrew Huang, Vinod Vaikuntanathan;;;2025/1906;;;last_year;;;none;;;2025-10-13;;;lattice
+Predicting Module-Lattice Reduction;;;Léo Ducas, Lynn Engelberts, Paola de Perthuis;;;2025/1904;;;last_year;;;none;;;2025-10-12;;;lattice
+Serval: Slack-Free ℓ2-Sound Polynomial Commitments from Lattices;;;Lizhen Zhang, Sherman S. M. Chow, Shang Gao, Bin Xiao;;;2025/1903;;;last_year;;;none;;;2025-10-12;;;lattice

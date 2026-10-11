@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>code-based &amp; lattice-based cryptography</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap"
+        rel="stylesheet">
+    <style>
+        body {
+            font-family: "Noto Sans Mono", monospace;
+            font-optical-sizing: auto;
+            font-weight: 250;
+            font-style: normal;
+            font-size: 10pt;
+            font-variation-settings: "wdth" 100;
+            display: flex;
+            justify-content: center;
+            color: #3a1f24;
+            background-color: #fbeae7;
+            background-image:
+                radial-gradient(1200px 500px at 50% -8%, rgba(224, 49, 49, 0.14), transparent 70%),
+                radial-gradient(900px 500px at 110% 10%, rgba(214, 51, 108, 0.10), transparent 65%);
+            background-attachment: fixed;
+        }
+
+        main {
+            max-width: 820px;
+            width: 100%;
+            padding: 0 1.1em 4em;
+        }
+
+        a {
+            text-decoration: none;
+            color: #c92a3a;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        a:visited {
+            color: #a83258;
+        }
+
+        /* ---- header / crypto motif ---- */
+        header {
+            text-align: center;
+            padding-top: 34px;
+            margin-bottom: 1.6em;
+        }
+
+        .brand {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5ch;
+            font-weight: 600;
+            font-size: 1.9em;
+            letter-spacing: 0.02em;
+            color: #4a1f27;
+        }
+
+        .brand .lock {
+            filter: drop-shadow(0 1px 2px rgba(201, 42, 58, 0.35));
+        }
+
+        .subtitle {
+            margin-top: 0.5ex;
+            color: #9a4a52;
+            text-transform: uppercase;
+            letter-spacing: 0.32em;
+            font-size: 0.78em;
+            padding-left: 0.32em;
+        }
+
+        .maintainer {
+            margin-top: 0.9ex;
+            color: #9a4a52;
+            font-size: 0.82em;
+        }
+
+        .intro {
+            margin: 1.2ex auto 0;
+            max-width: 540px;
+            color: #6a4a4f;
+            font-size: 0.9em;
+            line-height: 1.5;
+        }
+
+        .hexline {
+            margin: 1.1ex auto 0;
+            max-width: 90%;
+            color: rgba(168, 50, 60, 0.45);
+            font-size: 0.72em;
+            letter-spacing: 0.08em;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: clip;
+            user-select: none;
+        }
+
+        /* ---- section headers as terminal prompts ---- */
+        h3 {
+            margin-top: 2.4em;
+            margin-bottom: 0.8em;
+            padding-bottom: 0.5ex;
+            border-bottom: 1px solid rgba(201, 42, 58, 0.28);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.18em;
+            font-size: 0.86em;
+            color: #7a2630;
+        }
+
+        h3::before {
+            content: "> ";
+            color: #e03131;
+        }
+
+        ul.spaced-list {
+            list-style: none;
+            padding-left: 0;
+            margin: 0;
+        }
+
+        /* ---- paper cards ---- */
+        .spaced-list>li {
+            display: flow-root;
+            background: rgba(255, 252, 251, 0.86);
+            border: 1px solid rgba(201, 42, 58, 0.16);
+            border-left: 3px solid #c7ccd6;
+            border-radius: 0.5em;
+            padding: 0.85em 1em;
+            margin-bottom: 0.8em;
+            box-shadow: 0 1px 2px rgba(74, 31, 39, 0.06);
+            transition: box-shadow 0.15s ease, transform 0.15s ease;
+        }
+
+        .spaced-list>li:hover {
+            box-shadow: 0 4px 14px rgba(201, 42, 58, 0.14);
+            transform: translateY(-1px);
+        }
+
+        .spaced-list>li.cat-lattice {
+            border-left-color: #6741d9;
+        }
+
+        .spaced-list>li.cat-code {
+            border-left-color: #e03131;
+        }
+
+        .spaced-list>li.cat-code.cat-lattice {
+            border-left-color: transparent;
+            border-image: linear-gradient(to bottom, #6741d9, #e03131) 1;
+        }
+
+        .paper-title {
+            font-weight: 600;
+            color: #3a1f24;
+        }
+
+        .authors {
+            color: #6a4a4f;
+        }
+
+        /* ---- filters ---- */
+        .filters-wrap {
+            display: flex;
+            gap: 1.1em;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin: 1.4ex 0 0.4ex;
+        }
+
+        .filter-group {
+            display: inline-flex;
+            align-items: center;
+            background: rgba(255, 252, 251, 0.7);
+            border: 1px solid rgba(201, 42, 58, 0.22);
+            border-radius: 999px;
+            padding: 0.2em 0.3em;
+            gap: 0.15em;
+        }
+
+        .filter-label {
+            color: #9a4a52;
+            margin: 0 0.4em 0 0.6em;
+            font-size: 0.8em;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+        }
+
+        .filter {
+            cursor: pointer;
+            padding: 0.3em 0.95em;
+            border-radius: 999px;
+            color: #7a2630;
+            user-select: none;
+            transition: background 0.12s ease, color 0.12s ease;
+        }
+
+        .filter:hover {
+            background: rgba(201, 42, 58, 0.1);
+        }
+
+        .filter.active {
+            background: #e03131;
+            color: #fff;
+            box-shadow: 0 1px 4px rgba(224, 49, 49, 0.4);
+        }
+
+        /* ---- meta / tags ---- */
+        .meta {
+            float: right;
+            padding-left: 1em;
+            white-space: nowrap;
+            font-size: 0.92em;
+        }
+
+        .source {
+            color: #b08a8f;
+        }
+
+        .tag {
+            font-size: 0.74em;
+            padding: 0.1em 0.6em;
+            border-radius: 999px;
+            margin-left: 0.4em;
+            white-space: nowrap;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            vertical-align: 1px;
+        }
+
+        .tag-lattice {
+            background: rgba(103, 65, 217, 0.14);
+            color: #5b35c9;
+        }
+
+        .tag-code {
+            background: rgba(224, 49, 49, 0.14);
+            color: #cf2a2a;
+        }
+
+        .empty {
+            color: #b08a8f;
+            font-style: italic;
+            background: none;
+            border: none;
+            box-shadow: none;
+            padding-left: 0.2em;
+        }
+
+        .empty:hover {
+            box-shadow: none;
+            transform: none;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 3em;
+            color: #9a4a52;
+            font-size: 0.86em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <header>
+            <div class="brand"><span class="lock">&#128273;</span>recent post-quantum papers</div>
+            <p class="subtitle">code-based &amp; lattice-based cryptography</p>
+            <p class="maintainer">maintained by Maher Mamah</p>
+            <p class="intro">Inspired by the recent isogeny website
+                <a href="https://isogeni.es/" target="_blank">isogeni.es</a>, we present
+                this code-based &amp; lattice-based cryptography website.</p>
+            <div class="hexline" id="hexline"></div>
+        </header>
+
+        <div class="filters-wrap">
+            <div class="filter-group" id="category-filters">
+                <span class="filter-label">topic:</span>
+                <span class="filter" data-cat="lattice">lattice</span>
+                <span class="filter" data-cat="code">code</span>
+                <span class="filter active" data-cat="both">both</span>
+            </div>
+            <div class="filter-group" id="source-filters">
+                <span class="filter-label">source:</span>
+                <span class="filter" data-source="eprint">ePrint</span>
+                <span class="filter" data-source="arxiv">arXiv</span>
+                <span class="filter active" data-source="both">both</span>
+            </div>
+        </div>
+
+        <h3>this week</h3>
+        <ul class="spaced-list" id="last_week"></ul>
+        <h3>this month</h3>
+        <ul class="spaced-list" id="last_month"></ul>
+        <h3>this year</h3>
+        <ul class="spaced-list" id="last_year"></ul>
+
+        <footer>
+            Metadata from the <a href="https://eprint.iacr.org/" target="_blank">IACR Cryptology
+                ePrint Archive</a> (CC0) and <a href="https://arxiv.org/" target="_blank">arXiv</a>.
+            Thanks to arXiv for use of its open access interoperability.
+        </footer>
+
+        <script>
+            var activeCategory = "both";
+            var activeSource = "both";
+            var allItems = [];
+
+            // decorative "digest" strip under the title for a crypto feel
+            (function () {
+                var hex = "0123456789abcdef";
+                var n = 96, s = "";
+                for (var i = 0; i < n; i++) {
+                    s += hex[Math.floor(Math.random() * 16)];
+                }
+                var el = document.getElementById('hexline');
+                if (el) { el.textContent = s; }
+            })();
+
+            function formatAuthors(authorlist) {
+                authorlist = authorlist.filter(function (a) { return a.length > 0; });
+                return authorlist.map(function (author, index) {
+                    if (index === authorlist.length - 2) {
+                        return author + " and ";
+                    } else if (index === authorlist.length - 1) {
+                        return author;
+                    }
+                    return author + ", ";
+                }).join("");
+            }
+
+            function makePaperItem(paper) {
+                var li = document.createElement('li');
+                li.className = paper.source + " " + paper.cats.map(function (c) {
+                    return "cat-" + c;
+                }).join(" ");
+
+                var meta = document.createElement('span');
+                meta.className = "meta";
+                if (paper.repo && paper.repo !== 'none') {
+                    var git = document.createElement('a');
+                    git.href = paper.repo;
+                    git.target = "_blank";
+                    git.textContent = "git?";
+                    meta.appendChild(git);
+                    meta.appendChild(document.createTextNode('\u00A0\u00A0'));
+                }
+                var source = document.createElement('span');
+                source.className = "source";
+                source.textContent = "[" + paper.source + "]\u00A0";
+                meta.appendChild(source);
+                var link = document.createElement('a');
+                link.href = paper.linkBase + paper.id;
+                link.target = "_blank";
+                link.textContent = paper.id;
+                meta.appendChild(link);
+                li.appendChild(meta);
+
+                var title = document.createElement('span');
+                title.className = "paper-title";
+                title.textContent = paper.title + ". ";
+                li.appendChild(title);
+
+                var authors = document.createElement('span');
+                authors.className = "authors";
+                authors.textContent = formatAuthors(paper.authorlist);
+                li.appendChild(authors);
+
+                paper.cats.forEach(function (c) {
+                    var tag = document.createElement('span');
+                    tag.className = "tag tag-" + c;
+                    tag.textContent = c;
+                    li.appendChild(tag);
+                });
+
+                return li;
+            }
+
+            function fetchPapers(file, source, linkBase) {
+                return fetch(file)
+                    .then(function (r) { return r.text(); })
+                    .then(function (data) {
+                        return data.split('\n').filter(function (line) {
+                            return line.length > 0;
+                        }).map(function (line) {
+                            var v = line.split(';;;');
+                            return {
+                                title: v[0],
+                                authorlist: (v[1] || "").split(',').map(function (s) {
+                                    return s.trim();
+                                }),
+                                id: v[2],
+                                date_class: v[3],
+                                repo: v[4],
+                                date: v[5] || "",
+                                cats: (v[6] || "").split(',').filter(function (s) {
+                                    return s.length > 0;
+                                }),
+                                source: source,
+                                linkBase: linkBase
+                            };
+                        });
+                    })
+                    .catch(function () { return []; });
+            }
+
+            function applyFilters() {
+                var counts = { last_week: 0, last_month: 0, last_year: 0 };
+                allItems.forEach(function (entry) {
+                    var paper = entry.paper;
+                    var catOk = activeCategory === "both" ||
+                        paper.cats.indexOf(activeCategory) !== -1;
+                    var srcOk = activeSource === "both" ||
+                        paper.source.toLowerCase() === activeSource;
+                    var show = catOk && srcOk;
+                    entry.el.style.display = show ? "" : "none";
+                    if (show && counts.hasOwnProperty(paper.date_class)) {
+                        counts[paper.date_class]++;
+                    }
+                });
+                Object.keys(counts).forEach(function (bucket) {
+                    var placeholder = document.getElementById(bucket + "_empty");
+                    if (placeholder) {
+                        placeholder.style.display = counts[bucket] === 0 ? "" : "none";
+                    }
+                });
+            }
+
+            function addEmptyPlaceholders() {
+                ["last_week", "last_month", "last_year"].forEach(function (bucket) {
+                    var li = document.createElement('li');
+                    li.className = "empty";
+                    li.id = bucket + "_empty";
+                    li.textContent = "no papers in this window";
+                    document.getElementById(bucket).appendChild(li);
+                });
+            }
+
+            Promise.all([
+                fetchPapers('papers_eprint.txt', 'eprint', '//ia.cr/'),
+                fetchPapers('papers_arxiv.txt', 'arxiv', '//arxiv.org/abs/')
+            ]).then(function (lists) {
+                var papers = lists[0].concat(lists[1]);
+                papers.sort(function (a, b) {
+                    return a.date < b.date ? 1 : (a.date > b.date ? -1 : 0);
+                });
+                papers.forEach(function (paper) {
+                    var list = document.getElementById(paper.date_class);
+                    if (!list) { return; }
+                    var el = makePaperItem(paper);
+                    list.appendChild(el);
+                    allItems.push({ el: el, paper: paper });
+                });
+                addEmptyPlaceholders();
+                applyFilters();
+            });
+
+            document.querySelectorAll('#category-filters .filter').forEach(function (f) {
+                f.addEventListener('click', function () {
+                    document.querySelectorAll('#category-filters .filter').forEach(function (x) {
+                        x.classList.remove('active');
+                    });
+                    f.classList.add('active');
+                    activeCategory = f.dataset.cat;
+                    applyFilters();
+                });
+            });
+            document.querySelectorAll('#source-filters .filter').forEach(function (f) {
+                f.addEventListener('click', function () {
+                    document.querySelectorAll('#source-filters .filter').forEach(function (x) {
+                        x.classList.remove('active');
+                    });
+                    f.classList.add('active');
+                    activeSource = f.dataset.source;
+                    applyFilters();
+                });
+            });
+        </script>
+    </main>
+</body>
+
+</html>

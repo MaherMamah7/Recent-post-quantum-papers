@@ -1,0 +1,35 @@
+name: refresh papers
+
+on:
+  schedule:
+    # every 6 hours, at :17 past the hour (00:17, 06:17, 12:17, 18:17 UTC)
+    - cron: "17 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Harvest papers
+        run: python3 scraper/scrape.py --days 400
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "paper-bot"
+          git config user.email "paper-bot@users.noreply.github.com"
+          git add papers_arxiv.txt papers_eprint.txt
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: refresh papers ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
