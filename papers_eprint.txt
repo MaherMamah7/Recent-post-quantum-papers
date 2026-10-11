@@ -1,3 +1,5 @@
+Barely Sublinear RAM-FHE from Plain LWE;;;Keewoo Lee;;;2026/2412;;;last_week;;;none;;;2026-10-08;;;lattice
+Average-Case Hardness of Lattice Problems in Special Genera of Fixed Rank;;;Koen de Boer, Maxime Bombar, Aurel Page, Wessel van Woerden;;;2026/2411;;;last_week;;;none;;;2026-10-08;;;lattice
 Practical and Efficient MPC from FHE, without ZKPoKs;;;Kelong Cong, Nigel P. Smart, Titouan Tanguy, MIchael Walter;;;2026/2403;;;last_week;;;none;;;2026-10-07;;;lattice
 Faster Provable Lattice Sieving with Spherical Codes;;;Divesh Aggarwal, Aditya Morolia, Noah Stephens-Davidowitz;;;2026/2388;;;last_week;;;none;;;2026-10-07;;;lattice
 Provable Subexponential Algorithms for NIST Third-Round Lattice Families;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2026/2386;;;last_week;;;none;;;2026-10-06;;;lattice
