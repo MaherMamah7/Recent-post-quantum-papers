@@ -1,3 +1,5 @@
+Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2610.12913;;;last_week;;;none;;;2026-10-09;;;lattice
+Hankel Matrix Decompositions and Digital Sequences over Function Fields;;;Roswitha Hofer;;;2610.12691;;;last_week;;;none;;;2026-10-08;;;code
 HPQ-AKE: A Provably Secure Sign-Less Hybrid Authenticated Key Exchange Protocol for Bandwidth-Constrained IoT and Edge Networks;;;Khiem Pham-Tuan, Minh Quang Le, Khuong Nguyen-An;;;2610.12024;;;last_week;;;none;;;2026-10-08;;;lattice
 Covering radius of rank-metric codes via covering lifts and clubs;;;Giuseppe Marino, Alessandro Neri, Alessia Vallefuoco;;;2610.11926;;;last_week;;;none;;;2026-10-08;;;code
 Provable Subexponential Algorithms for NIST Third-Round Lattice Families;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2610.11254;;;last_week;;;none;;;2026-10-08;;;lattice
@@ -41,8 +43,8 @@ PixCrypt: Fast Fine-Grained FHE with Range-Aware Caching;;;Chao Wang, Shubing Ya
 Symmetric Models for Syndrome Decoding;;;Elisa Gorla, Simone Trebiani;;;2609.14052;;;last_month;;;none;;;2026-09-12;;;code
 PQLN: Post-Quantum Security for the Bitcoin Lightning Network's Off-Chain Surfaces;;;Ahmet Kurt, Abdul-Salem Beibitkhan, Yacoub Hanna, Abdullah Aydeger;;;2609.13781;;;last_month;;;none;;;2026-09-12;;;lattice
 EI-DDLGN: Efficient Encrypted Inference with Deep Differentiable Logic Gate Networks under TFHE;;;Mahmoud Y. M. Yassin, Mahmoud AbdelHafeez Sayed, Mostafa Taha;;;2609.13636;;;last_month;;;https://github.com/Carleton-SCI/EI-DDLGN;;;2026-09-12;;;lattice
-Shuffling is Not Enough: Breaking Permutation-Based Model Confidentiality in Hybrid FHE Inference;;;Jiseung Kim, Hyung Tae Lee;;;2609.12911;;;last_month;;;none;;;2026-09-11;;;lattice
-An Open-Source End-to-End FHE Implementation for Privacy-Preserving Llama 3 8B Inference;;;Yuhang Fan, Yusi Chen, Kanyu Ye, Zhuoran Ji;;;2609.12378;;;last_month;;;none;;;2026-09-11;;;lattice
+Shuffling is Not Enough: Breaking Permutation-Based Model Confidentiality in Hybrid FHE Inference;;;Jiseung Kim, Hyung Tae Lee;;;2609.12911;;;last_year;;;none;;;2026-09-11;;;lattice
+An Open-Source End-to-End FHE Implementation for Privacy-Preserving Llama 3 8B Inference;;;Yuhang Fan, Yusi Chen, Kanyu Ye, Zhuoran Ji;;;2609.12378;;;last_year;;;none;;;2026-09-11;;;lattice
 PHAT: PHotonic Accelerator for TFHE;;;Guowei Yang, Farbin Fayza, Beren Aydoğan, Carlos A. Ríos Ocampo, Ayse K. Coskun, Ajay Joshi;;;2609.11613;;;last_year;;;none;;;2026-09-10;;;lattice
 Proximity Gaps for Gabidulin Codes and Applications;;;Songsong Li, Chaoping Xing, Chen Yuan, Ruiqi Zhu;;;2609.09838;;;last_year;;;none;;;2026-09-09;;;code
 FPGA Acceleration of Fully Homomorphic Encryption with Adaptive Key Switching;;;Zhihan Xu, Jayashree Adivarahan, Rajgopal Kannan, Viktor K. Prasanna;;;2609.09423;;;last_year;;;none;;;2026-09-08;;;lattice

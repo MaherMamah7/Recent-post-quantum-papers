@@ -24,10 +24,10 @@ Post-Quantum Command Authentication for Unmanned Systems: A KpqC Feasibility Stu
 Deploying Native-Rust KpqC: Pluggable Post-Quantum KEMs and Signatures across TLS, Space Links, and the OQS Ecosystem;;;Yulim Hyoung, Doyun Park, Hyunji Kim, Hwajeong Seo;;;2026/2342;;;last_week;;;none;;;2026-10-05;;;lattice
 Measuring Parallel Execution of Classical–PQC Component Pairs in Hybrid TLS 1.3;;;Siwoo Eum, Minho Song, Seung-Won Lee, Hwajeong Seo;;;2026/2341;;;last_week;;;none;;;2026-10-05;;;lattice
 Pseudorandom Codes from LWE;;;Keewoo Lee;;;2026/2339;;;last_week;;;none;;;2026-10-05;;;lattice
-Trapdoor Projective Sampling and Identity-Based Anonymous Broadcast;;;Gaspard Meunier, Duong Hieu Phan;;;2026/2334;;;last_week;;;none;;;2026-10-04;;;lattice
-Rotate Once, Read Many Times: on the Output Noise of Multi-Value Bootstrapping;;;Philippe Chartier, Michel Koskas, Mohammed Lemou;;;2026/2332;;;last_week;;;none;;;2026-10-04;;;lattice
-What Makes Lattice Key Generation Expensive? Controlled Cost Attribution with Structured LWR, ML-KEM, and HAETAE on Cortex-M4;;;Yan Zhang, Meizi Li, Liang Tan;;;2026/2329;;;last_week;;;none;;;2026-10-04;;;lattice
-Automorphism-Compatible NTT and its Application to Homomorphic Encryption;;;Charanjit S. Jutla, Nathan Manohar, Guy Moshkowich;;;2026/2328;;;last_week;;;none;;;2026-10-04;;;lattice
+Trapdoor Projective Sampling and Identity-Based Anonymous Broadcast;;;Gaspard Meunier, Duong Hieu Phan;;;2026/2334;;;last_month;;;none;;;2026-10-04;;;lattice
+Rotate Once, Read Many Times: on the Output Noise of Multi-Value Bootstrapping;;;Philippe Chartier, Michel Koskas, Mohammed Lemou;;;2026/2332;;;last_month;;;none;;;2026-10-04;;;lattice
+What Makes Lattice Key Generation Expensive? Controlled Cost Attribution with Structured LWR, ML-KEM, and HAETAE on Cortex-M4;;;Yan Zhang, Meizi Li, Liang Tan;;;2026/2329;;;last_month;;;none;;;2026-10-04;;;lattice
+Automorphism-Compatible NTT and its Application to Homomorphic Encryption;;;Charanjit S. Jutla, Nathan Manohar, Guy Moshkowich;;;2026/2328;;;last_month;;;none;;;2026-10-04;;;lattice
 On the hull attacks against Construction A lattices;;;Jean-François Biasse, Alexandra V. Hostetler, Anuvrat Jaindungarwal;;;2026/2325;;;last_month;;;none;;;2026-10-03;;;lattice
 ATLAS: A Compact Module-LWR Signature Scheme;;;Karthick Srivatsan, Debranjan Pal, Anindya Ganguly, Suparna Kundu, Abhinava De, Puja Mondal, Harry Hart, Quinten Norga, Prajna Mahadev, Supriya Adhikary, Debayan Das, Chaoyun Li, Angshuman Karmakar;;;2026/2323;;;last_month;;;none;;;2026-10-03;;;lattice
 When Masking Preimage Computation Isn’t Enough: A Power Analysis Attack on Masked Implementations of Falcon;;;Keng-Yu Chen;;;2026/2313;;;last_month;;;none;;;2026-10-02;;;lattice
@@ -122,12 +122,12 @@ On Succinct Obfuscation via Propositional Proofs;;;Abhishek Jain, Zhengzhong Jin
 NP-Hardness of Ideal Lattice Problems;;;Daniel E. Martin;;;2026/2003;;;last_month;;;none;;;2026-09-13;;;lattice
 Symmetric Models for Syndrome Decoding;;;Elisa Gorla, Simone Trebiani;;;2026/1995;;;last_month;;;none;;;2026-09-12;;;code
 Towards Practical Iterative Rejection Sampling: A Compact and Efficient Signature over Module Lattices;;;Yifan Ming, Jipeng Zhang, Zihan Liu, Guofeng Tang, Pengfei Chen, Yutao Sun, Si Gao, Cong Zhang, Long Chen;;;2026/1991;;;last_month;;;none;;;2026-09-12;;;lattice
-Two-Anchor Holdout/Hermite: Solving the TII-254 McEliece Key Recovery Challenge;;;Markku-Juhani O. Saarinen;;;2026/1986;;;last_month;;;none;;;2026-09-11;;;code
-Post-Quantum Private Set Intersection for Small Sets;;;Junxin Liu, Mike Rosulek, Ni Trieu;;;2026/1985;;;last_month;;;none;;;2026-09-11;;;lattice
-Improving GIJS Key Recovery for Classic McEliece;;;Stephen A. Weis;;;2026/1984;;;last_month;;;none;;;2026-09-11;;;code
-Akita: A High-Performance Lattice-Based Polynomial Commitment Scheme;;;Quang Dao, Omid Bodaghi, Amirhossein Khajehpour, Giuseppe Vitto, Mohammadtaghi Badakhshan, Markos Georghiades, Fengrun Liu, Jiapeng Zhang, Justin Thaler;;;2026/1983;;;last_month;;;none;;;2026-09-11;;;lattice
-Lattice-based Secret-Key Functional Encryption for Constant-Degree Polynomials;;;Valerio Cini, Russell W. F. Lai, Akin Ünal, Ivy K. Y. Woo;;;2026/1977;;;last_month;;;none;;;2026-09-11;;;lattice
-Oblivious Signaling;;;Mirza Kamrul Bashar Shuhan, Foteini Baldimtsi, Giuseppe Ateniese;;;2026/1975;;;last_month;;;none;;;2026-09-11;;;lattice
+Two-Anchor Holdout/Hermite: Solving the TII-254 McEliece Key Recovery Challenge;;;Markku-Juhani O. Saarinen;;;2026/1986;;;last_year;;;none;;;2026-09-11;;;code
+Post-Quantum Private Set Intersection for Small Sets;;;Junxin Liu, Mike Rosulek, Ni Trieu;;;2026/1985;;;last_year;;;none;;;2026-09-11;;;lattice
+Improving GIJS Key Recovery for Classic McEliece;;;Stephen A. Weis;;;2026/1984;;;last_year;;;none;;;2026-09-11;;;code
+Akita: A High-Performance Lattice-Based Polynomial Commitment Scheme;;;Quang Dao, Omid Bodaghi, Amirhossein Khajehpour, Giuseppe Vitto, Mohammadtaghi Badakhshan, Markos Georghiades, Fengrun Liu, Jiapeng Zhang, Justin Thaler;;;2026/1983;;;last_year;;;none;;;2026-09-11;;;lattice
+Lattice-based Secret-Key Functional Encryption for Constant-Degree Polynomials;;;Valerio Cini, Russell W. F. Lai, Akin Ünal, Ivy K. Y. Woo;;;2026/1977;;;last_year;;;none;;;2026-09-11;;;lattice
+Oblivious Signaling;;;Mirza Kamrul Bashar Shuhan, Foteini Baldimtsi, Giuseppe Ateniese;;;2026/1975;;;last_year;;;none;;;2026-09-11;;;lattice
 The Closest-Vector Problem over Cyclotomics and its Application to Homomorphic Encryption;;;Natalie Lang, Dana Dachman-Soled;;;2026/1968;;;last_year;;;none;;;2026-09-10;;;lattice
 Lattice-based Threshold Traitor Tracing with Public Traceability;;;Sébastien Canard, Nathan Papon, Duong Hieu Phan;;;2026/1965;;;last_year;;;none;;;2026-09-10;;;lattice
 Three-Round Weak Non-Malleable Zero-Knowledge Argument;;;Xinxuan Zhang, Yuanju Wei, Zhichao Wang, Zhongliang Zhang, Ming Yang, Ruida Wang, Yi Deng, Hailong Wang;;;2026/1964;;;last_year;;;none;;;2026-09-10;;;lattice
