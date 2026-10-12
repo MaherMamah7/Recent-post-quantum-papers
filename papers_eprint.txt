@@ -177,6 +177,7 @@ Atom: Single-Server Private Information Retrieval with Low Communication and Fas
 Communication-Efficient Private Join and Compute over Distributed Input Sets;;;Yunqing Sun, Xinran Cai, Hanlin Liu, Xiao Wang, Wei Dong;;;2026/1812;;;last_year;;;none;;;2026-08-27;;;lattice
 Efficient Soft Analytical Side-Channel Attacks on Large-Scale Cryptographic Computations;;;Yiteng Sun, Zhuo Huang, Yan Zhuang, Shuo Sun, Xinyu Li, Yu Yu, Weijia Wang;;;2026/1811;;;last_year;;;none;;;2026-08-27;;;lattice
 An Algebraic-Geometry Lower Bound against the ePrint:2026/1747 McEliece Key-Recovery Attack;;;Daniel Apon;;;2026/1810;;;last_year;;;none;;;2026-08-26;;;code
+Cross-Signature Signing-Key Recovery and Domain-Separation Repair for SDitH v2;;;José Luis Delgado;;;2026/1808;;;last_year;;;none;;;2026-08-26;;;code
 Adaptive Multi-Algorithm Key Exchange for Quantum-Resilient Secure Communication: Dynamic Switching among QKD, Post-Quantum, and Classical Key Establishment with Entropy Fusion;;;Ogbodo Tochukwu Hillary, Bilkisu Larai Muhammad-Bello, Saleh El-Yakub Abdullahi;;;2026/1803;;;last_year;;;none;;;2026-08-26;;;lattice
 CVP Is NP-Complete for Principal Cyclotomic Ideals;;;Jiaqi Liu, Yansong Feng, Yanbin Pan;;;2026/1793;;;last_year;;;none;;;2026-08-24;;;lattice
 Lithium: Making Iterative Rejection Sampling Practical for Compact Lattice Signatures;;;Jipeng Zhang, Pengfei Chen, Long Chen, Cong Zhang, Jiaheng Zhang;;;2026/1790;;;last_year;;;none;;;2026-08-24;;;lattice
