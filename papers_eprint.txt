@@ -295,7 +295,7 @@ A Memory-Efficient and Assembly-Optimized Implementation of NTRU+;;;SuBeen Cho, 
 Statistically Undetectable Backdoors in Deep Neural Networks;;;Andrej Bogdanov, Alon Rosen, Neekon Vafa;;;2026/1408;;;last_year;;;none;;;2026-07-10;;;lattice
 An $n^{n+o(n)}$-Time Algorithm for the Lattice Isomorphism Problem;;;Divesh Aggarwal, Kaijie Jiang, Zihan Li, Yinchen Liu;;;2026/1406;;;last_year;;;none;;;2026-07-10;;;lattice
 A New Framework for Efficient Multivariate Functional Bootstrapping;;;Kunyu Wu, Kuiyuan Duan, Dengfa Liu, Hongbo Li;;;2026/1401;;;last_year;;;none;;;2026-07-09;;;lattice
-What Happens When integrating Modulus Switching and Lossy Source Coding: A New Dual Attack Variant on LWE;;;Yechen Li, Qunxiong Zheng;;;2026/1400;;;last_year;;;none;;;2026-07-09;;;lattice
+What Happens When Integrating Modulus Switching and Lossy Source Coding: A New Dual Attack Variant on LWE;;;Yechen Li, Qunxiong Zheng;;;2026/1400;;;last_year;;;none;;;2026-07-09;;;lattice
 HANNS: Low-Storage Non-Interactive Approximate Private Nearest Neighbor Search with Sublinear Comparison Complexity;;;Haowen Pan, Ruiqi Gan, Yunhao Fu, Yintai Sun, Zhou Zhang, Yuxiang Wang, Yi Chen, Bo Zhang, Haoyi Zhou, Yongxin Tong, Zhenyu Guan, Jin Dong, Song Bian;;;2026/1397;;;last_year;;;none;;;2026-07-08;;;lattice
 A Separation Principle for Lookup-Based zkML: Activation-Function Structure Cannot Reduce Per-Lookup Proving Cost;;;Min Jun Jo;;;2026/1390;;;last_year;;;none;;;2026-07-08;;;lattice
 SC-DT: Scalable Constant Round Secure Comparison and its Application to Privacy Decision Tree Evaluation;;;Qinghui Zhang, Xiaojun Chen, Yansong Zhang, Xudong Chen;;;2026/1389;;;last_year;;;none;;;2026-07-08;;;lattice
