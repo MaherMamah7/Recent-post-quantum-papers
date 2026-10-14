@@ -1,3 +1,6 @@
+Worst-Case Hardness for Succinct and Decomposed Learning with Errors;;;Damiano Abram, Gal Arnon, Valerio Cini, Paul Lou, Giulio Malavolta, Lawrence Roy;;;2026/2443;;;last_week;;;none;;;2026-10-11;;;lattice
+Faster generic CCA secure KEM transformation using encrypt-then-MAC;;;Ganyu Xu, Kalikinkar Mandal, Guang Gong;;;2026/2442;;;last_week;;;none;;;2026-10-11;;;code,lattice
+Threshold BARGs with Statistical Soundness: Weighted Threshold Encryption without Obfuscation;;;Shafik Nassar, Brent Waters, David J. Wu;;;2026/2436;;;last_week;;;none;;;2026-10-10;;;lattice
 Flying, Not Floating: Precise Fixed-Point Falcon on Embedded Processors;;;Stef Halmans, Amit Kumar, Tim Güneysu;;;2026/2431;;;last_week;;;none;;;2026-10-09;;;lattice
 Provably Subexponential Algorithms for Bounded-Error LWE with Few Samples;;;Haoxing Lin, Prashant Nalini Vasudevan;;;2026/2426;;;last_week;;;none;;;2026-10-09;;;lattice
 Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2026/2425;;;last_week;;;none;;;2026-10-09;;;lattice
