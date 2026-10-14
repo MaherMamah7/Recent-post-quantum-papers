@@ -6,13 +6,13 @@ Barely Sublinear RAM-FHE from Plain LWE;;;Keewoo Lee;;;2026/2412;;;last_week;;;n
 Average-Case Hardness of Lattice Problems in Special Genera of Fixed Rank;;;Koen de Boer, Maxime Bombar, Aurel Page, Wessel van Woerden;;;2026/2411;;;last_week;;;none;;;2026-10-08;;;lattice
 Practical and Efficient MPC from FHE, without ZKPoKs;;;Kelong Cong, Nigel P. Smart, Titouan Tanguy, MIchael Walter;;;2026/2403;;;last_week;;;none;;;2026-10-07;;;lattice
 Faster Provable Lattice Sieving with Spherical Codes;;;Divesh Aggarwal, Aditya Morolia, Noah Stephens-Davidowitz;;;2026/2388;;;last_week;;;none;;;2026-10-07;;;lattice
-Provable Subexponential Algorithms for NIST Third-Round Lattice Families;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2026/2386;;;last_week;;;none;;;2026-10-06;;;lattice
-SkrrtPIR: Doubly-Stateless Batch PIR from Single-Key RLWE Unpacking;;;Keewoo Lee, Yongha Son;;;2026/2385;;;last_week;;;none;;;2026-10-06;;;lattice
-The Lattice Isomorphism Problem with Hints;;;Mélissa Rossi;;;2026/2381;;;last_week;;;none;;;2026-10-06;;;lattice
-PoP! Goes the VOLE: Shorter Proofs of Possession for KEM Certificates;;;Slim Bettaieb, Alexandre Augusto Giron, Mukul Kulkarni, Marco Palumbi;;;2026/2375;;;last_week;;;none;;;2026-10-06;;;code,lattice
-PairSwitch: Efficient Galois-Paired Key Switching for Gentry–Lee Matrix FHE;;;Zhenyu Xiong, Mingsheng Wang, Han Wang;;;2026/2373;;;last_week;;;https://github.com/acprk/pairswitch-gl;;;2026-10-06;;;lattice
-DP-Guided Schedule Selection for $\mathbb{F}_2[x]$ Multiplication across ISAs;;;Junyu Zhou, Xiao Lan, Jing Wang, Hao Ren, Weiran Liu, Si Gao;;;2026/2371;;;last_week;;;none;;;2026-10-06;;;code
-StOMR: Stateful Oblivious Message Retrieval;;;Charles Gouert, Keewoo Lee, Dimitris Mouris, Yiannis Tselekounis, Jean-Luc Watson;;;2026/2369;;;last_week;;;none;;;2026-10-06;;;lattice
+Provable Subexponential Algorithms for NIST Third-Round Lattice Families;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2026/2386;;;last_month;;;none;;;2026-10-06;;;lattice
+SkrrtPIR: Doubly-Stateless Batch PIR from Single-Key RLWE Unpacking;;;Keewoo Lee, Yongha Son;;;2026/2385;;;last_month;;;none;;;2026-10-06;;;lattice
+The Lattice Isomorphism Problem with Hints;;;Mélissa Rossi;;;2026/2381;;;last_month;;;none;;;2026-10-06;;;lattice
+PoP! Goes the VOLE: Shorter Proofs of Possession for KEM Certificates;;;Slim Bettaieb, Alexandre Augusto Giron, Mukul Kulkarni, Marco Palumbi;;;2026/2375;;;last_month;;;none;;;2026-10-06;;;code,lattice
+PairSwitch: Efficient Galois-Paired Key Switching for Gentry–Lee Matrix FHE;;;Zhenyu Xiong, Mingsheng Wang, Han Wang;;;2026/2373;;;last_month;;;https://github.com/acprk/pairswitch-gl;;;2026-10-06;;;lattice
+DP-Guided Schedule Selection for $\mathbb{F}_2[x]$ Multiplication across ISAs;;;Junyu Zhou, Xiao Lan, Jing Wang, Hao Ren, Weiran Liu, Si Gao;;;2026/2371;;;last_month;;;none;;;2026-10-06;;;code
+StOMR: Stateful Oblivious Message Retrieval;;;Charles Gouert, Keewoo Lee, Dimitris Mouris, Yiannis Tselekounis, Jean-Luc Watson;;;2026/2369;;;last_month;;;none;;;2026-10-06;;;lattice
 Low-Latency Parallel Digit Decomposition and Sign Evaluation for CKKS;;;Jung Hee Cheon, Kyungah Cho, Junyoung Jung, Junho Lim;;;2026/2368;;;last_month;;;none;;;2026-10-05;;;lattice
 On the Instantiability of the Fujisaki–Okamoto Transform for Trapdoor Functions;;;Carter Luck, Xinyu Mao, Adam O'Neill;;;2026/2365;;;last_month;;;none;;;2026-10-05;;;lattice
 Optimized LLL Algorithm;;;Zhengjun Cao, Lihua Liu;;;2026/2361;;;last_month;;;none;;;2026-10-05;;;lattice
@@ -122,8 +122,8 @@ Barely Doubly-Efficient PIR from Quadratic Residuosity;;;Keewoo Lee;;;2026/2034;
 Leopard: A High-Performance Framework for Updatable Private Set Intersection;;;Xiaowei Li, Shi-Feng Sun, Yanxue Jia, Hao Li, Dawu Gu;;;2026/2027;;;last_month;;;none;;;2026-09-14;;;lattice
 A unified reduction from RLWE to MP-LWE;;;Alice Pellet-Mary, Wenwen Xia;;;2026/2026;;;last_month;;;none;;;2026-09-14;;;lattice
 On the eCK Security of MQV-Style LWE-Based Authenticated Key Exchange;;;Ruoyu Ding, Tianrun Yu, Yanbin Pan, Chi Cheng, Jian Weng;;;2026/2017;;;last_month;;;none;;;2026-09-14;;;lattice
-On Succinct Obfuscation via Propositional Proofs;;;Abhishek Jain, Zhengzhong Jin, Surya Mathialagan, Omer Paneth;;;2026/2009;;;last_month;;;none;;;2026-09-13;;;lattice
-NP-Hardness of Ideal Lattice Problems;;;Daniel E. Martin;;;2026/2003;;;last_month;;;none;;;2026-09-13;;;lattice
+On Succinct Obfuscation via Propositional Proofs;;;Abhishek Jain, Zhengzhong Jin, Surya Mathialagan, Omer Paneth;;;2026/2009;;;last_year;;;none;;;2026-09-13;;;lattice
+NP-Hardness of Ideal Lattice Problems;;;Daniel E. Martin;;;2026/2003;;;last_year;;;none;;;2026-09-13;;;lattice
 Symmetric Models for Syndrome Decoding;;;Elisa Gorla, Simone Trebiani;;;2026/1995;;;last_year;;;none;;;2026-09-12;;;code
 Towards Practical Iterative Rejection Sampling: A Compact and Efficient Signature over Module Lattices;;;Yifan Ming, Jipeng Zhang, Zihan Liu, Guofeng Tang, Pengfei Chen, Yutao Sun, Si Gao, Cong Zhang, Long Chen;;;2026/1991;;;last_year;;;none;;;2026-09-12;;;lattice
 Two-Anchor Holdout/Hermite: Solving the TII-254 McEliece Key Recovery Challenge;;;Markku-Juhani O. Saarinen;;;2026/1986;;;last_year;;;none;;;2026-09-11;;;code
@@ -747,8 +747,3 @@ Revisiting Multi-Key Blind Rotation: Optimized NTRU-based Bootstrapping for MKFH
 Decoding Balanced Linear Codes With Preprocessing;;;Andrej Bogdanov, Rohit Chatterjee, Yunqi Li, Prashant Nalini Vasudevan;;;2025/1932;;;last_year;;;none;;;2025-10-16;;;code
 Accelerating LWE-Based Post-Quantum Cryptography with Approximate Computing;;;Diamante Simone CRESCENZO, Emanuele VALEA, Alberto BOSIO;;;2025/1927;;;last_year;;;none;;;2025-10-15;;;lattice
 Embedding belief propagation within a multi-task learning model : An example on Kyber's NTT;;;Thomas Marquet, Elisabeth Oswald;;;2025/1917;;;last_year;;;none;;;2025-10-14;;;lattice
-Unambiguous SNARGs for P from LWE with Applications to PPAD Hardness;;;Liyan Chen, Cody Freitag, Zhengzhong Jin, Daniel Wichs;;;2025/1913;;;last_year;;;none;;;2025-10-13;;;lattice
-Fast Slicer for Batch-CVP: Making Lattice Hybrid Attacks Practical;;;Alexander Karenin, Elena Kirshanova, Alexander May, Julian Nowakowski;;;2025/1910;;;last_year;;;none;;;2025-10-13;;;lattice
-MPCitH Signature from Restricted Syndrome Decoding;;;Michele Battagliola, Ethan Y. Chen, Hugo Sauerbier Couvée, Violetta Weger;;;2025/1908;;;last_year;;;none;;;2025-10-13;;;code
-Introducing GRAFHEN: GRoup-bAsed Fully Homomorphic Encryption without Noise;;;Pierre Guillot, Auguste Hoang Duc, Michel Koskas, Florian Méhats;;;2025/1907;;;last_year;;;none;;;2025-10-13;;;lattice
-A Simple and Efficient One-Shot Signature Scheme;;;Andrew Huang, Vinod Vaikuntanathan;;;2025/1906;;;last_year;;;none;;;2025-10-13;;;lattice

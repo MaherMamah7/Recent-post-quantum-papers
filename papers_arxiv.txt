@@ -1,3 +1,8 @@
+Non-additive symmetric rank-metric codes;;;Marta Messia, Ferdinando Zullo;;;2610.18061;;;last_week;;;none;;;2026-10-13;;;code
+Puncturing-inclusion constructions of optimal Ferrers diagram rank-metric codes using semifield codes;;;Dengming Xu, Chengming Duan, Yong Jin, Yuhao Ning;;;2610.17570;;;last_week;;;none;;;2026-10-13;;;code
+Covering Radius and Deep Holes of Hyperderivative Reed-Solomon Codes under the NRT Metric;;;Zhihao Zhu, Haojie Gu, Jun Zhang, Yu Li;;;2610.16643;;;last_week;;;none;;;2026-10-12;;;code
+Wasserstein rates of all orders for the Sato-Tate law of Kloosterman sums;;;Amir M. Rahimi;;;2610.16169;;;last_week;;;none;;;2026-10-12;;;code
+On the Average List Size of VT Codes under Two Insertions or Two Deletions;;;Anisha Banerjee, Roni Con, Antonia Wachter-Zeh, Eitan Yaakobi;;;2610.15767;;;last_week;;;none;;;2026-10-11;;;code
 Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2610.12913;;;last_week;;;none;;;2026-10-09;;;lattice
 Hankel Matrix Decompositions and Digital Sequences over Function Fields;;;Roswitha Hofer;;;2610.12691;;;last_week;;;none;;;2026-10-08;;;code
 HPQ-AKE: A Provably Secure Sign-Less Hybrid Authenticated Key Exchange Protocol for Bandwidth-Constrained IoT and Edge Networks;;;Khiem Pham-Tuan, Minh Quang Le, Khuong Nguyen-An;;;2610.12024;;;last_week;;;none;;;2026-10-08;;;lattice
@@ -5,10 +10,10 @@ Covering radius of rank-metric codes via covering lifts and clubs;;;Giuseppe Mar
 Provable Subexponential Algorithms for NIST Third-Round Lattice Families;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2610.11254;;;last_week;;;none;;;2026-10-08;;;lattice
 Accelerating HQC for Post-Quantum TLS 1.3 on x86 IoT Gateways;;;Jihoon Jang, Hyunju Park, Jebin Kim, Seokhie Hong, Suhri Kim;;;2610.11107;;;last_week;;;https://github.com/jihoonjang98/hqc-x86-simd;;;2026-10-08;;;code,lattice
 The Hint Weight of ML-DSA Signatures Is Key-Dependent: An Empirical Study across the Three FIPS 204 Parameter Sets;;;Dominik Blain;;;2610.10992;;;last_week;;;none;;;2026-10-07;;;lattice
-Maximum $2$-scattered subspaces of $V(r,q^6)$;;;Francesco Ghiandoni, Alessandro Giannoni;;;2610.08237;;;last_week;;;none;;;2026-10-06;;;code
-FBAN: A Fully Homomorphic Encryption Compatible Bottleneck Attention Network for Privacy-Preserving Behavioral Authentication;;;Jichao Xiong, Atsuko Miyaji, Jiageng Chen;;;2610.08174;;;last_week;;;none;;;2026-10-06;;;lattice
-Plug-and-Play Quantum-Resistant BLE Pairing for Medical Implants via NFC Out-of-Band;;;Muhammad Asim Javaid, Muhammad Shafay Tanveer Hassan, Faaiz Umer, Sotirios Panagiotou, Christos Strydis, Naveed Anwar Bhatti, Muhammad Adeel Pasha, Muhammad Ali Siddiqi;;;2610.07870;;;last_week;;;none;;;2026-10-06;;;lattice
-Efficient and Implementation-Hardened RBLWE on Commodity Cortex-M Microcontrollers;;;Muhammad Asim Javaid, Muhammad Adeel Pasha, Muhammad Ali Siddiqi;;;2610.07820;;;last_week;;;none;;;2026-10-06;;;lattice
+Maximum $2$-scattered subspaces of $V(r,q^6)$;;;Francesco Ghiandoni, Alessandro Giannoni;;;2610.08237;;;last_month;;;none;;;2026-10-06;;;code
+FBAN: A Fully Homomorphic Encryption Compatible Bottleneck Attention Network for Privacy-Preserving Behavioral Authentication;;;Jichao Xiong, Atsuko Miyaji, Jiageng Chen;;;2610.08174;;;last_month;;;none;;;2026-10-06;;;lattice
+Plug-and-Play Quantum-Resistant BLE Pairing for Medical Implants via NFC Out-of-Band;;;Muhammad Asim Javaid, Muhammad Shafay Tanveer Hassan, Faaiz Umer, Sotirios Panagiotou, Christos Strydis, Naveed Anwar Bhatti, Muhammad Adeel Pasha, Muhammad Ali Siddiqi;;;2610.07870;;;last_month;;;none;;;2026-10-06;;;lattice
+Efficient and Implementation-Hardened RBLWE on Commodity Cortex-M Microcontrollers;;;Muhammad Asim Javaid, Muhammad Adeel Pasha, Muhammad Ali Siddiqi;;;2610.07820;;;last_month;;;none;;;2026-10-06;;;lattice
 Discovering New Problems for Decoded Quantum Interferometry;;;Rhik Mazumder, Pradeep Niroula;;;2610.06753;;;last_month;;;none;;;2026-10-05;;;code
 Efficient HQC Implementations on RISC-V: A Cross-Layer Design Space Exploration;;;Maximilian Schöffel, Johannes Feldmann, Elias Biehl, Norbert Wehn;;;2610.06058;;;last_month;;;none;;;2026-10-05;;;code
 Joint GKP Encoding for GHZ States Transmission over Bosonic Quantum MIMO Channels;;;Seid Koudia, Selssabil Kadid, Symeon Chatzinotas, Mérouane Debbah;;;2610.05992;;;last_month;;;none;;;2026-10-05;;;code
@@ -58,7 +63,6 @@ HEAT: Faster Fully Homomorphic Inference via Approximations-Weights Co-Adaptatio
 A General Construction of Codes from Drinfeld Modules;;;Alessandro Giannoni, Giacomo Micheli, Mihran Papikian;;;2609.01484;;;last_year;;;none;;;2026-09-01;;;code
 SVP Is NP-Hard for Some Rank-2 Cyclotomic Modules;;;Jiaqi Liu, Yansong Feng, Yanbin Pan;;;2609.01469;;;last_year;;;none;;;2026-09-01;;;lattice
 Verifiable quantum advantage in extremely low depth;;;Alexandru Gheorghiu;;;2609.01448;;;last_year;;;none;;;2026-09-01;;;lattice
-An Algebraic Framework for Data Systems: Classification and Optimization of Algebraic Structures for Data Organization and Coding;;;Kendy Inoa;;;2609.00273;;;last_year;;;none;;;2026-08-31;;;code
 A New Algebraic Algorithm for LWE;;;Luca Campa, Massimo Fumiani, Arnab Roy;;;2608.29977;;;last_year;;;none;;;2026-08-30;;;lattice
 Obscura-PQ: Post-Quantum Privacy-Preserving Protocol for the Algorand Blockchain Using Lattice-Based Linkable Ring Signatures;;;Navid Azimi;;;2608.22645;;;last_year;;;none;;;2026-08-23;;;lattice
 Key Recovery from Residue-Confined Errors in Pradhan CRT-RLWE;;;Lukasz Olejnik, Bartosz Naskrecki;;;2608.21989;;;last_year;;;none;;;2026-08-22;;;lattice
@@ -306,4 +310,3 @@ High Memory Masked Convolutional Codes for PQC;;;Meir Ariel;;;2510.15515;;;last_
 FHE-SQL: Fully Homomorphic Encrypted SQL Database;;;Po-Yu Tseng, Po-Chu Hsu, Shih-Wei Liao;;;2510.15413;;;last_year;;;none;;;2025-10-17;;;lattice
 Decoding Balanced Linear Codes With Preprocessing;;;Andrej Bogdanov, Rohit Chatterjee, Yunqi Li, Prashant Nalini Vasudevan;;;2510.14347;;;last_year;;;none;;;2025-10-16;;;code
 Resource Estimation of CGGI and CKKS scheme workloads on FracTLcore Computing Fabric;;;Denis Ovichinnikov, Hemant Kavadia, Satya Keerti Chand Kudupudi, Ilya Rempel, Vineet Chadha, Marty Franz, Paul Master, Craig Gentry, Darlene Kindler, Alberto Reyes, Muthu Annamalai;;;2510.16025;;;last_year;;;none;;;2025-10-15;;;lattice
-A Simple and Efficient One-Shot Signature Scheme;;;Andrew Huang, Vinod Vaikuntanathan;;;2510.10899;;;last_year;;;none;;;2025-10-13;;;lattice
