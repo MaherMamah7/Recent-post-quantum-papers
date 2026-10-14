@@ -1,3 +1,12 @@
+Software-Pipelining The Number Theoretic Transform on Neural Processing Units: A Loop-Fission Methodology;;;Henri Vermeersch, Xander Pottier, Quinten Norga, Thomas de Ruijter, Ingrid Verbauwhede;;;2026/2474;;;last_week;;;none;;;2026-10-14;;;lattice
+edaBits in the Exponent (edaBitE) and Issuer-Hiding Blind Signatures from ML-DSA and VOLE-in-the-Head;;;Carsten Baum, Marvin Beckmann;;;2026/2473;;;last_week;;;none;;;2026-10-14;;;lattice
+Nowhere Man: Device Binding for Post-Quantum Anonymous Credentials;;;Calvin Abou Haidar, Ryo Kikuchi, Octavio Perez-Kempner, Marcel Tiepelt;;;2026/2472;;;last_week;;;none;;;2026-10-14;;;lattice
+Refined Application of the XL Algorithm within the Algebraic Approach to the Regular Syndrome Decoding Problem;;;Hiroki Furue, Yusuke Aikawa;;;2026/2470;;;last_week;;;none;;;2026-10-14;;;code
+Tree-BTE: Batched Threshold Encryption using Additive Homomorphism;;;Amit Agarwal, Sourav Das, Babak Poorebrahim Gilkalaye, Benny Pinkas, Peter Rindal;;;2026/2463;;;last_week;;;none;;;2026-10-13;;;lattice
+Leakage-Resilient Incompressible Cryptography: Constructions and Barriers;;;KAARTIK BHUSHAN, Rishab Goyal, Venkata Koppula, Varun Narayanan, Manoj Prabhakaran, Mahesh Sreekumar Rajasree;;;2026/2461;;;last_week;;;none;;;2026-10-13;;;lattice
+On the Expected Number of Iterations in ML-DSA Signing: A Complete Accounting of the Rejection Conditions;;;Kris Kwiatkowski;;;2026/2456;;;last_week;;;none;;;2026-10-12;;;lattice
+Modulus Operandi: Round-Optimal Modulus Conversion for MPC and Threshold FHE;;;Ivan Damgård, Sebastian Hasler, Sebastian Kolby, Stanislas Pawlak;;;2026/2450;;;last_week;;;none;;;2026-10-12;;;lattice
+Breaking First-Order Masked Kyber with Belief Propagation Alone;;;Vahid Jahandideh, Lejla Batina;;;2026/2448;;;last_week;;;none;;;2026-10-12;;;lattice
 Worst-Case Hardness for Succinct and Decomposed Learning with Errors;;;Damiano Abram, Gal Arnon, Valerio Cini, Paul Lou, Giulio Malavolta, Lawrence Roy;;;2026/2443;;;last_week;;;none;;;2026-10-11;;;lattice
 Faster generic CCA secure KEM transformation using encrypt-then-MAC;;;Ganyu Xu, Kalikinkar Mandal, Guang Gong;;;2026/2442;;;last_week;;;none;;;2026-10-11;;;code,lattice
 Threshold BARGs with Statistical Soundness: Weighted Threshold Encryption without Obfuscation;;;Shafik Nassar, Brent Waters, David J. Wu;;;2026/2436;;;last_week;;;none;;;2026-10-10;;;lattice
