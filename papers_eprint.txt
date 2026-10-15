@@ -1,3 +1,7 @@
+Exploring Fault Injection Attacks on HQC and BIKE Beyond Fujisaki-Okamoto Verification;;;Thales B. Paiva, Lucas C. Cardoso, Keerthi Kamalakshan, Hariprasad Valsaraj Kelassery, Marcos A. Simplicio Jr., Shivam Bhasin;;;2026/2492;;;last_week;;;none;;;2026-10-15;;;code
+Reaction Attack on CKKS Deployments with Asymptotically Optimal Query Complexity;;;Song Bian, Hyeongmin Choe, Jiseung Kim, Changmin Lee;;;2026/2490;;;last_week;;;none;;;2026-10-15;;;lattice
+Tulva: Practical Asynchronous Threshold FHE;;;Valerio Cini, Antonio Guimarães, Russell W. F. Lai, Michał Osadnik, Ivy K. Y. Woo;;;2026/2485;;;last_week;;;none;;;2026-10-14;;;lattice
+Post-Quantum Certificate-Based PSK Provisioning for WireGuard via Mutual TLS, DTLS, and QUIC: Design and Performance Study;;;Che Hang Ng, Emil Künstner, Bastian Küppers, Theodor Schnitzler, Misha Glazunov;;;2026/2480;;;last_week;;;none;;;2026-10-14;;;lattice
 Software-Pipelining The Number Theoretic Transform on Neural Processing Units: A Loop-Fission Methodology;;;Henri Vermeersch, Xander Pottier, Quinten Norga, Thomas de Ruijter, Ingrid Verbauwhede;;;2026/2474;;;last_week;;;none;;;2026-10-14;;;lattice
 edaBits in the Exponent (edaBitE) and Issuer-Hiding Blind Signatures from ML-DSA and VOLE-in-the-Head;;;Carsten Baum, Marvin Beckmann;;;2026/2473;;;last_week;;;none;;;2026-10-14;;;lattice
 Nowhere Man: Device Binding for Post-Quantum Anonymous Credentials;;;Calvin Abou Haidar, Ryo Kikuchi, Octavio Perez-Kempner, Marcel Tiepelt;;;2026/2472;;;last_week;;;none;;;2026-10-14;;;lattice
