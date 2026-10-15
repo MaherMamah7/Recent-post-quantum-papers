@@ -16,8 +16,8 @@ Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over L
 Provable Subexponential Algorithms for Module-SIS and Module-LWE;;;William Youmans;;;2026/2420;;;last_week;;;none;;;2026-10-08;;;lattice
 Barely Sublinear RAM-FHE from Plain LWE;;;Keewoo Lee;;;2026/2412;;;last_week;;;none;;;2026-10-08;;;lattice
 Average-Case Hardness of Lattice Problems in Special Genera of Fixed Rank;;;Koen de Boer, Maxime Bombar, Aurel Page, Wessel van Woerden;;;2026/2411;;;last_week;;;none;;;2026-10-08;;;lattice
-Practical and Efficient MPC from FHE, without ZKPoKs;;;Kelong Cong, Nigel P. Smart, Titouan Tanguy, MIchael Walter;;;2026/2403;;;last_week;;;none;;;2026-10-07;;;lattice
-Faster Provable Lattice Sieving with Spherical Codes;;;Divesh Aggarwal, Aditya Morolia, Noah Stephens-Davidowitz;;;2026/2388;;;last_week;;;none;;;2026-10-07;;;lattice
+Practical and Efficient MPC from FHE, without ZKPoKs;;;Kelong Cong, Nigel P. Smart, Titouan Tanguy, MIchael Walter;;;2026/2403;;;last_month;;;none;;;2026-10-07;;;lattice
+Faster Provable Lattice Sieving with Spherical Codes;;;Divesh Aggarwal, Aditya Morolia, Noah Stephens-Davidowitz;;;2026/2388;;;last_month;;;none;;;2026-10-07;;;lattice
 Provable Subexponential Algorithms for NIST Third-Round Lattice Families;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2026/2386;;;last_month;;;none;;;2026-10-06;;;lattice
 SkrrtPIR: Doubly-Stateless Batch PIR from Single-Key RLWE Unpacking;;;Keewoo Lee, Yongha Son;;;2026/2385;;;last_month;;;none;;;2026-10-06;;;lattice
 The Lattice Isomorphism Problem with Hints;;;Mélissa Rossi;;;2026/2381;;;last_month;;;none;;;2026-10-06;;;lattice
@@ -131,9 +131,9 @@ Square Root of All Evil: The Dangers of Falcon's Superfluous Square Roots;;;Hiro
 Practical Key Recovery Attacks on Full DuX and Reduced-Round YuX;;;Xingwei Ren, Bo Xu, Zhenyu Xiong, Yongqiang Li, Xichao Hu, Lin Jiao, Mingsheng Wang;;;2026/2045;;;last_month;;;none;;;2026-09-15;;;lattice
 On Solving Ideal-SVP and Ideal-BDD with Group Representations;;;Hongyuan Qu, Guangwu Xu;;;2026/2042;;;last_month;;;none;;;2026-09-15;;;lattice
 Barely Doubly-Efficient PIR from Quadratic Residuosity;;;Keewoo Lee;;;2026/2034;;;last_month;;;none;;;2026-09-15;;;lattice
-Leopard: A High-Performance Framework for Updatable Private Set Intersection;;;Xiaowei Li, Shi-Feng Sun, Yanxue Jia, Hao Li, Dawu Gu;;;2026/2027;;;last_month;;;none;;;2026-09-14;;;lattice
-A unified reduction from RLWE to MP-LWE;;;Alice Pellet-Mary, Wenwen Xia;;;2026/2026;;;last_month;;;none;;;2026-09-14;;;lattice
-On the eCK Security of MQV-Style LWE-Based Authenticated Key Exchange;;;Ruoyu Ding, Tianrun Yu, Yanbin Pan, Chi Cheng, Jian Weng;;;2026/2017;;;last_month;;;none;;;2026-09-14;;;lattice
+Leopard: A High-Performance Framework for Updatable Private Set Intersection;;;Xiaowei Li, Shi-Feng Sun, Yanxue Jia, Hao Li, Dawu Gu;;;2026/2027;;;last_year;;;none;;;2026-09-14;;;lattice
+A unified reduction from RLWE to MP-LWE;;;Alice Pellet-Mary, Wenwen Xia;;;2026/2026;;;last_year;;;none;;;2026-09-14;;;lattice
+On the eCK Security of MQV-Style LWE-Based Authenticated Key Exchange;;;Ruoyu Ding, Tianrun Yu, Yanbin Pan, Chi Cheng, Jian Weng;;;2026/2017;;;last_year;;;none;;;2026-09-14;;;lattice
 On Succinct Obfuscation via Propositional Proofs;;;Abhishek Jain, Zhengzhong Jin, Surya Mathialagan, Omer Paneth;;;2026/2009;;;last_year;;;none;;;2026-09-13;;;lattice
 NP-Hardness of Ideal Lattice Problems;;;Daniel E. Martin;;;2026/2003;;;last_year;;;none;;;2026-09-13;;;lattice
 Symmetric Models for Syndrome Decoding;;;Elisa Gorla, Simone Trebiani;;;2026/1995;;;last_year;;;none;;;2026-09-12;;;code
@@ -758,4 +758,3 @@ HORCRUX - A Lightweight PQC-RISC-V eXtension Architecture;;;Alessandra Dolmeta, 
 Revisiting Multi-Key Blind Rotation: Optimized NTRU-based Bootstrapping for MKFHE;;;Xiaohan Wan, Mingqiang Wang, Xiaopeng Cheng, Haiyang Xue, Qi Zhang;;;2025/1933;;;last_year;;;none;;;2025-10-16;;;lattice
 Decoding Balanced Linear Codes With Preprocessing;;;Andrej Bogdanov, Rohit Chatterjee, Yunqi Li, Prashant Nalini Vasudevan;;;2025/1932;;;last_year;;;none;;;2025-10-16;;;code
 Accelerating LWE-Based Post-Quantum Cryptography with Approximate Computing;;;Diamante Simone CRESCENZO, Emanuele VALEA, Alberto BOSIO;;;2025/1927;;;last_year;;;none;;;2025-10-15;;;lattice
-Embedding belief propagation within a multi-task learning model : An example on Kyber's NTT;;;Thomas Marquet, Elisabeth Oswald;;;2025/1917;;;last_year;;;none;;;2025-10-14;;;lattice
