@@ -88,7 +88,7 @@ Structural Cryptanalysis of Polar-KEM: Direct Recovery of the Secret Isometry;;;
 Dance with Noise: Safely Trade Minor Decryption Failures for More Compact KEMs with Applications to IKEv2;;;Zidi Zhuang, Yuyang Xiao, Long Chen, Qiang Tang, Zhenfeng Zhang;;;2026/2201;;;last_month;;;none;;;2026-09-24;;;lattice
 Lifting Symmetries for Dimension Reduction in Module-LIP: rank 2 and rank 4;;;Hengyi Luo, Kaijie Jiang, Yanbin Pan;;;2026/2198;;;last_month;;;none;;;2026-09-24;;;lattice
 Multi-Key FHE Almost as Fast as Single-Key FHE;;;Abtin Afshar, Rishab Goyal;;;2026/2195;;;last_month;;;none;;;2026-09-23;;;lattice
-Stay in Your Lane: Fast Arithmetic over Large Finite Rings with CKKS;;;Hyeongmin Choe, Robin Köstler, Tim Seuré;;;2026/2190;;;last_month;;;none;;;2026-09-23;;;lattice
+Stay in Your Lane: Scalable Large-Integer Arithmetic in CKKS;;;Hyeongmin Choe, Robin Köstler, Tim Seuré;;;2026/2190;;;last_month;;;none;;;2026-09-23;;;lattice
 Provable FFT-Accelerated Dual Attack on LWE Using the General Dual Lattice;;;Jiale Li, Li-Ping Wang, Huaxiong Wang;;;2026/2186;;;last_month;;;none;;;2026-09-23;;;lattice
 Swing the Lure: How to Cheaply Mitigate Sign Leakage in Falcon;;;Xiuhan Lin, Mehdi Tibouchi, Yang Yu;;;2026/2170;;;last_month;;;none;;;2026-09-23;;;lattice
 A Provable Correctness Analysis of the MATZOV-Style FFT Dual Attack on ML-KEM;;;Jiale Li, Li-Ping Wang, Huaxiong Wang;;;2026/2166;;;last_month;;;none;;;2026-09-23;;;lattice
@@ -345,7 +345,7 @@ A Compact Signature Scheme Based on QC-MDGM Codes;;;Alessandro Annechini, Alessa
 BootNet: Homomorphic CNN Inference with Convolution and ReLU Fused in Bootstrapping;;;Zhaomin Yang, Chao Niu, Cheng Hong, Tao Wei;;;2026/1279;;;last_year;;;none;;;2026-06-18;;;lattice
 Parameter-Aware and Instruction-Driven Dilithium Optimization on AVX2 and NEON;;;Shi Ya, Liu Bingqian, Lu Xianhui, Qian Wenfei, Liu Ying, Wang Kunpeng;;;2026/1272;;;last_year;;;none;;;2026-06-17;;;lattice
 Efficient Private Set Intersection and Searchable Encryption using Homomorphic Bloom Filters;;;Anil Kumar Pradhan, Killari Nandini, Harsh Kasyap, Sayantan Mukherjee;;;2026/1267;;;last_year;;;none;;;2026-06-16;;;lattice
-A Billion Hard CRYSTALS: Exploring Practical Aspects of Arithmetic Masking for PQC in Hardware;;;Fabian Buschkowski, Niklas Höher, Pascal Sasdrich, Tim Güneysu;;;2026/1265;;;last_year;;;none;;;2026-06-16;;;lattice
+A Billion Hard CRYSTALS: Automated Design Space Exploration of Mixed-Domain Masking for PQC in Hardware;;;Fabian Buschkowski, Niklas Höher, Pascal Sasdrich, Tim Güneysu;;;2026/1265;;;last_year;;;none;;;2026-06-16;;;lattice
 The Power of Low Rank: Fast CKKS Functional Bootstrapping for High-Precision Lookup Tables;;;Zhihao Li, Xuan Shen, Cheng Hong, Ruida Wang, Xianhui Lu, Tao Wei;;;2026/1264;;;last_year;;;none;;;2026-06-16;;;lattice
 LCPDTE: Low-Complexity Private Decision Tree Evaluation over Homomorphic Encryption;;;Dongjin Park, Gyeongwon Cha, Joon-Woo Lee;;;2026/1263;;;last_year;;;none;;;2026-06-16;;;lattice
 PQ-SMS: A Post-Quantum Sanitizable Multi-Signature Scheme for Satellite PKI;;;Long Wang, Zhaoman Liu, Jing Fan, Yanhong Fan;;;2026/1262;;;last_year;;;none;;;2026-06-16;;;lattice
