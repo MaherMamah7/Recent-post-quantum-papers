@@ -4,7 +4,7 @@ Puncturing-inclusion constructions of optimal Ferrers diagram rank-metric codes 
 Covering Radius and Deep Holes of Hyperderivative Reed-Solomon Codes under the NRT Metric;;;Zhihao Zhu, Haojie Gu, Jun Zhang, Yu Li;;;2610.16643;;;last_week;;;none;;;2026-10-12;;;code
 Wasserstein rates of all orders for the Sato-Tate law of Kloosterman sums;;;Amir M. Rahimi;;;2610.16169;;;last_week;;;none;;;2026-10-12;;;code
 On the Average List Size of VT Codes under Two Insertions or Two Deletions;;;Anisha Banerjee, Roni Con, Antonia Wachter-Zeh, Eitan Yaakobi;;;2610.15767;;;last_week;;;none;;;2026-10-11;;;code
-Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2610.12913;;;last_week;;;none;;;2026-10-09;;;lattice
+Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2610.12913;;;last_month;;;none;;;2026-10-09;;;lattice
 Hankel Matrix Decompositions and Digital Sequences over Function Fields;;;Roswitha Hofer;;;2610.12691;;;last_month;;;none;;;2026-10-08;;;code
 HPQ-AKE: A Provably Secure Sign-Less Hybrid Authenticated Key Exchange Protocol for Bandwidth-Constrained IoT and Edge Networks;;;Khiem Pham-Tuan, Minh Quang Le, Khuong Nguyen-An;;;2610.12024;;;last_month;;;none;;;2026-10-08;;;lattice
 Covering radius of rank-metric codes via covering lifts and clubs;;;Giuseppe Marino, Alessandro Neri, Alessia Vallefuoco;;;2610.11926;;;last_month;;;none;;;2026-10-08;;;code
@@ -36,7 +36,7 @@ Domain Specific Post Quantum Signatures for Blockchains;;;Maja Lie, Ben Marsh;;;
 Benchmarking Post-Quantum Cryptography in Lightweight Virtualization Environments on Embedded Hardware;;;Nikolai Puch, Chi Hieu Ta, Moritz Beckel;;;2609.23902;;;last_month;;;none;;;2026-09-20;;;code,lattice
 Zero-Knowledge Proofs of Quantumness;;;Duong Hieu Phan, Weiqiang Wen, Xingyu Yan, Jinwei Zheng;;;2609.23455;;;last_month;;;none;;;2026-09-20;;;lattice
 A geometric approach to the density of rank-metric codes;;;Shamil Asgarli, Lian Duan, Nathan Kaplan, Kuan-Wen Lai;;;2609.21189;;;last_month;;;none;;;2026-09-18;;;code
-Hamming Ideals and Grobner Bases for ISD-like Syndrome Decoding;;;Roberto La Scala, Marco Marchesin, Sharwan K. Tiwari;;;2609.18866;;;last_month;;;none;;;2026-09-16;;;code
+Hamming Ideals and Grobner Bases for ISD-like Syndrome Decoding;;;Roberto La Scala, Marco Marchesin, Sharwan K. Tiwari;;;2609.18866;;;last_year;;;none;;;2026-09-16;;;code
 A Polynomial-Time Attack on the McEliece Cryptosystem on Elliptic Codes with Arbitrary Divisors;;;Artyom Kuninets, Ekaterina Malygina, Evgeniy Melnichuk;;;2609.17732;;;last_year;;;none;;;2026-09-15;;;code
 GAUGE: A Formal Framework for Measuring Cryptographic Security under Heterogeneous Adversary Cost Models;;;Bhanwar Gupta, Sanjeev Rana;;;2609.17281;;;last_year;;;none;;;2026-09-15;;;lattice
 ROSETTA: Efficient and Accurate Privacy-Preserving LLM Decoding via Hybrid CKKS/TFHE Evaluation;;;Jiangrui Yu, Baosheng Zhang, Liang Kong, Lin Ding, Yi Chen, Ye Yu, Mingzhe Zhang, Meng Li;;;2609.16915;;;last_year;;;none;;;2026-09-15;;;lattice
@@ -308,4 +308,3 @@ Deterministic Hardness of Approximation of Unique-SVP and GapSVP in $\ell_p$ nor
 When Intelligence Fails: An Empirical Study on Why LLMs Struggle with Password Cracking;;;Mohammad Abdul Rehman, Syed Imad Ali Shah, Abbas Anwar, Noor Islam, Hamid Khan;;;2510.17884;;;last_year;;;none;;;2025-10-18;;;lattice
 High Memory Masked Convolutional Codes for PQC;;;Meir Ariel;;;2510.15515;;;last_year;;;none;;;2025-10-17;;;code
 FHE-SQL: Fully Homomorphic Encrypted SQL Database;;;Po-Yu Tseng, Po-Chu Hsu, Shih-Wei Liao;;;2510.15413;;;last_year;;;none;;;2025-10-17;;;lattice
-Decoding Balanced Linear Codes With Preprocessing;;;Andrej Bogdanov, Rohit Chatterjee, Yunqi Li, Prashant Nalini Vasudevan;;;2510.14347;;;last_year;;;none;;;2025-10-16;;;code
