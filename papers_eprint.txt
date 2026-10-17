@@ -1,3 +1,4 @@
+Eﬃcient Fixed-Point Implementation of Mitaka;;;Shiduo Zhang, Paul Kirchner, Xiuhan Lin, Yang Yu;;;2026/2521;;;last_week;;;none;;;2026-10-17;;;lattice
 Analysis of the Multi-Key Optimization for SPECK;;;Marco Baldi, Michele Battagliola, Rahmi El Mechri, Paolo Santini, Riccardo Schiavoni;;;2026/2514;;;last_week;;;none;;;2026-10-16;;;code
 Fully Homomorphic Encryption for Small Batches of Complex Numbers;;;Jules Dumezy;;;2026/2513;;;last_week;;;none;;;2026-10-16;;;lattice
 SLEEK: Sparse Quasi-Cyclic Codes with Closed-Form DFR Key Encapsulation;;;Alessandro Annechini, Alessandro Barenghi, Marco Gianvecchio, Gerardo Pelosi;;;2026/2512;;;last_week;;;none;;;2026-10-16;;;code
