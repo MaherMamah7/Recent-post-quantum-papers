@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mahermamah7.github.io/Recent-post-quantum-papers/sitemap.xml
+Sitemap: https://pqc-reference.org/sitemap.xml
