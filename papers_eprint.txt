@@ -23,7 +23,7 @@ Modulus Operandi: Round-Optimal Modulus Conversion for MPC and Threshold FHE;;;I
 Breaking First-Order Masked Kyber with Belief Propagation Alone;;;Vahid Jahandideh, Lejla Batina;;;2026/2448;;;last_week;;;none;;;2026-10-12;;;lattice
 Worst-Case Hardness for Succinct and Decomposed Learning with Errors;;;Damiano Abram, Gal Arnon, Valerio Cini, Paul Lou, Giulio Malavolta, Lawrence Roy;;;2026/2443;;;last_week;;;none;;;2026-10-11;;;lattice
 Faster generic CCA secure KEM transformation using encrypt-then-MAC;;;Ganyu Xu, Kalikinkar Mandal, Guang Gong;;;2026/2442;;;last_week;;;none;;;2026-10-11;;;code,lattice
-Threshold BARGs with Statistical Soundness: Weighted Threshold Encryption without Obfuscation;;;Shafik Nassar, Brent Waters, David J. Wu;;;2026/2436;;;last_week;;;none;;;2026-10-10;;;lattice
+Threshold BARGs with Statistical Soundness: Weighted Threshold Encryption without Obfuscation;;;Shafik Nassar, Brent Waters, David J. Wu;;;2026/2436;;;last_month;;;none;;;2026-10-10;;;lattice
 Flying, Not Floating: Precise Fixed-Point Falcon on Embedded Processors;;;Stef Halmans, Amit Kumar, Tim Güneysu;;;2026/2431;;;last_month;;;none;;;2026-10-09;;;lattice
 Provably Subexponential Algorithms for Bounded-Error LWE with Few Samples;;;Haoxing Lin, Prashant Nalini Vasudevan;;;2026/2426;;;last_month;;;none;;;2026-10-09;;;lattice
 Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2026/2425;;;last_month;;;none;;;2026-10-09;;;lattice
@@ -118,7 +118,7 @@ CKKS Bootstrapping in less than 10ms;;;Rending Ouyang, Jian Liu, Peimin Gao, Pan
 I Prove, Therefore I Am: Spatiotemporal Multi-Party Computation;;;Ziqing Guo, Fuyuki Kitagawa, Xiao Liang;;;2026/2118;;;last_month;;;none;;;2026-09-20;;;lattice
 Provable dual attack on LWE via lattice projection;;;Hongyuan Qu, Chengliang Tian, Geng Wang, Guangwu Xu;;;2026/2117;;;last_month;;;none;;;2026-09-20;;;lattice
 Post-Quantum PKE and More from a Noisy Unstructured Linear Algebraic Assumption: Beyond LWE and LPN;;;Riddhi Ghosal, Paul Lou, Amit Sahai;;;2026/2113;;;last_month;;;none;;;2026-09-19;;;code,lattice
-Attacking CRT-RSA with Small Exponents via Unravelled Linearization;;;Zhaopeng Ding, Zhaopeng Dai, Yanshuo Zhang, Ziyang Yan, Ying Chen;;;2026/2109;;;last_month;;;none;;;2026-09-19;;;lattice
+Attacking CRT-RSA with Small Exponents via Unravelled Linearization;;;Zhaopeng Ding, Yanshuo Zhang, Zhaopeng Dai, Ziyang Yan, Ying Chen;;;2026/2109;;;last_month;;;none;;;2026-09-19;;;lattice
 Tree Encodings IV: Depth-Unbounded Attribute-Based Encryption and Delay Encryption;;;Damiano Abram, Giulio Malavolta, Lawrence Roy;;;2026/2094;;;last_month;;;none;;;2026-09-18;;;lattice
 Tree Encodings III: Time/Space Hardness from Lattice Problems;;;Damiano Abram, Giulio Malavolta, Lawrence Roy;;;2026/2093;;;last_month;;;none;;;2026-09-18;;;lattice
 Keep Track of Your Errors: Solving ILWE and Improving Attacks on ML-DSA;;;Mohamed ElGhamrawy, Thomas Eisenbarth, Julius Hermelink, Anja Rabich, Florian Sieck, Silvan Streit, Jonas Thietke, Zhiyuan Zhang;;;2026/2091;;;last_month;;;none;;;2026-09-18;;;lattice
@@ -128,11 +128,11 @@ Incremental Keyword Private Information Retrieval from d-ary Segmented Cuckoo Fi
 FRI-Style Rank Metric PCS via FFT for Gabidulin Encoding;;;Songsong Li, Zhe Li, Shu Liu, Chaoping Xing, Chen Yuan;;;2026/2081;;;last_month;;;none;;;2026-09-18;;;code
 Radical Ring-LWR: Efficient Key Encapsulation and Signatures from Structured Rounding;;;Joost Renes, Joppe W. Bos, Haochen Huang, Selim Kirbiyik, Alberto Ovena, Sujoy Sinha Roy, Frederik Vercauteren, Peng Wang, Fangyu Zheng, Chenxin Zhong;;;2026/2078;;;last_month;;;none;;;2026-09-18;;;lattice
 Practical Group Signatures from Tag-Based NTRU Sampler;;;Corentin Jeudy;;;2026/2077;;;last_month;;;none;;;2026-09-18;;;lattice
-Symmetry-Graded Digit Extraction Framework for Faster BGV Bootstrapping;;;Zhenyu Xiong, Mingsheng Wang, Zhedong Wang, Han Wang;;;2026/2076;;;last_month;;;none;;;2026-09-17;;;lattice
-Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms;;;Yvonne Zhou, Mingyu Liang, Ivan Brugere, Danial Dervovic, Yue Guo, Antigoni Polychroniadou, Min Wu, Dana Dachman-Soled;;;2026/2073;;;last_month;;;none;;;2026-09-17;;;lattice
-Default Correct: A New Fault Surface in the Comparison Booleanisation of Kyber-KEM;;;Anirudh Jaiswal, Abhilash Kumar Das, Dhiman Saha;;;2026/2069;;;last_month;;;none;;;2026-09-17;;;lattice
-Maltese: Succinct Polynomial Commitment from Lattices;;;Katarina Cheng, Wilson Nguyen, Nirvan Tyagi;;;2026/2067;;;last_month;;;none;;;2026-09-17;;;lattice
-Optimizing HAETAE and SMAUG-T on Cortex-M4 for Resource-Constrained IoT Devices;;;JunHyeok Choi, DongHyun Shin, Seog Chung Seo;;;2026/2066;;;last_month;;;none;;;2026-09-17;;;lattice
+Symmetry-Graded Digit Extraction Framework for Faster BGV Bootstrapping;;;Zhenyu Xiong, Mingsheng Wang, Zhedong Wang, Han Wang;;;2026/2076;;;last_year;;;none;;;2026-09-17;;;lattice
+Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms;;;Yvonne Zhou, Mingyu Liang, Ivan Brugere, Danial Dervovic, Yue Guo, Antigoni Polychroniadou, Min Wu, Dana Dachman-Soled;;;2026/2073;;;last_year;;;none;;;2026-09-17;;;lattice
+Default Correct: A New Fault Surface in the Comparison Booleanisation of Kyber-KEM;;;Anirudh Jaiswal, Abhilash Kumar Das, Dhiman Saha;;;2026/2069;;;last_year;;;none;;;2026-09-17;;;lattice
+Maltese: Succinct Polynomial Commitment from Lattices;;;Katarina Cheng, Wilson Nguyen, Nirvan Tyagi;;;2026/2067;;;last_year;;;none;;;2026-09-17;;;lattice
+Optimizing HAETAE and SMAUG-T on Cortex-M4 for Resource-Constrained IoT Devices;;;JunHyeok Choi, DongHyun Shin, Seog Chung Seo;;;2026/2066;;;last_year;;;none;;;2026-09-17;;;lattice
 Area-Time Efficient NTRU Prime Decapsulation: ASIC Evaluation of the First Five-Way Char-3 Multiplier;;;Esra Yeniaras;;;2026/2064;;;last_year;;;none;;;2026-09-16;;;lattice
 Hamming Ideals and Grobner Bases for ISD-like Syndrome Decoding;;;Roberto La Scala, Marco Marchesin, Sharwan K. Tiwari;;;2026/2062;;;last_year;;;none;;;2026-09-16;;;code
 Trace-Factored BigSwitch for Matrix-Friendly FHE;;;Dong Jin Park, Hyunseok Jeong, Minwook Jeong, Jaeky Oh, Yongwoo Lee, Young-Sik Kim;;;2026/2058;;;last_year;;;none;;;2026-09-16;;;lattice
@@ -765,5 +765,3 @@ Fast Batch Matrix Multiplication in Ciphertexts;;;Jung Hee Cheon, Minsik Kang, J
 A Chosen-Ciphertext Side-Channel Attack on Shuffled CRYSTALS-Kyber;;;Hao Zhang, Zewen Ye, Teng Wang, Yuanming Zhang, Tianyu Wang, Chengxuan Wang, Kejie Huang;;;2025/1956;;;last_year;;;none;;;2025-10-20;;;lattice
 KPIR-C: Keyword PIR with Arbitrary Server-Side Computation;;;Ali Arastehfard, Weiran Liu, Qixian Zhou, Zinan Shen, Liqiang Peng, Lin Qu, Shuya Feng, Yuan Hong;;;2025/1952;;;last_year;;;none;;;2025-10-19;;;lattice
 Minicrypt PRFs Do Not Admit Black-Box Oblivious Evaluations;;;Cruz Barnum, Mohammad Hajiabadi, David Heath, Jake Januzelli, Naman Kumar, Mike Rosulek;;;2025/1947;;;last_year;;;none;;;2025-10-18;;;lattice
-GPV Preimage Sampling with Weak Smoothness and Its Applications to Lattice Signatures;;;Shiduo Zhang, Huiwen Jia, Delong Ran, Yang Yu, Yu Yu, Xiaoyun Wang;;;2025/1940;;;last_year;;;none;;;2025-10-17;;;lattice
-Efficient Polynomial Multiplication for HQC on ARM Cortex-M4;;;Jihoon Jang, Myeonghoon Lee, Donggeun Kwon, Seokhie Hong, Suhri Kim, Sangjin Lee;;;2025/1939;;;last_year;;;none;;;2025-10-17;;;code

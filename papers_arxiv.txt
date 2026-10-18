@@ -306,5 +306,3 @@ A Probabilistic Computing Approach to the Closest Vector Problem for Lattice-Bas
 Recursive decoding of binary rank Reed-Muller codes and Plotkin construction for matrix codes;;;Alain Couvreur, Rakhi Pratihar;;;2510.19095;;;last_year;;;none;;;2025-10-21;;;code
 Deterministic Hardness of Approximation of Unique-SVP and GapSVP in $\ell_p$ norms for $p>2$;;;Yahli Hecht, Muli Safra;;;2510.16991;;;last_year;;;none;;;2025-10-19;;;lattice
 When Intelligence Fails: An Empirical Study on Why LLMs Struggle with Password Cracking;;;Mohammad Abdul Rehman, Syed Imad Ali Shah, Abbas Anwar, Noor Islam, Hamid Khan;;;2510.17884;;;last_year;;;none;;;2025-10-18;;;lattice
-High Memory Masked Convolutional Codes for PQC;;;Meir Ariel;;;2510.15515;;;last_year;;;none;;;2025-10-17;;;code
-FHE-SQL: Fully Homomorphic Encrypted SQL Database;;;Po-Yu Tseng, Po-Chu Hsu, Shih-Wei Liao;;;2510.15413;;;last_year;;;none;;;2025-10-17;;;lattice
