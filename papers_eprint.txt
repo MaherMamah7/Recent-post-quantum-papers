@@ -1,4 +1,13 @@
-High-Precision CKKS with fixed Modulus Consumption;;;Jung Hee Cheon, Junho Lee;;;2026/2531;;;last_week;;;none;;;2026-10-18;;;lattice
+Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures;;;Olivier Gillot, William J. Buchanan, Madjid G. Tehrani;;;2026/2557;;;last_week;;;none;;;2026-10-19;;;lattice
+Analysis of an AI based code distinguisher;;;Quentin Lavit, Julien Seinturier, Pascal Véron;;;2026/2556;;;last_week;;;none;;;2026-10-19;;;code
+Evasive Inner Product Functional Encryption Is Broken Too;;;Shweta Agrawal, Anuja Modi, Anshu Yadav, Shota Yamada;;;2026/2548;;;last_week;;;none;;;2026-10-19;;;lattice
+$\mathcal{iO}$ from LWE with Structured Preimage;;;Shweta Agrawal, Anuja Modi, Anshu Yadav, Shota Yamada;;;2026/2547;;;last_week;;;none;;;2026-10-19;;;lattice
+New IND-CPA-D Attacks on BFV and BGV;;;Hyeongmin CHOE, Minsik Kang, Damien Stehlé;;;2026/2546;;;last_week;;;none;;;2026-10-19;;;lattice
+Blind-DLPA: An End-to-End Framework for Profiled Blind Side-Channel Analysis;;;Pei Cao, Chi Zhang, Dawu Gu;;;2026/2544;;;last_week;;;none;;;2026-10-19;;;lattice
+Provable Lattice Reduction in Nearly the Time of QR Factorization;;;Yang Zhou, Zhedong Wang, Mingsheng Wang;;;2026/2541;;;last_week;;;none;;;2026-10-19;;;lattice
+Implementing Predicate Encryption for Branching Programs: Private Computation over Key-Homomorphic Encodings Without FHE;;;Sora Suegami;;;2026/2539;;;last_week;;;none;;;2026-10-19;;;lattice
+Optimizing HQC with Enhanced Parallel Binary Polynomial Multiplication on GPUs;;;DongCheon Kim, JunHyeok Choi, Wai Kong Lee, Seog Chung Seo;;;2026/2538;;;last_week;;;none;;;2026-10-19;;;code
+High-Precision CKKS with Focal Units;;;Jung Hee Cheon, Junho Lee;;;2026/2531;;;last_week;;;none;;;2026-10-18;;;lattice
 How Secure are NTRU+ Keys? Analysing the Best Module Attacks;;;Paola de Perthuis, Filip Trenkić;;;2026/2527;;;last_week;;;none;;;2026-10-18;;;lattice
 Faster ABE for Turing Machines from Circular Evasive LWE;;;Valerio Cini, Hoeteck Wee;;;2026/2526;;;last_week;;;none;;;2026-10-18;;;lattice
 Homomorphic Encryption for High-precision Arithmetic of Approximate Numbers;;;Shihe Ma, Jiaming Liu, Anyu Wang, Xiaoyun Wang;;;2026/2524;;;last_week;;;none;;;2026-10-18;;;lattice
