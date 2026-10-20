@@ -1,8 +1,11 @@
+On True Minimum Distances of Goppa Codes;;;Yaqi Chen, Hao Chen, Chao Liu, Huimin Lao;;;2610.26450;;;last_week;;;none;;;2026-10-19;;;code
+New Maximum Hermitian $d$-Codes and New Invariants from Skew Polynomial Rings;;;Paolo Santonastaso, Yue Zhou;;;2610.26048;;;last_week;;;none;;;2026-10-19;;;code
+Fast \(\ell_\infty\)-Reduction of Rank-2 Lattices in $\mathbb{R}^n$ via a New Reduced-Basis Notion;;;Bo Pang, Shaojing Zhang, Chengliang Tian;;;2610.24719;;;last_week;;;none;;;2026-10-17;;;lattice
 Quantum-Resilient Secure Protocol for Decentralized Edge-IoT Peer-to-Peer Energy Trading Systems;;;Ali Shahidinejad, Jamshid Aghaei, Mahdi Jalili;;;2610.19491;;;last_week;;;none;;;2026-10-14;;;lattice
 Non-additive symmetric rank-metric codes;;;Marta Messia, Ferdinando Zullo;;;2610.18061;;;last_week;;;none;;;2026-10-13;;;code
 Puncturing-inclusion constructions of optimal Ferrers diagram rank-metric codes using semifield codes;;;Dengming Xu, Chengming Duan, Yong Jin, Yuhao Ning;;;2610.17570;;;last_week;;;none;;;2026-10-13;;;code
-Covering Radius and Deep Holes of Hyperderivative Reed-Solomon Codes under the NRT Metric;;;Zhihao Zhu, Haojie Gu, Jun Zhang, Yu Li;;;2610.16643;;;last_week;;;none;;;2026-10-12;;;code
-Wasserstein rates of all orders for the Sato-Tate law of Kloosterman sums;;;Amir M. Rahimi;;;2610.16169;;;last_week;;;none;;;2026-10-12;;;code
+Covering Radius and Deep Holes of Hyperderivative Reed-Solomon Codes under the NRT Metric;;;Zhihao Zhu, Haojie Gu, Jun Zhang, Yu Li;;;2610.16643;;;last_month;;;none;;;2026-10-12;;;code
+Wasserstein rates of all orders for the Sato-Tate law of Kloosterman sums;;;Amir M. Rahimi;;;2610.16169;;;last_month;;;none;;;2026-10-12;;;code
 On the Average List Size of VT Codes under Two Insertions or Two Deletions;;;Anisha Banerjee, Roni Con, Antonia Wachter-Zeh, Eitan Yaakobi;;;2610.15767;;;last_month;;;none;;;2026-10-11;;;code
 Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2610.12913;;;last_month;;;none;;;2026-10-09;;;lattice
 Hankel Matrix Decompositions and Digital Sequences over Function Fields;;;Roswitha Hofer;;;2610.12691;;;last_month;;;none;;;2026-10-08;;;code
@@ -266,7 +269,7 @@ A distance-free approach to generalized weights;;;Andrea Di Giusto, Elisa Gorla,
 Certified-Everlasting Quantum NIZK Proofs;;;Nikhil Pappu;;;2512.13628;;;last_year;;;none;;;2025-12-15;;;lattice
 The maximum number of nonzero weights of linear rank-metric codes;;;Chiara Castello, Paolo Santonastaso, Martin Scotti;;;2512.13162;;;last_year;;;none;;;2025-12-15;;;code
 OptHQC: Optimize HQC for High-Performance Post-Quantum Cryptography;;;Ben Dong, Hui Feng, Qian Wang;;;2512.12904;;;last_year;;;none;;;2025-12-15;;;code
-A Scalable Multi-GPU Framework for Encrypted Large-Model Inference;;;Siddharth Jayashankar, Joshua Kim, Michael B. Sullivan, Wenting Zheng, Dimitrios Skarlatos;;;2512.11269;;;last_year;;;none;;;2025-12-12;;;lattice
+Cerium: A Multi-GPU Framework for Terabyte-Scale Encrypted Inference;;;Siddharth Jayashankar, Joshua Kim, Michael B. Sullivan, Wenting Zheng, Dimitrios Skarlatos;;;2512.11269;;;last_year;;;https://github.com/CMU-CAOS/Cerium;;;2025-12-12;;;lattice
 Network and Compiler Optimizations for Efficient Linear Algebra Kernels in Private Transformer Inference;;;Karthik Garimella, Negar Neda, Austin Ebel, Nandan Kumar Jha, Brandon Reagen;;;2512.11135;;;last_year;;;https://github.com/baahl-nyu/orion;;;2025-12-11;;;lattice
 Security Analysis of Integer Learning with Errors with Rejection Sampling;;;Kyle Yates, Antsa Pierrottet, Abdullah Al Mamun, Ryann Cartor, Mashrur Chowdhury, Shuhong Gao;;;2512.08172;;;last_year;;;none;;;2025-12-09;;;lattice
 KyFrog: A High-Security LWE-Based KEM Inspired by ML-KEM;;;Victor Duarte Melo, Willian J. Buchanan;;;2512.06411;;;last_year;;;https://github.com/victormeloasm/kyfrog;;;2025-12-06;;;lattice
@@ -304,4 +307,3 @@ Improved Gilbert-Varshamov bound for sum-rank-metric codes via graph theory;;;Ai
 HHEML: Hybrid Homomorphic Encryption for Privacy-Preserving Machine Learning on Edge;;;Yu Hin Chan, Hao Yang, Shiyu Shen, Xingyu Fan, Shengzhe Lyu, Patrick S. Y. Hung, Ray C. C. Cheung;;;2510.20243;;;last_year;;;none;;;2025-10-23;;;lattice
 A Probabilistic Computing Approach to the Closest Vector Problem for Lattice-Based Factoring;;;Max O. Al-Hasso, Marko von der Leyen;;;2510.19390;;;last_year;;;none;;;2025-10-22;;;lattice
 Recursive decoding of binary rank Reed-Muller codes and Plotkin construction for matrix codes;;;Alain Couvreur, Rakhi Pratihar;;;2510.19095;;;last_year;;;none;;;2025-10-21;;;code
-Deterministic Hardness of Approximation of Unique-SVP and GapSVP in $\ell_p$ norms for $p>2$;;;Yahli Hecht, Muli Safra;;;2510.16991;;;last_year;;;none;;;2025-10-19;;;lattice
