@@ -2,8 +2,8 @@ On True Minimum Distances of Goppa Codes;;;Yaqi Chen, Hao Chen, Chao Liu, Huimin
 New Maximum Hermitian $d$-Codes and New Invariants from Skew Polynomial Rings;;;Paolo Santonastaso, Yue Zhou;;;2610.26048;;;last_week;;;none;;;2026-10-19;;;code
 Fast \(\ell_\infty\)-Reduction of Rank-2 Lattices in $\mathbb{R}^n$ via a New Reduced-Basis Notion;;;Bo Pang, Shaojing Zhang, Chengliang Tian;;;2610.24719;;;last_week;;;none;;;2026-10-17;;;lattice
 Quantum-Resilient Secure Protocol for Decentralized Edge-IoT Peer-to-Peer Energy Trading Systems;;;Ali Shahidinejad, Jamshid Aghaei, Mahdi Jalili;;;2610.19491;;;last_week;;;none;;;2026-10-14;;;lattice
-Non-additive symmetric rank-metric codes;;;Marta Messia, Ferdinando Zullo;;;2610.18061;;;last_week;;;none;;;2026-10-13;;;code
-Puncturing-inclusion constructions of optimal Ferrers diagram rank-metric codes using semifield codes;;;Dengming Xu, Chengming Duan, Yong Jin, Yuhao Ning;;;2610.17570;;;last_week;;;none;;;2026-10-13;;;code
+Non-additive symmetric rank-metric codes;;;Marta Messia, Ferdinando Zullo;;;2610.18061;;;last_month;;;none;;;2026-10-13;;;code
+Puncturing-inclusion constructions of optimal Ferrers diagram rank-metric codes using semifield codes;;;Dengming Xu, Chengming Duan, Yong Jin, Yuhao Ning;;;2610.17570;;;last_month;;;none;;;2026-10-13;;;code
 Covering Radius and Deep Holes of Hyperderivative Reed-Solomon Codes under the NRT Metric;;;Zhihao Zhu, Haojie Gu, Jun Zhang, Yu Li;;;2610.16643;;;last_month;;;none;;;2026-10-12;;;code
 Wasserstein rates of all orders for the Sato-Tate law of Kloosterman sums;;;Amir M. Rahimi;;;2610.16169;;;last_month;;;none;;;2026-10-12;;;code
 On the Average List Size of VT Codes under Two Insertions or Two Deletions;;;Anisha Banerjee, Roni Con, Antonia Wachter-Zeh, Eitan Yaakobi;;;2610.15767;;;last_month;;;none;;;2026-10-11;;;code
@@ -36,8 +36,8 @@ Smooth Sailing through Spherical Shells: Provable Random-Lattice Sieving in Time
 Adelic reduction of module lattices;;;Henry Bambury, Seungki Kim, Changmin Lee, Phong Q. Nguyen;;;2609.32936;;;last_month;;;none;;;2026-09-26;;;lattice
 Peregrino: A Full-Hardware Accelerator for the Complete Falcon Post-Quantum Digital Signature Scheme on Resource-Constrained Edge Devices;;;Antonio Carreño, Jaime Señor, Jorge Portilla;;;2609.31252;;;last_month;;;none;;;2026-09-25;;;lattice
 Domain Specific Post Quantum Signatures for Blockchains;;;Maja Lie, Ben Marsh;;;2609.24689;;;last_month;;;none;;;2026-09-21;;;lattice
-Benchmarking Post-Quantum Cryptography in Lightweight Virtualization Environments on Embedded Hardware;;;Nikolai Puch, Chi Hieu Ta, Moritz Beckel;;;2609.23902;;;last_month;;;none;;;2026-09-20;;;code,lattice
-Zero-Knowledge Proofs of Quantumness;;;Duong Hieu Phan, Weiqiang Wen, Xingyu Yan, Jinwei Zheng;;;2609.23455;;;last_month;;;none;;;2026-09-20;;;lattice
+Benchmarking Post-Quantum Cryptography in Lightweight Virtualization Environments on Embedded Hardware;;;Nikolai Puch, Chi Hieu Ta, Moritz Beckel;;;2609.23902;;;last_year;;;none;;;2026-09-20;;;code,lattice
+Zero-Knowledge Proofs of Quantumness;;;Duong Hieu Phan, Weiqiang Wen, Xingyu Yan, Jinwei Zheng;;;2609.23455;;;last_year;;;none;;;2026-09-20;;;lattice
 A geometric approach to the density of rank-metric codes;;;Shamil Asgarli, Lian Duan, Nathan Kaplan, Kuan-Wen Lai;;;2609.21189;;;last_year;;;none;;;2026-09-18;;;code
 Hamming Ideals and Grobner Bases for ISD-like Syndrome Decoding;;;Roberto La Scala, Marco Marchesin, Sharwan K. Tiwari;;;2609.18866;;;last_year;;;none;;;2026-09-16;;;code
 A Polynomial-Time Attack on the McEliece Cryptosystem on Elliptic Codes with Arbitrary Divisors;;;Artyom Kuninets, Ekaterina Malygina, Evgeniy Melnichuk;;;2609.17732;;;last_year;;;none;;;2026-09-15;;;code
