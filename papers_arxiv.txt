@@ -1,7 +1,9 @@
+Free-XOR TFHE via Lazy Bootstrapping;;;Ali Ajorian, Osman Biçer;;;2610.29983;;;last_week;;;none;;;2026-10-21;;;lattice
+Regular Syndrome Decoding Is Easier Than Previously Estimated;;;Jiseung Kim, Minkyu Kim, Changmin Lee, Hochang Lee;;;2610.29175;;;last_week;;;none;;;2026-10-21;;;code
 On True Minimum Distances of Goppa Codes;;;Yaqi Chen, Hao Chen, Chao Liu, Huimin Lao;;;2610.26450;;;last_week;;;none;;;2026-10-19;;;code
 New Maximum Hermitian $d$-Codes and New Invariants from Skew Polynomial Rings;;;Paolo Santonastaso, Yue Zhou;;;2610.26048;;;last_week;;;none;;;2026-10-19;;;code
 Fast \(\ell_\infty\)-Reduction of Rank-2 Lattices in $\mathbb{R}^n$ via a New Reduced-Basis Notion;;;Bo Pang, Shaojing Zhang, Chengliang Tian;;;2610.24719;;;last_week;;;none;;;2026-10-17;;;lattice
-Quantum-Resilient Secure Protocol for Decentralized Edge-IoT Peer-to-Peer Energy Trading Systems;;;Ali Shahidinejad, Jamshid Aghaei, Mahdi Jalili;;;2610.19491;;;last_week;;;none;;;2026-10-14;;;lattice
+Quantum-Resilient Secure Protocol for Decentralized Edge-IoT Peer-to-Peer Energy Trading Systems;;;Ali Shahidinejad, Jamshid Aghaei, Mahdi Jalili;;;2610.19491;;;last_month;;;none;;;2026-10-14;;;lattice
 Non-additive symmetric rank-metric codes;;;Marta Messia, Ferdinando Zullo;;;2610.18061;;;last_month;;;none;;;2026-10-13;;;code
 Puncturing-inclusion constructions of optimal Ferrers diagram rank-metric codes using semifield codes;;;Dengming Xu, Chengming Duan, Yong Jin, Yuhao Ning;;;2610.17570;;;last_month;;;none;;;2026-10-13;;;code
 Covering Radius and Deep Holes of Hyperderivative Reed-Solomon Codes under the NRT Metric;;;Zhihao Zhu, Haojie Gu, Jun Zhang, Yu Li;;;2610.16643;;;last_month;;;none;;;2026-10-12;;;code
@@ -35,7 +37,7 @@ CipherGenome: Homomorphic Inference for Genomic Mixture-of-Experts;;;Guang Yang,
 Smooth Sailing through Spherical Shells: Provable Random-Lattice Sieving in Time $2^{0.292n}$;;;Emmanouil Doulgerakis, Thijs Laarhoven;;;2609.37482;;;last_month;;;none;;;2026-09-26;;;lattice
 Adelic reduction of module lattices;;;Henry Bambury, Seungki Kim, Changmin Lee, Phong Q. Nguyen;;;2609.32936;;;last_month;;;none;;;2026-09-26;;;lattice
 Peregrino: A Full-Hardware Accelerator for the Complete Falcon Post-Quantum Digital Signature Scheme on Resource-Constrained Edge Devices;;;Antonio Carreño, Jaime Señor, Jorge Portilla;;;2609.31252;;;last_month;;;none;;;2026-09-25;;;lattice
-Domain Specific Post Quantum Signatures for Blockchains;;;Maja Lie, Ben Marsh;;;2609.24689;;;last_month;;;none;;;2026-09-21;;;lattice
+Domain Specific Post Quantum Signatures for Blockchains;;;Maja Lie, Ben Marsh;;;2609.24689;;;last_year;;;none;;;2026-09-21;;;lattice
 Benchmarking Post-Quantum Cryptography in Lightweight Virtualization Environments on Embedded Hardware;;;Nikolai Puch, Chi Hieu Ta, Moritz Beckel;;;2609.23902;;;last_year;;;none;;;2026-09-20;;;code,lattice
 Zero-Knowledge Proofs of Quantumness;;;Duong Hieu Phan, Weiqiang Wen, Xingyu Yan, Jinwei Zheng;;;2609.23455;;;last_year;;;none;;;2026-09-20;;;lattice
 A geometric approach to the density of rank-metric codes;;;Shamil Asgarli, Lian Duan, Nathan Kaplan, Kuan-Wen Lai;;;2609.21189;;;last_year;;;none;;;2026-09-18;;;code
@@ -132,6 +134,7 @@ On perfect flag-rank metric codes;;;Gianira N. Alfarano, Usman Mushrraf, Ferdina
 WHET: Welding Homomorphic Encryption to Accelerator Architectures;;;Jongmin Kim, Hyesung Ji, Wonseok Choi, Hyunah Yu, Jung Ho Ahn;;;2606.11541;;;last_year;;;none;;;2026-06-10;;;lattice
 Post-Quantum Secure Federated DeFi for Inclusive Banking;;;Swati Sachan, Dale Fickett, Richard Buchinger, Theo Miller;;;2606.10658;;;last_year;;;none;;;2026-06-09;;;lattice
 Two-Way Confidential VMs (2cVM): Collaborative Confidential Computing for Mutually Distrustful Parties;;;Jordi Thijsman, Merlijn Sebrechts, Stefan Lefever, Filip De Turck, Bruno Volckaert;;;2606.10615;;;last_year;;;none;;;2026-06-09;;;lattice
+Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR;;;Kerri Prinos, Lilianne Brush;;;2606.08168;;;last_year;;;none;;;2026-06-06;;;lattice
 An End-to-End Encrypted Control Pipeline for Multi-Agent Coordination via CKKS Homomorphic Encryption;;;Sai Sandeep Damera, Maria Charitidou, Asim Zoulkarni, John S. Baras;;;2606.07375;;;last_year;;;none;;;2026-06-05;;;lattice
 Towards Worst-case Hardness for Low-Noise LPN;;;Divesh Aggarwal, Rishav Gupta, Hai Hoang Nguyen, Kel Zin Tan, Prashant Nalini Vasudevan;;;2606.05834;;;last_year;;;none;;;2026-06-04;;;lattice
 A Modular Approach to Succinct Arguments for QMA;;;James Bartusek, Jiahui Liu, Giulio Malavolta;;;2606.10408;;;last_year;;;none;;;2026-06-03;;;lattice
@@ -306,4 +309,3 @@ The Qey: Implementation and performance study of post quantum cryptography in FI
 Improved Gilbert-Varshamov bound for sum-rank-metric codes via graph theory;;;Aida Abiad, Harper Reijnders, Michael Tait;;;2510.21298;;;last_year;;;none;;;2025-10-24;;;code
 HHEML: Hybrid Homomorphic Encryption for Privacy-Preserving Machine Learning on Edge;;;Yu Hin Chan, Hao Yang, Shiyu Shen, Xingyu Fan, Shengzhe Lyu, Patrick S. Y. Hung, Ray C. C. Cheung;;;2510.20243;;;last_year;;;none;;;2025-10-23;;;lattice
 A Probabilistic Computing Approach to the Closest Vector Problem for Lattice-Based Factoring;;;Max O. Al-Hasso, Marko von der Leyen;;;2510.19390;;;last_year;;;none;;;2025-10-22;;;lattice
-Recursive decoding of binary rank Reed-Muller codes and Plotkin construction for matrix codes;;;Alain Couvreur, Rakhi Pratihar;;;2510.19095;;;last_year;;;none;;;2025-10-21;;;code
