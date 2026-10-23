@@ -1,3 +1,5 @@
+Structural cryptanalysis of classic McEliece: Assessment of claims, costs and evidence;;;Ramses Fernandez;;;2610.31196;;;last_week;;;none;;;2026-10-22;;;code
+Rank Ceiling for Twiddle-Perturbation Faults on the Forward NTT;;;Chakshu Gupta;;;2610.30383;;;last_week;;;none;;;2026-10-21;;;lattice
 Free-XOR TFHE via Lazy Bootstrapping;;;Ali Ajorian, Osman Biçer;;;2610.29983;;;last_week;;;none;;;2026-10-21;;;lattice
 Regular Syndrome Decoding Is Easier Than Previously Estimated;;;Jiseung Kim, Minkyu Kim, Changmin Lee, Hochang Lee;;;2610.29175;;;last_week;;;none;;;2026-10-21;;;code
 On True Minimum Distances of Goppa Codes;;;Yaqi Chen, Hao Chen, Chao Liu, Huimin Lao;;;2610.26450;;;last_week;;;none;;;2026-10-19;;;code
@@ -308,4 +310,3 @@ Introducing GRAFHEN: Group-based Fully Homomorphic Encryption without Noise;;;Pi
 The Qey: Implementation and performance study of post quantum cryptography in FIDO2;;;Aditya Mitra, Sibi Chakkaravarthy Sethuraman;;;2510.21353;;;last_year;;;none;;;2025-10-24;;;lattice
 Improved Gilbert-Varshamov bound for sum-rank-metric codes via graph theory;;;Aida Abiad, Harper Reijnders, Michael Tait;;;2510.21298;;;last_year;;;none;;;2025-10-24;;;code
 HHEML: Hybrid Homomorphic Encryption for Privacy-Preserving Machine Learning on Edge;;;Yu Hin Chan, Hao Yang, Shiyu Shen, Xingyu Fan, Shengzhe Lyu, Patrick S. Y. Hung, Ray C. C. Cheung;;;2510.20243;;;last_year;;;none;;;2025-10-23;;;lattice
-A Probabilistic Computing Approach to the Closest Vector Problem for Lattice-Based Factoring;;;Max O. Al-Hasso, Marko von der Leyen;;;2510.19390;;;last_year;;;none;;;2025-10-22;;;lattice

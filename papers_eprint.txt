@@ -27,10 +27,10 @@ I Want to Ride My BIKE: Customizing Bit-Flipping Decoders for Ephemeral Key KEMs
 Sparse Secrets, Dense Problems: Efficiently Masking HQC in Hardware;;;Fabian Buschkowski, Niklas Höher, Tim Güneysu;;;2026/2509;;;last_week;;;none;;;2026-10-16;;;code,lattice
 safeRNSgcd: Accelerating Falcon key generation with RNS in SafeGCD;;;Cesare Huang, Bo-Yin Yang;;;2026/2507;;;last_week;;;none;;;2026-10-16;;;lattice
 Shorter Hash-Based Signatures via Guarded Sharing in a DAG Model;;;Chongxu Ren, Hongbo Yu;;;2026/2502;;;last_week;;;none;;;2026-10-16;;;lattice
-Aerie: Efficient Aggregation of Falcon Signatures;;;Alberto Centelles, Quang Dao, Mohammadtaghi Badakhshan, Justin Thaler;;;2026/2501;;;last_week;;;none;;;2026-10-15;;;lattice
-Threshold Post-Quantum E-Voting from Lattice Commitments;;;Jalal Alizadeh;;;2026/2500;;;last_week;;;none;;;2026-10-15;;;lattice
-Exploring Fault Injection Attacks on HQC and BIKE Beyond Fujisaki-Okamoto Verification;;;Thales B. Paiva, Lucas C. Cardoso, Keerthi Kamalakshan, Hariprasad Valsaraj Kelassery, Marcos A. Simplicio Jr., Shivam Bhasin;;;2026/2492;;;last_week;;;none;;;2026-10-15;;;code
-Reaction Attack on CKKS Deployments with Asymptotically Optimal Query Complexity;;;Song Bian, Hyeongmin Choe, Jiseung Kim, Changmin Lee;;;2026/2490;;;last_week;;;none;;;2026-10-15;;;lattice
+Aerie: Efficient Aggregation of Falcon Signatures;;;Alberto Centelles, Quang Dao, Mohammadtaghi Badakhshan, Justin Thaler;;;2026/2501;;;last_month;;;none;;;2026-10-15;;;lattice
+Threshold Post-Quantum E-Voting from Lattice Commitments;;;Jalal Alizadeh;;;2026/2500;;;last_month;;;none;;;2026-10-15;;;lattice
+Exploring Fault Injection Attacks on HQC and BIKE Beyond Fujisaki-Okamoto Verification;;;Thales B. Paiva, Lucas C. Cardoso, Keerthi Kamalakshan, Hariprasad Valsaraj Kelassery, Marcos A. Simplicio Jr., Shivam Bhasin;;;2026/2492;;;last_month;;;none;;;2026-10-15;;;code
+Reaction Attack on CKKS Deployments with Asymptotically Optimal Query Complexity;;;Song Bian, Hyeongmin Choe, Jiseung Kim, Changmin Lee;;;2026/2490;;;last_month;;;none;;;2026-10-15;;;lattice
 Tulva: Practical Asynchronous Threshold FHE;;;Valerio Cini, Antonio Guimarães, Russell W. F. Lai, Michał Osadnik, Ivy K. Y. Woo;;;2026/2485;;;last_month;;;none;;;2026-10-14;;;lattice
 Post-Quantum Certificate-Based PSK Provisioning for WireGuard via Mutual TLS, DTLS, and QUIC: Design and Performance Study;;;Che Hang Ng, Emil Künstner, Bastian Küppers, Theodor Schnitzler, Misha Glazunov;;;2026/2480;;;last_month;;;none;;;2026-10-14;;;lattice
 Software-Pipelining The Number Theoretic Transform on Neural Processing Units: A Loop-Fission Methodology;;;Henri Vermeersch, Xander Pottier, Quinten Norga, Thomas de Ruijter, Ingrid Verbauwhede;;;2026/2474;;;last_month;;;none;;;2026-10-14;;;lattice
@@ -123,12 +123,12 @@ Stay in Your Lane: Scalable Large-Integer Arithmetic in CKKS;;;Hyeongmin Choe, R
 Provable FFT-Accelerated Dual Attack on LWE Using the General Dual Lattice;;;Jiale Li, Li-Ping Wang, Huaxiong Wang;;;2026/2186;;;last_month;;;none;;;2026-09-23;;;lattice
 Swing the Lure: How to Cheaply Mitigate Sign Leakage in Falcon;;;Xiuhan Lin, Mehdi Tibouchi, Yang Yu;;;2026/2170;;;last_month;;;none;;;2026-09-23;;;lattice
 A Provable Correctness Analysis of the MATZOV-Style FFT Dual Attack on ML-KEM;;;Jiale Li, Li-Ping Wang, Huaxiong Wang;;;2026/2166;;;last_month;;;none;;;2026-09-23;;;lattice
-On the Limits of LWE and PCE based UPKE;;;Martin R. Albrecht, Benjamin Benčina, Russell W. F. Lai;;;2026/2164;;;last_month;;;none;;;2026-09-22;;;lattice
-Batch IT-MAC: Program the Randomness in Succinct VOLE;;;Liqiang Liu, Tianren Liu;;;2026/2159;;;last_month;;;none;;;2026-09-22;;;lattice
-New algorithms for quaternion ideals in SQIsign;;;Antonin Leroux, Sina Schaeffler;;;2026/2153;;;last_month;;;none;;;2026-09-22;;;lattice
-Tighter Nonuniform Trace Reductions from Ring-LWE to MP-LWE;;;Yihang Cheng, Xiangzheng Zhao, Hengyi Luo, Yanbin Pan, Siwei Sun;;;2026/2151;;;last_month;;;none;;;2026-09-22;;;lattice
-Identify Post-Quantum Cryptographic Algorithms for Automotive Security: Performance-Driven Guidance for Secure Boot, OTA, and V2X Communication;;;Dileep Singh Kushwaha, Parneet Kaur;;;2026/2149;;;last_month;;;none;;;2026-09-22;;;code,lattice
-Succinct Shortness Check Under a Few Kilobytes via Tensor Train Random Projections;;;Zhiyuan Geng, Maxime Plançon;;;2026/2146;;;last_month;;;none;;;2026-09-22;;;lattice
+On the Limits of LWE and PCE based UPKE;;;Martin R. Albrecht, Benjamin Benčina, Russell W. F. Lai;;;2026/2164;;;last_year;;;none;;;2026-09-22;;;lattice
+Batch IT-MAC: Program the Randomness in Succinct VOLE;;;Liqiang Liu, Tianren Liu;;;2026/2159;;;last_year;;;none;;;2026-09-22;;;lattice
+New algorithms for quaternion ideals in SQIsign;;;Antonin Leroux, Sina Schaeffler;;;2026/2153;;;last_year;;;none;;;2026-09-22;;;lattice
+Tighter Nonuniform Trace Reductions from Ring-LWE to MP-LWE;;;Yihang Cheng, Xiangzheng Zhao, Hengyi Luo, Yanbin Pan, Siwei Sun;;;2026/2151;;;last_year;;;none;;;2026-09-22;;;lattice
+Identify Post-Quantum Cryptographic Algorithms for Automotive Security: Performance-Driven Guidance for Secure Boot, OTA, and V2X Communication;;;Dileep Singh Kushwaha, Parneet Kaur;;;2026/2149;;;last_year;;;none;;;2026-09-22;;;code,lattice
+Succinct Shortness Check Under a Few Kilobytes via Tensor Train Random Projections;;;Zhiyuan Geng, Maxime Plançon;;;2026/2146;;;last_year;;;none;;;2026-09-22;;;lattice
 Too Small to Hide: Single-Trace Key Recovery from ML-KEM Key Generation;;;Vahid Jahandideh;;;2026/2137;;;last_year;;;none;;;2026-09-21;;;lattice
 MAMBA-Frost: A Lattice KEM from Learning With Quantization;;;Shanxiang Lyu, Ke Ma, Junzuo Lai;;;2026/2136;;;last_year;;;none;;;2026-09-21;;;lattice
 ANSA-IBS: Identity-Based Signatures from Annular NTRU Trapdoors and Bimodal Fiat-Shamir with Aborts;;;Zhaohui Cheng, Hengfu Yang, Kaixin Xiong;;;2026/2134;;;last_year;;;none;;;2026-09-21;;;lattice
