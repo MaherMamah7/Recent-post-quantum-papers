@@ -103,6 +103,7 @@ NOMOS: Secure Non-Interactive $k$NN under CKKS;;;Shihao Li, Wenhao Wang, Xiaomei
 A Provable Subexponential-Time Algorithm for LWE from \(n+o(n)\) Samples via Wagner-Style Gaussian Sampling;;;Xuyuan Han, Yiming Gao, Honggang Hu;;;2026/2261;;;last_month;;;none;;;2026-09-29;;;lattice
 PQMZ: Formally Verified Falcon-PKR for Post-Quantum Cryptographic Migration in Zcash;;;Hannes Hacker, Shekoufeh Neisarian, Sara Zain, Elif Bilge Kavun;;;2026/2260;;;last_month;;;none;;;2026-09-29;;;lattice
 Superposition Key-Recovery Attacks on Dilithium and Fiat-Shamir Signature Schemes;;;Carlos Cid, David Elkouss, Manuel Goulão;;;2026/2258;;;last_month;;;none;;;2026-09-29;;;lattice
+Affine-Padding Rabin-Oracle Factoring in $L_n\left(\frac{1}{3},\sqrt[3]{\frac{32}{9}}\right)$;;;Alexandra-Ioana Buzățoiu, Diana Maimuț, David Naccache;;;2026/2256;;;last_month;;;none;;;2026-09-29;;;lattice
 Cyclotomic Cosets: Hidden Subgroup and Quantum Sieving Algorithm for Prime-Power Moduli;;;Mathias Boucher, Pierre-Alain Fouque, Yixin Shen;;;2026/2249;;;last_month;;;none;;;2026-09-28;;;lattice
 ML-DSA masking sweetened with SUCRE: Shuffle-and-Unmask Countermeasure for REjection sampling;;;Sonia Belaïd, Ryad Benadjila, Julien Devevey, Morgane Guerreau, Thomas Legavre, Ange Martinelli, Thomas Ricosset, Matthieu Rivain, Mélissa Rossi;;;2026/2248;;;last_month;;;none;;;2026-09-28;;;lattice
 Error Propagation-Aware Scale Design for Efficient Homomorphic Encryption-Based LLM Inference;;;Sieun Seo, Chohong Min;;;2026/2242;;;last_month;;;none;;;2026-09-28;;;lattice
