@@ -1,3 +1,8 @@
+Verifiable Post-Quantum TLS Handshake: Recognizing Implementation Errors of Cryptographic Verification Steps;;;Runze Zhao, Siqi Lu, Yijian Liu, Zhaoxuan Li, Kaibo Liu, Hongbo Liu, Qingjun Yuan, Yongjuan Wang, Xianhui Lu;;;2026/2585;;;last_week;;;none;;;2026-10-21;;;code,lattice
+Rounded Gaussians are Discrete Gaussians;;;Corentin Jeudy;;;2026/2583;;;last_week;;;none;;;2026-10-21;;;lattice
+HAETAE on a Diet: Less Stack, Less Time on Low-End Microcontrollers;;;MinGi Kim, YoungBeom Kim, DongHyun Shin, Seog Chung Seo;;;2026/2578;;;last_week;;;none;;;2026-10-21;;;lattice
+RDK-CKKS: A Framework for Rigorous Error Analysis for CKKS Computation;;;Taeyeong Noh, Aimad Chabounia, Guillaume Hanrot, Alain Passelègue;;;2026/2575;;;last_week;;;none;;;2026-10-21;;;lattice
+Broadcast and Trace from Lattices: Collusion-Resistant and Publicly Traceable;;;Jeffrey Champion;;;2026/2574;;;last_week;;;none;;;2026-10-21;;;lattice
 Efficient NTRU+ Implementations on Cortex-M;;;Subeen Cho, Minjoo Sim, Seungwon Lee, Anupam Chattopadhyay, Wai Kong Lee, Hwajeong Seo;;;2026/2568;;;last_week;;;none;;;2026-10-20;;;lattice
 A Systematic Evaluation of Fault Attacks and Countermeasures on ML-DSA Rejection Sampling;;;Yulong Meng;;;2026/2567;;;last_week;;;none;;;2026-10-20;;;lattice
 Fault-Induced Nonce Repetition in Threshold Lattice Signatures: A Reveal-Structure Criterion, Cross-Scheme Analysis, and Detection Boundaries;;;Yulong Meng;;;2026/2566;;;last_week;;;none;;;2026-10-20;;;lattice
@@ -18,7 +23,7 @@ High-Precision CKKS with Focal Units;;;Jung Hee Cheon, Junho Lee;;;2026/2531;;;l
 How Secure are NTRU+ Keys? Analysing the Best Module Attacks;;;Paola de Perthuis, Filip Trenkić;;;2026/2527;;;last_week;;;none;;;2026-10-18;;;lattice
 Faster ABE for Turing Machines from Circular Evasive LWE;;;Valerio Cini, Hoeteck Wee;;;2026/2526;;;last_week;;;none;;;2026-10-18;;;lattice
 Homomorphic Encryption for High-precision Arithmetic of Approximate Numbers;;;Shihe Ma, Jiaming Liu, Anyu Wang, Xiaoyun Wang;;;2026/2524;;;last_week;;;none;;;2026-10-18;;;lattice
-GKS FHE: Security Analysis;;;John Graham, Delaram Kahrobaei, Soundes Marzougui, Milos Pavlovic, Vladimir Shpilrain;;;2026/2523;;;last_week;;;none;;;2026-10-18;;;lattice
+GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzougui, Milos Pavlovic, Vladimir Shpilrain;;;2026/2523;;;last_week;;;none;;;2026-10-18;;;lattice
 Eﬃcient Fixed-Point Implementation of Mitaka;;;Shiduo Zhang, Paul Kirchner, Xiuhan Lin, Yang Yu;;;2026/2521;;;last_week;;;none;;;2026-10-17;;;lattice
 Analysis of the Multi-Key Optimization for SPECK;;;Marco Baldi, Michele Battagliola, Rahmi El Mechri, Paolo Santini, Riccardo Schiavoni;;;2026/2514;;;last_month;;;none;;;2026-10-16;;;code
 Fully Homomorphic Encryption for Small Batches of Complex Numbers;;;Jules Dumezy;;;2026/2513;;;last_month;;;none;;;2026-10-16;;;lattice
