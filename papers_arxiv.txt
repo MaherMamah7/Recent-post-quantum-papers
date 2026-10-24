@@ -309,4 +309,3 @@ Efficient and Encrypted Inference using Binarized Neural Networks within In-Memo
 Introducing GRAFHEN: Group-based Fully Homomorphic Encryption without Noise;;;Pierre Guillot, Auguste Hoang Duc, Michel Koskas, Florian Méhats;;;2510.21483;;;last_year;;;none;;;2025-10-24;;;lattice
 The Qey: Implementation and performance study of post quantum cryptography in FIDO2;;;Aditya Mitra, Sibi Chakkaravarthy Sethuraman;;;2510.21353;;;last_year;;;none;;;2025-10-24;;;lattice
 Improved Gilbert-Varshamov bound for sum-rank-metric codes via graph theory;;;Aida Abiad, Harper Reijnders, Michael Tait;;;2510.21298;;;last_year;;;none;;;2025-10-24;;;code
-HHEML: Hybrid Homomorphic Encryption for Privacy-Preserving Machine Learning on Edge;;;Yu Hin Chan, Hao Yang, Shiyu Shen, Xingyu Fan, Shengzhe Lyu, Patrick S. Y. Hung, Ray C. C. Cheung;;;2510.20243;;;last_year;;;none;;;2025-10-23;;;lattice

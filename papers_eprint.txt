@@ -20,13 +20,13 @@ Faster ABE for Turing Machines from Circular Evasive LWE;;;Valerio Cini, Hoeteck
 Homomorphic Encryption for High-precision Arithmetic of Approximate Numbers;;;Shihe Ma, Jiaming Liu, Anyu Wang, Xiaoyun Wang;;;2026/2524;;;last_week;;;none;;;2026-10-18;;;lattice
 GKS FHE: Security Analysis;;;John Graham, Delaram Kahrobaei, Soundes Marzougui, Milos Pavlovic, Vladimir Shpilrain;;;2026/2523;;;last_week;;;none;;;2026-10-18;;;lattice
 Eﬃcient Fixed-Point Implementation of Mitaka;;;Shiduo Zhang, Paul Kirchner, Xiuhan Lin, Yang Yu;;;2026/2521;;;last_week;;;none;;;2026-10-17;;;lattice
-Analysis of the Multi-Key Optimization for SPECK;;;Marco Baldi, Michele Battagliola, Rahmi El Mechri, Paolo Santini, Riccardo Schiavoni;;;2026/2514;;;last_week;;;none;;;2026-10-16;;;code
-Fully Homomorphic Encryption for Small Batches of Complex Numbers;;;Jules Dumezy;;;2026/2513;;;last_week;;;none;;;2026-10-16;;;lattice
-SLEEK: Sparse Quasi-Cyclic Codes with Closed-Form DFR Key Encapsulation;;;Alessandro Annechini, Alessandro Barenghi, Marco Gianvecchio, Gerardo Pelosi;;;2026/2512;;;last_week;;;none;;;2026-10-16;;;code
-I Want to Ride My BIKE: Customizing Bit-Flipping Decoders for Ephemeral Key KEMs;;;Davide De Zuane, Marco Gianvecchio, Alessandro Annechini, Paolo Santini, Marco Baldi, Alessandro Barenghi, Gerardo Pelosi;;;2026/2511;;;last_week;;;none;;;2026-10-16;;;code
-Sparse Secrets, Dense Problems: Efficiently Masking HQC in Hardware;;;Fabian Buschkowski, Niklas Höher, Tim Güneysu;;;2026/2509;;;last_week;;;none;;;2026-10-16;;;code,lattice
-safeRNSgcd: Accelerating Falcon key generation with RNS in SafeGCD;;;Cesare Huang, Bo-Yin Yang;;;2026/2507;;;last_week;;;none;;;2026-10-16;;;lattice
-Shorter Hash-Based Signatures via Guarded Sharing in a DAG Model;;;Chongxu Ren, Hongbo Yu;;;2026/2502;;;last_week;;;none;;;2026-10-16;;;lattice
+Analysis of the Multi-Key Optimization for SPECK;;;Marco Baldi, Michele Battagliola, Rahmi El Mechri, Paolo Santini, Riccardo Schiavoni;;;2026/2514;;;last_month;;;none;;;2026-10-16;;;code
+Fully Homomorphic Encryption for Small Batches of Complex Numbers;;;Jules Dumezy;;;2026/2513;;;last_month;;;none;;;2026-10-16;;;lattice
+SLEEK: Sparse Quasi-Cyclic Codes with Closed-Form DFR Key Encapsulation;;;Alessandro Annechini, Alessandro Barenghi, Marco Gianvecchio, Gerardo Pelosi;;;2026/2512;;;last_month;;;none;;;2026-10-16;;;code
+I Want to Ride My BIKE: Customizing Bit-Flipping Decoders for Ephemeral Key KEMs;;;Davide De Zuane, Marco Gianvecchio, Alessandro Annechini, Paolo Santini, Marco Baldi, Alessandro Barenghi, Gerardo Pelosi;;;2026/2511;;;last_month;;;none;;;2026-10-16;;;code
+Sparse Secrets, Dense Problems: Efficiently Masking HQC in Hardware;;;Fabian Buschkowski, Niklas Höher, Tim Güneysu;;;2026/2509;;;last_month;;;none;;;2026-10-16;;;code,lattice
+safeRNSgcd: Accelerating Falcon key generation with RNS in SafeGCD;;;Cesare Huang, Bo-Yin Yang;;;2026/2507;;;last_month;;;none;;;2026-10-16;;;lattice
+Shorter Hash-Based Signatures via Guarded Sharing in a DAG Model;;;Chongxu Ren, Hongbo Yu;;;2026/2502;;;last_month;;;none;;;2026-10-16;;;lattice
 Aerie: Efficient Aggregation of Falcon Signatures;;;Alberto Centelles, Quang Dao, Mohammadtaghi Badakhshan, Justin Thaler;;;2026/2501;;;last_month;;;none;;;2026-10-15;;;lattice
 Threshold Post-Quantum E-Voting from Lattice Commitments;;;Jalal Alizadeh;;;2026/2500;;;last_month;;;none;;;2026-10-15;;;lattice
 Exploring Fault Injection Attacks on HQC and BIKE Beyond Fujisaki-Okamoto Verification;;;Thales B. Paiva, Lucas C. Cardoso, Keerthi Kamalakshan, Hariprasad Valsaraj Kelassery, Marcos A. Simplicio Jr., Shivam Bhasin;;;2026/2492;;;last_month;;;none;;;2026-10-15;;;code
@@ -119,11 +119,11 @@ Hidden-Bits Generators with Succinct CRS and Openings;;;Pedro Branco, Nico Dött
 Structural Cryptanalysis of Polar-KEM: Direct Recovery of the Secret Isometry;;;Yuyang Xiao, Long Chen, Zhenfeng Zhang;;;2026/2211;;;last_month;;;none;;;2026-09-25;;;lattice
 Dance with Noise: Safely Trade Minor Decryption Failures for More Compact KEMs with Applications to IKEv2;;;Zidi Zhuang, Yuyang Xiao, Long Chen, Qiang Tang, Zhenfeng Zhang;;;2026/2201;;;last_month;;;none;;;2026-09-24;;;lattice
 Lifting Symmetries for Dimension Reduction in Module-LIP: rank 2 and rank 4;;;Hengyi Luo, Kaijie Jiang, Yanbin Pan;;;2026/2198;;;last_month;;;none;;;2026-09-24;;;lattice
-Multi-Key FHE Almost as Fast as Single-Key FHE;;;Abtin Afshar, Rishab Goyal;;;2026/2195;;;last_month;;;none;;;2026-09-23;;;lattice
-Stay in Your Lane: Scalable Large-Integer Arithmetic in CKKS;;;Hyeongmin Choe, Robin Köstler, Tim Seuré;;;2026/2190;;;last_month;;;none;;;2026-09-23;;;lattice
-Provable FFT-Accelerated Dual Attack on LWE Using the General Dual Lattice;;;Jiale Li, Li-Ping Wang, Huaxiong Wang;;;2026/2186;;;last_month;;;none;;;2026-09-23;;;lattice
-Swing the Lure: How to Cheaply Mitigate Sign Leakage in Falcon;;;Xiuhan Lin, Mehdi Tibouchi, Yang Yu;;;2026/2170;;;last_month;;;none;;;2026-09-23;;;lattice
-A Provable Correctness Analysis of the MATZOV-Style FFT Dual Attack on ML-KEM;;;Jiale Li, Li-Ping Wang, Huaxiong Wang;;;2026/2166;;;last_month;;;none;;;2026-09-23;;;lattice
+Multi-Key FHE Almost as Fast as Single-Key FHE;;;Abtin Afshar, Rishab Goyal;;;2026/2195;;;last_year;;;none;;;2026-09-23;;;lattice
+Stay in Your Lane: Scalable Large-Integer Arithmetic in CKKS;;;Hyeongmin Choe, Robin Köstler, Tim Seuré;;;2026/2190;;;last_year;;;none;;;2026-09-23;;;lattice
+Provable FFT-Accelerated Dual Attack on LWE Using the General Dual Lattice;;;Jiale Li, Li-Ping Wang, Huaxiong Wang;;;2026/2186;;;last_year;;;none;;;2026-09-23;;;lattice
+Swing the Lure: How to Cheaply Mitigate Sign Leakage in Falcon;;;Xiuhan Lin, Mehdi Tibouchi, Yang Yu;;;2026/2170;;;last_year;;;none;;;2026-09-23;;;lattice
+A Provable Correctness Analysis of the MATZOV-Style FFT Dual Attack on ML-KEM;;;Jiale Li, Li-Ping Wang, Huaxiong Wang;;;2026/2166;;;last_year;;;none;;;2026-09-23;;;lattice
 On the Limits of LWE and PCE based UPKE;;;Martin R. Albrecht, Benjamin Benčina, Russell W. F. Lai;;;2026/2164;;;last_year;;;none;;;2026-09-22;;;lattice
 Batch IT-MAC: Program the Randomness in Succinct VOLE;;;Liqiang Liu, Tianren Liu;;;2026/2159;;;last_year;;;none;;;2026-09-22;;;lattice
 New algorithms for quaternion ideals in SQIsign;;;Antonin Leroux, Sina Schaeffler;;;2026/2153;;;last_year;;;none;;;2026-09-22;;;lattice
@@ -776,7 +776,3 @@ Provable decryption failure security for practical lattice-based PKE;;;Christian
 TWFalcon: Triple-Word Arithmetic for Falcon; Giving Falcon the Precision to Fly Securely;;;Stef Halmans, Christine van Vredendaal, Tobias Schneider, Frank Custers, Tim Güneysu;;;2025/1991;;;last_year;;;none;;;2025-10-24;;;lattice
 Accelerating the Primal Hybrid Attack against Sparse LWE using GPUs;;;Ludo N. Pulles, Paul Vié;;;2025/1990;;;last_year;;;none;;;2025-10-24;;;lattice
 Almost NTRU: Revisiting Noncommutativity Against Lattice Attacks;;;Ali Raya, Vikas Kumar, Seong Oun Hwang, Sugata Gangopadhyay;;;2025/1988;;;last_year;;;none;;;2025-10-24;;;lattice
-Single-Trace Key Recovery Attacks on HQC Using Valid and Invalid Ciphertexts;;;Haiyue Dong, Qian Guo, Denis Nabokov;;;2025/1987;;;last_year;;;none;;;2025-10-23;;;code
-OUF: Oblivious Universal Function with domain specific optimizations;;;Victor Delfour, Marc-Olivier Killijian;;;2025/1985;;;last_year;;;none;;;2025-10-23;;;lattice
-Fully Anonymous Secret Sharing;;;Allison Bishop, Matthew Green, Yuval Ishai, Abhishek Jain, Paul Lou;;;2025/1984;;;last_year;;;none;;;2025-10-23;;;lattice
-SCORE: A SlotToCoeff Optimization for Real-Vector Encryption in CKKS;;;Tim Seuré;;;2025/1983;;;last_year;;;none;;;2025-10-23;;;lattice
