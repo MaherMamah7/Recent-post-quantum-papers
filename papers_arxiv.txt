@@ -4,7 +4,7 @@ Free-XOR TFHE via Lazy Bootstrapping;;;Ali Ajorian, Osman Biçer;;;2610.29983;;;
 Regular Syndrome Decoding Is Easier Than Previously Estimated;;;Jiseung Kim, Minkyu Kim, Changmin Lee, Hochang Lee;;;2610.29175;;;last_week;;;none;;;2026-10-21;;;code
 On True Minimum Distances of Goppa Codes;;;Yaqi Chen, Hao Chen, Chao Liu, Huimin Lao;;;2610.26450;;;last_week;;;none;;;2026-10-19;;;code
 New Maximum Hermitian $d$-Codes and New Invariants from Skew Polynomial Rings;;;Paolo Santonastaso, Yue Zhou;;;2610.26048;;;last_week;;;none;;;2026-10-19;;;code
-Fast \(\ell_\infty\)-Reduction of Rank-2 Lattices in $\mathbb{R}^n$ via a New Reduced-Basis Notion;;;Bo Pang, Shaojing Zhang, Chengliang Tian;;;2610.24719;;;last_week;;;none;;;2026-10-17;;;lattice
+Fast \(\ell_\infty\)-Reduction of Rank-2 Lattices in $\mathbb{R}^n$ via a New Reduced-Basis Notion;;;Bo Pang, Shaojing Zhang, Chengliang Tian;;;2610.24719;;;last_month;;;none;;;2026-10-17;;;lattice
 Quantum-Resilient Secure Protocol for Decentralized Edge-IoT Peer-to-Peer Energy Trading Systems;;;Ali Shahidinejad, Jamshid Aghaei, Mahdi Jalili;;;2610.19491;;;last_month;;;none;;;2026-10-14;;;lattice
 Non-additive symmetric rank-metric codes;;;Marta Messia, Ferdinando Zullo;;;2610.18061;;;last_month;;;none;;;2026-10-13;;;code
 Puncturing-inclusion constructions of optimal Ferrers diagram rank-metric codes using semifield codes;;;Dengming Xu, Chengming Duan, Yong Jin, Yuhao Ning;;;2610.17570;;;last_month;;;none;;;2026-10-13;;;code
@@ -306,6 +306,3 @@ LLM-based Multi-class Attack Analysis and Mitigation Framework in IoT/IIoT Netwo
 Message Recovery Attack in NTRU via Knapsack;;;Eirini Poimenidou, K. A. Draziotis;;;2510.26003;;;last_year;;;none;;;2025-10-29;;;lattice
 Towards a Functionally Complete and Parameterizable TFHE Processor;;;Valentin Reyes Häusler, Gabriel Ott, Aruna Jayasena, Andreas Peter;;;2510.23483;;;last_year;;;none;;;2025-10-27;;;lattice
 Efficient and Encrypted Inference using Binarized Neural Networks within In-Memory Computing Architectures;;;Gokulnath Rajendran, Suman Deb, Anupam Chattopadhyay;;;2510.23034;;;last_year;;;none;;;2025-10-27;;;lattice
-Introducing GRAFHEN: Group-based Fully Homomorphic Encryption without Noise;;;Pierre Guillot, Auguste Hoang Duc, Michel Koskas, Florian Méhats;;;2510.21483;;;last_year;;;none;;;2025-10-24;;;lattice
-The Qey: Implementation and performance study of post quantum cryptography in FIDO2;;;Aditya Mitra, Sibi Chakkaravarthy Sethuraman;;;2510.21353;;;last_year;;;none;;;2025-10-24;;;lattice
-Improved Gilbert-Varshamov bound for sum-rank-metric codes via graph theory;;;Aida Abiad, Harper Reijnders, Michael Tait;;;2510.21298;;;last_year;;;none;;;2025-10-24;;;code

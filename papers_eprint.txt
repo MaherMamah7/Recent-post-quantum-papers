@@ -1,3 +1,17 @@
+Efficient (Functional) Bootstrapping for CKKS over the Conjugate-Invariant Ring;;;Jiaming Liu, Shihe Ma, Anyu Wang, Xiaoyun Wang;;;2026/2618;;;last_week;;;none;;;2026-10-23;;;lattice
+Descent-PBS: Programmable Bootstrapping beyond the Ring Dimension;;;Zhenyu Xiong, Mingsheng Wang, Han Wang, Zhedong Wang;;;2026/2616;;;last_week;;;none;;;2026-10-23;;;lattice
+Faster and Smaller Anonymous Credentials from Standardized Signatures;;;Chad Sharp, Paul Grubbs;;;2026/2615;;;last_week;;;none;;;2026-10-23;;;lattice
+Learning with Quantization and Worst Case Lattice Problems;;;Ziwei Hong, Zhongqiu Fang;;;2026/2613;;;last_week;;;none;;;2026-10-23;;;lattice
+A Crypto-Agile Mixed-Radix NTT Accelerator for Negacyclic and Trinomial Rings;;;JaeSeok Lee, DongHyun Shin, YoungBeom Kim, Seog Chung Seo;;;2026/2610;;;last_week;;;none;;;2026-10-23;;;lattice
+On the $s$-projected Goppa Codes and their Application to the Interactive Oracle Proofs of Proximity;;;Abhraneel Dutta, Veronika Kuchta, Edoardo Persichetti;;;2026/2606;;;last_week;;;none;;;2026-10-22;;;code
+Mímir: A Stateless Private Search Engine;;;Gökberk Erdoğan, Emma Munisamy, Kamil Kluczniak;;;2026/2605;;;last_week;;;none;;;2026-10-22;;;lattice
+Balsamic: One-round Threshold UOV from GPU-Accelerated FHE;;;Jaehyung Kim, Charles Gouert, Jean-Luc Watson, G. Edward Suh;;;2026/2604;;;last_week;;;none;;;2026-10-22;;;lattice
+PPAD Hardness from SIS;;;Arka Rai Choudhuri;;;2026/2603;;;last_week;;;none;;;2026-10-22;;;lattice
+High-Precision Bootstrapping for GCKKS;;;Shihe Ma, Jiaming Liu, Anyu Wang, Xiaoyun Wang;;;2026/2600;;;last_week;;;none;;;2026-10-22;;;lattice
+Linear Cryptanalysis of TFHE-Friendly Cipher FRAST in the Average Key Setting;;;Xingwei Ren, Zhenyu Xiong, Bo Xu, Yongqiang Li, Mingsheng Wang;;;2026/2599;;;last_week;;;none;;;2026-10-22;;;lattice
+Registered Functional Encryption for Circuits with Dynamic Bounded Collusion;;;Yijian Zhang, Rupeng Yang, Zuoxia Yu, Willy Susilo;;;2026/2594;;;last_week;;;none;;;2026-10-22;;;lattice
+Efficient Laconic Oblivious Transfer with Malicious Security;;;Yijian Zhang, Zuoxia Yu, Rupeng Yang, Willy Susilo;;;2026/2593;;;last_week;;;none;;;2026-10-22;;;lattice
+Sotto Maschera: Masking the Sota-Voce Fixed-Weight Vector Sampling;;;Ben Brooksnieder, Dina Hesse, Markus Krausz, Tim Güneysu;;;2026/2591;;;last_week;;;none;;;2026-10-21;;;code
 Verifiable Post-Quantum TLS Handshake: Recognizing Implementation Errors of Cryptographic Verification Steps;;;Runze Zhao, Siqi Lu, Yijian Liu, Zhaoxuan Li, Kaibo Liu, Hongbo Liu, Qingjun Yuan, Yongjuan Wang, Xianhui Lu;;;2026/2585;;;last_week;;;none;;;2026-10-21;;;code,lattice
 Rounded Gaussians are Discrete Gaussians;;;Corentin Jeudy;;;2026/2583;;;last_week;;;none;;;2026-10-21;;;lattice
 HAETAE on a Diet: Less Stack, Less Time on Low-End Microcontrollers;;;MinGi Kim, YoungBeom Kim, DongHyun Shin, Seog Chung Seo;;;2026/2578;;;last_week;;;none;;;2026-10-21;;;lattice
@@ -24,7 +38,7 @@ How Secure are NTRU+ Keys? Analysing the Best Module Attacks;;;Paola de Perthuis
 Faster ABE for Turing Machines from Circular Evasive LWE;;;Valerio Cini, Hoeteck Wee;;;2026/2526;;;last_week;;;none;;;2026-10-18;;;lattice
 Homomorphic Encryption for High-precision Arithmetic of Approximate Numbers;;;Shihe Ma, Jiaming Liu, Anyu Wang, Xiaoyun Wang;;;2026/2524;;;last_week;;;none;;;2026-10-18;;;lattice
 GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzougui, Milos Pavlovic, Vladimir Shpilrain;;;2026/2523;;;last_week;;;none;;;2026-10-18;;;lattice
-Eﬃcient Fixed-Point Implementation of Mitaka;;;Shiduo Zhang, Paul Kirchner, Xiuhan Lin, Yang Yu;;;2026/2521;;;last_week;;;none;;;2026-10-17;;;lattice
+Eﬃcient Fixed-Point Implementation of Mitaka;;;Shiduo Zhang, Paul Kirchner, Xiuhan Lin, Yang Yu;;;2026/2521;;;last_month;;;none;;;2026-10-17;;;lattice
 Analysis of the Multi-Key Optimization for SPECK;;;Marco Baldi, Michele Battagliola, Rahmi El Mechri, Paolo Santini, Riccardo Schiavoni;;;2026/2514;;;last_month;;;none;;;2026-10-16;;;code
 Fully Homomorphic Encryption for Small Batches of Complex Numbers;;;Jules Dumezy;;;2026/2513;;;last_month;;;none;;;2026-10-16;;;lattice
 SLEEK: Sparse Quasi-Cyclic Codes with Closed-Form DFR Key Encapsulation;;;Alessandro Annechini, Alessandro Barenghi, Marco Gianvecchio, Gerardo Pelosi;;;2026/2512;;;last_month;;;none;;;2026-10-16;;;code
@@ -122,8 +136,8 @@ Threshold Key Encapsulation Mechanisms via MPC: ML-KEM Compatibility and Optimiz
 Practical Attacks Against EALPN Using Belief Propagation;;;Pierre Galissant, Guilhem Jazeron, Léo Perrin;;;2026/2213;;;last_month;;;none;;;2026-09-25;;;lattice
 Hidden-Bits Generators with Succinct CRS and Openings;;;Pedro Branco, Nico Döttling, Yao-Ching Hsieh, Abhishek Jain, Akshayaram Srinivasan, Brent Waters;;;2026/2212;;;last_month;;;none;;;2026-09-25;;;lattice
 Structural Cryptanalysis of Polar-KEM: Direct Recovery of the Secret Isometry;;;Yuyang Xiao, Long Chen, Zhenfeng Zhang;;;2026/2211;;;last_month;;;none;;;2026-09-25;;;lattice
-Dance with Noise: Safely Trade Minor Decryption Failures for More Compact KEMs with Applications to IKEv2;;;Zidi Zhuang, Yuyang Xiao, Long Chen, Qiang Tang, Zhenfeng Zhang;;;2026/2201;;;last_month;;;none;;;2026-09-24;;;lattice
-Lifting Symmetries for Dimension Reduction in Module-LIP: rank 2 and rank 4;;;Hengyi Luo, Kaijie Jiang, Yanbin Pan;;;2026/2198;;;last_month;;;none;;;2026-09-24;;;lattice
+Dance with Noise: Safely Trade Minor Decryption Failures for More Compact KEMs with Applications to IKEv2;;;Zidi Zhuang, Yuyang Xiao, Long Chen, Qiang Tang, Zhenfeng Zhang;;;2026/2201;;;last_year;;;none;;;2026-09-24;;;lattice
+Lifting Symmetries for Dimension Reduction in Module-LIP: rank 2 and rank 4;;;Hengyi Luo, Kaijie Jiang, Yanbin Pan;;;2026/2198;;;last_year;;;none;;;2026-09-24;;;lattice
 Multi-Key FHE Almost as Fast as Single-Key FHE;;;Abtin Afshar, Rishab Goyal;;;2026/2195;;;last_year;;;none;;;2026-09-23;;;lattice
 Stay in Your Lane: Scalable Large-Integer Arithmetic in CKKS;;;Hyeongmin Choe, Robin Köstler, Tim Seuré;;;2026/2190;;;last_year;;;none;;;2026-09-23;;;lattice
 Provable FFT-Accelerated Dual Attack on LWE Using the General Dual Lattice;;;Jiale Li, Li-Ping Wang, Huaxiong Wang;;;2026/2186;;;last_year;;;none;;;2026-09-23;;;lattice
@@ -778,6 +792,3 @@ Reactive Correctness, sINDCPA-D-Security and Deterministic Evaluation for TFHE;;
 A Sparse Polynomial Multiplier for HQC Integrating Parallelism and Power-Based Side-Channel Countermeasures;;;Jaeho Jeon, Suseong Lee, Myeongjun Kim, Eunyoung Seo, Myunghyun Cho, Seonggyeom Kim, Bo Gyeong Kang, Young-Sik Kim;;;2025/2003;;;last_year;;;none;;;2025-10-27;;;code
 Pseudorandom Correlation Functions for Multiparty Beaver Triples from Sparse LPN;;;Sebastian Hasler, Pascal Reisert;;;2025/2002;;;last_year;;;none;;;2025-10-26;;;lattice
 Provable decryption failure security for practical lattice-based PKE;;;Christian Majenz, Fabrizio Sisinni;;;2025/1997;;;last_year;;;none;;;2025-10-25;;;lattice
-TWFalcon: Triple-Word Arithmetic for Falcon; Giving Falcon the Precision to Fly Securely;;;Stef Halmans, Christine van Vredendaal, Tobias Schneider, Frank Custers, Tim Güneysu;;;2025/1991;;;last_year;;;none;;;2025-10-24;;;lattice
-Accelerating the Primal Hybrid Attack against Sparse LWE using GPUs;;;Ludo N. Pulles, Paul Vié;;;2025/1990;;;last_year;;;none;;;2025-10-24;;;lattice
-Almost NTRU: Revisiting Noncommutativity Against Lattice Attacks;;;Ali Raya, Vikas Kumar, Seong Oun Hwang, Sugata Gangopadhyay;;;2025/1988;;;last_year;;;none;;;2025-10-24;;;lattice
