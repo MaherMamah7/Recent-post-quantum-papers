@@ -576,7 +576,7 @@ TP-NTT: Batch NTT Hardware with Application to Relinearization;;;Emre Koçer, To
 Solving the Linear Code Equivalence Problem from Single Codeword Matching;;;Magali Bardet, Charles Brion, Ayoub Otmani, Mohamed Saeed, Nicolas Sendrier;;;2026/550;;;last_year;;;none;;;2026-03-19;;;code
 Look Ahead! Practical CCA-secure Steganography: Cover-Source Switching meets Lattice Gaussian Sampling;;;Russell W. F. Lai, Ivy K. Y. Woo, Hoover H. F. Yin;;;2026/549;;;last_year;;;none;;;2026-03-19;;;lattice
 HARE: Compact HQC via Distance-Informed Erasure Decoding;;;Tianrui Wang, Qicheng Teng, Anyu Wang, Jun Zhang, Bo Pang, Chunhuan Zhao, Sihuang Hu, Xiaoyun Wang;;;2026/544;;;last_year;;;none;;;2026-03-19;;;code
-Cheap Digit Decomposition and Large Plaintext Spaces in FHEW using Phase Splitting;;;Leonard Schild, Aysajan Abidin, Bart Preneel;;;2026/537;;;last_year;;;none;;;2026-03-17;;;lattice
+On Phase Decompositions with Applications to Digit Decomposition;;;Leonard Schild, Aysajan Abidin, Bart Preneel;;;2026/537;;;last_year;;;none;;;2026-03-17;;;lattice
 Ciphertext-Policy ABE for $\mathsf{NC}^1$ Circuits with Constant-Size Ciphertexts from Succinct LWE;;;Jiaqi Liu, Yuanyi Zhang, Fang-Wei Fu;;;2026/534;;;last_year;;;none;;;2026-03-17;;;lattice
 Full Secret Key Recovery of First-order Masked Crystals-Kyber implementation using multiple distinct chosen-ciphertexts;;;Souhayl Ben El Haj Soulami, Yann Connan, Sylvain Duquesne;;;2026/528;;;last_year;;;none;;;2026-03-16;;;lattice
 RISC-V based Vectorization of Classic McEliece Key Generation;;;Mahnaz Namazi Rizi, Nusa Zidaric, Lejla Batina, Nele Mentens;;;2026/523;;;last_year;;;none;;;2026-03-15;;;code
