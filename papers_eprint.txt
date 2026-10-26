@@ -1,3 +1,13 @@
+Non-profiled Single-Trace ML-DSA Secret Key Recovery by Horizontal Distribution Analysis;;;Linus Backlund, Elena Dubrova;;;2026/2643;;;last_week;;;none;;;2026-10-26;;;lattice
+Subexponential Algorithms for LWE via Rejection Sampling on Superlattices;;;Ligeng Fan, Changpeng Shao, Hongbo Li, Dingkang Wang;;;2026/2640;;;last_week;;;none;;;2026-10-26;;;lattice
+Decision Attacks on Known-Covariance Ring-LWE via Public Gram Determinants;;;Anis Bkakria;;;2026/2638;;;last_week;;;none;;;2026-10-25;;;lattice
+Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2026/2637;;;last_week;;;none;;;2026-10-25;;;code
+Nearly Optimal Hardness for CVP and NCP with Preprocessing;;;Giacomo Fenzi, Guy Weissenberg;;;2026/2634;;;last_week;;;none;;;2026-10-25;;;lattice
+On the Inapplicability of Residue-Confined Error Attacks to CRT-FHE with Non-Degenerate Error Distributions;;;Anil Kumar Pradhan;;;2026/2633;;;last_week;;;none;;;2026-10-24;;;lattice
+On the Subtleties of Non-Malleability in IVC: Notions, Attacks and Constructions from Falsifiable Assumptions;;;Matteo Campanelli, Suvradip Chakraborty, Chaya Ganesh;;;2026/2631;;;last_week;;;none;;;2026-10-24;;;lattice
+Exact Error Bootstrapping and Comb Bootstrapping in FHEW/TFHE;;;Philippe Chartier, Mohammed Lemou;;;2026/2630;;;last_week;;;none;;;2026-10-24;;;lattice
+VeilDNS: Post-Quantum DNS Privacy from the First UDP Packet;;;Aditya Singh Rawat, Mahabir Prasad Jhanwar, Rei Safavi-Naini;;;2026/2629;;;last_week;;;none;;;2026-10-24;;;lattice
+Faster Matrix Multiplication Leads to Faster Lattice Sieving;;;Yiming Gao, Honggang Hu;;;2026/2622;;;last_week;;;none;;;2026-10-24;;;lattice
 Efficient (Functional) Bootstrapping for CKKS over the Conjugate-Invariant Ring;;;Jiaming Liu, Shihe Ma, Anyu Wang, Xiaoyun Wang;;;2026/2618;;;last_week;;;none;;;2026-10-23;;;lattice
 Descent-PBS: Programmable Bootstrapping beyond the Ring Dimension;;;Zhenyu Xiong, Mingsheng Wang, Han Wang, Zhedong Wang;;;2026/2616;;;last_week;;;none;;;2026-10-23;;;lattice
 Faster and Smaller Anonymous Credentials from Standardized Signatures;;;Chad Sharp, Paul Grubbs;;;2026/2615;;;last_week;;;none;;;2026-10-23;;;lattice
@@ -254,7 +264,7 @@ CVP Is NP-Complete for Principal Cyclotomic Ideals;;;Jiaqi Liu, Yansong Feng, Ya
 Lithium: Making Iterative Rejection Sampling Practical for Compact Lattice Signatures;;;Jipeng Zhang, Pengfei Chen, Long Chen, Cong Zhang, Jiaheng Zhang;;;2026/1790;;;last_year;;;none;;;2026-08-24;;;lattice
 Bit Operation Cost of ``Holdout'' Key-Recovery Attacks Against Classic McEliece;;;Markku-Juhani O. Saarinen;;;2026/1786;;;last_year;;;none;;;2026-08-24;;;code
 The Power of Rerandomization in Obfustopia: Collision-Resistant Hash, Somewhere-Extractable BARGs, and More;;;Shafik Nassar;;;2026/1785;;;last_year;;;none;;;2026-08-23;;;lattice
-Bootstrapping via Ring Switching without Slot Recovery;;;Zhaoyang Liang, Dan Ding;;;2026/1779;;;last_year;;;none;;;2026-08-23;;;lattice
+Bootstrapping via Ring Switching without Slot Recovery: Independent Leaf Evaluation for SIMD-Packed Ciphertexts;;;Zhaoyang Liang, Dan Ding;;;2026/1779;;;last_year;;;none;;;2026-08-23;;;lattice
 HOVER: Higher-Order Vanishing Endomorphism Recovery;;;Markku-Juhani O. Saarinen;;;2026/1778;;;last_year;;;none;;;2026-08-22;;;code
 Cofactor-torsion attacks on hinted scalar multiplications in SNARK circuits;;;Youssef El Housni;;;2026/1776;;;last_year;;;none;;;2026-08-22;;;lattice
 Lightweight Lattice-based Single-Party Public-Key Authenticated Key Exchange;;;Alex Aïdan, Sébastien Canard, Emmanuel Fouotsa, Nyiang Melchisedech Mbeng;;;2026/1761;;;last_year;;;none;;;2026-08-21;;;lattice
