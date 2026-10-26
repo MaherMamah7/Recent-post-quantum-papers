@@ -1,3 +1,7 @@
+Embedding Large PQC KEMs in IKEv2;;;Daniel Herzinger, Marco Thomas, Tobias Handirk, Stefan-Lukas Gazdag, Daniel Loebenberger, Marian Margraf;;;2610.32356;;;last_week;;;none;;;2026-10-23;;;code,lattice
+SPA: Structure-Preserving Approximation of Gated Activations under FHE;;;Rui Li, Wenyuan Wu, Weijie Miao;;;2610.32065;;;last_week;;;none;;;2026-10-23;;;lattice
+The permutation and automorphism groups of univariate multiplicity codes;;;Eduardo Camps Moreno, Hiram H. López, Umberto Martínez-Peñas, Rodrigo San-José;;;2610.31858;;;last_week;;;none;;;2026-10-22;;;code
+The Entire Quantum Computer on a Classical Leash;;;Yael Tauman Kalai, Dakshita Khurana, Justin Raizes;;;2610.31775;;;last_week;;;none;;;2026-10-22;;;lattice
 Structural cryptanalysis of classic McEliece: Assessment of claims, costs and evidence;;;Ramses Fernandez;;;2610.31196;;;last_week;;;none;;;2026-10-22;;;code
 Rank Ceiling for Twiddle-Perturbation Faults on the Forward NTT;;;Chakshu Gupta;;;2610.30383;;;last_week;;;none;;;2026-10-21;;;lattice
 Free-XOR TFHE via Lazy Bootstrapping;;;Ali Ajorian, Osman Biçer;;;2610.29983;;;last_week;;;none;;;2026-10-21;;;lattice
@@ -38,7 +42,7 @@ Cyclotomic Cosets: Hidden Subgroup and Quantum Sieving Algorithm for Prime-Power
 CipherGenome: Homomorphic Inference for Genomic Mixture-of-Experts;;;Guang Yang, Fengchen Liu;;;2609.35883;;;last_month;;;none;;;2026-09-27;;;lattice
 Smooth Sailing through Spherical Shells: Provable Random-Lattice Sieving in Time $2^{0.292n}$;;;Emmanouil Doulgerakis, Thijs Laarhoven;;;2609.37482;;;last_month;;;none;;;2026-09-26;;;lattice
 Adelic reduction of module lattices;;;Henry Bambury, Seungki Kim, Changmin Lee, Phong Q. Nguyen;;;2609.32936;;;last_month;;;none;;;2026-09-26;;;lattice
-Peregrino: A Full-Hardware Accelerator for the Complete Falcon Post-Quantum Digital Signature Scheme on Resource-Constrained Edge Devices;;;Antonio Carreño, Jaime Señor, Jorge Portilla;;;2609.31252;;;last_month;;;none;;;2026-09-25;;;lattice
+Peregrino: A Full-Hardware Accelerator for the Complete Falcon Post-Quantum Digital Signature Scheme on Resource-Constrained Edge Devices;;;Antonio Carreño, Jaime Señor, Jorge Portilla;;;2609.31252;;;last_year;;;none;;;2026-09-25;;;lattice
 Domain Specific Post Quantum Signatures for Blockchains;;;Maja Lie, Ben Marsh;;;2609.24689;;;last_year;;;none;;;2026-09-21;;;lattice
 Benchmarking Post-Quantum Cryptography in Lightweight Virtualization Environments on Embedded Hardware;;;Nikolai Puch, Chi Hieu Ta, Moritz Beckel;;;2609.23902;;;last_year;;;none;;;2026-09-20;;;code,lattice
 Zero-Knowledge Proofs of Quantumness;;;Duong Hieu Phan, Weiqiang Wen, Xingyu Yan, Jinwei Zheng;;;2609.23455;;;last_year;;;none;;;2026-09-20;;;lattice
