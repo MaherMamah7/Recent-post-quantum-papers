@@ -1,3 +1,4 @@
+When Algebraic Structure Meets Too Many Hints;;;Dongshu Cai, Yijian Liu, Xianhui Lu;;;2026/2654;;;last_week;;;none;;;2026-10-27;;;lattice
 Non-profiled Single-Trace ML-DSA Secret Key Recovery by Horizontal Distribution Analysis;;;Linus Backlund, Elena Dubrova;;;2026/2643;;;last_week;;;none;;;2026-10-26;;;lattice
 Subexponential Algorithms for LWE via Rejection Sampling on Superlattices;;;Ligeng Fan, Changpeng Shao, Hongbo Li, Dingkang Wang;;;2026/2640;;;last_week;;;none;;;2026-10-26;;;lattice
 Decision Attacks on Known-Covariance Ring-LWE via Public Gram Determinants;;;Anis Bkakria;;;2026/2638;;;last_week;;;none;;;2026-10-25;;;lattice
