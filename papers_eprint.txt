@@ -34,15 +34,15 @@ Further Elaborations on the Provable Dual Attack;;;Kaveh Bashiri;;;2026/2565;;;l
 Regular Syndrome Decoding Is Easier Than Previously Estimated;;;Jiseung Kim, Minkyu Kim, Changmin Lee, Hochang Lee;;;2026/2563;;;last_week;;;none;;;2026-10-20;;;code
 A New Approach to Reducing Modulus Requirements in Homomorphic Computation: Precision Allocation in CKKS;;;Zhaoyang Liang, Runkun Liu, Jingwei Fang, Dan Ding;;;2026/2562;;;last_week;;;none;;;2026-10-20;;;lattice
 SALUS: Large-Scale Homomorphic Circuit Synthesis via Logic-Aware LUT Optimization;;;Ran Mao, Zhou Zhang, Zian Zhao, Zhenyu Guan, Peng Yin, Song Bian;;;2026/2561;;;last_week;;;none;;;2026-10-20;;;lattice
-Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures;;;Olivier Gillot, William J. Buchanan, Madjid G. Tehrani;;;2026/2557;;;last_week;;;none;;;2026-10-19;;;lattice
-Analysis of an AI based code distinguisher;;;Quentin Lavit, Julien Seinturier, Pascal Véron;;;2026/2556;;;last_week;;;none;;;2026-10-19;;;code
-Evasive Inner Product Functional Encryption Is Broken Too;;;Shweta Agrawal, Anuja Modi, Anshu Yadav, Shota Yamada;;;2026/2548;;;last_week;;;none;;;2026-10-19;;;lattice
-$\mathcal{iO}$ from LWE with Structured Preimage;;;Shweta Agrawal, Anuja Modi, Anshu Yadav, Shota Yamada;;;2026/2547;;;last_week;;;none;;;2026-10-19;;;lattice
-New IND-CPA-D Attacks on BFV and BGV;;;Hyeongmin CHOE, Minsik Kang, Damien Stehlé;;;2026/2546;;;last_week;;;none;;;2026-10-19;;;lattice
-Blind-DLPA: An End-to-End Framework for Profiled Blind Side-Channel Analysis;;;Pei Cao, Chi Zhang, Dawu Gu;;;2026/2544;;;last_week;;;none;;;2026-10-19;;;lattice
-Provable Lattice Reduction in Nearly the Time of QR Factorization;;;Yang Zhou, Zhedong Wang, Mingsheng Wang;;;2026/2541;;;last_week;;;none;;;2026-10-19;;;lattice
-Implementing Predicate Encryption for Branching Programs: Private Computation over Key-Homomorphic Encodings Without FHE;;;Sora Suegami;;;2026/2539;;;last_week;;;none;;;2026-10-19;;;lattice
-Optimizing HQC with Enhanced Parallel Binary Polynomial Multiplication on GPUs;;;DongCheon Kim, JunHyeok Choi, Wai Kong Lee, Seog Chung Seo;;;2026/2538;;;last_week;;;none;;;2026-10-19;;;code
+Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures;;;Olivier Gillot, William J. Buchanan, Madjid G. Tehrani;;;2026/2557;;;last_month;;;none;;;2026-10-19;;;lattice
+Analysis of an AI based code distinguisher;;;Quentin Lavit, Julien Seinturier, Pascal Véron;;;2026/2556;;;last_month;;;none;;;2026-10-19;;;code
+Evasive Inner Product Functional Encryption Is Broken Too;;;Shweta Agrawal, Anuja Modi, Anshu Yadav, Shota Yamada;;;2026/2548;;;last_month;;;none;;;2026-10-19;;;lattice
+$\mathcal{iO}$ from LWE with Structured Preimage;;;Shweta Agrawal, Anuja Modi, Anshu Yadav, Shota Yamada;;;2026/2547;;;last_month;;;none;;;2026-10-19;;;lattice
+New IND-CPA-D Attacks on BFV and BGV;;;Hyeongmin CHOE, Minsik Kang, Damien Stehlé;;;2026/2546;;;last_month;;;none;;;2026-10-19;;;lattice
+Blind-DLPA: An End-to-End Framework for Profiled Blind Side-Channel Analysis;;;Pei Cao, Chi Zhang, Dawu Gu;;;2026/2544;;;last_month;;;none;;;2026-10-19;;;lattice
+Provable Lattice Reduction in Nearly the Time of QR Factorization;;;Yang Zhou, Zhedong Wang, Mingsheng Wang;;;2026/2541;;;last_month;;;none;;;2026-10-19;;;lattice
+Implementing Predicate Encryption for Branching Programs: Private Computation over Key-Homomorphic Encodings Without FHE;;;Sora Suegami;;;2026/2539;;;last_month;;;none;;;2026-10-19;;;lattice
+Optimizing HQC with Enhanced Parallel Binary Polynomial Multiplication on GPUs;;;DongCheon Kim, JunHyeok Choi, Wai Kong Lee, Seog Chung Seo;;;2026/2538;;;last_month;;;none;;;2026-10-19;;;code
 High-Precision CKKS with Focal Units;;;Jung Hee Cheon, Junho Lee;;;2026/2531;;;last_month;;;none;;;2026-10-18;;;lattice
 How Secure are NTRU+ Keys? Analysing the Best Module Attacks;;;Paola de Perthuis, Filip Trenkić;;;2026/2527;;;last_month;;;none;;;2026-10-18;;;lattice
 Faster ABE for Turing Machines from Circular Evasive LWE;;;Valerio Cini, Hoeteck Wee;;;2026/2526;;;last_month;;;none;;;2026-10-18;;;lattice
@@ -137,11 +137,11 @@ Cyclotomic Cosets: Hidden Subgroup and Quantum Sieving Algorithm for Prime-Power
 ML-DSA masking sweetened with SUCRE: Shuffle-and-Unmask Countermeasure for REjection sampling;;;Sonia Belaïd, Ryad Benadjila, Julien Devevey, Morgane Guerreau, Thomas Legavre, Ange Martinelli, Thomas Ricosset, Matthieu Rivain, Mélissa Rossi;;;2026/2248;;;last_month;;;none;;;2026-09-28;;;lattice
 Error Propagation-Aware Scale Design for Efficient Homomorphic Encryption-Based LLM Inference;;;Sieun Seo, Chohong Min;;;2026/2242;;;last_month;;;none;;;2026-09-28;;;lattice
 One Unverified Coordinate Is Enough: Key Recovery from Faulty Fujisaki–Okamoto Rejection Checks in ML-KEM;;;Bhabani Sankar Das;;;2026/2239;;;last_month;;;none;;;2026-09-27;;;lattice
-Adelic reduction of module lattices;;;Henry Bambury, Seungki Kim, Changmin Lee, Phong Q. Nguyen;;;2026/2228;;;last_month;;;none;;;2026-09-26;;;lattice
-FALCON++: Shorter Signatures without NTRU Smoothing Estimates;;;Hao Yan, Nicholas Zhao;;;2026/2226;;;last_month;;;none;;;2026-09-26;;;lattice
-Breaking the G\'omez-Torrecillas--Lobillo--Navarro Cryptosystem: LLL Recovers the Secret Key Within Seconds;;;Abul Kalam, Santanu Sarkar;;;2026/2225;;;last_month;;;none;;;2026-09-26;;;code,lattice
-The Tower of Babel: Large Language Models for Side-channel Analysis;;;Iris Dania Jimenez, Stjepan Picek, Michael Hutter;;;2026/2224;;;last_month;;;none;;;2026-09-26;;;lattice
-SoK: The Landscape of Post-Quantum Multi-Party Signature Aggregation;;;Gaurav Kumar;;;2026/2222;;;last_month;;;none;;;2026-09-26;;;lattice
+Adelic reduction of module lattices;;;Henry Bambury, Seungki Kim, Changmin Lee, Phong Q. Nguyen;;;2026/2228;;;last_year;;;none;;;2026-09-26;;;lattice
+FALCON++: Shorter Signatures without NTRU Smoothing Estimates;;;Hao Yan, Nicholas Zhao;;;2026/2226;;;last_year;;;none;;;2026-09-26;;;lattice
+Breaking the G\'omez-Torrecillas--Lobillo--Navarro Cryptosystem: LLL Recovers the Secret Key Within Seconds;;;Abul Kalam, Santanu Sarkar;;;2026/2225;;;last_year;;;none;;;2026-09-26;;;code,lattice
+The Tower of Babel: Large Language Models for Side-channel Analysis;;;Iris Dania Jimenez, Stjepan Picek, Michael Hutter;;;2026/2224;;;last_year;;;none;;;2026-09-26;;;lattice
+SoK: The Landscape of Post-Quantum Multi-Party Signature Aggregation;;;Gaurav Kumar;;;2026/2222;;;last_year;;;none;;;2026-09-26;;;lattice
 Threshold Key Encapsulation Mechanisms via MPC: ML-KEM Compatibility and Optimization;;;The-Anh Ta, Dongxi Liu, Sid Chau, Jiafan Wang;;;2026/2220;;;last_year;;;none;;;2026-09-25;;;lattice
 Practical Attacks Against EALPN Using Belief Propagation;;;Pierre Galissant, Guilhem Jazeron, Léo Perrin;;;2026/2213;;;last_year;;;none;;;2026-09-25;;;lattice
 Hidden-Bits Generators with Succinct CRS and Openings;;;Pedro Branco, Nico Döttling, Yao-Ching Hsieh, Abhishek Jain, Akshayaram Srinivasan, Brent Waters;;;2026/2212;;;last_year;;;none;;;2026-09-25;;;lattice
@@ -800,4 +800,3 @@ Head Start: Digit Extraction in TFHE from MSB to LSB;;;Jan-Pieter D'Anvers, Xand
 When Randomness Isn’t Random: Practical Fault Attack on Post-Quantum Lattice Standards;;;Hariprasad Kelassery Valsaraj, Prasanna Ravi, Shivam Bhasin, Hongjun Wu;;;2025/2009;;;last_year;;;none;;;2025-10-28;;;lattice
 Reactive Correctness, sINDCPA-D-Security and Deterministic Evaluation for TFHE;;;Nigel Smart, Michael Walter;;;2025/2005;;;last_year;;;none;;;2025-10-27;;;lattice
 A Sparse Polynomial Multiplier for HQC Integrating Parallelism and Power-Based Side-Channel Countermeasures;;;Jaeho Jeon, Suseong Lee, Myeongjun Kim, Eunyoung Seo, Myunghyun Cho, Seonggyeom Kim, Bo Gyeong Kang, Young-Sik Kim;;;2025/2003;;;last_year;;;none;;;2025-10-27;;;code
-Pseudorandom Correlation Functions for Multiparty Beaver Triples from Sparse LPN;;;Sebastian Hasler, Pascal Reisert;;;2025/2002;;;last_year;;;none;;;2025-10-26;;;lattice
