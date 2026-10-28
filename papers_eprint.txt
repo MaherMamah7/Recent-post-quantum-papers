@@ -28,13 +28,13 @@ Rounded Gaussians are Discrete Gaussians;;;Corentin Jeudy;;;2026/2583;;;last_wee
 HAETAE on a Diet: Less Stack, Less Time on Low-End Microcontrollers;;;MinGi Kim, YoungBeom Kim, DongHyun Shin, Seog Chung Seo;;;2026/2578;;;last_week;;;none;;;2026-10-21;;;lattice
 RDK-CKKS: A Framework for Rigorous Error Analysis for CKKS Computation;;;Taeyeong Noh, Aimad Chabounia, Guillaume Hanrot, Alain Passelègue;;;2026/2575;;;last_week;;;none;;;2026-10-21;;;lattice
 Broadcast and Trace from Lattices: Collusion-Resistant and Publicly Traceable;;;Jeffrey Champion;;;2026/2574;;;last_week;;;none;;;2026-10-21;;;lattice
-Efficient NTRU+ Implementations on Cortex-M;;;Subeen Cho, Minjoo Sim, Seungwon Lee, Anupam Chattopadhyay, Wai Kong Lee, Hwajeong Seo;;;2026/2568;;;last_week;;;none;;;2026-10-20;;;lattice
-A Systematic Evaluation of Fault Attacks and Countermeasures on ML-DSA Rejection Sampling;;;Yulong Meng;;;2026/2567;;;last_week;;;none;;;2026-10-20;;;lattice
-Fault-Induced Nonce Repetition in Threshold Lattice Signatures: A Reveal-Structure Criterion, Cross-Scheme Analysis, and Detection Boundaries;;;Yulong Meng;;;2026/2566;;;last_week;;;none;;;2026-10-20;;;lattice
-Further Elaborations on the Provable Dual Attack;;;Kaveh Bashiri;;;2026/2565;;;last_week;;;none;;;2026-10-20;;;lattice
-Regular Syndrome Decoding Is Easier Than Previously Estimated;;;Jiseung Kim, Minkyu Kim, Changmin Lee, Hochang Lee;;;2026/2563;;;last_week;;;none;;;2026-10-20;;;code
-A New Approach to Reducing Modulus Requirements in Homomorphic Computation: Precision Allocation in CKKS;;;Zhaoyang Liang, Runkun Liu, Jingwei Fang, Dan Ding;;;2026/2562;;;last_week;;;none;;;2026-10-20;;;lattice
-SALUS: Large-Scale Homomorphic Circuit Synthesis via Logic-Aware LUT Optimization;;;Ran Mao, Zhou Zhang, Zian Zhao, Zhenyu Guan, Peng Yin, Song Bian;;;2026/2561;;;last_week;;;none;;;2026-10-20;;;lattice
+Efficient NTRU+ Implementations on Cortex-M;;;Subeen Cho, Minjoo Sim, Seungwon Lee, Anupam Chattopadhyay, Wai Kong Lee, Hwajeong Seo;;;2026/2568;;;last_month;;;none;;;2026-10-20;;;lattice
+A Systematic Evaluation of Fault Attacks and Countermeasures on ML-DSA Rejection Sampling;;;Yulong Meng;;;2026/2567;;;last_month;;;none;;;2026-10-20;;;lattice
+Fault-Induced Nonce Repetition in Threshold Lattice Signatures: A Reveal-Structure Criterion, Cross-Scheme Analysis, and Detection Boundaries;;;Yulong Meng;;;2026/2566;;;last_month;;;none;;;2026-10-20;;;lattice
+Further Elaborations on the Provable Dual Attack;;;Kaveh Bashiri;;;2026/2565;;;last_month;;;none;;;2026-10-20;;;lattice
+Regular Syndrome Decoding Is Easier Than Previously Estimated;;;Jiseung Kim, Minkyu Kim, Changmin Lee, Hochang Lee;;;2026/2563;;;last_month;;;none;;;2026-10-20;;;code
+A New Approach to Reducing Modulus Requirements in Homomorphic Computation: Precision Allocation in CKKS;;;Zhaoyang Liang, Runkun Liu, Jingwei Fang, Dan Ding;;;2026/2562;;;last_month;;;none;;;2026-10-20;;;lattice
+SALUS: Large-Scale Homomorphic Circuit Synthesis via Logic-Aware LUT Optimization;;;Ran Mao, Zhou Zhang, Zian Zhao, Zhenyu Guan, Peng Yin, Song Bian;;;2026/2561;;;last_month;;;none;;;2026-10-20;;;lattice
 Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures;;;Olivier Gillot, William J. Buchanan, Madjid G. Tehrani;;;2026/2557;;;last_month;;;none;;;2026-10-19;;;lattice
 Analysis of an AI based code distinguisher;;;Quentin Lavit, Julien Seinturier, Pascal Véron;;;2026/2556;;;last_month;;;none;;;2026-10-19;;;code
 Evasive Inner Product Functional Encryption Is Broken Too;;;Shweta Agrawal, Anuja Modi, Anshu Yadav, Shota Yamada;;;2026/2548;;;last_month;;;none;;;2026-10-19;;;lattice
@@ -137,7 +137,7 @@ Affine-Padding Rabin-Oracle Factoring in $L_n\left(\frac{1}{3},\sqrt[3]{\frac{32
 Cyclotomic Cosets: Hidden Subgroup and Quantum Sieving Algorithm for Prime-Power Moduli;;;Mathias Boucher, Pierre-Alain Fouque, Yixin Shen;;;2026/2249;;;last_month;;;none;;;2026-09-28;;;lattice
 ML-DSA masking sweetened with SUCRE: Shuffle-and-Unmask Countermeasure for REjection sampling;;;Sonia Belaïd, Ryad Benadjila, Julien Devevey, Morgane Guerreau, Thomas Legavre, Ange Martinelli, Thomas Ricosset, Matthieu Rivain, Mélissa Rossi;;;2026/2248;;;last_month;;;none;;;2026-09-28;;;lattice
 Error Propagation-Aware Scale Design for Efficient Homomorphic Encryption-Based LLM Inference;;;Sieun Seo, Chohong Min;;;2026/2242;;;last_month;;;none;;;2026-09-28;;;lattice
-One Unverified Coordinate Is Enough: Key Recovery from Faulty Fujisaki–Okamoto Rejection Checks in ML-KEM;;;Bhabani Sankar Das;;;2026/2239;;;last_month;;;none;;;2026-09-27;;;lattice
+One Unverified Coordinate Is Enough: Key Recovery from Faulty Fujisaki–Okamoto Rejection Checks in ML-KEM;;;Bhabani Sankar Das;;;2026/2239;;;last_year;;;none;;;2026-09-27;;;lattice
 Adelic reduction of module lattices;;;Henry Bambury, Seungki Kim, Changmin Lee, Phong Q. Nguyen;;;2026/2228;;;last_year;;;none;;;2026-09-26;;;lattice
 FALCON++: Shorter Signatures without NTRU Smoothing Estimates;;;Hao Yan, Nicholas Zhao;;;2026/2226;;;last_year;;;none;;;2026-09-26;;;lattice
 Breaking the G\'omez-Torrecillas--Lobillo--Navarro Cryptosystem: LLL Recovers the Secret Key Within Seconds;;;Abul Kalam, Santanu Sarkar;;;2026/2225;;;last_year;;;none;;;2026-09-26;;;code,lattice
@@ -799,5 +799,3 @@ Migration to Post-Quantum Cryptography: From ECDSA to ML-DSA;;;Daniel Dinu;;;202
 Select-Then-Compute: Encrypted Label Selection and Analytics over Distributed Datasets using FHE;;;Nirajan Koirala, Seunghun Paik, Sam Martin, Helena Berens, Tasha Januszewicz, Jonathan Takeshita, Jae Hong Seo, Taeho Jung;;;2025/2023;;;last_year;;;none;;;2025-10-30;;;lattice
 Head Start: Digit Extraction in TFHE from MSB to LSB;;;Jan-Pieter D'Anvers, Xander Pottier, Thomas de Ruijter, Ingrid Verbauwhede;;;2025/2012;;;last_year;;;none;;;2025-10-28;;;lattice
 When Randomness Isn’t Random: Practical Fault Attack on Post-Quantum Lattice Standards;;;Hariprasad Kelassery Valsaraj, Prasanna Ravi, Shivam Bhasin, Hongjun Wu;;;2025/2009;;;last_year;;;none;;;2025-10-28;;;lattice
-Reactive Correctness, sINDCPA-D-Security and Deterministic Evaluation for TFHE;;;Nigel Smart, Michael Walter;;;2025/2005;;;last_year;;;none;;;2025-10-27;;;lattice
-A Sparse Polynomial Multiplier for HQC Integrating Parallelism and Power-Based Side-Channel Countermeasures;;;Jaeho Jeon, Suseong Lee, Myeongjun Kim, Eunyoung Seo, Myunghyun Cho, Seonggyeom Kim, Bo Gyeong Kang, Young-Sik Kim;;;2025/2003;;;last_year;;;none;;;2025-10-27;;;code

@@ -1,3 +1,7 @@
+GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzougui, Miloš Pavlović, Vladimir Shpilrain;;;2610.37061;;;last_week;;;none;;;2026-10-27;;;lattice
+HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2610.36808;;;last_week;;;none;;;2026-10-27;;;code
+Beyond LWE: Post-Quantum Assumptions under a Counterfactual Break of the Dihedral Coset Problem;;;Ramses Fernandez;;;2610.36731;;;last_week;;;none;;;2026-10-27;;;code,lattice
+Finite Fields: Root Sets, Frobenius, and Algebraic Structure;;;Hongfeng Wu, Li Zhu;;;2610.36727;;;last_week;;;none;;;2026-10-27;;;code
 Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2610.34404;;;last_week;;;none;;;2026-10-25;;;code
 Pacifo: An Efficient Fully Homomorphic Encryption-based Lightweight ResNet for Trustworthy Machine Learning as a Service;;;Yang Li, Gang He, Ruichen Zhang, Guangyuan Liu, Yinqiu Liu;;;2610.33525;;;last_week;;;https://github.com/BryceYangLi/Pacifo;;;2026-10-24;;;lattice
 Holo-NN: Holographic Nearest Neighbor Search via Compressive Sensing;;;Bryant Gipson;;;2610.33224;;;last_week;;;none;;;2026-10-23;;;lattice
@@ -41,7 +45,7 @@ Classical Verification of Quantum Computation with Quasilinear Resources, from C
 Near-uniform $q$-matroids;;;Giovanni Longobardi, Rocco Trombetti, Lei Xu;;;2609.37830;;;last_month;;;none;;;2026-09-29;;;code
 OT-PCA: New Key-Recovery Plaintext-Checking Oracle Based Side-Channel Attacks on HQC with Offline Templates;;;Haiyue Dong, Qian Guo;;;2609.35205;;;last_month;;;none;;;2026-09-28;;;code
 Cyclotomic Cosets: Hidden Subgroup and Quantum Sieving Algorithm for Prime-Power Moduli;;;Mathias Boucher, Pierre-Alain Fouque, Yixin Shen;;;2609.34996;;;last_month;;;none;;;2026-09-28;;;lattice
-CipherGenome: Homomorphic Inference for Genomic Mixture-of-Experts;;;Guang Yang, Fengchen Liu;;;2609.35883;;;last_month;;;none;;;2026-09-27;;;lattice
+CipherGenome: Homomorphic Inference for Genomic Mixture-of-Experts;;;Guang Yang, Fengchen Liu;;;2609.35883;;;last_year;;;none;;;2026-09-27;;;lattice
 Smooth Sailing through Spherical Shells: Provable Random-Lattice Sieving in Time $2^{0.292n}$;;;Emmanouil Doulgerakis, Thijs Laarhoven;;;2609.37482;;;last_year;;;none;;;2026-09-26;;;lattice
 Adelic reduction of module lattices;;;Henry Bambury, Seungki Kim, Changmin Lee, Phong Q. Nguyen;;;2609.32936;;;last_year;;;none;;;2026-09-26;;;lattice
 Peregrino: A Full-Hardware Accelerator for the Complete Falcon Post-Quantum Digital Signature Scheme on Resource-Constrained Edge Devices;;;Antonio Carreño, Jaime Señor, Jorge Portilla;;;2609.31252;;;last_year;;;none;;;2026-09-25;;;lattice
@@ -310,5 +314,3 @@ Fine-grained deterministic hardness of the shortest vector problem;;;Markus Hitt
 Multilevel constructions of constant dimension codes based on one-factorization of complete graphs;;;Dengming Xu, Mengmeng LI;;;2510.27071;;;last_year;;;none;;;2025-10-31;;;code
 LLM-based Multi-class Attack Analysis and Mitigation Framework in IoT/IIoT Networks;;;Seif Ikbarieh, Maanak Gupta, Elmahedi Mahalal;;;2510.26941;;;last_year;;;none;;;2025-10-30;;;lattice
 Message Recovery Attack in NTRU via Knapsack;;;Eirini Poimenidou, K. A. Draziotis;;;2510.26003;;;last_year;;;none;;;2025-10-29;;;lattice
-Towards a Functionally Complete and Parameterizable TFHE Processor;;;Valentin Reyes Häusler, Gabriel Ott, Aruna Jayasena, Andreas Peter;;;2510.23483;;;last_year;;;none;;;2025-10-27;;;lattice
-Efficient and Encrypted Inference using Binarized Neural Networks within In-Memory Computing Architectures;;;Gokulnath Rajendran, Suman Deb, Anupam Chattopadhyay;;;2510.23034;;;last_year;;;none;;;2025-10-27;;;lattice
