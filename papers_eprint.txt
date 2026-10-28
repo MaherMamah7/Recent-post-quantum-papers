@@ -1,3 +1,7 @@
+Efficient SIMD SHAKE through Cost-Aware Permutation Scheduling;;;Hang Zhang, Ya Shi, Ying Liu, Xianhui Lu;;;2026/2666;;;last_week;;;none;;;2026-10-28;;;lattice
+Rerandomizable Garbling Beyond BHHO-KMHE and a Construction from LWE;;;Raphael Heitjohann, Jonas von der Heyden, Tibor Jager;;;2026/2664;;;last_week;;;none;;;2026-10-28;;;lattice
+Unshuffling Fisher-Yates: Practical Recovery of Length-128 Permutations and Application to ML-DSA;;;Jonas Schupp, Anna Baumeister, Antonia Wachter-Zeh, Georg Sigl;;;2026/2658;;;last_week;;;none;;;2026-10-27;;;lattice
+Falcon Key Recovery from Joint Sampler Leakages;;;Youngchang Kim, Yongseong Park, Jaeho Jeon, Young-Sik Kim;;;2026/2656;;;last_week;;;none;;;2026-10-27;;;lattice
 When Algebraic Structure Meets Too Many Hints;;;Dongshu Cai, Yijian Liu, Xianhui Lu;;;2026/2654;;;last_week;;;none;;;2026-10-27;;;lattice
 Non-profiled Single-Trace ML-DSA Secret Key Recovery by Horizontal Distribution Analysis;;;Linus Backlund, Elena Dubrova;;;2026/2643;;;last_week;;;none;;;2026-10-26;;;lattice
 Subexponential Algorithms for LWE via Rejection Sampling on Superlattices;;;Ligeng Fan, Changpeng Shao, Hongbo Li, Dingkang Wang;;;2026/2640;;;last_week;;;none;;;2026-10-26;;;lattice
