@@ -10,8 +10,8 @@ SPA: Structure-Preserving Approximation of Gated Activations under FHE;;;Rui Li,
 The permutation and automorphism groups of univariate multiplicity codes;;;Eduardo Camps Moreno, Hiram H. López, Umberto Martínez-Peñas, Rodrigo San-José;;;2610.31858;;;last_week;;;none;;;2026-10-22;;;code
 The Entire Quantum Computer on a Classical Leash;;;Yael Tauman Kalai, Dakshita Khurana, Justin Raizes;;;2610.31775;;;last_week;;;none;;;2026-10-22;;;lattice
 Structural cryptanalysis of classic McEliece: Assessment of claims, costs and evidence;;;Ramses Fernandez;;;2610.31196;;;last_week;;;none;;;2026-10-22;;;code
-Free-XOR TFHE via Lazy Bootstrapping;;;Ali Ajorian, Osman Biçer;;;2610.29983;;;last_week;;;none;;;2026-10-21;;;lattice
-Regular Syndrome Decoding Is Easier Than Previously Estimated;;;Jiseung Kim, Minkyu Kim, Changmin Lee, Hochang Lee;;;2610.29175;;;last_week;;;none;;;2026-10-21;;;code
+Free-XOR TFHE via Lazy Bootstrapping;;;Ali Ajorian, Osman Biçer;;;2610.29983;;;last_month;;;none;;;2026-10-21;;;lattice
+Regular Syndrome Decoding Is Easier Than Previously Estimated;;;Jiseung Kim, Minkyu Kim, Changmin Lee, Hochang Lee;;;2610.29175;;;last_month;;;none;;;2026-10-21;;;code
 On True Minimum Distances of Goppa Codes;;;Yaqi Chen, Hao Chen, Chao Liu, Huimin Lao;;;2610.26450;;;last_month;;;none;;;2026-10-19;;;code
 New Maximum Hermitian $d$-Codes and New Invariants from Skew Polynomial Rings;;;Paolo Santonastaso, Yue Zhou;;;2610.26048;;;last_month;;;none;;;2026-10-19;;;code
 Fast \(\ell_\infty\)-Reduction of Rank-2 Lattices in $\mathbb{R}^n$ via a New Reduced-Basis Notion;;;Bo Pang, Shaojing Zhang, Chengliang Tian;;;2610.24719;;;last_month;;;none;;;2026-10-17;;;lattice
@@ -43,8 +43,8 @@ Semi-Quantum Cryptography with Certified Deletion;;;Yael Tauman Kalai, Justin Ra
 Z-Sigil: A Public-Key Cryptosystem with Chained Selection over a Fiber Bundle of Module-Lattice Keys;;;Andrea Rondelli;;;2609.38668;;;last_month;;;none;;;2026-09-29;;;lattice
 Classical Verification of Quantum Computation with Quasilinear Resources, from Compiled Nonlocal Games;;;Finn Holler, Anand Natarajan;;;2609.38060;;;last_month;;;none;;;2026-09-29;;;lattice
 Near-uniform $q$-matroids;;;Giovanni Longobardi, Rocco Trombetti, Lei Xu;;;2609.37830;;;last_month;;;none;;;2026-09-29;;;code
-OT-PCA: New Key-Recovery Plaintext-Checking Oracle Based Side-Channel Attacks on HQC with Offline Templates;;;Haiyue Dong, Qian Guo;;;2609.35205;;;last_month;;;none;;;2026-09-28;;;code
-Cyclotomic Cosets: Hidden Subgroup and Quantum Sieving Algorithm for Prime-Power Moduli;;;Mathias Boucher, Pierre-Alain Fouque, Yixin Shen;;;2609.34996;;;last_month;;;none;;;2026-09-28;;;lattice
+OT-PCA: New Key-Recovery Plaintext-Checking Oracle Based Side-Channel Attacks on HQC with Offline Templates;;;Haiyue Dong, Qian Guo;;;2609.35205;;;last_year;;;none;;;2026-09-28;;;code
+Cyclotomic Cosets: Hidden Subgroup and Quantum Sieving Algorithm for Prime-Power Moduli;;;Mathias Boucher, Pierre-Alain Fouque, Yixin Shen;;;2609.34996;;;last_year;;;none;;;2026-09-28;;;lattice
 CipherGenome: Homomorphic Inference for Genomic Mixture-of-Experts;;;Guang Yang, Fengchen Liu;;;2609.35883;;;last_year;;;none;;;2026-09-27;;;lattice
 Smooth Sailing through Spherical Shells: Provable Random-Lattice Sieving in Time $2^{0.292n}$;;;Emmanouil Doulgerakis, Thijs Laarhoven;;;2609.37482;;;last_year;;;none;;;2026-09-26;;;lattice
 Adelic reduction of module lattices;;;Henry Bambury, Seungki Kim, Changmin Lee, Phong Q. Nguyen;;;2609.32936;;;last_year;;;none;;;2026-09-26;;;lattice
