@@ -30,7 +30,7 @@ Sotto Maschera: Masking the Sota-Voce Fixed-Weight Vector Sampling;;;Ben Brooksn
 Verifiable Post-Quantum TLS Handshake: Recognizing Implementation Errors of Cryptographic Verification Steps;;;Runze Zhao, Siqi Lu, Yijian Liu, Zhaoxuan Li, Kaibo Liu, Hongbo Liu, Qingjun Yuan, Yongjuan Wang, Xianhui Lu;;;2026/2585;;;last_month;;;none;;;2026-10-21;;;code,lattice
 Rounded Gaussians are Discrete Gaussians;;;Corentin Jeudy;;;2026/2583;;;last_month;;;none;;;2026-10-21;;;lattice
 HAETAE on a Diet: Less Stack, Less Time on Low-End Microcontrollers;;;MinGi Kim, YoungBeom Kim, DongHyun Shin, Seog Chung Seo;;;2026/2578;;;last_month;;;none;;;2026-10-21;;;lattice
-RDK-CKKS: A Framework for Rigorous Error Analysis for CKKS Computation;;;Taeyeong Noh, Aimad Chabounia, Guillaume Hanrot, Alain Passelègue;;;2026/2575;;;last_month;;;none;;;2026-10-21;;;lattice
+RDK-CKKS: A Framework for Rigorous Error Analysis of CKKS Computation;;;Taeyeong Noh, Aimad Chabounia, Guillaume Hanrot, Alain Passelègue;;;2026/2575;;;last_month;;;none;;;2026-10-21;;;lattice
 Broadcast and Trace from Lattices: Collusion-Resistant and Publicly Traceable;;;Jeffrey Champion;;;2026/2574;;;last_month;;;none;;;2026-10-21;;;lattice
 Efficient NTRU+ Implementations on Cortex-M;;;Subeen Cho, Minjoo Sim, Seungwon Lee, Anupam Chattopadhyay, Wai Kong Lee, Hwajeong Seo;;;2026/2568;;;last_month;;;none;;;2026-10-20;;;lattice
 A Systematic Evaluation of Fault Attacks and Countermeasures on ML-DSA Rejection Sampling;;;Yulong Meng;;;2026/2567;;;last_month;;;none;;;2026-10-20;;;lattice
