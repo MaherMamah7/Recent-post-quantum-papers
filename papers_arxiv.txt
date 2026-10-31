@@ -9,9 +9,9 @@ Beyond LWE: Post-Quantum Assumptions under a Counterfactual Break of the Dihedra
 Finite Fields: Root Sets, Frobenius, and Algebraic Structure;;;Hongfeng Wu, Li Zhu;;;2610.36727;;;last_week;;;none;;;2026-10-27;;;code
 Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2610.34404;;;last_week;;;none;;;2026-10-25;;;code
 Pacifo: An Efficient Fully Homomorphic Encryption-based Lightweight ResNet for Trustworthy Machine Learning as a Service;;;Yang Li, Gang He, Ruichen Zhang, Guangyuan Liu, Yinqiu Liu;;;2610.33525;;;last_week;;;https://github.com/BryceYangLi/Pacifo;;;2026-10-24;;;lattice
-Holo-NN: Holographic Nearest Neighbor Search via Compressive Sensing;;;Bryant Gipson;;;2610.33224;;;last_week;;;none;;;2026-10-23;;;lattice
-Embedding Large PQC KEMs in IKEv2;;;Daniel Herzinger, Marco Thomas, Tobias Handirk, Stefan-Lukas Gazdag, Daniel Loebenberger, Marian Margraf;;;2610.32356;;;last_week;;;none;;;2026-10-23;;;code,lattice
-SPA: Structure-Preserving Approximation of Gated Activations under FHE;;;Rui Li, Wenyuan Wu, Weijie Miao;;;2610.32065;;;last_week;;;none;;;2026-10-23;;;lattice
+Holo-NN: Holographic Nearest Neighbor Search via Compressive Sensing;;;Bryant Gipson;;;2610.33224;;;last_month;;;none;;;2026-10-23;;;lattice
+Embedding Large PQC KEMs in IKEv2;;;Daniel Herzinger, Marco Thomas, Tobias Handirk, Stefan-Lukas Gazdag, Daniel Loebenberger, Marian Margraf;;;2610.32356;;;last_month;;;none;;;2026-10-23;;;code,lattice
+SPA: Structure-Preserving Approximation of Gated Activations under FHE;;;Rui Li, Wenyuan Wu, Weijie Miao;;;2610.32065;;;last_month;;;none;;;2026-10-23;;;lattice
 The permutation and automorphism groups of univariate multiplicity codes;;;Eduardo Camps Moreno, Hiram H. López, Umberto Martínez-Peñas, Rodrigo San-José;;;2610.31858;;;last_month;;;none;;;2026-10-22;;;code
 The Entire Quantum Computer on a Classical Leash;;;Yael Tauman Kalai, Dakshita Khurana, Justin Raizes;;;2610.31775;;;last_month;;;none;;;2026-10-22;;;lattice
 Structural cryptanalysis of classic McEliece: Assessment of claims, costs and evidence;;;Ramses Fernandez;;;2610.31196;;;last_month;;;none;;;2026-10-22;;;code
@@ -43,8 +43,8 @@ Fully Homomorphic Encryption for Statistical Modeling;;;Balasubramanian Narasimh
 Constant-Rate Certified Deletion;;;Kai-Min Chung, Tzu-Hsiang Huang, Wei-Hsiang Hung, Shota Yamada;;;2610.03590;;;last_month;;;none;;;2026-10-02;;;lattice
 Code distances of matrix rank-metric codes under Add-and-Remove transformations;;;Gianira N. Alfarano, Rakhi Pratihar, Adrien Vinçotte;;;2610.03460;;;last_month;;;none;;;2026-10-02;;;code
 Homomorphic Advantage Operator: Stabilizing Reinforcement Learning Under Fully Homomorphic Encryption Constraints;;;Abid Mohamed Nadhir, Ahmad Al Hanbali, Beggas Mounir;;;2610.02074;;;last_month;;;none;;;2026-10-01;;;lattice
-Exponential quantum speedup for $\mathbb{F}_3^n$-Subset-Sum? Or, rigorous classical algorithms for Binary-Error LWE;;;Robin Kothari, Tony Metger, Ryan O'Donnell, Noah Shutty, Kewen Wu;;;2609.40321;;;last_month;;;none;;;2026-09-30;;;lattice
-Semi-Quantum Cryptography with Certified Deletion;;;Yael Tauman Kalai, Justin Raizes;;;2609.38915;;;last_month;;;none;;;2026-09-30;;;lattice
+Exponential quantum speedup for $\mathbb{F}_3^n$-Subset-Sum? Or, rigorous classical algorithms for Binary-Error LWE;;;Robin Kothari, Tony Metger, Ryan O'Donnell, Noah Shutty, Kewen Wu;;;2609.40321;;;last_year;;;none;;;2026-09-30;;;lattice
+Semi-Quantum Cryptography with Certified Deletion;;;Yael Tauman Kalai, Justin Raizes;;;2609.38915;;;last_year;;;none;;;2026-09-30;;;lattice
 Z-Sigil: A Public-Key Cryptosystem with Chained Selection over a Fiber Bundle of Module-Lattice Keys;;;Andrea Rondelli;;;2609.38668;;;last_year;;;none;;;2026-09-29;;;lattice
 Classical Verification of Quantum Computation with Quasilinear Resources, from Compiled Nonlocal Games;;;Finn Holler, Anand Natarajan;;;2609.38060;;;last_year;;;none;;;2026-09-29;;;lattice
 Near-uniform $q$-matroids;;;Giovanni Longobardi, Rocco Trombetti, Lei Xu;;;2609.37830;;;last_year;;;none;;;2026-09-29;;;code
@@ -317,4 +317,3 @@ Regular fat linear sets;;;Valentino Smaldore, Corrado Zanella, Ferdinando Zullo;
 Enhancing NTRUEncrypt Security Using Markov Chain Monte Carlo Methods: Theory and Practice;;;Gautier-Edouard Filardo, Thibaut Heckmann;;;2511.02365;;;last_year;;;none;;;2025-11-04;;;lattice
 Fine-grained deterministic hardness of the shortest vector problem;;;Markus Hittmeir;;;2511.01626;;;last_year;;;none;;;2025-11-03;;;lattice
 Multilevel constructions of constant dimension codes based on one-factorization of complete graphs;;;Dengming Xu, Mengmeng LI;;;2510.27071;;;last_year;;;none;;;2025-10-31;;;code
-LLM-based Multi-class Attack Analysis and Mitigation Framework in IoT/IIoT Networks;;;Seif Ikbarieh, Maanak Gupta, Elmahedi Mahalal;;;2510.26941;;;last_year;;;none;;;2025-10-30;;;lattice

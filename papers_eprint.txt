@@ -13,11 +13,11 @@ On the Subtleties of Non-Malleability in IVC: Notions, Attacks and Constructions
 Exact Error Bootstrapping and Comb Bootstrapping in FHEW/TFHE;;;Philippe Chartier, Mohammed Lemou;;;2026/2630;;;last_week;;;none;;;2026-10-24;;;lattice
 VeilDNS: Post-Quantum DNS Privacy from the First UDP Packet;;;Aditya Singh Rawat, Mahabir Prasad Jhanwar, Rei Safavi-Naini;;;2026/2629;;;last_week;;;none;;;2026-10-24;;;lattice
 Faster Matrix Multiplication Leads to Faster Lattice Sieving;;;Yiming Gao, Honggang Hu;;;2026/2622;;;last_week;;;none;;;2026-10-24;;;lattice
-Efficient (Functional) Bootstrapping for CKKS over the Conjugate-Invariant Ring;;;Jiaming Liu, Shihe Ma, Anyu Wang, Xiaoyun Wang;;;2026/2618;;;last_week;;;none;;;2026-10-23;;;lattice
-Descent-PBS: Programmable Bootstrapping beyond the Ring Dimension;;;Zhenyu Xiong, Mingsheng Wang, Han Wang, Zhedong Wang;;;2026/2616;;;last_week;;;none;;;2026-10-23;;;lattice
-Faster and Smaller Anonymous Credentials from Standardized Signatures;;;Chad Sharp, Paul Grubbs;;;2026/2615;;;last_week;;;none;;;2026-10-23;;;lattice
-Learning with Quantization and Worst Case Lattice Problems;;;Ziwei Hong, Zhongqiu Fang;;;2026/2613;;;last_week;;;none;;;2026-10-23;;;lattice
-A Crypto-Agile Mixed-Radix NTT Accelerator for Negacyclic and Trinomial Rings;;;JaeSeok Lee, DongHyun Shin, YoungBeom Kim, Seog Chung Seo;;;2026/2610;;;last_week;;;none;;;2026-10-23;;;lattice
+Efficient (Functional) Bootstrapping for CKKS over the Conjugate-Invariant Ring;;;Jiaming Liu, Shihe Ma, Anyu Wang, Xiaoyun Wang;;;2026/2618;;;last_month;;;none;;;2026-10-23;;;lattice
+Descent-PBS: Programmable Bootstrapping beyond the Ring Dimension;;;Zhenyu Xiong, Mingsheng Wang, Han Wang, Zhedong Wang;;;2026/2616;;;last_month;;;none;;;2026-10-23;;;lattice
+Faster and Smaller Anonymous Credentials from Standardized Signatures;;;Chad Sharp, Paul Grubbs;;;2026/2615;;;last_month;;;none;;;2026-10-23;;;lattice
+Learning with Quantization and Worst Case Lattice Problems;;;Ziwei Hong, Zhongqiu Fang;;;2026/2613;;;last_month;;;none;;;2026-10-23;;;lattice
+A Crypto-Agile Mixed-Radix NTT Accelerator for Negacyclic and Trinomial Rings;;;JaeSeok Lee, DongHyun Shin, YoungBeom Kim, Seog Chung Seo;;;2026/2610;;;last_month;;;none;;;2026-10-23;;;lattice
 On the $s$-projected Goppa Codes and their Application to the Interactive Oracle Proofs of Proximity;;;Abhraneel Dutta, Veronika Kuchta, Edoardo Persichetti;;;2026/2606;;;last_month;;;none;;;2026-10-22;;;code
 Mímir: A Stateless Private Search Engine;;;Gökberk Erdoğan, Emma Munisamy, Kamil Kluczniak;;;2026/2605;;;last_month;;;none;;;2026-10-22;;;lattice
 Balsamic: One-round Threshold UOV from GPU-Accelerated FHE;;;Jaehyung Kim, Charles Gouert, Jean-Luc Watson, G. Edward Suh;;;2026/2604;;;last_month;;;none;;;2026-10-22;;;lattice
@@ -125,10 +125,10 @@ Jambon: Asynchronous Universally Composable Threshold FHE with Low Communication
 A Subexponential Algorithm for Binary LWE with Sublinear Samples;;;Zhili Chen, Kaijie Jiang, Anyu Wang, Chuanqi Zhang;;;2026/2289;;;last_month;;;none;;;2026-10-01;;;lattice
 Kettle: Short Post-Quantum Threshold Signatures from the HAWK Signature Scheme;;;Calvin Abou Haidar, Daniel Escudero, Thomas Espitau, Clément Hoffmann, Kaoru Takemure, Mehdi Tibouchi, Hernán Darío Vanegas Madrigal;;;2026/2288;;;last_month;;;none;;;2026-10-01;;;lattice
 Knuth–Yao masked (Gaussian) sampling;;;Calvin Abou Haidar, Clément Hoffmann;;;2026/2287;;;last_month;;;none;;;2026-10-01;;;lattice
-Poisoned Cryptography: Solving Direct-Sum LIP in Half the Dimension;;;Artyom Kuninets, Aleksandr Bakharev;;;2026/2281;;;last_month;;;none;;;2026-09-30;;;lattice
-A Cryptographic Perspective on Fingerprinting Machine Learning Model Weights;;;Huijia Lin, Kameron Shahabi;;;2026/2279;;;last_month;;;none;;;2026-09-30;;;lattice
-Masked CROSS: Masking the CROSS Digital Signature Scheme at Arbitrary Order;;;Khan Keren Mengwi, Puja Mondal, Achille Ecladore Tchahou Tchendjeu, Emmanuel Fouotsa, Suparna Kundu;;;2026/2278;;;last_month;;;none;;;2026-09-30;;;code,lattice
-Exact SVP on Haar-Random Lattices at the Heuristic Sieving Exponents;;;Yang Zhou, Zhedong Wang, Mingsheng Wang;;;2026/2271;;;last_month;;;none;;;2026-09-30;;;lattice
+Poisoned Cryptography: Solving Direct-Sum LIP in Half the Dimension;;;Artyom Kuninets, Aleksandr Bakharev;;;2026/2281;;;last_year;;;none;;;2026-09-30;;;lattice
+A Cryptographic Perspective on Fingerprinting Machine Learning Model Weights;;;Huijia Lin, Kameron Shahabi;;;2026/2279;;;last_year;;;none;;;2026-09-30;;;lattice
+Masked CROSS: Masking the CROSS Digital Signature Scheme at Arbitrary Order;;;Khan Keren Mengwi, Puja Mondal, Achille Ecladore Tchahou Tchendjeu, Emmanuel Fouotsa, Suparna Kundu;;;2026/2278;;;last_year;;;none;;;2026-09-30;;;code,lattice
+Exact SVP on Haar-Random Lattices at the Heuristic Sieving Exponents;;;Yang Zhou, Zhedong Wang, Mingsheng Wang;;;2026/2271;;;last_year;;;none;;;2026-09-30;;;lattice
 Kopis: A KEM for Obfuscation;;;Andrea Basso, Michael Rosenberg;;;2026/2268;;;last_year;;;none;;;2026-09-29;;;lattice
 Chinese NGCC Algorithms: The First Week of AI Cryptanalysis;;;Markku-Juhani O. Saarinen;;;2026/2266;;;last_year;;;none;;;2026-09-29;;;lattice
 THEMIS: A Co-Designed System for Encrypted Transformer Inference;;;Shihao Li, Wenhao Wang, Lu Li, Xiaomei Tang, Jian Liu, Rongmao Chen, Cheng Hong, Guangfu Sun;;;2026/2264;;;last_year;;;none;;;2026-09-29;;;lattice
@@ -800,4 +800,3 @@ Forging Dilithium and Falcon Signatures by Single Fault Injection;;;Sven Bauer, 
 Improving ML-KEM and ML-DSA on OpenTitan - Efficient Multiplication Vector Instructions for OTBN;;;Ruben Niederhagen, Hoang Nguyen Hien Pham;;;2025/2028;;;last_year;;;none;;;2025-10-31;;;lattice
 Accurate BGV Parameters Selection: Accounting for Secret and Public Key Dependencies in Average-Case Analysis;;;Beatrice Biasioli, Chiara Marcolla, Nadir Murru, Matilda Urani;;;2025/2027;;;last_year;;;none;;;2025-10-31;;;lattice
 Migration to Post-Quantum Cryptography: From ECDSA to ML-DSA;;;Daniel Dinu;;;2025/2025;;;last_year;;;none;;;2025-10-31;;;lattice
-Select-Then-Compute: Encrypted Label Selection and Analytics over Distributed Datasets using FHE;;;Nirajan Koirala, Seunghun Paik, Sam Martin, Helena Berens, Tasha Januszewicz, Jonathan Takeshita, Jae Hong Seo, Taeho Jung;;;2025/2023;;;last_year;;;none;;;2025-10-30;;;lattice
