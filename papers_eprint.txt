@@ -64,7 +64,7 @@ Sparse Secrets, Dense Problems: Efficiently Masking HQC in Hardware;;;Fabian Bus
 safeRNSgcd: Accelerating Falcon key generation with RNS in SafeGCD;;;Cesare Huang, Bo-Yin Yang;;;2026/2507;;;last_month;;;none;;;2026-10-16;;;lattice
 Shorter Hash-Based Signatures via Guarded Sharing in a DAG Model;;;Chongxu Ren, Hongbo Yu;;;2026/2502;;;last_month;;;none;;;2026-10-16;;;lattice
 Aerie: Efficient Aggregation of Falcon Signatures;;;Alberto Centelles, Quang Dao, Mohammadtaghi Badakhshan, Justin Thaler;;;2026/2501;;;last_month;;;none;;;2026-10-15;;;lattice
-Threshold Post-Quantum E-Voting from Lattice Commitments;;;Jalal Alizadeh;;;2026/2500;;;last_month;;;none;;;2026-10-15;;;lattice
+Threshold Post-Quantum E-Voting from Lattice Commitments;;;Jalal Alizadeh, Yadigar Imamverdiyev, Ali Huseynli;;;2026/2500;;;last_month;;;none;;;2026-10-15;;;lattice
 Exploring Fault Injection Attacks on HQC and BIKE Beyond Fujisaki-Okamoto Verification;;;Thales B. Paiva, Lucas C. Cardoso, Keerthi Kamalakshan, Hariprasad Valsaraj Kelassery, Marcos A. Simplicio Jr., Shivam Bhasin;;;2026/2492;;;last_month;;;none;;;2026-10-15;;;code
 Reaction Attack on CKKS Deployments with Asymptotically Optimal Query Complexity;;;Song Bian, Hyeongmin Choe, Jiseung Kim, Changmin Lee;;;2026/2490;;;last_month;;;none;;;2026-10-15;;;lattice
 Tulva: Practical Asynchronous Threshold FHE;;;Valerio Cini, Antonio Guimarães, Russell W. F. Lai, Michał Osadnik, Ivy K. Y. Woo;;;2026/2485;;;last_month;;;none;;;2026-10-14;;;lattice
