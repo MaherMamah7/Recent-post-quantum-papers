@@ -7,9 +7,9 @@ Falcon Key Recovery from Joint Sampler Leakages;;;Youngchang Kim, Yongseong Park
 When Algebraic Structure Meets Too Many Hints;;;Dongshu Cai, Yijian Liu, Xianhui Lu;;;2026/2654;;;last_week;;;none;;;2026-10-27;;;lattice
 Non-profiled Single-Trace ML-DSA Secret Key Recovery by Horizontal Distribution Analysis;;;Linus Backlund, Elena Dubrova;;;2026/2643;;;last_week;;;none;;;2026-10-26;;;lattice
 Subexponential Algorithms for LWE via Rejection Sampling on Superlattices;;;Ligeng Fan, Changpeng Shao, Hongbo Li, Dingkang Wang;;;2026/2640;;;last_week;;;none;;;2026-10-26;;;lattice
-Decision Attacks on Known-Covariance Ring-LWE via Public Gram Determinants;;;Anis Bkakria;;;2026/2638;;;last_week;;;none;;;2026-10-25;;;lattice
-Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2026/2637;;;last_week;;;none;;;2026-10-25;;;code
-Nearly Optimal Hardness for CVP and NCP with Preprocessing;;;Giacomo Fenzi, Guy Weissenberg;;;2026/2634;;;last_week;;;none;;;2026-10-25;;;lattice
+Decision Attacks on Known-Covariance Ring-LWE via Public Gram Determinants;;;Anis Bkakria;;;2026/2638;;;last_month;;;none;;;2026-10-25;;;lattice
+Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2026/2637;;;last_month;;;none;;;2026-10-25;;;code
+Nearly Optimal Hardness for CVP and NCP with Preprocessing;;;Giacomo Fenzi, Guy Weissenberg;;;2026/2634;;;last_month;;;none;;;2026-10-25;;;lattice
 On the Inapplicability of Residue-Confined Error Attacks to CRT-FHE with Non-Degenerate Error Distributions;;;Anil Kumar Pradhan;;;2026/2633;;;last_month;;;none;;;2026-10-24;;;lattice
 On the Subtleties of Non-Malleability in IVC: Notions, Attacks and Constructions from Falsifiable Assumptions;;;Matteo Campanelli, Suvradip Chakraborty, Chaya Ganesh;;;2026/2631;;;last_month;;;none;;;2026-10-24;;;lattice
 Exact Error Bootstrapping and Comb Bootstrapping in FHEW/TFHE;;;Philippe Chartier, Mohammed Lemou;;;2026/2630;;;last_month;;;none;;;2026-10-24;;;lattice
@@ -117,10 +117,10 @@ What Makes Lattice Key Generation Expensive? Controlled Cost Attribution with St
 Automorphism-Compatible NTT and its Application to Homomorphic Encryption;;;Charanjit S. Jutla, Nathan Manohar, Guy Moshkowich;;;2026/2328;;;last_month;;;none;;;2026-10-04;;;lattice
 On the hull attacks against Construction A lattices;;;Jean-François Biasse, Alexandra V. Hostetler, Anuvrat Jaindungarwal;;;2026/2325;;;last_month;;;none;;;2026-10-03;;;lattice
 ATLAS: A Compact Module-LWR Signature Scheme;;;Karthick Srivatsan, Debranjan Pal, Anindya Ganguly, Suparna Kundu, Abhinava De, Puja Mondal, Harry Hart, Quinten Norga, Prajna Mahadev, Supriya Adhikary, Debayan Das, Chaoyun Li, Angshuman Karmakar;;;2026/2323;;;last_month;;;none;;;2026-10-03;;;lattice
-When Masking Preimage Computation Isn’t Enough: A Power Analysis Attack on Masked Implementations of Falcon;;;Keng-Yu Chen;;;2026/2313;;;last_month;;;none;;;2026-10-02;;;lattice
-Low-Noise Multi-Value Bootstrapping via Log-Unit Lattice Search and LUT Shifting;;;Olivier Bernard, Nolan Carouge, Marc Joye, Jean-Baptiste Orfila, Samuel Tap;;;2026/2310;;;last_month;;;none;;;2026-10-02;;;lattice
-Functional Verification of Additive FFT Assembly Implementations in Code-Based PQC;;;Jiaxiang Liu, Kuang-Lin Pan, Xiaomu Shi, Ming-Hsien Tsai, Bow-Yaw Wang, Bo-Yin Yang;;;2026/2307;;;last_month;;;none;;;2026-10-02;;;code
-Revisiting Partitioning: Output-Adaptive ABE for Circuits from LWE;;;Jiaqi Cheng, Rishab Goyal;;;2026/2305;;;last_month;;;none;;;2026-10-02;;;lattice
+When Masking Preimage Computation Isn’t Enough: A Power Analysis Attack on Masked Implementations of Falcon;;;Keng-Yu Chen;;;2026/2313;;;last_year;;;none;;;2026-10-02;;;lattice
+Low-Noise Multi-Value Bootstrapping via Log-Unit Lattice Search and LUT Shifting;;;Olivier Bernard, Nolan Carouge, Marc Joye, Jean-Baptiste Orfila, Samuel Tap;;;2026/2310;;;last_year;;;none;;;2026-10-02;;;lattice
+Functional Verification of Additive FFT Assembly Implementations in Code-Based PQC;;;Jiaxiang Liu, Kuang-Lin Pan, Xiaomu Shi, Ming-Hsien Tsai, Bow-Yaw Wang, Bo-Yin Yang;;;2026/2307;;;last_year;;;none;;;2026-10-02;;;code
+Revisiting Partitioning: Output-Adaptive ABE for Circuits from LWE;;;Jiaqi Cheng, Rishab Goyal;;;2026/2305;;;last_year;;;none;;;2026-10-02;;;lattice
 CAROUSEL: GPU-Accelerated Private Vector Search via Homomorphic Sketching;;;Sohaib, Divyakant Agrawal, Amr El Abbadi, Soamar Homsi;;;2026/2302;;;last_year;;;none;;;2026-10-01;;;lattice
 Pseudorandom Correlation Generators for Matrix Triples;;;Maxime Bombar, Geoffroy Couteau, Nikolas Melissaris, Anuja Modi;;;2026/2298;;;last_year;;;none;;;2026-10-01;;;code,lattice
 Jambon: Asynchronous Universally Composable Threshold FHE with Low Communication;;;Jung Hee Cheon, Kevin Choi, Changmin Lee, JeongHwan Lee, Junho Lim, Duc Anh Luong;;;2026/2290;;;last_year;;;none;;;2026-10-01;;;lattice
@@ -798,4 +798,3 @@ Distributed Key Generation for Efficient Threshold-CKKS;;;Seonhong Min, Guillaum
 Handling Noisy Plaintext Checking Oracles with SPiRiT;;;Paco Poilbout, Thomas Roche, Laurent Imbert;;;2025/2045;;;last_year;;;none;;;2025-11-05;;;lattice
 Key-Recovery Side-Channel Attack on the Berlekamp-Massey Decoding Algorithm in the Classic McEliece KEM;;;Andrei Alexei, Marios Omar Choudary, Vlad-Florin Dragoi;;;2025/2043;;;last_year;;;none;;;2025-11-05;;;code
 On new variants of funcCPA security and related CCA-secure constructions;;;Caroline Fontaine, Marc Renard, Renaud Sirdey, Oana Stan;;;2025/2036;;;last_year;;;none;;;2025-11-03;;;lattice
-Forging Dilithium and Falcon Signatures by Single Fault Injection;;;Sven Bauer, Fabrizio De Santis;;;2025/2029;;;last_year;;;none;;;2025-11-01;;;lattice

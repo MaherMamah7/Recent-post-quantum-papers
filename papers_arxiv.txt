@@ -7,7 +7,7 @@ GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzo
 HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2610.36808;;;last_week;;;none;;;2026-10-27;;;code
 Beyond LWE: Post-Quantum Assumptions under a Counterfactual Break of the Dihedral Coset Problem;;;Ramses Fernandez;;;2610.36731;;;last_week;;;none;;;2026-10-27;;;code,lattice
 Finite Fields: Root Sets, Frobenius, and Algebraic Structure;;;Hongfeng Wu, Li Zhu;;;2610.36727;;;last_week;;;none;;;2026-10-27;;;code
-Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2610.34404;;;last_week;;;none;;;2026-10-25;;;code
+Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2610.34404;;;last_month;;;none;;;2026-10-25;;;code
 Pacifo: An Efficient Fully Homomorphic Encryption-based Lightweight ResNet for Trustworthy Machine Learning as a Service;;;Yang Li, Gang He, Ruichen Zhang, Guangyuan Liu, Yinqiu Liu;;;2610.33525;;;last_month;;;https://github.com/BryceYangLi/Pacifo;;;2026-10-24;;;lattice
 Holo-NN: Holographic Nearest Neighbor Search via Compressive Sensing;;;Bryant Gipson;;;2610.33224;;;last_month;;;none;;;2026-10-23;;;lattice
 Embedding Large PQC KEMs in IKEv2;;;Daniel Herzinger, Marco Thomas, Tobias Handirk, Stefan-Lukas Gazdag, Daniel Loebenberger, Marian Margraf;;;2610.32356;;;last_month;;;none;;;2026-10-23;;;code,lattice
@@ -40,8 +40,8 @@ Discovering New Problems for Decoded Quantum Interferometry;;;Rhik Mazumder, Pra
 Efficient HQC Implementations on RISC-V: A Cross-Layer Design Space Exploration;;;Maximilian Schöffel, Johannes Feldmann, Elias Biehl, Norbert Wehn;;;2610.06058;;;last_month;;;none;;;2026-10-05;;;code
 Joint GKP Encoding for GHZ States Transmission over Bosonic Quantum MIMO Channels;;;Seid Koudia, Selssabil Kadid, Symeon Chatzinotas, Mérouane Debbah;;;2610.05992;;;last_month;;;none;;;2026-10-05;;;code
 Fully Homomorphic Encryption for Statistical Modeling;;;Balasubramanian Narasimhan;;;2610.04163;;;last_month;;;none;;;2026-10-03;;;lattice
-Constant-Rate Certified Deletion;;;Kai-Min Chung, Tzu-Hsiang Huang, Wei-Hsiang Hung, Shota Yamada;;;2610.03590;;;last_month;;;none;;;2026-10-02;;;lattice
-Code distances of matrix rank-metric codes under Add-and-Remove transformations;;;Gianira N. Alfarano, Rakhi Pratihar, Adrien Vinçotte;;;2610.03460;;;last_month;;;none;;;2026-10-02;;;code
+Constant-Rate Certified Deletion;;;Kai-Min Chung, Tzu-Hsiang Huang, Wei-Hsiang Hung, Shota Yamada;;;2610.03590;;;last_year;;;none;;;2026-10-02;;;lattice
+Code distances of matrix rank-metric codes under Add-and-Remove transformations;;;Gianira N. Alfarano, Rakhi Pratihar, Adrien Vinçotte;;;2610.03460;;;last_year;;;none;;;2026-10-02;;;code
 Homomorphic Advantage Operator: Stabilizing Reinforcement Learning Under Fully Homomorphic Encryption Constraints;;;Abid Mohamed Nadhir, Ahmad Al Hanbali, Beggas Mounir;;;2610.02074;;;last_year;;;none;;;2026-10-01;;;lattice
 Exponential quantum speedup for $\mathbb{F}_3^n$-Subset-Sum? Or, rigorous classical algorithms for Binary-Error LWE;;;Robin Kothari, Tony Metger, Ryan O'Donnell, Noah Shutty, Kewen Wu;;;2609.40321;;;last_year;;;none;;;2026-09-30;;;lattice
 Semi-Quantum Cryptography with Certified Deletion;;;Yael Tauman Kalai, Justin Raizes;;;2609.38915;;;last_year;;;none;;;2026-09-30;;;lattice
