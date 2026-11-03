@@ -10,7 +10,7 @@ Subexponential Algorithms for LWE via Rejection Sampling on Superlattices;;;Lige
 Decision Attacks on Known-Covariance Ring-LWE via Public Gram Determinants;;;Anis Bkakria;;;2026/2638;;;last_month;;;none;;;2026-10-25;;;lattice
 Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2026/2637;;;last_month;;;none;;;2026-10-25;;;code
 Nearly Optimal Hardness for CVP and NCP with Preprocessing;;;Giacomo Fenzi, Guy Weissenberg;;;2026/2634;;;last_month;;;none;;;2026-10-25;;;lattice
-On the Inapplicability of Residue-Confined Error Attacks to CRT-FHE with Non-Degenerate Error Distributions;;;Anil Kumar Pradhan;;;2026/2633;;;last_month;;;none;;;2026-10-24;;;lattice
+On the Inapplicability of Residue-Confined Error Attacks to CRT-FHE with Non-Degenerate Error Distributions;;;Anil Kumar Pradhan, Abhraneel Dutta;;;2026/2633;;;last_month;;;none;;;2026-10-24;;;lattice
 On the Subtleties of Non-Malleability in IVC: Notions, Attacks and Constructions from Falsifiable Assumptions;;;Matteo Campanelli, Suvradip Chakraborty, Chaya Ganesh;;;2026/2631;;;last_month;;;none;;;2026-10-24;;;lattice
 Exact Error Bootstrapping and Comb Bootstrapping in FHEW/TFHE;;;Philippe Chartier, Mohammed Lemou;;;2026/2630;;;last_month;;;none;;;2026-10-24;;;lattice
 VeilDNS: Post-Quantum DNS Privacy from the First UDP Packet;;;Aditya Singh Rawat, Mahabir Prasad Jhanwar, Rei Safavi-Naini;;;2026/2629;;;last_month;;;none;;;2026-10-24;;;lattice
@@ -65,7 +65,7 @@ safeRNSgcd: Accelerating Falcon key generation with RNS in SafeGCD;;;Cesare Huan
 Shorter Hash-Based Signatures via Guarded Sharing in a DAG Model;;;Chongxu Ren, Hongbo Yu;;;2026/2502;;;last_month;;;none;;;2026-10-16;;;lattice
 Aerie: Efficient Aggregation of Falcon Signatures;;;Alberto Centelles, Quang Dao, Mohammadtaghi Badakhshan, Justin Thaler;;;2026/2501;;;last_month;;;none;;;2026-10-15;;;lattice
 Threshold Post-Quantum E-Voting from Lattice Commitments;;;Jalal Alizadeh, Yadigar Imamverdiyev, Ali Huseynli;;;2026/2500;;;last_month;;;none;;;2026-10-15;;;lattice
-Exploring Fault Injection Attacks on HQC and BIKE Beyond Fujisaki-Okamoto Verification;;;Thales B. Paiva, Lucas C. Cardoso, Keerthi Kamalakshan, Hariprasad Valsaraj Kelassery, Marcos A. Simplicio Jr., Shivam Bhasin;;;2026/2492;;;last_month;;;none;;;2026-10-15;;;code
+Exploring Fault Injection Attacks on HQC and BIKE Beyond Fujisaki-Okamoto Verification;;;Thales B. Paiva, Lucas C. Cardoso, Keerthi Kamalakshan, Hariprasad Kelassery Valsaraj, Marcos A. Simplicio Jr., Shivam Bhasin;;;2026/2492;;;last_month;;;none;;;2026-10-15;;;code
 Reaction Attack on CKKS Deployments with Asymptotically Optimal Query Complexity;;;Song Bian, Hyeongmin Choe, Jiseung Kim, Changmin Lee;;;2026/2490;;;last_month;;;none;;;2026-10-15;;;lattice
 Tulva: Practical Asynchronous Threshold FHE;;;Valerio Cini, Antonio Guimarães, Russell W. F. Lai, Michał Osadnik, Ivy K. Y. Woo;;;2026/2485;;;last_month;;;none;;;2026-10-14;;;lattice
 Post-Quantum Certificate-Based PSK Provisioning for WireGuard via Mutual TLS, DTLS, and QUIC: Design and Performance Study;;;Che Hang Ng, Emil Künstner, Bastian Küppers, Theodor Schnitzler, Misha Glazunov;;;2026/2480;;;last_month;;;none;;;2026-10-14;;;lattice

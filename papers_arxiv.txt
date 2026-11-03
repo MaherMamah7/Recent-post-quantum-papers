@@ -1,3 +1,5 @@
+End-to-End NTT on FPGA for FHE Acceleration;;;Mohamed Allam, Thomas Spendlhofer, Hugo Sanz-González, Antonio J. Peña;;;2611.03325;;;last_week;;;none;;;2026-11-02;;;lattice
+Side-Channel Attack Prevention for Post Quantum Cryptography Algorithms: A 3D-Shield Approach;;;Carl Benda, Eren Kurshan, Aydin Aysu, Paul Franzon;;;2611.01144;;;last_week;;;none;;;2026-10-31;;;lattice
 Syndrome Trellis Decryption in Post-Quantum Cryptography;;;Meir Ariel;;;2610.39873;;;last_week;;;none;;;2026-10-29;;;code
 The use of post-quantum cryptography in the automotive context;;;Mariana do Carmo Barata Gonçalves, Valderi Reis Quietinho Leithardt;;;2610.38632;;;last_week;;;none;;;2026-10-28;;;lattice
 Recurrent Bipartite Graph Neural Networks for QC-MDPC Error Decoding in McEliece Cryptosystems;;;Parth Rajeshkumar Tandel, Elisabeth Fink;;;2610.38479;;;last_week;;;none;;;2026-10-28;;;code
@@ -134,7 +136,7 @@ High-Performance NTT Accelerators for PQC leveraging Unified Redundant Arithmeti
 Digital signature schemes based on code equivalence and syndrome decoding from restricted errors;;;Sarah Arpin, Jason T. LeGrow, Hiram H. López, Gretchen L. Matthews;;;2606.31601;;;last_year;;;none;;;2026-06-30;;;code
 Deterministic and Efficient Ideal Arithmetic via Two-Element Representations;;;Qi Cheng;;;2606.26993;;;last_year;;;none;;;2026-06-25;;;lattice
 MergeLLL: A Hierarchical Divide-and-Conquer Framework for LLL-Based Lattice Reduction;;;Niharika Gauraha;;;2606.26784;;;last_year;;;none;;;2026-06-25;;;lattice
-General Techniques for Reducing Key-Switching Overhead in Privacy-Preserving Two-Party Transformer Inference;;;Wenshao Yang, Zhenhua Liu, Dongdong Yao;;;2606.25349;;;last_year;;;none;;;2026-06-24;;;lattice
+General Linear-Layer Algorithms for Privacy-Preserving Transformer Inference;;;Wenshao Yang, Zhenhua Liu, Dongdong Yao;;;2606.25349;;;last_year;;;none;;;2026-06-24;;;lattice
 Homomorphic Encryptions for Privacy Preserving Vision;;;Preey Shah, Rohan Virani, Sanjari Srivastava;;;2606.25216;;;last_year;;;none;;;2026-06-23;;;lattice
 ComputeFHE: A Privacy-Preserving General-Purpose Computation Library;;;Faris Serdar Tasel, Efe Ciftci;;;2606.24379;;;last_year;;;none;;;2026-06-23;;;lattice
 The Brocard Problem: Structural Invariants, p-Adic Density, and the Generative Sieve;;;Leandro Vieira Peixoto;;;2606.23485;;;last_year;;;none;;;2026-06-22;;;lattice
@@ -213,7 +215,7 @@ GPU Acceleration of Sparse Fully Homomorphic Encrypted DNNs;;;Lara D'Agata, Carl
 EncFormer: Secure and Efficient Transformer Inference over Encrypted Data;;;Yufan Zhu, Chao Jin, Khin Mi Mi Aung, Xiaokui Xiao;;;2604.09975;;;last_year;;;none;;;2026-04-11;;;lattice
 Variational Quantum Physics-Informed Neural Networks for Hydrological PDE-Constrained Learning with Inherent Uncertainty Quantification;;;Prasad Nimantha Madusanka Ukwatta Hewage, Midhun Chakkravarthy, Ruvan Kumara Abeysekara;;;2604.09374;;;last_year;;;https://github.com/nimanpra/HQC-PINN-Flood-Prediction;;;2026-04-10;;;code
 Cross-Paradigm Models of Restricted Syndrome Decoding with Application to CROSS;;;Étienne Burle, Aleksei Udovenko;;;2604.09292;;;last_year;;;none;;;2026-04-10;;;code,lattice
-Evaluating PQC KEMs, Combiners, and Cascade Encryption via Adaptive IND-CPA Testing Using Deep Learning;;;Simon Calderon, Niklas Johansson, Onur Günlü;;;2604.06942;;;last_year;;;none;;;2026-04-08;;;code,lattice
+Empirical Ciphertext Distinguishability Testing of KEMs and Hybrid Encryption via Deep Learning;;;Simon Calderon, Niklas Johansson, Onur Günlü;;;2604.06942;;;last_year;;;none;;;2026-04-08;;;code,lattice
 GPU Acceleration of TFHE-Based High-Precision Nonlinear Layers for Encrypted LLM Inference;;;Guoci Chen, Xiurui Pan, Qiao Li, Bo Mao, Congming Gao, Chengying Huan, Mingzhe Zhang, Jie Zhang;;;2604.04783;;;last_year;;;none;;;2026-04-06;;;lattice
 Improving ML Attacks on LWE with Data Repetition and Stepwise Regression;;;Alberto Alfarano, Eshika Saxena, Emily Wenger, François Charton, Kristin Lauter;;;2604.03903;;;last_year;;;none;;;2026-04-05;;;lattice
 AEGIS: Scaling Long-Sequence Homomorphic Encrypted Transformer Inference via Hybrid Parallelism on Multi-GPU Systems;;;Zhaoting Gong, Ran Ran, Fan Yao, Wujie Wen;;;2604.03425;;;last_year;;;none;;;2026-04-03;;;lattice
