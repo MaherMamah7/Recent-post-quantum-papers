@@ -5,8 +5,8 @@ Rerandomizable Garbling Beyond BHHO-KMHE and a Construction from LWE;;;Raphael H
 Unshuffling Fisher-Yates: Practical Recovery of Length-128 Permutations and Application to ML-DSA;;;Jonas Schupp, Anna Baumeister, Antonia Wachter-Zeh, Georg Sigl;;;2026/2658;;;last_week;;;none;;;2026-10-27;;;lattice
 Falcon Key Recovery from Joint Sampler Leakages;;;Youngchang Kim, Yongseong Park, Jaeho Jeon, Young-Sik Kim;;;2026/2656;;;last_week;;;none;;;2026-10-27;;;lattice
 When Algebraic Structure Meets Too Many Hints;;;Dongshu Cai, Yijian Liu, Xianhui Lu;;;2026/2654;;;last_week;;;none;;;2026-10-27;;;lattice
-Non-profiled Single-Trace ML-DSA Secret Key Recovery by Horizontal Distribution Analysis;;;Linus Backlund, Elena Dubrova;;;2026/2643;;;last_week;;;none;;;2026-10-26;;;lattice
-Subexponential Algorithms for LWE via Rejection Sampling on Superlattices;;;Ligeng Fan, Changpeng Shao, Hongbo Li, Dingkang Wang;;;2026/2640;;;last_week;;;none;;;2026-10-26;;;lattice
+Non-profiled Single-Trace ML-DSA Secret Key Recovery by Horizontal Distribution Analysis;;;Linus Backlund, Elena Dubrova;;;2026/2643;;;last_month;;;none;;;2026-10-26;;;lattice
+Subexponential Algorithms for LWE via Rejection Sampling on Superlattices;;;Ligeng Fan, Changpeng Shao, Hongbo Li, Dingkang Wang;;;2026/2640;;;last_month;;;none;;;2026-10-26;;;lattice
 Decision Attacks on Known-Covariance Ring-LWE via Public Gram Determinants;;;Anis Bkakria;;;2026/2638;;;last_month;;;none;;;2026-10-25;;;lattice
 Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2026/2637;;;last_month;;;none;;;2026-10-25;;;code
 Nearly Optimal Hardness for CVP and NCP with Preprocessing;;;Giacomo Fenzi, Guy Weissenberg;;;2026/2634;;;last_month;;;none;;;2026-10-25;;;lattice
@@ -115,8 +115,8 @@ Trapdoor Projective Sampling and Identity-Based Anonymous Broadcast;;;Gaspard Me
 Rotate Once, Read Many Times: on the Output Noise of Multi-Value Bootstrapping;;;Philippe Chartier, Michel Koskas, Mohammed Lemou;;;2026/2332;;;last_month;;;none;;;2026-10-04;;;lattice
 What Makes Lattice Key Generation Expensive? Controlled Cost Attribution with Structured LWR, ML-KEM, and HAETAE on Cortex-M4;;;Yan Zhang, Meizi Li, Liang Tan;;;2026/2329;;;last_month;;;none;;;2026-10-04;;;lattice
 Automorphism-Compatible NTT and its Application to Homomorphic Encryption;;;Charanjit S. Jutla, Nathan Manohar, Guy Moshkowich;;;2026/2328;;;last_month;;;none;;;2026-10-04;;;lattice
-On the hull attacks against Construction A lattices;;;Jean-François Biasse, Alexandra V. Hostetler, Anuvrat Jaindungarwal;;;2026/2325;;;last_month;;;none;;;2026-10-03;;;lattice
-ATLAS: A Compact Module-LWR Signature Scheme;;;Karthick Srivatsan, Debranjan Pal, Anindya Ganguly, Suparna Kundu, Abhinava De, Puja Mondal, Harry Hart, Quinten Norga, Prajna Mahadev, Supriya Adhikary, Debayan Das, Chaoyun Li, Angshuman Karmakar;;;2026/2323;;;last_month;;;none;;;2026-10-03;;;lattice
+On the hull attacks against Construction A lattices;;;Jean-François Biasse, Alexandra V. Hostetler, Anuvrat Jaindungarwal;;;2026/2325;;;last_year;;;none;;;2026-10-03;;;lattice
+ATLAS: A Compact Module-LWR Signature Scheme;;;Karthick Srivatsan, Debranjan Pal, Anindya Ganguly, Suparna Kundu, Abhinava De, Puja Mondal, Harry Hart, Quinten Norga, Prajna Mahadev, Supriya Adhikary, Debayan Das, Chaoyun Li, Angshuman Karmakar;;;2026/2323;;;last_year;;;none;;;2026-10-03;;;lattice
 When Masking Preimage Computation Isn’t Enough: A Power Analysis Attack on Masked Implementations of Falcon;;;Keng-Yu Chen;;;2026/2313;;;last_year;;;none;;;2026-10-02;;;lattice
 Low-Noise Multi-Value Bootstrapping via Log-Unit Lattice Search and LUT Shifting;;;Olivier Bernard, Nolan Carouge, Marc Joye, Jean-Baptiste Orfila, Samuel Tap;;;2026/2310;;;last_year;;;none;;;2026-10-02;;;lattice
 Functional Verification of Additive FFT Assembly Implementations in Code-Based PQC;;;Jiaxiang Liu, Kuang-Lin Pan, Xiaomu Shi, Ming-Hsien Tsai, Bow-Yaw Wang, Bo-Yin Yang;;;2026/2307;;;last_year;;;none;;;2026-10-02;;;code
