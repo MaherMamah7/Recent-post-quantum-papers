@@ -1,14 +1,18 @@
+Rank-metric intersecting codes;;;Martino Borello, Martin Scotti, Lune Vila;;;2611.05059;;;last_week;;;none;;;2026-11-03;;;code
+Perseus: A Full-Stack System for Homomorphic Model Inference;;;Alessandro Zirilli, Davide Marincione, Evgenios M. Kornaropoulos, Giuseppe Ateniese, Emanuele Rodolà;;;2611.04488;;;last_week;;;none;;;2026-11-03;;;lattice
+Gaussian Difference Dynamics: Breaking the $2^{n/2}$ Barrier for the Shortest Vector Problem and Discrete Gaussian Sampling;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2611.04336;;;last_week;;;none;;;2026-11-03;;;lattice
+On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2611.04052;;;last_week;;;none;;;2026-11-02;;;lattice
 End-to-End NTT on FPGA for FHE Acceleration;;;Mohamed Allam, Thomas Spendlhofer, Hugo Sanz-González, Antonio J. Peña;;;2611.03325;;;last_week;;;none;;;2026-11-02;;;lattice
 Side-Channel Attack Prevention for Post Quantum Cryptography Algorithms: A 3D-Shield Approach;;;Carl Benda, Eren Kurshan, Aydin Aysu, Paul Franzon;;;2611.01144;;;last_week;;;none;;;2026-10-31;;;lattice
 Syndrome Trellis Decryption in Post-Quantum Cryptography;;;Meir Ariel;;;2610.39873;;;last_week;;;none;;;2026-10-29;;;code
 The use of post-quantum cryptography in the automotive context;;;Mariana do Carmo Barata Gonçalves, Valderi Reis Quietinho Leithardt;;;2610.38632;;;last_week;;;none;;;2026-10-28;;;lattice
 Recurrent Bipartite Graph Neural Networks for QC-MDPC Error Decoding in McEliece Cryptosystems;;;Parth Rajeshkumar Tandel, Elisabeth Fink;;;2610.38479;;;last_week;;;none;;;2026-10-28;;;code
 Rosemary: Efficient and Adaptable In-Storage Acceleration for Fully Homomorphic Encryption;;;Xuan Wang, Tianqi Zhang, Gabrielle De Micheli, Yujin Nam, Keming Fan, Augusto Vega, Minxuan Zhou, Tajana Rosing;;;2610.38262;;;last_week;;;none;;;2026-10-28;;;lattice
-Understanding Post-Quantum Cryptography Adoption: Practices, Challenges, and Evolution in Open-Source Software;;;Souhardya Saha Dip, Moshood A. Fakorede, Krishna Upadhyay, Umar Farooq;;;2610.38054;;;last_week;;;none;;;2026-10-27;;;lattice
-GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzougui, Miloš Pavlović, Vladimir Shpilrain;;;2610.37061;;;last_week;;;none;;;2026-10-27;;;lattice
-HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2610.36808;;;last_week;;;none;;;2026-10-27;;;code
-Beyond LWE: Post-Quantum Assumptions under a Counterfactual Break of the Dihedral Coset Problem;;;Ramses Fernandez;;;2610.36731;;;last_week;;;none;;;2026-10-27;;;code,lattice
-Finite Fields: Root Sets, Frobenius, and Algebraic Structure;;;Hongfeng Wu, Li Zhu;;;2610.36727;;;last_week;;;none;;;2026-10-27;;;code
+Understanding Post-Quantum Cryptography Adoption: Practices, Challenges, and Evolution in Open-Source Software;;;Souhardya Saha Dip, Moshood A. Fakorede, Krishna Upadhyay, Umar Farooq;;;2610.38054;;;last_month;;;none;;;2026-10-27;;;lattice
+GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzougui, Miloš Pavlović, Vladimir Shpilrain;;;2610.37061;;;last_month;;;none;;;2026-10-27;;;lattice
+HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2610.36808;;;last_month;;;none;;;2026-10-27;;;code
+Beyond LWE: Post-Quantum Assumptions under a Counterfactual Break of the Dihedral Coset Problem;;;Ramses Fernandez;;;2610.36731;;;last_month;;;none;;;2026-10-27;;;code,lattice
+Finite Fields: Root Sets, Frobenius, and Algebraic Structure;;;Hongfeng Wu, Li Zhu;;;2610.36727;;;last_month;;;none;;;2026-10-27;;;code
 Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2610.34404;;;last_month;;;none;;;2026-10-25;;;code
 Pacifo: An Efficient Fully Homomorphic Encryption-based Lightweight ResNet for Trustworthy Machine Learning as a Service;;;Yang Li, Gang He, Ruichen Zhang, Guangyuan Liu, Yinqiu Liu;;;2610.33525;;;last_month;;;https://github.com/BryceYangLi/Pacifo;;;2026-10-24;;;lattice
 Holo-NN: Holographic Nearest Neighbor Search via Compressive Sensing;;;Bryant Gipson;;;2610.33224;;;last_month;;;none;;;2026-10-23;;;lattice
@@ -26,7 +30,6 @@ Quantum-Resilient Secure Protocol for Decentralized Edge-IoT Peer-to-Peer Energy
 Non-additive symmetric rank-metric codes;;;Marta Messia, Ferdinando Zullo;;;2610.18061;;;last_month;;;none;;;2026-10-13;;;code
 Puncturing-inclusion constructions of optimal Ferrers diagram rank-metric codes using semifield codes;;;Dengming Xu, Chengming Duan, Yong Jin, Yuhao Ning;;;2610.17570;;;last_month;;;none;;;2026-10-13;;;code
 Covering Radius and Deep Holes of Hyperderivative Reed-Solomon Codes under the NRT Metric;;;Zhihao Zhu, Haojie Gu, Jun Zhang, Yu Li;;;2610.16643;;;last_month;;;none;;;2026-10-12;;;code
-Wasserstein rates of all orders for the Sato-Tate law of Kloosterman sums;;;Amir M. Rahimi;;;2610.16169;;;last_month;;;none;;;2026-10-12;;;code
 On the Average List Size of VT Codes under Two Insertions or Two Deletions;;;Anisha Banerjee, Roni Con, Antonia Wachter-Zeh, Eitan Yaakobi;;;2610.15767;;;last_month;;;none;;;2026-10-11;;;code
 Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2610.12913;;;last_month;;;none;;;2026-10-09;;;lattice
 Hankel Matrix Decompositions and Digital Sequences over Function Fields;;;Roswitha Hofer;;;2610.12691;;;last_month;;;none;;;2026-10-08;;;code
@@ -317,4 +320,3 @@ Adjoint and duality for rank-metric codes in a skew polynomial framework;;;José
 The Future of Fully Homomorphic Encryption System: from a Storage I/O Perspective;;;Lei Chen, Erci Xu, Yiming Sun, Shengyu Fan, Xianglong Deng, Guiming Shi, Guang Fan, Liang Kong, Yilan Zhu, Shoumeng Yan, Mingzhe Zhang;;;2511.04946;;;last_year;;;none;;;2025-11-07;;;lattice
 Regular fat linear sets;;;Valentino Smaldore, Corrado Zanella, Ferdinando Zullo;;;2511.04581;;;last_year;;;none;;;2025-11-06;;;code
 Enhancing NTRUEncrypt Security Using Markov Chain Monte Carlo Methods: Theory and Practice;;;Gautier-Edouard Filardo, Thibaut Heckmann;;;2511.02365;;;last_year;;;none;;;2025-11-04;;;lattice
-Fine-grained deterministic hardness of the shortest vector problem;;;Markus Hittmeir;;;2511.01626;;;last_year;;;none;;;2025-11-03;;;lattice

@@ -1,10 +1,12 @@
+Batched Threshold Predicate Encryption from Succinct LWE;;;Shayeef Murshid, Ramprasad Sarkar, Mriganka Mandal;;;2026/2697;;;last_week;;;none;;;2026-10-30;;;lattice
+Gaussian Difference Dynamics: Breaking the $2^{n/2}$ Barrier for the Shortest Vector Problem and Discrete Gaussian Sampling;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2026/2690;;;last_week;;;none;;;2026-10-30;;;lattice
 Quasi-polynomial time algorithms for block basis reduction of linear codes;;;Kolesnikov N.S., Novoselov S.A.;;;2026/2685;;;last_week;;;none;;;2026-10-29;;;lattice
 High Precision Noise Cleaning for CKKS with Application to Asynchronous Threshold CKKS;;;Zhihao Li, Cheng Hong, Tao Wei;;;2026/2675;;;last_week;;;none;;;2026-10-29;;;lattice
 Efficient SIMD SHAKE through Cost-Aware Permutation Scheduling;;;Hang Zhang, Ya Shi, Ying Liu, Xianhui Lu;;;2026/2666;;;last_week;;;none;;;2026-10-28;;;lattice
 Rerandomizable Garbling Beyond BHHO-KMHE and a Construction from LWE;;;Raphael Heitjohann, Jonas von der Heyden, Tibor Jager;;;2026/2664;;;last_week;;;none;;;2026-10-28;;;lattice
-Unshuffling Fisher-Yates: Practical Recovery of Length-128 Permutations and Application to ML-DSA;;;Jonas Schupp, Anna Baumeister, Antonia Wachter-Zeh, Georg Sigl;;;2026/2658;;;last_week;;;none;;;2026-10-27;;;lattice
-Falcon Key Recovery from Joint Sampler Leakages;;;Youngchang Kim, Yongseong Park, Jaeho Jeon, Young-Sik Kim;;;2026/2656;;;last_week;;;none;;;2026-10-27;;;lattice
-When Algebraic Structure Meets Too Many Hints;;;Dongshu Cai, Yijian Liu, Xianhui Lu;;;2026/2654;;;last_week;;;none;;;2026-10-27;;;lattice
+Unshuffling Fisher-Yates: Practical Recovery of Length-128 Permutations and Application to ML-DSA;;;Jonas Schupp, Anna Baumeister, Antonia Wachter-Zeh, Georg Sigl;;;2026/2658;;;last_month;;;none;;;2026-10-27;;;lattice
+Falcon Key Recovery from Joint Sampler Leakages;;;Youngchang Kim, Yongseong Park, Jaeho Jeon, Young-Sik Kim;;;2026/2656;;;last_month;;;none;;;2026-10-27;;;lattice
+When Algebraic Structure Meets Too Many Hints;;;Dongshu Cai, Yijian Liu, Xianhui Lu;;;2026/2654;;;last_month;;;none;;;2026-10-27;;;lattice
 Non-profiled Single-Trace ML-DSA Secret Key Recovery by Horizontal Distribution Analysis;;;Linus Backlund, Elena Dubrova;;;2026/2643;;;last_month;;;none;;;2026-10-26;;;lattice
 Subexponential Algorithms for LWE via Rejection Sampling on Superlattices;;;Ligeng Fan, Changpeng Shao, Hongbo Li, Dingkang Wang;;;2026/2640;;;last_month;;;none;;;2026-10-26;;;lattice
 Decision Attacks on Known-Covariance Ring-LWE via Public Gram Determinants;;;Anis Bkakria;;;2026/2638;;;last_month;;;none;;;2026-10-25;;;lattice
@@ -111,10 +113,10 @@ Post-Quantum Command Authentication for Unmanned Systems: A KpqC Feasibility Stu
 Deploying Native-Rust KpqC: Pluggable Post-Quantum KEMs and Signatures across TLS, Space Links, and the OQS Ecosystem;;;Yulim Hyoung, Doyun Park, Hyunji Kim, Hwajeong Seo;;;2026/2342;;;last_month;;;none;;;2026-10-05;;;lattice
 Measuring Parallel Execution of Classical–PQC Component Pairs in Hybrid TLS 1.3;;;Siwoo Eum, Minho Song, Seung-Won Lee, Hwajeong Seo;;;2026/2341;;;last_month;;;none;;;2026-10-05;;;lattice
 Pseudorandom Codes from LWE;;;Keewoo Lee;;;2026/2339;;;last_month;;;none;;;2026-10-05;;;lattice
-Trapdoor Projective Sampling and Identity-Based Anonymous Broadcast;;;Gaspard Meunier, Duong Hieu Phan;;;2026/2334;;;last_month;;;none;;;2026-10-04;;;lattice
-Rotate Once, Read Many Times: on the Output Noise of Multi-Value Bootstrapping;;;Philippe Chartier, Michel Koskas, Mohammed Lemou;;;2026/2332;;;last_month;;;none;;;2026-10-04;;;lattice
-What Makes Lattice Key Generation Expensive? Controlled Cost Attribution with Structured LWR, ML-KEM, and HAETAE on Cortex-M4;;;Yan Zhang, Meizi Li, Liang Tan;;;2026/2329;;;last_month;;;none;;;2026-10-04;;;lattice
-Automorphism-Compatible NTT and its Application to Homomorphic Encryption;;;Charanjit S. Jutla, Nathan Manohar, Guy Moshkowich;;;2026/2328;;;last_month;;;none;;;2026-10-04;;;lattice
+Trapdoor Projective Sampling and Identity-Based Anonymous Broadcast;;;Gaspard Meunier, Duong Hieu Phan;;;2026/2334;;;last_year;;;none;;;2026-10-04;;;lattice
+Rotate Once, Read Many Times: on the Output Noise of Multi-Value Bootstrapping;;;Philippe Chartier, Michel Koskas, Mohammed Lemou;;;2026/2332;;;last_year;;;none;;;2026-10-04;;;lattice
+What Makes Lattice Key Generation Expensive? Controlled Cost Attribution with Structured LWR, ML-KEM, and HAETAE on Cortex-M4;;;Yan Zhang, Meizi Li, Liang Tan;;;2026/2329;;;last_year;;;none;;;2026-10-04;;;lattice
+Automorphism-Compatible NTT and its Application to Homomorphic Encryption;;;Charanjit S. Jutla, Nathan Manohar, Guy Moshkowich;;;2026/2328;;;last_year;;;none;;;2026-10-04;;;lattice
 On the hull attacks against Construction A lattices;;;Jean-François Biasse, Alexandra V. Hostetler, Anuvrat Jaindungarwal;;;2026/2325;;;last_year;;;none;;;2026-10-03;;;lattice
 ATLAS: A Compact Module-LWR Signature Scheme;;;Karthick Srivatsan, Debranjan Pal, Anindya Ganguly, Suparna Kundu, Abhinava De, Puja Mondal, Harry Hart, Quinten Norga, Prajna Mahadev, Supriya Adhikary, Debayan Das, Chaoyun Li, Angshuman Karmakar;;;2026/2323;;;last_year;;;none;;;2026-10-03;;;lattice
 When Masking Preimage Computation Isn’t Enough: A Power Analysis Attack on Masked Implementations of Falcon;;;Keng-Yu Chen;;;2026/2313;;;last_year;;;none;;;2026-10-02;;;lattice
@@ -797,4 +799,3 @@ Real-Time Encrypted Emotion Recognition Using Homomorphic Encryption;;;Gyeongwon
 Distributed Key Generation for Efficient Threshold-CKKS;;;Seonhong Min, Guillaume Hanrot, Jai Hyun Park, Alain Passelègue, Damien Stehlé;;;2025/2057;;;last_year;;;none;;;2025-11-07;;;lattice
 Handling Noisy Plaintext Checking Oracles with SPiRiT;;;Paco Poilbout, Thomas Roche, Laurent Imbert;;;2025/2045;;;last_year;;;none;;;2025-11-05;;;lattice
 Key-Recovery Side-Channel Attack on the Berlekamp-Massey Decoding Algorithm in the Classic McEliece KEM;;;Andrei Alexei, Marios Omar Choudary, Vlad-Florin Dragoi;;;2025/2043;;;last_year;;;none;;;2025-11-05;;;code
-On new variants of funcCPA security and related CCA-secure constructions;;;Caroline Fontaine, Marc Renard, Renaud Sirdey, Oana Stan;;;2025/2036;;;last_year;;;none;;;2025-11-03;;;lattice
