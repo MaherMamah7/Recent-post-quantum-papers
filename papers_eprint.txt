@@ -1,3 +1,6 @@
+A Constant-Rate Compiler for Continual Memory Leakage;;;Shweta Agrawal, Anuja Modi, Rajeev Raghunath;;;2026/2715;;;last_week;;;none;;;2026-11-01;;;lattice
+Fast Provable Algorithms for Approximate CVP and Exact SVP on Random \(q\)-ary Lattices;;;Jiseung Kim, Junhyuk Kwon, Changmin Lee, JeongHwan Lee;;;2026/2711;;;last_week;;;none;;;2026-10-31;;;lattice
+Hidden Curves and Short Duals: Cubic Jets, Dual Leaks, and the Limits of Masked-Code Encryption;;;Yongge Wang;;;2026/2710;;;last_week;;;none;;;2026-10-31;;;code
 Batched Threshold Predicate Encryption from Succinct LWE;;;Shayeef Murshid, Ramprasad Sarkar, Mriganka Mandal;;;2026/2697;;;last_week;;;none;;;2026-10-30;;;lattice
 Gaussian Difference Dynamics: Breaking the $2^{n/2}$ Barrier for the Shortest Vector Problem and Discrete Gaussian Sampling;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2026/2690;;;last_week;;;none;;;2026-10-30;;;lattice
 Quasi-polynomial time algorithms for block basis reduction of linear codes;;;Kolesnikov N.S., Novoselov S.A.;;;2026/2685;;;last_week;;;none;;;2026-10-29;;;lattice
