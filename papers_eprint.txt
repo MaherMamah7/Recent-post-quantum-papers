@@ -1,3 +1,16 @@
+Information Loss Is All You Need: TC⁰ Pseudorandomness from Worst-Case Lattices;;;Chen Qian;;;2026/2752;;;last_week;;;none;;;2026-11-03;;;lattice
+An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE;;;Julien CAM;;;2026/2751;;;last_week;;;none;;;2026-11-03;;;lattice
+TFNP in the Random Oracle Model;;;Noah Fleming, Mika Göös, Ziyi Guan, Oliver Korten, Daniel Mitropolsky, Toniann Pitassi, Artur Riazanov, Dmitry Sokolov, Tianqi Yang, Weiqiang Yuan;;;2026/2748;;;last_week;;;none;;;2026-11-03;;;lattice
+MODDIV-WC: Unit-Anchored Toeplitz/Hankel Rounding with Exact Binary-LWE Masking and an IND-CCA Security Route;;;Samir Bouftass;;;2026/2747;;;last_week;;;none;;;2026-11-03;;;lattice
+Phantom Timing Leaks on Cortex-M4: A Pre-registered Evaluation of ML-KEM Decapsulation;;;Amadou Tidiane Anne;;;2026/2744;;;last_week;;;none;;;2026-11-03;;;lattice
+Dual Coppersmith: Finding Small Roots Without Multivariate Polynomial Systems;;;Taehun Kang, Jebin Kim, Changmin Lee, JeongHwan Lee;;;2026/2740;;;last_week;;;none;;;2026-11-03;;;lattice
+Archive Certificates for ML-DSA-87 Authorizations from an Exact Bounded Relation;;;Yacine Alloul;;;2026/2739;;;last_week;;;none;;;2026-11-03;;;lattice
+PS-BKZ: Decoupling Outer Propagation and Local Processing in BKZ by Parameter Separation;;;Hutao Song, Hua Guo, Yang Sun, Fengju Gao, Zongyang Zhang, Qianhong Wu;;;2026/2736;;;last_week;;;none;;;2026-11-03;;;lattice
+Perseus: A Full-Stack System for Homomorphic Model Inference;;;Alessandro Zirilli, Davide Marincione, Evgenios M. Kornaropoulos, Giuseppe Ateniese, Emanuele Rodolà;;;2026/2735;;;last_week;;;none;;;2026-11-03;;;lattice
+FixSampZ: A Fixed-Point Hardware-Efficient Discrete Gaussian Sampler for Falcon Signatures;;;Pushpendra Singh, Akshara K B, Utsav Banerjee, Navin Kashyap;;;2026/2731;;;last_week;;;none;;;2026-11-03;;;lattice
+Kaiburr: ML-KEM at (much) higher security;;;Swechchha Adhikari, Vadim Lyubashevsky, Peter Schwabe;;;2026/2730;;;last_week;;;none;;;2026-11-03;;;lattice
+On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2026/2727;;;last_week;;;none;;;2026-11-02;;;lattice
+Efficient Polynomial Multiplier Architectures for ML-KEM on Resource-Constrained FPGAs;;;Hossein Naderi Varandi, Raziye Salarifard;;;2026/2726;;;last_week;;;none;;;2026-11-02;;;lattice
 A Constant-Rate Compiler for Continual Memory Leakage;;;Shweta Agrawal, Anuja Modi, Rajeev Raghunath;;;2026/2715;;;last_week;;;none;;;2026-11-01;;;lattice
 Fast Provable Algorithms for Approximate CVP and Exact SVP on Random \(q\)-ary Lattices;;;Jiseung Kim, Junhyuk Kwon, Changmin Lee, JeongHwan Lee;;;2026/2711;;;last_week;;;none;;;2026-10-31;;;lattice
 Hidden Curves and Short Duals: Cubic Jets, Dual Leaks, and the Limits of Masked-Code Encryption;;;Yongge Wang;;;2026/2710;;;last_week;;;none;;;2026-10-31;;;code
@@ -5,8 +18,8 @@ Batched Threshold Predicate Encryption from Succinct LWE;;;Shayeef Murshid, Ramp
 Gaussian Difference Dynamics: Breaking the $2^{n/2}$ Barrier for the Shortest Vector Problem and Discrete Gaussian Sampling;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2026/2690;;;last_week;;;none;;;2026-10-30;;;lattice
 Quasi-polynomial time algorithms for block basis reduction of linear codes;;;Kolesnikov N.S., Novoselov S.A.;;;2026/2685;;;last_week;;;none;;;2026-10-29;;;lattice
 High Precision Noise Cleaning for CKKS with Application to Asynchronous Threshold CKKS;;;Zhihao Li, Cheng Hong, Tao Wei;;;2026/2675;;;last_week;;;none;;;2026-10-29;;;lattice
-Efficient SIMD SHAKE through Cost-Aware Permutation Scheduling;;;Hang Zhang, Ya Shi, Ying Liu, Xianhui Lu;;;2026/2666;;;last_week;;;none;;;2026-10-28;;;lattice
-Rerandomizable Garbling Beyond BHHO-KMHE and a Construction from LWE;;;Raphael Heitjohann, Jonas von der Heyden, Tibor Jager;;;2026/2664;;;last_week;;;none;;;2026-10-28;;;lattice
+Efficient SIMD SHAKE through Cost-Aware Permutation Scheduling;;;Hang Zhang, Ya Shi, Ying Liu, Xianhui Lu;;;2026/2666;;;last_month;;;none;;;2026-10-28;;;lattice
+Rerandomizable Garbling Beyond BHHO-KMHE and a Construction from LWE;;;Raphael Heitjohann, Jonas von der Heyden, Tibor Jager;;;2026/2664;;;last_month;;;none;;;2026-10-28;;;lattice
 Unshuffling Fisher-Yates: Practical Recovery of Length-128 Permutations and Application to ML-DSA;;;Jonas Schupp, Anna Baumeister, Antonia Wachter-Zeh, Georg Sigl;;;2026/2658;;;last_month;;;none;;;2026-10-27;;;lattice
 Falcon Key Recovery from Joint Sampler Leakages;;;Youngchang Kim, Yongseong Park, Jaeho Jeon, Young-Sik Kim;;;2026/2656;;;last_month;;;none;;;2026-10-27;;;lattice
 When Algebraic Structure Meets Too Many Hints;;;Dongshu Cai, Yijian Liu, Xianhui Lu;;;2026/2654;;;last_month;;;none;;;2026-10-27;;;lattice
@@ -101,21 +114,21 @@ PoP! Goes the VOLE: Shorter Proofs of Possession for KEM Certificates;;;Slim Bet
 PairSwitch: Efficient Galois-Paired Key Switching for Gentry–Lee Matrix FHE;;;Zhenyu Xiong, Mingsheng Wang, Han Wang;;;2026/2373;;;last_month;;;https://github.com/acprk/pairswitch-gl;;;2026-10-06;;;lattice
 DP-Guided Schedule Selection for $\mathbb{F}_2[x]$ Multiplication across ISAs;;;Junyu Zhou, Xiao Lan, Jing Wang, Hao Ren, Weiran Liu, Si Gao;;;2026/2371;;;last_month;;;none;;;2026-10-06;;;code
 StOMR: Stateful Oblivious Message Retrieval;;;Charles Gouert, Keewoo Lee, Dimitris Mouris, Yiannis Tselekounis, Jean-Luc Watson;;;2026/2369;;;last_month;;;none;;;2026-10-06;;;lattice
-Low-Latency Parallel Digit Decomposition and Sign Evaluation for CKKS;;;Jung Hee Cheon, Kyungah Cho, Junyoung Jung, Junho Lim;;;2026/2368;;;last_month;;;none;;;2026-10-05;;;lattice
-On the Instantiability of the Fujisaki–Okamoto Transform for Trapdoor Functions;;;Carter Luck, Xinyu Mao, Adam O'Neill;;;2026/2365;;;last_month;;;none;;;2026-10-05;;;lattice
-Optimized LLL Algorithm;;;Zhengjun Cao, Lihua Liu;;;2026/2361;;;last_month;;;none;;;2026-10-05;;;lattice
-One-Round Threshold XMSS and SPHINCS+ from Fully Homomorphic Encryption;;;Jung Hee Cheon, Kevin Choi, Hyeoncheol Joo, Taeseong Kim;;;2026/2360;;;last_month;;;none;;;2026-10-05;;;lattice
-Area-Efficient Hardware Architecture of the Post-Quantum HQC Cryptosystem with Side-Channel Protection;;;Kamal Raj, Peizhou Gan, Sayan Das, Anupam Chattopadhyay;;;2026/2359;;;last_month;;;none;;;2026-10-05;;;code
-BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies;;;Yanren Chen, Fangyu Zheng, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, Jingqiang Lin, Jiwu Jing;;;2026/2356;;;last_month;;;none;;;2026-10-05;;;lattice
-X-Wing on Cortex-M85: Architecture-Aware Integration and End-to-End Evaluation;;;Do-Yun Park, Hwa-Jeong Seo;;;2026/2352;;;last_month;;;none;;;2026-10-05;;;lattice
-Output Policies for Anomaly Detection with Homomorphic Encryption: Threshold Resolution, Decision Preservation, and Numerical Stability;;;Subeen Cho, Jiwon Bang, Minseo Kim, Seungwon Lee, Hwajeong Seo;;;2026/2349;;;last_month;;;none;;;2026-10-05;;;lattice
-HyBind: Structural Analysis of PQ/T Hybrid Cryptographic Usage;;;Jongbeom Ahn, Minseo Kim, Moonsun Heo, Subeen Cho, Hwajeong Seo;;;2026/2347;;;last_month;;;none;;;2026-10-05;;;lattice
-Randomness-Anchored Runtime Discovery of Cryptographic Operations on Linux Using eBPF;;;Sumin Jeong, Yulim Hyoung, Hagyeong Kim, Huiju Kang, Hwajeong Seo;;;2026/2345;;;last_month;;;none;;;2026-10-05;;;lattice
-Role-Specific Signature Placement in TLS 1.3: Cost Propagation and PQC Migration;;;Moonsun Heo, Subeen Cho, Jongbeom Ahn, Minseo Kim, Hwajeong Seo;;;2026/2344;;;last_month;;;none;;;2026-10-05;;;lattice
-Post-Quantum Command Authentication for Unmanned Systems: A KpqC Feasibility Study under Real-Time and Bandwidth Constraints;;;Yulim Hyoung, Daeun Lim, Jiwon Bang, Doyun Park, Hagyeong Kim, Hwajeong Seo;;;2026/2343;;;last_month;;;none;;;2026-10-05;;;lattice
-Deploying Native-Rust KpqC: Pluggable Post-Quantum KEMs and Signatures across TLS, Space Links, and the OQS Ecosystem;;;Yulim Hyoung, Doyun Park, Hyunji Kim, Hwajeong Seo;;;2026/2342;;;last_month;;;none;;;2026-10-05;;;lattice
-Measuring Parallel Execution of Classical–PQC Component Pairs in Hybrid TLS 1.3;;;Siwoo Eum, Minho Song, Seung-Won Lee, Hwajeong Seo;;;2026/2341;;;last_month;;;none;;;2026-10-05;;;lattice
-Pseudorandom Codes from LWE;;;Keewoo Lee;;;2026/2339;;;last_month;;;none;;;2026-10-05;;;lattice
+Low-Latency Parallel Digit Decomposition and Sign Evaluation for CKKS;;;Jung Hee Cheon, Kyungah Cho, Junyoung Jung, Junho Lim;;;2026/2368;;;last_year;;;none;;;2026-10-05;;;lattice
+On the Instantiability of the Fujisaki–Okamoto Transform for Trapdoor Functions;;;Carter Luck, Xinyu Mao, Adam O'Neill;;;2026/2365;;;last_year;;;none;;;2026-10-05;;;lattice
+Optimized LLL Algorithm;;;Zhengjun Cao, Lihua Liu;;;2026/2361;;;last_year;;;none;;;2026-10-05;;;lattice
+One-Round Threshold XMSS and SPHINCS+ from Fully Homomorphic Encryption;;;Jung Hee Cheon, Kevin Choi, Hyeoncheol Joo, Taeseong Kim;;;2026/2360;;;last_year;;;none;;;2026-10-05;;;lattice
+Area-Efficient Hardware Architecture of the Post-Quantum HQC Cryptosystem with Side-Channel Protection;;;Kamal Raj, Peizhou Gan, Sayan Das, Anupam Chattopadhyay;;;2026/2359;;;last_year;;;none;;;2026-10-05;;;code
+BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies;;;Yanren Chen, Fangyu Zheng, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, Jingqiang Lin, Jiwu Jing;;;2026/2356;;;last_year;;;none;;;2026-10-05;;;lattice
+X-Wing on Cortex-M85: Architecture-Aware Integration and End-to-End Evaluation;;;Do-Yun Park, Hwa-Jeong Seo;;;2026/2352;;;last_year;;;none;;;2026-10-05;;;lattice
+Output Policies for Anomaly Detection with Homomorphic Encryption: Threshold Resolution, Decision Preservation, and Numerical Stability;;;Subeen Cho, Jiwon Bang, Minseo Kim, Seungwon Lee, Hwajeong Seo;;;2026/2349;;;last_year;;;none;;;2026-10-05;;;lattice
+HyBind: Structural Analysis of PQ/T Hybrid Cryptographic Usage;;;Jongbeom Ahn, Minseo Kim, Moonsun Heo, Subeen Cho, Hwajeong Seo;;;2026/2347;;;last_year;;;none;;;2026-10-05;;;lattice
+Randomness-Anchored Runtime Discovery of Cryptographic Operations on Linux Using eBPF;;;Sumin Jeong, Yulim Hyoung, Hagyeong Kim, Huiju Kang, Hwajeong Seo;;;2026/2345;;;last_year;;;none;;;2026-10-05;;;lattice
+Role-Specific Signature Placement in TLS 1.3: Cost Propagation and PQC Migration;;;Moonsun Heo, Subeen Cho, Jongbeom Ahn, Minseo Kim, Hwajeong Seo;;;2026/2344;;;last_year;;;none;;;2026-10-05;;;lattice
+Post-Quantum Command Authentication for Unmanned Systems: A KpqC Feasibility Study under Real-Time and Bandwidth Constraints;;;Yulim Hyoung, Daeun Lim, Jiwon Bang, Doyun Park, Hagyeong Kim, Hwajeong Seo;;;2026/2343;;;last_year;;;none;;;2026-10-05;;;lattice
+Deploying Native-Rust KpqC: Pluggable Post-Quantum KEMs and Signatures across TLS, Space Links, and the OQS Ecosystem;;;Yulim Hyoung, Doyun Park, Hyunji Kim, Hwajeong Seo;;;2026/2342;;;last_year;;;none;;;2026-10-05;;;lattice
+Measuring Parallel Execution of Classical–PQC Component Pairs in Hybrid TLS 1.3;;;Siwoo Eum, Minho Song, Seung-Won Lee, Hwajeong Seo;;;2026/2341;;;last_year;;;none;;;2026-10-05;;;lattice
+Pseudorandom Codes from LWE;;;Keewoo Lee;;;2026/2339;;;last_year;;;none;;;2026-10-05;;;lattice
 Trapdoor Projective Sampling and Identity-Based Anonymous Broadcast;;;Gaspard Meunier, Duong Hieu Phan;;;2026/2334;;;last_year;;;none;;;2026-10-04;;;lattice
 Rotate Once, Read Many Times: on the Output Noise of Multi-Value Bootstrapping;;;Philippe Chartier, Michel Koskas, Mohammed Lemou;;;2026/2332;;;last_year;;;none;;;2026-10-04;;;lattice
 What Makes Lattice Key Generation Expensive? Controlled Cost Attribution with Structured LWR, ML-KEM, and HAETAE on Cortex-M4;;;Yan Zhang, Meizi Li, Liang Tan;;;2026/2329;;;last_year;;;none;;;2026-10-04;;;lattice
@@ -661,7 +674,7 @@ Weighted Cryptography with Weight-Independent Complexity;;;Aarushi Goel, Swagata
 Exact Error Analysis for Blind Rotation in Fully Homomorphic Encryption;;;Sin Kim, Seunghwan Lee, Dohyuk Kim, Dong-Joon Shin;;;2026/269;;;last_year;;;none;;;2026-02-16;;;lattice
 One Pair to Rule Them All: Towards an Optimal Algorithm for Solving Code Equivalence via Codeword Search;;;Alessandro Budroni, Andre Esser;;;2026/268;;;last_year;;;none;;;2026-02-16;;;code
 Dishonest-Majority Secure Computation via PIR-Authenticated Multiplication Triples;;;Elette Boyle, Niv Gilboa, Matan Hamilis, Yuval Ishai, Ariel Nof;;;2026/257;;;last_year;;;none;;;2026-02-13;;;code
-Adams Bridge Accelerator: Bridging the Post-Quantum Transition;;;Mojtaba Bisheh-Niasar, Emre Karabulut, Kiran Upadhyayula, Michael Norris, Bharat Pillilli;;;2026/256;;;last_year;;;none;;;2026-02-13;;;lattice
+Adams Bridge (V2.0) Accelerator: Bridging the Post-Quantum Transition;;;Mojtaba Bisheh-Niasar, Emre Karabulut, Kiran Upadhyayula, Michael Norris, Bharat Pillilli;;;2026/256;;;last_year;;;none;;;2026-02-13;;;lattice
 On Compressing Linearly Shared Correlations;;;Geoffroy Couteau, Alexander Koch, Nikolas Melissaris, Peter Scholl, Sacha Servan-Schreiber, Xiaxi Ye;;;2026/255;;;last_year;;;none;;;2026-02-13;;;lattice
 On the Concrete Hardness of LWR with a Power of Two Modulus;;;Jules Baudrin, Rachelle Heim Boissier, François-Xavier Standaert;;;2026/250;;;last_year;;;none;;;2026-02-13;;;lattice
 Lightweight PQ KEM and Hybrid MQTT Protocol for 8-bit AVR Sensor Nodes;;;Yifan Dong, YoungBeom Kim, Jieyu Zheng, Zhichuang Liang, Boyue Fang, Seog Chung Seo, Maire O'Neill, Yunlei Zhao;;;2026/248;;;last_year;;;none;;;2026-02-13;;;lattice
