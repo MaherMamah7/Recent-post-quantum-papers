@@ -1,3 +1,9 @@
+HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2026/2767;;;last_week;;;none;;;2026-11-04;;;code
+Keyber: Recovering the Signal by Amplifying the Noise in ML-KEM;;;Vipin Kumar, Prathamesh Ram, Suparna Kundu, Dhiman Saha;;;2026/2766;;;last_week;;;none;;;2026-11-04;;;lattice
+BASTION: Lock-Step, Staggered and Sequential Share Schedules for a First-Order Masked ML-KEM NTT on FPGA;;;Marcos Lázaro Díaz;;;2026/2765;;;last_week;;;none;;;2026-11-04;;;lattice
+Superlattice methods for the shortest vector problem and discrete Gaussian sampling;;;Minki Hhan, Jiseung Kim, Sunyeop Kim, Thijs Laarhoven;;;2026/2761;;;last_week;;;none;;;2026-11-04;;;lattice
+Syndrome Decoding out of the Head: Structure-Aided Side-Channel Witness Recovery on SDitH;;;Jaeyeon Lee, Jaeho Jeon, Young-Sik Kim;;;2026/2760;;;last_week;;;none;;;2026-11-04;;;code
+Refined Bounds for the Smoothing Parameter of Lattices;;;Shanxiang Lyu;;;2026/2756;;;last_week;;;none;;;2026-11-04;;;lattice
 Information Loss Is All You Need: TC⁰ Pseudorandomness from Worst-Case Lattices;;;Chen Qian;;;2026/2752;;;last_week;;;none;;;2026-11-03;;;lattice
 An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE;;;Julien CAM;;;2026/2751;;;last_week;;;none;;;2026-11-03;;;lattice
 TFNP in the Random Oracle Model;;;Noah Fleming, Mika Göös, Ziyi Guan, Oliver Korten, Daniel Mitropolsky, Toniann Pitassi, Artur Riazanov, Dmitry Sokolov, Tianqi Yang, Weiqiang Yuan;;;2026/2748;;;last_week;;;none;;;2026-11-03;;;lattice
