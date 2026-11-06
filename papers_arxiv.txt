@@ -1,3 +1,4 @@
+Few-Weight Linear Sets and Divisibility of Rank-Metric Codes;;;Jan De Beule, Leen Demuys, Ferdinando Zullo, Olga Polverino;;;2611.08044;;;last_week;;;none;;;2026-11-05;;;code
 Solving a non-abelian hidden subgroup problem on a trapped-ion quantum computer: the power of the measurement basis;;;Oliver O'Brien;;;2611.06716;;;last_week;;;none;;;2026-11-04;;;lattice
 Private key sieves for improved attacks on RSA;;;Markus Hittmeir;;;2611.06427;;;last_week;;;none;;;2026-11-04;;;lattice
 From Claws to Conferences: Device-Independent Key Agreement Beyond Non-Signaling;;;Suvradip Chakraborty;;;2611.05509;;;last_week;;;none;;;2026-11-03;;;lattice
@@ -7,7 +8,7 @@ Gaussian Difference Dynamics: Breaking the $2^{n/2}$ Barrier for the Shortest Ve
 On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2611.04052;;;last_week;;;none;;;2026-11-02;;;lattice
 End-to-End NTT on FPGA for FHE Acceleration;;;Mohamed Allam, Thomas Spendlhofer, Hugo Sanz-González, Antonio J. Peña;;;2611.03325;;;last_week;;;none;;;2026-11-02;;;lattice
 Side-Channel Attack Prevention for Post Quantum Cryptography Algorithms: A 3D-Shield Approach;;;Carl Benda, Eren Kurshan, Aydin Aysu, Paul Franzon;;;2611.01144;;;last_week;;;none;;;2026-10-31;;;lattice
-Syndrome Trellis Decryption in Post-Quantum Cryptography;;;Meir Ariel;;;2610.39873;;;last_week;;;none;;;2026-10-29;;;code
+Syndrome Trellis Decryption in Post-Quantum Cryptography;;;Meir Ariel;;;2610.39873;;;last_month;;;none;;;2026-10-29;;;code
 The use of post-quantum cryptography in the automotive context;;;Mariana do Carmo Barata Gonçalves, Valderi Reis Quietinho Leithardt;;;2610.38632;;;last_month;;;none;;;2026-10-28;;;lattice
 Recurrent Bipartite Graph Neural Networks for QC-MDPC Error Decoding in McEliece Cryptosystems;;;Parth Rajeshkumar Tandel, Elisabeth Fink;;;2610.38479;;;last_month;;;none;;;2026-10-28;;;code
 Rosemary: Efficient and Adaptable In-Storage Acceleration for Fully Homomorphic Encryption;;;Xuan Wang, Tianqi Zhang, Gabrielle De Micheli, Yujin Nam, Keming Fan, Augusto Vega, Minxuan Zhou, Tajana Rosing;;;2610.38262;;;last_month;;;none;;;2026-10-28;;;lattice
@@ -41,9 +42,9 @@ Covering radius of rank-metric codes via covering lifts and clubs;;;Giuseppe Mar
 Provable Subexponential Algorithms for NIST Third-Round Lattice Families;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2610.11254;;;last_month;;;none;;;2026-10-08;;;lattice
 Accelerating HQC for Post-Quantum TLS 1.3 on x86 IoT Gateways;;;Jihoon Jang, Hyunju Park, Jebin Kim, Seokhie Hong, Suhri Kim;;;2610.11107;;;last_month;;;https://github.com/jihoonjang98/hqc-x86-simd;;;2026-10-08;;;code,lattice
 The Hint Weight of ML-DSA Signatures Is Key-Dependent: An Empirical Study across the Three FIPS 204 Parameter Sets;;;Dominik Blain;;;2610.10992;;;last_month;;;none;;;2026-10-07;;;lattice
-FBAN: A Fully Homomorphic Encryption Compatible Bottleneck Attention Network for Privacy-Preserving Behavioral Authentication;;;Jichao Xiong, Atsuko Miyaji, Jiageng Chen;;;2610.08174;;;last_month;;;none;;;2026-10-06;;;lattice
-Plug-and-Play Quantum-Resistant BLE Pairing for Medical Implants via NFC Out-of-Band;;;Muhammad Asim Javaid, Muhammad Shafay Tanveer Hassan, Faaiz Umer, Sotirios Panagiotou, Christos Strydis, Naveed Anwar Bhatti, Muhammad Adeel Pasha, Muhammad Ali Siddiqi;;;2610.07870;;;last_month;;;none;;;2026-10-06;;;lattice
-Efficient and Implementation-Hardened RBLWE on Commodity Cortex-M Microcontrollers;;;Muhammad Asim Javaid, Muhammad Adeel Pasha, Muhammad Ali Siddiqi;;;2610.07820;;;last_month;;;none;;;2026-10-06;;;lattice
+FBAN: A Fully Homomorphic Encryption Compatible Bottleneck Attention Network for Privacy-Preserving Behavioral Authentication;;;Jichao Xiong, Atsuko Miyaji, Jiageng Chen;;;2610.08174;;;last_year;;;none;;;2026-10-06;;;lattice
+Plug-and-Play Quantum-Resistant BLE Pairing for Medical Implants via NFC Out-of-Band;;;Muhammad Asim Javaid, Muhammad Shafay Tanveer Hassan, Faaiz Umer, Sotirios Panagiotou, Christos Strydis, Naveed Anwar Bhatti, Muhammad Adeel Pasha, Muhammad Ali Siddiqi;;;2610.07870;;;last_year;;;none;;;2026-10-06;;;lattice
+Efficient and Implementation-Hardened RBLWE on Commodity Cortex-M Microcontrollers;;;Muhammad Asim Javaid, Muhammad Adeel Pasha, Muhammad Ali Siddiqi;;;2610.07820;;;last_year;;;none;;;2026-10-06;;;lattice
 Discovering New Problems for Decoded Quantum Interferometry;;;Rhik Mazumder, Pradeep Niroula;;;2610.06753;;;last_year;;;none;;;2026-10-05;;;code
 Efficient HQC Implementations on RISC-V: A Cross-Layer Design Space Exploration;;;Maximilian Schöffel, Johannes Feldmann, Elias Biehl, Norbert Wehn;;;2610.06058;;;last_year;;;none;;;2026-10-05;;;code
 Joint GKP Encoding for GHZ States Transmission over Bosonic Quantum MIMO Channels;;;Seid Koudia, Selssabil Kadid, Symeon Chatzinotas, Mérouane Debbah;;;2610.05992;;;last_year;;;none;;;2026-10-05;;;code
