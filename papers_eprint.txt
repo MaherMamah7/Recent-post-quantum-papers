@@ -22,8 +22,8 @@ Efficient Polynomial Multiplier Architectures for ML-KEM on Resource-Constrained
 A Constant-Rate Compiler for Continual Memory Leakage;;;Shweta Agrawal, Anuja Modi, Rajeev Raghunath;;;2026/2715;;;last_week;;;none;;;2026-11-01;;;lattice
 Fast Provable Algorithms for Approximate CVP and Exact SVP on Random \(q\)-ary Lattices;;;Jiseung Kim, Junhyuk Kwon, Changmin Lee, JeongHwan Lee;;;2026/2711;;;last_week;;;none;;;2026-10-31;;;lattice
 Hidden Curves and Short Duals: Cubic Jets, Dual Leaks, and the Limits of Masked-Code Encryption;;;Yongge Wang;;;2026/2710;;;last_week;;;none;;;2026-10-31;;;code
-Batched Threshold Predicate Encryption from Succinct LWE;;;Shayeef Murshid, Ramprasad Sarkar, Mriganka Mandal;;;2026/2697;;;last_week;;;none;;;2026-10-30;;;lattice
-Gaussian Difference Dynamics: Breaking the $2^{n/2}$ Barrier for the Shortest Vector Problem and Discrete Gaussian Sampling;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2026/2690;;;last_week;;;none;;;2026-10-30;;;lattice
+Batched Threshold Predicate Encryption from Succinct LWE;;;Shayeef Murshid, Ramprasad Sarkar, Mriganka Mandal;;;2026/2697;;;last_month;;;none;;;2026-10-30;;;lattice
+Gaussian Difference Dynamics: Breaking the $2^{n/2}$ Barrier for the Shortest Vector Problem and Discrete Gaussian Sampling;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2026/2690;;;last_month;;;none;;;2026-10-30;;;lattice
 Quasi-polynomial time algorithms for block basis reduction of linear codes;;;Kolesnikov N.S., Novoselov S.A.;;;2026/2685;;;last_month;;;none;;;2026-10-29;;;lattice
 High Precision Noise Cleaning for CKKS with Application to Asynchronous Threshold CKKS;;;Zhihao Li, Cheng Hong, Tao Wei;;;2026/2675;;;last_month;;;none;;;2026-10-29;;;lattice
 Efficient SIMD SHAKE through Cost-Aware Permutation Scheduling;;;Hang Zhang, Ya Shi, Ying Liu, Xianhui Lu;;;2026/2666;;;last_month;;;none;;;2026-10-28;;;lattice
@@ -113,8 +113,8 @@ Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over L
 Provable Subexponential Algorithms for Module-SIS and Module-LWE;;;William Youmans;;;2026/2420;;;last_month;;;none;;;2026-10-08;;;lattice
 Barely Sublinear RAM-FHE from Plain LWE;;;Keewoo Lee;;;2026/2412;;;last_month;;;none;;;2026-10-08;;;lattice
 Average-Case Hardness of Lattice Problems in Special Genera of Fixed Rank;;;Koen de Boer, Maxime Bombar, Aurel Page, Wessel van Woerden;;;2026/2411;;;last_month;;;none;;;2026-10-08;;;lattice
-Practical and Efficient MPC from FHE, without ZKPoKs;;;Kelong Cong, Nigel P. Smart, Titouan Tanguy, MIchael Walter;;;2026/2403;;;last_month;;;none;;;2026-10-07;;;lattice
-Faster Provable Lattice Sieving with Spherical Codes;;;Divesh Aggarwal, Aditya Morolia, Noah Stephens-Davidowitz;;;2026/2388;;;last_month;;;none;;;2026-10-07;;;lattice
+Practical and Efficient MPC from FHE, without ZKPoKs;;;Kelong Cong, Nigel P. Smart, Titouan Tanguy, MIchael Walter;;;2026/2403;;;last_year;;;none;;;2026-10-07;;;lattice
+Faster Provable Lattice Sieving with Spherical Codes;;;Divesh Aggarwal, Aditya Morolia, Noah Stephens-Davidowitz;;;2026/2388;;;last_year;;;none;;;2026-10-07;;;lattice
 Provable Subexponential Algorithms for NIST Third-Round Lattice Families;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2026/2386;;;last_year;;;none;;;2026-10-06;;;lattice
 SkrrtPIR: Doubly-Stateless Batch PIR from Single-Key RLWE Unpacking;;;Keewoo Lee, Yongha Son;;;2026/2385;;;last_year;;;none;;;2026-10-06;;;lattice
 The Lattice Isomorphism Problem with Hints;;;Mélissa Rossi;;;2026/2381;;;last_year;;;none;;;2026-10-06;;;lattice

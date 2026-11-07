@@ -41,7 +41,7 @@ HPQ-AKE: A Provably Secure Sign-Less Hybrid Authenticated Key Exchange Protocol 
 Covering radius of rank-metric codes via covering lifts and clubs;;;Giuseppe Marino, Alessandro Neri, Alessia Vallefuoco;;;2610.11926;;;last_month;;;none;;;2026-10-08;;;code
 Provable Subexponential Algorithms for NIST Third-Round Lattice Families;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2610.11254;;;last_month;;;none;;;2026-10-08;;;lattice
 Accelerating HQC for Post-Quantum TLS 1.3 on x86 IoT Gateways;;;Jihoon Jang, Hyunju Park, Jebin Kim, Seokhie Hong, Suhri Kim;;;2610.11107;;;last_month;;;https://github.com/jihoonjang98/hqc-x86-simd;;;2026-10-08;;;code,lattice
-The Hint Weight of ML-DSA Signatures Is Key-Dependent: An Empirical Study across the Three FIPS 204 Parameter Sets;;;Dominik Blain;;;2610.10992;;;last_month;;;none;;;2026-10-07;;;lattice
+The Hint Weight of ML-DSA Signatures Is Key-Dependent: An Empirical Study across the Three FIPS 204 Parameter Sets;;;Dominik Blain;;;2610.10992;;;last_year;;;none;;;2026-10-07;;;lattice
 FBAN: A Fully Homomorphic Encryption Compatible Bottleneck Attention Network for Privacy-Preserving Behavioral Authentication;;;Jichao Xiong, Atsuko Miyaji, Jiageng Chen;;;2610.08174;;;last_year;;;none;;;2026-10-06;;;lattice
 Plug-and-Play Quantum-Resistant BLE Pairing for Medical Implants via NFC Out-of-Band;;;Muhammad Asim Javaid, Muhammad Shafay Tanveer Hassan, Faaiz Umer, Sotirios Panagiotou, Christos Strydis, Naveed Anwar Bhatti, Muhammad Adeel Pasha, Muhammad Ali Siddiqi;;;2610.07870;;;last_year;;;none;;;2026-10-06;;;lattice
 Efficient and Implementation-Hardened RBLWE on Commodity Cortex-M Microcontrollers;;;Muhammad Asim Javaid, Muhammad Adeel Pasha, Muhammad Ali Siddiqi;;;2610.07820;;;last_year;;;none;;;2026-10-06;;;lattice
@@ -322,4 +322,3 @@ MedHE: Communication-Efficient Privacy-Preserving Federated Learning with Adapti
 Hybrid Quantum-Classical Selective State Space Artificial Intelligence;;;Amin Ebrahimi, Farzan Haddadi;;;2511.08349;;;last_year;;;none;;;2025-11-11;;;code
 Adjoint and duality for rank-metric codes in a skew polynomial framework;;;José Gómez-Torrecillas, F. J. Lobillo, Gabriel Navarro, Paolo Santonastaso;;;2511.05084;;;last_year;;;none;;;2025-11-07;;;code
 The Future of Fully Homomorphic Encryption System: from a Storage I/O Perspective;;;Lei Chen, Erci Xu, Yiming Sun, Shengyu Fan, Xianglong Deng, Guiming Shi, Guang Fan, Liang Kong, Yilan Zhu, Shoumeng Yan, Mingzhe Zhang;;;2511.04946;;;last_year;;;none;;;2025-11-07;;;lattice
-Regular fat linear sets;;;Valentino Smaldore, Corrado Zanella, Ferdinando Zullo;;;2511.04581;;;last_year;;;none;;;2025-11-06;;;code
