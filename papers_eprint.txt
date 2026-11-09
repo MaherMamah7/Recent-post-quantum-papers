@@ -1,3 +1,12 @@
+SNARKs from LWE via Non-black-box Reductions;;;Zhengzhong Jin, Mingqi Lu, Bo Peng;;;2026/2805;;;last_week;;;none;;;2026-11-06;;;lattice
+Actively Secure PIR from Verifiable Linear Relations over Rings;;;Louis Tremblay Thibault;;;2026/2804;;;last_week;;;none;;;2026-11-06;;;lattice
+Filtered merges make deeper representation trees pay: Subset Sum and Meet-LWE;;;Nick Howgrave-Graham;;;2026/2802;;;last_week;;;none;;;2026-11-06;;;lattice
+Independent Leakage Does Not Save Evasive LWE: Refuting Folklore Fixes in the Private-Coin Setting;;;Yao-Ching Hsieh;;;2026/2792;;;last_week;;;none;;;2026-11-05;;;lattice
+New Results in Adaptively-Secure Broadcast Encryption and Succinct Computational Secret Sharing from Standard Lattices;;;Rishab Goyal, Saikumar Yadugiri;;;2026/2791;;;last_week;;;none;;;2026-11-05;;;lattice
+Symbolic forward secrecy analysis of ML-KEM;;;Varsha Jarali, Shashi Kant Pandey;;;2026/2787;;;last_week;;;none;;;2026-11-05;;;lattice
+Privacy-Preserving Multi-Institutional Clinical Prediction via Multiparty Encrypted Newton-CG Logistic Regression;;;Xiaokang Dai, Weijie Miao, Wenyuan Wu, Yong Feng;;;2026/2784;;;last_week;;;none;;;2026-11-05;;;lattice
+Memory-Efficient HQC Implementations on Cortex-M3 and Cortex-M7;;;Minjoo Sim, Siwoo Eum, Minwoo Lee, Seungwon Lee, Gyeongju Song, Lee Wai Kong, Anupam Chattopadhyay, Hwajeong Seo;;;2026/2782;;;last_week;;;none;;;2026-11-05;;;code
+Exact $\ell_p$-CVP via Euclidean SVP in Polynomial Space;;;Jiseung Kim, Minkyu Kim, Hyung Tae Lee;;;2026/2781;;;last_week;;;none;;;2026-11-05;;;lattice
 Can Fully Homomorphic Encryption on Public Blockchains Protect Sensitive Medical Consultations? A Security and Privacy Assessment;;;Nizamuddeen Shahruddeen;;;2026/2771;;;last_week;;;none;;;2026-11-04;;;lattice
 Projective Jet Geometry and Hold-Out Rank of Binary Goppa Codes;;;Yongge Wang;;;2026/2769;;;last_week;;;none;;;2026-11-04;;;code
 HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2026/2767;;;last_week;;;none;;;2026-11-04;;;code
