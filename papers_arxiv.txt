@@ -1,3 +1,4 @@
+Evasive subspaces, minimal rank-metric codes and subspace designs via auxiliary fields;;;Alessandro Giannoni;;;2611.08627;;;last_week;;;none;;;2026-11-05;;;code
 Few-Weight Linear Sets and Divisibility of Rank-Metric Codes;;;Jan De Beule, Leen Demuys, Ferdinando Zullo, Olga Polverino;;;2611.08044;;;last_week;;;none;;;2026-11-05;;;code
 Solving a non-abelian hidden subgroup problem on a trapped-ion quantum computer: the power of the measurement basis;;;Oliver O'Brien;;;2611.06716;;;last_week;;;none;;;2026-11-04;;;lattice
 Private key sieves for improved attacks on RSA;;;Markus Hittmeir;;;2611.06427;;;last_week;;;none;;;2026-11-04;;;lattice
@@ -35,7 +36,7 @@ Non-additive symmetric rank-metric codes;;;Marta Messia, Ferdinando Zullo;;;2610
 Puncturing-inclusion constructions of optimal Ferrers diagram rank-metric codes using semifield codes;;;Dengming Xu, Chengming Duan, Yong Jin, Yuhao Ning;;;2610.17570;;;last_month;;;none;;;2026-10-13;;;code
 Covering Radius and Deep Holes of Hyperderivative Reed-Solomon Codes under the NRT Metric;;;Zhihao Zhu, Haojie Gu, Jun Zhang, Yu Li;;;2610.16643;;;last_month;;;none;;;2026-10-12;;;code
 On the Average List Size of VT Codes under Two Insertions or Two Deletions;;;Anisha Banerjee, Roni Con, Antonia Wachter-Zeh, Eitan Yaakobi;;;2610.15767;;;last_month;;;none;;;2026-10-11;;;code
-Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2610.12913;;;last_month;;;none;;;2026-10-09;;;lattice
+Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2610.12913;;;last_year;;;none;;;2026-10-09;;;lattice
 Hankel Matrix Decompositions and Digital Sequences over Function Fields;;;Roswitha Hofer;;;2610.12691;;;last_year;;;none;;;2026-10-08;;;code
 HPQ-AKE: A Provably Secure Sign-Less Hybrid Authenticated Key Exchange Protocol for Bandwidth-Constrained IoT and Edge Networks;;;Khiem Pham-Tuan, Minh Quang Le, Khuong Nguyen-An;;;2610.12024;;;last_year;;;none;;;2026-10-08;;;lattice
 Covering radius of rank-metric codes via covering lifts and clubs;;;Giuseppe Marino, Alessandro Neri, Alessia Vallefuoco;;;2610.11926;;;last_year;;;none;;;2026-10-08;;;code
