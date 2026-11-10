@@ -1,3 +1,6 @@
+An Agile Homomorphic Encryption and ML-KEM Scheme for Privacy-Preserving Health Data Processing;;;Daniel Resende, Nadia El Mrabet, Ulrich K{ü}hne;;;2611.12367;;;last_week;;;none;;;2026-11-09;;;lattice
+A Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Fully Homomorphic Encryption;;;Quanxi Zhou, Wencan Mao, Ye Tao, Manabu Tsukada, Kensuke Fukuda, Yusheng Ji;;;2611.12064;;;last_week;;;none;;;2026-11-09;;;lattice
+CAROUSEL: GPU-Accelerated Private Vector Search via Homomorphic Sketching;;;Sohaib, Divyakant Agrawal, Amr El Abbadi, Soamar Homsi;;;2611.10622;;;last_week;;;none;;;2026-11-07;;;lattice
 Evasive subspaces, minimal rank-metric codes and subspace designs via auxiliary fields;;;Alessandro Giannoni;;;2611.08627;;;last_week;;;none;;;2026-11-05;;;code
 Few-Weight Linear Sets and Divisibility of Rank-Metric Codes;;;Jan De Beule, Leen Demuys, Ferdinando Zullo, Olga Polverino;;;2611.08044;;;last_week;;;none;;;2026-11-05;;;code
 Solving a non-abelian hidden subgroup problem on a trapped-ion quantum computer: the power of the measurement basis;;;Oliver O'Brien;;;2611.06716;;;last_week;;;none;;;2026-11-04;;;lattice
@@ -6,8 +9,8 @@ From Claws to Conferences: Device-Independent Key Agreement Beyond Non-Signaling
 Rank-metric intersecting codes;;;Martino Borello, Martin Scotti, Lune Vila;;;2611.05059;;;last_week;;;none;;;2026-11-03;;;code
 Perseus: A Full-Stack System for Homomorphic Model Inference;;;Alessandro Zirilli, Davide Marincione, Evgenios M. Kornaropoulos, Giuseppe Ateniese, Emanuele Rodolà;;;2611.04488;;;last_week;;;none;;;2026-11-03;;;lattice
 Gaussian Difference Dynamics: Breaking the $2^{n/2}$ Barrier for the Shortest Vector Problem and Discrete Gaussian Sampling;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2611.04336;;;last_week;;;none;;;2026-11-03;;;lattice
-On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2611.04052;;;last_week;;;none;;;2026-11-02;;;lattice
-End-to-End NTT on FPGA for FHE Acceleration;;;Mohamed Allam, Thomas Spendlhofer, Hugo Sanz-González, Antonio J. Peña;;;2611.03325;;;last_week;;;none;;;2026-11-02;;;lattice
+On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2611.04052;;;last_month;;;none;;;2026-11-02;;;lattice
+End-to-End NTT on FPGA for FHE Acceleration;;;Mohamed Allam, Thomas Spendlhofer, Hugo Sanz-González, Antonio J. Peña;;;2611.03325;;;last_month;;;none;;;2026-11-02;;;lattice
 Side-Channel Attack Prevention for Post Quantum Cryptography Algorithms: A 3D-Shield Approach;;;Carl Benda, Eren Kurshan, Aydin Aysu, Paul Franzon;;;2611.01144;;;last_month;;;none;;;2026-10-31;;;lattice
 Syndrome Trellis Decryption in Post-Quantum Cryptography;;;Meir Ariel;;;2610.39873;;;last_month;;;none;;;2026-10-29;;;code
 The use of post-quantum cryptography in the automotive context;;;Mariana do Carmo Barata Gonçalves, Valderi Reis Quietinho Leithardt;;;2610.38632;;;last_month;;;none;;;2026-10-28;;;lattice

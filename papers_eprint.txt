@@ -26,8 +26,8 @@ PS-BKZ: Decoupling Outer Propagation and Local Processing in BKZ by Parameter Se
 Perseus: A Full-Stack System for Homomorphic Model Inference;;;Alessandro Zirilli, Davide Marincione, Evgenios M. Kornaropoulos, Giuseppe Ateniese, Emanuele Rodolà;;;2026/2735;;;last_week;;;none;;;2026-11-03;;;lattice
 FixSampZ: A Fixed-Point Hardware-Efficient Discrete Gaussian Sampler for Falcon Signatures;;;Pushpendra Singh, Akshara K B, Utsav Banerjee, Navin Kashyap;;;2026/2731;;;last_week;;;none;;;2026-11-03;;;lattice
 Kaiburr: ML-KEM at (much) higher security;;;Swechchha Adhikari, Vadim Lyubashevsky, Peter Schwabe;;;2026/2730;;;last_week;;;none;;;2026-11-03;;;lattice
-On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2026/2727;;;last_week;;;none;;;2026-11-02;;;lattice
-Efficient Polynomial Multiplier Architectures for ML-KEM on Resource-Constrained FPGAs;;;Hossein Naderi Varandi, Raziye Salarifard;;;2026/2726;;;last_week;;;none;;;2026-11-02;;;lattice
+On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2026/2727;;;last_month;;;none;;;2026-11-02;;;lattice
+Efficient Polynomial Multiplier Architectures for ML-KEM on Resource-Constrained FPGAs;;;Hossein Naderi Varandi, Raziye Salarifard;;;2026/2726;;;last_month;;;none;;;2026-11-02;;;lattice
 A Constant-Rate Compiler for Continual Memory Leakage;;;Shweta Agrawal, Anuja Modi, Rajeev Raghunath;;;2026/2715;;;last_month;;;none;;;2026-11-01;;;lattice
 Fast Provable Algorithms for Approximate CVP and Exact SVP on Random \(q\)-ary Lattices;;;Jiseung Kim, Junhyuk Kwon, Changmin Lee, JeongHwan Lee;;;2026/2711;;;last_month;;;none;;;2026-10-31;;;lattice
 Hidden Curves and Short Duals: Cubic Jets, Dual Leaks, and the Limits of Masked-Code Encryption;;;Yongge Wang;;;2026/2710;;;last_month;;;none;;;2026-10-31;;;code
@@ -115,7 +115,7 @@ Modulus Operandi: Round-Optimal Modulus Conversion for MPC and Threshold FHE;;;I
 Breaking First-Order Masked Kyber with Belief Propagation Alone;;;Vahid Jahandideh, Lejla Batina;;;2026/2448;;;last_month;;;none;;;2026-10-12;;;lattice
 Worst-Case Hardness for Succinct and Decomposed Learning with Errors;;;Damiano Abram, Gal Arnon, Valerio Cini, Paul Lou, Giulio Malavolta, Lawrence Roy;;;2026/2443;;;last_month;;;none;;;2026-10-11;;;lattice
 Faster generic CCA secure KEM transformation using encrypt-then-MAC;;;Ganyu Xu, Kalikinkar Mandal, Guang Gong;;;2026/2442;;;last_month;;;none;;;2026-10-11;;;code,lattice
-Threshold BARGs with Statistical Soundness: Weighted Threshold Encryption without Obfuscation;;;Shafik Nassar, Brent Waters, David J. Wu;;;2026/2436;;;last_month;;;none;;;2026-10-10;;;lattice
+Threshold BARGs with Statistical Soundness: Weighted Threshold Encryption without Obfuscation;;;Shafik Nassar, Brent Waters, David J. Wu;;;2026/2436;;;last_year;;;none;;;2026-10-10;;;lattice
 Flying, Not Floating: Precise Fixed-Point Falcon on Embedded Processors;;;Stef Halmans, Amit Kumar, Tim Güneysu;;;2026/2431;;;last_year;;;none;;;2026-10-09;;;lattice
 Provably Subexponential Algorithms for Bounded-Error LWE with Few Samples;;;Haoxing Lin, Prashant Nalini Vasudevan;;;2026/2426;;;last_year;;;none;;;2026-10-09;;;lattice
 Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2026/2425;;;last_year;;;none;;;2026-10-09;;;lattice
