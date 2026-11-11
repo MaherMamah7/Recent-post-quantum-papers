@@ -5,10 +5,10 @@ Evasive subspaces, minimal rank-metric codes and subspace designs via auxiliary 
 Few-Weight Linear Sets and Divisibility of Rank-Metric Codes;;;Jan De Beule, Leen Demuys, Ferdinando Zullo, Olga Polverino;;;2611.08044;;;last_week;;;none;;;2026-11-05;;;code
 Solving a non-abelian hidden subgroup problem on a trapped-ion quantum computer: the power of the measurement basis;;;Oliver O'Brien;;;2611.06716;;;last_week;;;none;;;2026-11-04;;;lattice
 Private key sieves for improved attacks on RSA;;;Markus Hittmeir;;;2611.06427;;;last_week;;;none;;;2026-11-04;;;lattice
-From Claws to Conferences: Device-Independent Key Agreement Beyond Non-Signaling;;;Suvradip Chakraborty;;;2611.05509;;;last_week;;;none;;;2026-11-03;;;lattice
-Rank-metric intersecting codes;;;Martino Borello, Martin Scotti, Lune Vila;;;2611.05059;;;last_week;;;none;;;2026-11-03;;;code
-Perseus: A Full-Stack System for Homomorphic Model Inference;;;Alessandro Zirilli, Davide Marincione, Evgenios M. Kornaropoulos, Giuseppe Ateniese, Emanuele Rodolà;;;2611.04488;;;last_week;;;none;;;2026-11-03;;;lattice
-Gaussian Difference Dynamics: Breaking the $2^{n/2}$ Barrier for the Shortest Vector Problem and Discrete Gaussian Sampling;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2611.04336;;;last_week;;;none;;;2026-11-03;;;lattice
+From Claws to Conferences: Device-Independent Key Agreement Beyond Non-Signaling;;;Suvradip Chakraborty;;;2611.05509;;;last_month;;;none;;;2026-11-03;;;lattice
+Rank-metric intersecting codes;;;Martino Borello, Martin Scotti, Lune Vila;;;2611.05059;;;last_month;;;none;;;2026-11-03;;;code
+Perseus: A Full-Stack System for Homomorphic Model Inference;;;Alessandro Zirilli, Davide Marincione, Evgenios M. Kornaropoulos, Giuseppe Ateniese, Emanuele Rodolà;;;2611.04488;;;last_month;;;none;;;2026-11-03;;;lattice
+Gaussian Difference Dynamics: Breaking the $2^{n/2}$ Barrier for the Shortest Vector Problem and Discrete Gaussian Sampling;;;Yiming Gao, Xuyuan Han, Honggang Hu;;;2611.04336;;;last_month;;;none;;;2026-11-03;;;lattice
 On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2611.04052;;;last_month;;;none;;;2026-11-02;;;lattice
 End-to-End NTT on FPGA for FHE Acceleration;;;Mohamed Allam, Thomas Spendlhofer, Hugo Sanz-González, Antonio J. Peña;;;2611.03325;;;last_month;;;none;;;2026-11-02;;;lattice
 Side-Channel Attack Prevention for Post Quantum Cryptography Algorithms: A 3D-Shield Approach;;;Carl Benda, Eren Kurshan, Aydin Aysu, Paul Franzon;;;2611.01144;;;last_month;;;none;;;2026-10-31;;;lattice
@@ -38,7 +38,7 @@ Quantum-Resilient Secure Protocol for Decentralized Edge-IoT Peer-to-Peer Energy
 Non-additive symmetric rank-metric codes;;;Marta Messia, Ferdinando Zullo;;;2610.18061;;;last_month;;;none;;;2026-10-13;;;code
 Puncturing-inclusion constructions of optimal Ferrers diagram rank-metric codes using semifield codes;;;Dengming Xu, Chengming Duan, Yong Jin, Yuhao Ning;;;2610.17570;;;last_month;;;none;;;2026-10-13;;;code
 Covering Radius and Deep Holes of Hyperderivative Reed-Solomon Codes under the NRT Metric;;;Zhihao Zhu, Haojie Gu, Jun Zhang, Yu Li;;;2610.16643;;;last_month;;;none;;;2026-10-12;;;code
-On the Average List Size of VT Codes under Two Insertions or Two Deletions;;;Anisha Banerjee, Roni Con, Antonia Wachter-Zeh, Eitan Yaakobi;;;2610.15767;;;last_month;;;none;;;2026-10-11;;;code
+On the Average List Size of VT Codes under Two Insertions or Two Deletions;;;Anisha Banerjee, Roni Con, Antonia Wachter-Zeh, Eitan Yaakobi;;;2610.15767;;;last_year;;;none;;;2026-10-11;;;code
 Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2610.12913;;;last_year;;;none;;;2026-10-09;;;lattice
 Hankel Matrix Decompositions and Digital Sequences over Function Fields;;;Roswitha Hofer;;;2610.12691;;;last_year;;;none;;;2026-10-08;;;code
 HPQ-AKE: A Provably Secure Sign-Less Hybrid Authenticated Key Exchange Protocol for Bandwidth-Constrained IoT and Edge Networks;;;Khiem Pham-Tuan, Minh Quang Le, Khuong Nguyen-An;;;2610.12024;;;last_year;;;none;;;2026-10-08;;;lattice
