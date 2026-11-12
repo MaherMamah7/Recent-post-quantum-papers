@@ -3,8 +3,8 @@ A Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing Sy
 CAROUSEL: GPU-Accelerated Private Vector Search via Homomorphic Sketching;;;Sohaib, Divyakant Agrawal, Amr El Abbadi, Soamar Homsi;;;2611.10622;;;last_week;;;none;;;2026-11-07;;;lattice
 Evasive subspaces, minimal rank-metric codes and subspace designs via auxiliary fields;;;Alessandro Giannoni;;;2611.08627;;;last_week;;;none;;;2026-11-05;;;code
 Few-Weight Linear Sets and Divisibility of Rank-Metric Codes;;;Jan De Beule, Leen Demuys, Ferdinando Zullo, Olga Polverino;;;2611.08044;;;last_week;;;none;;;2026-11-05;;;code
-Solving a non-abelian hidden subgroup problem on a trapped-ion quantum computer: the power of the measurement basis;;;Oliver O'Brien;;;2611.06716;;;last_week;;;none;;;2026-11-04;;;lattice
-Private key sieves for improved attacks on RSA;;;Markus Hittmeir;;;2611.06427;;;last_week;;;none;;;2026-11-04;;;lattice
+Solving a non-abelian hidden subgroup problem on a trapped-ion quantum computer: the power of the measurement basis;;;Oliver O'Brien;;;2611.06716;;;last_month;;;none;;;2026-11-04;;;lattice
+Private key sieves for improved attacks on RSA;;;Markus Hittmeir;;;2611.06427;;;last_month;;;none;;;2026-11-04;;;lattice
 From Claws to Conferences: Device-Independent Key Agreement Beyond Non-Signaling;;;Suvradip Chakraborty;;;2611.05509;;;last_month;;;none;;;2026-11-03;;;lattice
 Rank-metric intersecting codes;;;Martino Borello, Martin Scotti, Lune Vila;;;2611.05059;;;last_month;;;none;;;2026-11-03;;;code
 Perseus: A Full-Stack System for Homomorphic Model Inference;;;Alessandro Zirilli, Davide Marincione, Evgenios M. Kornaropoulos, Giuseppe Ateniese, Emanuele Rodolà;;;2611.04488;;;last_month;;;none;;;2026-11-03;;;lattice
@@ -37,7 +37,7 @@ Fast \(\ell_\infty\)-Reduction of Rank-2 Lattices in $\mathbb{R}^n$ via a New Re
 Quantum-Resilient Secure Protocol for Decentralized Edge-IoT Peer-to-Peer Energy Trading Systems;;;Ali Shahidinejad, Jamshid Aghaei, Mahdi Jalili;;;2610.19491;;;last_month;;;none;;;2026-10-14;;;lattice
 Non-additive symmetric rank-metric codes;;;Marta Messia, Ferdinando Zullo;;;2610.18061;;;last_month;;;none;;;2026-10-13;;;code
 Puncturing-inclusion constructions of optimal Ferrers diagram rank-metric codes using semifield codes;;;Dengming Xu, Chengming Duan, Yong Jin, Yuhao Ning;;;2610.17570;;;last_month;;;none;;;2026-10-13;;;code
-Covering Radius and Deep Holes of Hyperderivative Reed-Solomon Codes under the NRT Metric;;;Zhihao Zhu, Haojie Gu, Jun Zhang, Yu Li;;;2610.16643;;;last_month;;;none;;;2026-10-12;;;code
+Covering Radius and Deep Holes of Hyperderivative Reed-Solomon Codes under the NRT Metric;;;Zhihao Zhu, Haojie Gu, Jun Zhang, Yu Li;;;2610.16643;;;last_year;;;none;;;2026-10-12;;;code
 On the Average List Size of VT Codes under Two Insertions or Two Deletions;;;Anisha Banerjee, Roni Con, Antonia Wachter-Zeh, Eitan Yaakobi;;;2610.15767;;;last_year;;;none;;;2026-10-11;;;code
 Sample-Preserving Search-to-Decision Reduction for Noisy Linear Equations over Large Moduli;;;Andrej Bogdanov, Kel Zin Tan, Prashant Nalini Vasudevan;;;2610.12913;;;last_year;;;none;;;2026-10-09;;;lattice
 Hankel Matrix Decompositions and Digital Sequences over Function Fields;;;Roswitha Hofer;;;2610.12691;;;last_year;;;none;;;2026-10-08;;;code
@@ -323,4 +323,3 @@ QMA Complete Quantum-Enhanced Kyber: Provable Security Through CHSH Nonlocality;
 Bridging Local and Federated Data Normalization in Federated Learning: A Privacy-Preserving Approach;;;Melih Coşğun, Mert Gençtürk, Sinem Sav;;;2511.11249;;;last_year;;;none;;;2025-11-14;;;lattice
 Revisit to the Bai-Galbraith signature scheme;;;Banhirup Sengupta, Peenal Gupta, Souvik Sengupta;;;2511.09582;;;last_year;;;none;;;2025-11-12;;;lattice
 MedHE: Communication-Efficient Privacy-Preserving Federated Learning with Adaptive Gradient Sparsification for Healthcare;;;Farjana Yesmin;;;2511.09043;;;last_year;;;none;;;2025-11-12;;;lattice
-Hybrid Quantum-Classical Selective State Space Artificial Intelligence;;;Amin Ebrahimi, Farzan Haddadi;;;2511.08349;;;last_year;;;none;;;2025-11-11;;;code
