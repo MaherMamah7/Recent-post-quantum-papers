@@ -13,9 +13,9 @@ An Agile Homomorphic Encryption and ML-KEM Scheme for Privacy-Preserving Health 
 Incrementally Verifiable Oracle Aided Computation;;;Shafi Goldwasser, Yael Tauman Kalai;;;2026/2824;;;last_week;;;none;;;2026-11-08;;;lattice
 Threshold Batched Attribute-Based Encryption from Succinct LWE;;;Shayeef Murshid, Ramprasad Sarkar, Mriganka Mandal;;;2026/2822;;;last_week;;;none;;;2026-11-08;;;lattice
 SoK: Understanding Virtual Machines over Fully Homomorphic Encryption;;;Song Bian, Ziwei Ma, Yunhao Fu, Haowen Pan, Ruiyu Shen, Zhou Zhang, Ran Mao, Zaidong Li, Yintai Sun, Ruoyi Li, Zhenyu Guan;;;2026/2816;;;last_week;;;none;;;2026-11-07;;;lattice
-SNARKs from LWE via Non-black-box Reductions;;;Zhengzhong Jin, Mingqi Lu, Bo Peng;;;2026/2805;;;last_week;;;none;;;2026-11-06;;;lattice
-Actively Secure PIR from Verifiable Linear Relations over Rings;;;Louis Tremblay Thibault;;;2026/2804;;;last_week;;;none;;;2026-11-06;;;lattice
-Filtered merges make deeper representation trees pay: Subset Sum and Meet-LWE;;;Nick Howgrave-Graham;;;2026/2802;;;last_week;;;none;;;2026-11-06;;;lattice
+SNARKs from LWE via Non-black-box Reductions;;;Zhengzhong Jin, Mingqi Lu, Bo Peng;;;2026/2805;;;last_month;;;none;;;2026-11-06;;;lattice
+Actively Secure PIR from Verifiable Linear Relations over Rings;;;Louis Tremblay Thibault;;;2026/2804;;;last_month;;;none;;;2026-11-06;;;lattice
+Filtered merges make deeper representation trees pay: Subset Sum and Meet-LWE;;;Nick Howgrave-Graham;;;2026/2802;;;last_month;;;none;;;2026-11-06;;;lattice
 Independent Leakage Does Not Save Evasive LWE: Refuting Folklore Fixes in the Private-Coin Setting;;;Yao-Ching Hsieh;;;2026/2792;;;last_month;;;none;;;2026-11-05;;;lattice
 New Results in Adaptively-Secure Broadcast Encryption and Succinct Computational Secret Sharing from Standard Lattices;;;Rishab Goyal, Saikumar Yadugiri;;;2026/2791;;;last_month;;;none;;;2026-11-05;;;lattice
 Symbolic forward secrecy analysis of ML-KEM;;;Varsha Jarali, Shashi Kant Pandey;;;2026/2787;;;last_month;;;none;;;2026-11-05;;;lattice
@@ -117,12 +117,12 @@ Aerie: Efficient Aggregation of Falcon Signatures;;;Alberto Centelles, Quang Dao
 Threshold Post-Quantum E-Voting from Lattice Commitments;;;Jalal Alizadeh, Yadigar Imamverdiyev, Ali Huseynli;;;2026/2500;;;last_month;;;none;;;2026-10-15;;;lattice
 Exploring Fault Injection Attacks on HQC and BIKE Beyond Fujisaki-Okamoto Verification;;;Thales B. Paiva, Lucas C. Cardoso, Keerthi Kamalakshan, Hariprasad Kelassery Valsaraj, Marcos A. Simplicio Jr., Shivam Bhasin;;;2026/2492;;;last_month;;;none;;;2026-10-15;;;code
 Reaction Attack on CKKS Deployments with Asymptotically Optimal Query Complexity;;;Song Bian, Hyeongmin Choe, Jiseung Kim, Changmin Lee;;;2026/2490;;;last_month;;;none;;;2026-10-15;;;lattice
-Tulva: Practical Asynchronous Threshold FHE;;;Valerio Cini, Antonio Guimarães, Russell W. F. Lai, Michał Osadnik, Ivy K. Y. Woo;;;2026/2485;;;last_month;;;none;;;2026-10-14;;;lattice
-Post-Quantum Certificate-Based PSK Provisioning for WireGuard via Mutual TLS, DTLS, and QUIC: Design and Performance Study;;;Che Hang Ng, Emil Künstner, Bastian Küppers, Theodor Schnitzler, Misha Glazunov;;;2026/2480;;;last_month;;;none;;;2026-10-14;;;lattice
-Software-Pipelining The Number Theoretic Transform on Neural Processing Units: A Loop-Fission Methodology;;;Henri Vermeersch, Xander Pottier, Quinten Norga, Thomas de Ruijter, Ingrid Verbauwhede;;;2026/2474;;;last_month;;;none;;;2026-10-14;;;lattice
-edaBits in the Exponent (edaBitE) and Issuer-Hiding Blind Signatures from ML-DSA and VOLE-in-the-Head;;;Carsten Baum, Marvin Beckmann;;;2026/2473;;;last_month;;;none;;;2026-10-14;;;lattice
-Nowhere Man: Device Binding for Post-Quantum Anonymous Credentials;;;Calvin Abou Haidar, Ryo Kikuchi, Octavio Perez-Kempner, Marcel Tiepelt;;;2026/2472;;;last_month;;;none;;;2026-10-14;;;lattice
-Refined Application of the XL Algorithm within the Algebraic Approach to the Regular Syndrome Decoding Problem;;;Hiroki Furue, Yusuke Aikawa;;;2026/2470;;;last_month;;;none;;;2026-10-14;;;code
+Tulva: Practical Asynchronous Threshold FHE;;;Valerio Cini, Antonio Guimarães, Russell W. F. Lai, Michał Osadnik, Ivy K. Y. Woo;;;2026/2485;;;last_year;;;none;;;2026-10-14;;;lattice
+Post-Quantum Certificate-Based PSK Provisioning for WireGuard via Mutual TLS, DTLS, and QUIC: Design and Performance Study;;;Che Hang Ng, Emil Künstner, Bastian Küppers, Theodor Schnitzler, Misha Glazunov;;;2026/2480;;;last_year;;;none;;;2026-10-14;;;lattice
+Software-Pipelining The Number Theoretic Transform on Neural Processing Units: A Loop-Fission Methodology;;;Henri Vermeersch, Xander Pottier, Quinten Norga, Thomas de Ruijter, Ingrid Verbauwhede;;;2026/2474;;;last_year;;;none;;;2026-10-14;;;lattice
+edaBits in the Exponent (edaBitE) and Issuer-Hiding Blind Signatures from ML-DSA and VOLE-in-the-Head;;;Carsten Baum, Marvin Beckmann;;;2026/2473;;;last_year;;;none;;;2026-10-14;;;lattice
+Nowhere Man: Device Binding for Post-Quantum Anonymous Credentials;;;Calvin Abou Haidar, Ryo Kikuchi, Octavio Perez-Kempner, Marcel Tiepelt;;;2026/2472;;;last_year;;;none;;;2026-10-14;;;lattice
+Refined Application of the XL Algorithm within the Algebraic Approach to the Regular Syndrome Decoding Problem;;;Hiroki Furue, Yusuke Aikawa;;;2026/2470;;;last_year;;;none;;;2026-10-14;;;code
 Tree-BTE: Batched Threshold Encryption using Additive Homomorphism;;;Amit Agarwal, Sourav Das, Babak Poorebrahim Gilkalaye, Benny Pinkas, Peter Rindal;;;2026/2463;;;last_year;;;none;;;2026-10-13;;;lattice
 Leakage-Resilient Incompressible Cryptography: Constructions and Barriers;;;KAARTIK BHUSHAN, Rishab Goyal, Venkata Koppula, Varun Narayanan, Manoj Prabhakaran, Mahesh Sreekumar Rajasree;;;2026/2461;;;last_year;;;none;;;2026-10-13;;;lattice
 On the Expected Number of Iterations in ML-DSA Signing: A Complete Accounting of the Rejection Conditions;;;Kris Kwiatkowski;;;2026/2456;;;last_year;;;none;;;2026-10-12;;;lattice
