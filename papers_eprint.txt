@@ -1,3 +1,5 @@
+Encrypted Authorship Attribution for Fraud Detection;;;Zita Baronnet, Leonard Schild;;;2026/2876;;;last_week;;;none;;;2026-11-12;;;lattice
+Optimized Solving Strategy and Two-Step Estimator for LWE with Hints;;;Hanbin Yang, Jinzheng Cao, Risheng Yin, Qingfeng Cheng;;;2026/2873;;;last_week;;;none;;;2026-11-12;;;lattice
 From Dependent Ciphertexts to Sharp Bounds for Polynomial Evaluation in BGV;;;Chiara Marcolla, Nadir Murru, Matilda Urani;;;2026/2869;;;last_week;;;none;;;2026-11-11;;;lattice
 HIT: Single-Pass Inference for Single-Trace NTT Side-Channel Attacks;;;Yihan Nie, Yuxuan Wang, Yubo Zhao, Zixin He, Wenjing Zheng, Jintong Yu, Shifeng Sun, Chi Zhang, Pei Cao, Dawu Gu;;;2026/2865;;;last_week;;;none;;;2026-11-11;;;lattice
 Tightly Secure and Modular Post-Quantum TLS Handshakes;;;Biming Zhou, Jinrong Chen, Haodong Jiang, Rongmao Chen, Yunlei Zhao;;;2026/2864;;;last_week;;;none;;;2026-11-11;;;lattice
