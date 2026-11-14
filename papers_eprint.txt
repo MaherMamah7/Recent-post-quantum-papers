@@ -173,7 +173,6 @@ Functional Verification of Additive FFT Assembly Implementations in Code-Based P
 Revisiting Partitioning: Output-Adaptive ABE for Circuits from LWE;;;Jiaqi Cheng, Rishab Goyal;;;2026/2305;;;last_year;;;none;;;2026-10-02;;;lattice
 CAROUSEL: GPU-Accelerated Private Vector Search via Homomorphic Sketching;;;Sohaib, Divyakant Agrawal, Amr El Abbadi, Soamar Homsi;;;2026/2302;;;last_year;;;none;;;2026-10-01;;;lattice
 Pseudorandom Correlation Generators for Matrix Triples;;;Maxime Bombar, Geoffroy Couteau, Nikolas Melissaris, Anuja Modi;;;2026/2298;;;last_year;;;none;;;2026-10-01;;;code,lattice
-Jambon: Asynchronous Universally Composable Threshold FHE with Low Communication;;;Jung Hee Cheon, Kevin Choi, Changmin Lee, JeongHwan Lee, Junho Lim, Duc Anh Luong;;;2026/2290;;;last_year;;;none;;;2026-10-01;;;lattice
 A Subexponential Algorithm for Binary LWE with Sublinear Samples;;;Zhili Chen, Kaijie Jiang, Anyu Wang, Chuanqi Zhang;;;2026/2289;;;last_year;;;none;;;2026-10-01;;;lattice
 Kettle: Short Post-Quantum Threshold Signatures from the HAWK Signature Scheme;;;Calvin Abou Haidar, Daniel Escudero, Thomas Espitau, Clément Hoffmann, Kaoru Takemure, Mehdi Tibouchi, Hernán Darío Vanegas Madrigal;;;2026/2288;;;last_year;;;none;;;2026-10-01;;;lattice
 Knuth–Yao masked (Gaussian) sampling;;;Calvin Abou Haidar, Clément Hoffmann;;;2026/2287;;;last_year;;;none;;;2026-10-01;;;lattice
