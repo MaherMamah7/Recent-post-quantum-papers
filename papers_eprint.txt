@@ -14,7 +14,7 @@ The Closest Vector Problem on Gadget Lattices: Efficient Algorithms and Voronoi 
 An Agile Homomorphic Encryption and ML-KEM Scheme for Privacy-Preserving Health Data Processing;;;Daniel RESENDE, Nadia El Mrabet, Ulrich Kühne;;;2026/2832;;;last_week;;;none;;;2026-11-08;;;lattice
 Incrementally Verifiable Oracle Aided Computation;;;Shafi Goldwasser, Yael Tauman Kalai;;;2026/2824;;;last_week;;;none;;;2026-11-08;;;lattice
 Threshold Batched Attribute-Based Encryption from Succinct LWE;;;Shayeef Murshid, Ramprasad Sarkar, Mriganka Mandal;;;2026/2822;;;last_week;;;none;;;2026-11-08;;;lattice
-SoK: Understanding Virtual Machines over Fully Homomorphic Encryption;;;Song Bian, Ziwei Ma, Yunhao Fu, Haowen Pan, Ruiyu Shen, Zhou Zhang, Ran Mao, Zaidong Li, Yintai Sun, Ruoyi Li, Zhenyu Guan;;;2026/2816;;;last_week;;;none;;;2026-11-07;;;lattice
+SoK: Understanding Virtual Machines over Fully Homomorphic Encryption;;;Song Bian, Ziwei Ma, Yunhao Fu, Haowen Pan, Ruiyu Shen, Zhou Zhang, Ran Mao, Zaidong Li, Yintai Sun, Ruoyi Li, Zhenyu Guan;;;2026/2816;;;last_month;;;none;;;2026-11-07;;;lattice
 SNARKs from LWE via Non-black-box Reductions;;;Zhengzhong Jin, Mingqi Lu, Bo Peng;;;2026/2805;;;last_month;;;none;;;2026-11-06;;;lattice
 Actively Secure PIR from Verifiable Linear Relations over Rings;;;Louis Tremblay Thibault;;;2026/2804;;;last_month;;;none;;;2026-11-06;;;lattice
 Filtered merges make deeper representation trees pay: Subset Sum and Meet-LWE;;;Nick Howgrave-Graham;;;2026/2802;;;last_month;;;none;;;2026-11-06;;;lattice
@@ -115,10 +115,10 @@ I Want to Ride My BIKE: Customizing Bit-Flipping Decoders for Ephemeral Key KEMs
 Sparse Secrets, Dense Problems: Efficiently Masking HQC in Hardware;;;Fabian Buschkowski, Niklas Höher, Tim Güneysu;;;2026/2509;;;last_month;;;none;;;2026-10-16;;;code,lattice
 safeRNSgcd: Accelerating Falcon key generation with RNS in SafeGCD;;;Cesare Huang, Bo-Yin Yang;;;2026/2507;;;last_month;;;none;;;2026-10-16;;;lattice
 Shorter Hash-Based Signatures via Guarded Sharing in a DAG Model;;;Chongxu Ren, Hongbo Yu;;;2026/2502;;;last_month;;;none;;;2026-10-16;;;lattice
-Aerie: Efficient Aggregation of Falcon Signatures;;;Alberto Centelles, Quang Dao, Mohammadtaghi Badakhshan, Justin Thaler;;;2026/2501;;;last_month;;;none;;;2026-10-15;;;lattice
-Threshold Post-Quantum E-Voting from Lattice Commitments;;;Jalal Alizadeh, Yadigar Imamverdiyev, Ali Huseynli;;;2026/2500;;;last_month;;;none;;;2026-10-15;;;lattice
-Exploring Fault Injection Attacks on HQC and BIKE Beyond Fujisaki-Okamoto Verification;;;Thales B. Paiva, Lucas C. Cardoso, Keerthi Kamalakshan, Hariprasad Kelassery Valsaraj, Marcos A. Simplicio Jr., Shivam Bhasin;;;2026/2492;;;last_month;;;none;;;2026-10-15;;;code
-Reaction Attack on CKKS Deployments with Asymptotically Optimal Query Complexity;;;Song Bian, Hyeongmin Choe, Jiseung Kim, Changmin Lee;;;2026/2490;;;last_month;;;none;;;2026-10-15;;;lattice
+Aerie: Efficient Aggregation of Falcon Signatures;;;Alberto Centelles, Quang Dao, Mohammadtaghi Badakhshan, Justin Thaler;;;2026/2501;;;last_year;;;none;;;2026-10-15;;;lattice
+Threshold Post-Quantum E-Voting from Lattice Commitments;;;Jalal Alizadeh, Yadigar Imamverdiyev, Ali Huseynli;;;2026/2500;;;last_year;;;none;;;2026-10-15;;;lattice
+Exploring Fault Injection Attacks on HQC and BIKE Beyond Fujisaki-Okamoto Verification;;;Thales B. Paiva, Lucas C. Cardoso, Keerthi Kamalakshan, Hariprasad Kelassery Valsaraj, Marcos A. Simplicio Jr., Shivam Bhasin;;;2026/2492;;;last_year;;;none;;;2026-10-15;;;code
+Reaction Attack on CKKS Deployments with Asymptotically Optimal Query Complexity;;;Song Bian, Hyeongmin Choe, Jiseung Kim, Changmin Lee;;;2026/2490;;;last_year;;;none;;;2026-10-15;;;lattice
 Tulva: Practical Asynchronous Threshold FHE;;;Valerio Cini, Antonio Guimarães, Russell W. F. Lai, Michał Osadnik, Ivy K. Y. Woo;;;2026/2485;;;last_year;;;none;;;2026-10-14;;;lattice
 Post-Quantum Certificate-Based PSK Provisioning for WireGuard via Mutual TLS, DTLS, and QUIC: Design and Performance Study;;;Che Hang Ng, Emil Künstner, Bastian Küppers, Theodor Schnitzler, Misha Glazunov;;;2026/2480;;;last_year;;;none;;;2026-10-14;;;lattice
 Software-Pipelining The Number Theoretic Transform on Neural Processing Units: A Loop-Fission Methodology;;;Henri Vermeersch, Xander Pottier, Quinten Norga, Thomas de Ruijter, Ingrid Verbauwhede;;;2026/2474;;;last_year;;;none;;;2026-10-14;;;lattice
@@ -839,5 +839,3 @@ Sharing the Mask: TFHE bootstrapping on Packed Messages;;;Bergerat Loris, Bonte 
 Quantum-safe Identity-binding Password Authenticated Key Exchange Protocols;;;Pratima Jana, Ratna Dutta;;;2025/2107;;;last_year;;;none;;;2025-11-16;;;lattice
 HRA-Secure Puncturable Attribute-Based Proxy Re-Encryption from Lattices for Secure Cloud Sharing;;;Tianqiao Zhang, Mingming Jiang, Fucai Luo, Yuyan Guo, Jinqiu Hou;;;2025/2105;;;last_year;;;none;;;2025-11-16;;;lattice
 Tag Functions and Their Applications to Lattice-based Signatures and IBEs — Compact Designs and Tighter Security;;;Parhat Abla;;;2025/2100;;;last_year;;;none;;;2025-11-15;;;lattice
-A Lattice-based Designated Verifier zkSNARK from Standard Assumptions;;;Mohammad Sadegh Ahmadi, Taraneh Eghlidos, Behzad Abdolmaleki, Ngoc Khanh Nguyen;;;2025/2099;;;last_year;;;none;;;2025-11-14;;;lattice
-Lore: An LWE-based Key Encapsulation Mechanism with Variable Modulus and CRT Compression;;;Zhongxiang Zheng, Anyu Wang, Chunhuan Zhao, Guangwu Xu, Zhengtao Jiang, Sibo Feng, Zhichen Yan, Shuang Sun, Xiaoyun Wang;;;2025/2093;;;last_year;;;none;;;2025-11-14;;;lattice

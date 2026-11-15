@@ -2,7 +2,7 @@ Latroids on Young's Lattice;;;Gianira N. Alfarano, Sebastian Degen;;;2611.15501;
 An Architecture for Real-Time Quantum Error Correction with Neutral Atoms;;;X. Wang, Y. Jing, Z. Yu, S. Wang, D. Niu, Y. Liu, T. Xiao, A. Yang, J. Han, Y. Wu, X. Lv;;;2611.15104;;;last_week;;;none;;;2026-11-11;;;code
 An Agile Homomorphic Encryption and ML-KEM Scheme for Privacy-Preserving Health Data Processing;;;Daniel Resende, Nadia El Mrabet, Ulrich K{ü}hne;;;2611.12367;;;last_week;;;none;;;2026-11-09;;;lattice
 A Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Fully Homomorphic Encryption;;;Quanxi Zhou, Wencan Mao, Ye Tao, Manabu Tsukada, Kensuke Fukuda, Yusheng Ji;;;2611.12064;;;last_week;;;none;;;2026-11-09;;;lattice
-CAROUSEL: GPU-Accelerated Private Vector Search via Homomorphic Sketching;;;Sohaib, Divyakant Agrawal, Amr El Abbadi, Soamar Homsi;;;2611.10622;;;last_week;;;none;;;2026-11-07;;;lattice
+CAROUSEL: GPU-Accelerated Private Vector Search via Homomorphic Sketching;;;Sohaib, Divyakant Agrawal, Amr El Abbadi, Soamar Homsi;;;2611.10622;;;last_month;;;none;;;2026-11-07;;;lattice
 Evasive subspaces, minimal rank-metric codes and subspace designs via auxiliary fields;;;Alessandro Giannoni;;;2611.08627;;;last_month;;;none;;;2026-11-05;;;code
 Few-Weight Linear Sets and Divisibility of Rank-Metric Codes;;;Jan De Beule, Leen Demuys, Ferdinando Zullo, Olga Polverino;;;2611.08044;;;last_month;;;none;;;2026-11-05;;;code
 Solving a non-abelian hidden subgroup problem on a trapped-ion quantum computer: the power of the measurement basis;;;Oliver O'Brien;;;2611.06716;;;last_month;;;none;;;2026-11-04;;;lattice
@@ -322,4 +322,3 @@ Indefiniteness makes lattice reduction easier;;;Antoine Joux;;;2511.16151;;;last
 A Quantum-Secure and Blockchain-Integrated E-Voting Framework with Identity Validation;;;Ashwin Poudel, Utsav Poudel, Dikshyanta Aryal, Anuj Nepal, Pranish Pathak, Subramaniyaswamy V;;;2511.16034;;;last_year;;;none;;;2025-11-20;;;lattice
 A Deterministic Dimension Property of Twisted Goppa Codes;;;Kai Wang;;;2511.13601;;;last_year;;;none;;;2025-11-17;;;code
 QMA Complete Quantum-Enhanced Kyber: Provable Security Through CHSH Nonlocality;;;Ilias Cherkaoui, Indrakshi Dey;;;2511.12318;;;last_year;;;none;;;2025-11-15;;;lattice
-Bridging Local and Federated Data Normalization in Federated Learning: A Privacy-Preserving Approach;;;Melih Coşğun, Mert Gençtürk, Sinem Sav;;;2511.11249;;;last_year;;;none;;;2025-11-14;;;lattice
