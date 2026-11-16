@@ -1,3 +1,7 @@
+FALCON-PARE: Full-Range Side-Channel Key Recovery of Falcon via Prior-Enhanced Evidence;;;Shuyi Chen, Yuejun Liu, Jingdian Ming, Wei Cheng, Yuhan Zhao, Yongbin Zhou;;;2026/2888;;;last_week;;;none;;;2026-11-13;;;lattice
+Homomorphic Encryption and Bootstrapping for Real Matrices over Conjugate-Invariant Rings;;;Ilaria Chillotti, Hyojun Kim, Yeongmin Lee, Yongwoo Lee, Damien Ligier;;;2026/2887;;;last_week;;;none;;;2026-11-13;;;lattice
+Revisiting homomorphic AES evaluation with Hybrid Byte-Bit Packing;;;Lu Zhang, Xuan Shen, Ruida Wang, Xianhui Lu, Yin Zhang, Chao Li, Shaojing Fu;;;2026/2885;;;last_week;;;none;;;2026-11-13;;;lattice
+Batch, Pack, and Prove: More Efficient Verifiable Computation for CKKS;;;Ignacio Cascudo, Anamaria Costache, Daniele Cozzo, Dario Fiore, Antonio Guimarães, Eduardo Soria-Vazquez;;;2026/2878;;;last_week;;;none;;;2026-11-12;;;lattice
 Encrypted Authorship Attribution for Fraud Detection;;;Zita Baronnet, Leonard Schild;;;2026/2876;;;last_week;;;none;;;2026-11-12;;;lattice
 Optimized Solving Strategy and Two-Step Estimator for LWE with Hints;;;Hanbin Yang, Jinzheng Cao, Risheng Yin, Qingfeng Cheng;;;2026/2873;;;last_week;;;none;;;2026-11-12;;;lattice
 From Dependent Ciphertexts to Sharp Bounds for Polynomial Evaluation in BGV;;;Chiara Marcolla, Nadir Murru, Matilda Urani;;;2026/2869;;;last_week;;;none;;;2026-11-11;;;lattice
