@@ -321,4 +321,3 @@ FHE-Agent: Automating CKKS Configuration for Practical Encrypted Inference via a
 Indefiniteness makes lattice reduction easier;;;Antoine Joux;;;2511.16151;;;last_year;;;none;;;2025-11-20;;;lattice
 A Quantum-Secure and Blockchain-Integrated E-Voting Framework with Identity Validation;;;Ashwin Poudel, Utsav Poudel, Dikshyanta Aryal, Anuj Nepal, Pranish Pathak, Subramaniyaswamy V;;;2511.16034;;;last_year;;;none;;;2025-11-20;;;lattice
 A Deterministic Dimension Property of Twisted Goppa Codes;;;Kai Wang;;;2511.13601;;;last_year;;;none;;;2025-11-17;;;code
-QMA Complete Quantum-Enhanced Kyber: Provable Security Through CHSH Nonlocality;;;Ilias Cherkaoui, Indrakshi Dey;;;2511.12318;;;last_year;;;none;;;2025-11-15;;;lattice
