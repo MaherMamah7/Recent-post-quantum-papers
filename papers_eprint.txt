@@ -8,11 +8,11 @@ From Dependent Ciphertexts to Sharp Bounds for Polynomial Evaluation in BGV;;;Ch
 HIT: Single-Pass Inference for Single-Trace NTT Side-Channel Attacks;;;Yihan Nie, Yuxuan Wang, Yubo Zhao, Zixin He, Wenjing Zheng, Jintong Yu, Shifeng Sun, Chi Zhang, Pei Cao, Dawu Gu;;;2026/2865;;;last_week;;;none;;;2026-11-11;;;lattice
 Tightly Secure and Modular Post-Quantum TLS Handshakes;;;Biming Zhou, Jinrong Chen, Haodong Jiang, Rongmao Chen, Yunlei Zhao;;;2026/2864;;;last_week;;;none;;;2026-11-11;;;lattice
 $\mathsf{SVP}_\infty$ Is NP-Hard for Power-of-two Cyclotomic Ideals;;;Yansong Feng, Jiaqi Liu, Hengyi Luo, Yanbin Pan;;;2026/2861;;;last_week;;;none;;;2026-11-10;;;lattice
-TUTTI: Parallel CKKS Bootstrapping in under 3 ms on CPU;;;Robin Köstler, Antonio Guimarães;;;2026/2848;;;last_week;;;none;;;2026-11-09;;;lattice
-The isodual constant of the LLL potential: exact values and structure;;;Nick Howgrave-Graham;;;2026/2846;;;last_week;;;none;;;2026-11-09;;;lattice
-On Composing Oracle Separations;;;Willy Quach, Felix Rohrbach;;;2026/2845;;;last_week;;;none;;;2026-11-09;;;lattice
-SEC: One-Share Everywhere-Short Secret Sharing from Lossless Expanders;;;Muhammad Arzaki, Muhammed F. Esgin, Amin Sakzad, Ron Steinfeld;;;2026/2841;;;last_week;;;none;;;2026-11-09;;;lattice
-Adaptive Leaky LWE and Its Security;;;Chuanqi Zhang, Muhammed F. Esgin, Ron Steinfeld;;;2026/2837;;;last_week;;;none;;;2026-11-09;;;lattice
+TUTTI: Parallel CKKS Bootstrapping in under 3 ms on CPU;;;Robin Köstler, Antonio Guimarães;;;2026/2848;;;last_month;;;none;;;2026-11-09;;;lattice
+The isodual constant of the LLL potential: exact values and structure;;;Nick Howgrave-Graham;;;2026/2846;;;last_month;;;none;;;2026-11-09;;;lattice
+On Composing Oracle Separations;;;Willy Quach, Felix Rohrbach;;;2026/2845;;;last_month;;;none;;;2026-11-09;;;lattice
+SEC: One-Share Everywhere-Short Secret Sharing from Lossless Expanders;;;Muhammad Arzaki, Muhammed F. Esgin, Amin Sakzad, Ron Steinfeld;;;2026/2841;;;last_month;;;none;;;2026-11-09;;;lattice
+Adaptive Leaky LWE and Its Security;;;Chuanqi Zhang, Muhammed F. Esgin, Ron Steinfeld;;;2026/2837;;;last_month;;;none;;;2026-11-09;;;lattice
 Multi-Hop Functional Encryption;;;Pratish Datta, Jiaxin Guan, Alexis Korb, Amit Sahai;;;2026/2835;;;last_month;;;none;;;2026-11-08;;;lattice
 The Closest Vector Problem on Gadget Lattices: Efficient Algorithms and Voronoi Geometry;;;Daniele Micciancio;;;2026/2833;;;last_month;;;none;;;2026-11-08;;;lattice
 An Agile Homomorphic Encryption and ML-KEM Scheme for Privacy-Preserving Health Data Processing;;;Daniel RESENDE, Nadia El Mrabet, Ulrich Kühne;;;2026/2832;;;last_month;;;none;;;2026-11-08;;;lattice
@@ -111,7 +111,7 @@ How Secure are NTRU+ Keys? Analysing the Best Module Attacks;;;Paola de Perthuis
 Faster ABE for Turing Machines from Circular Evasive LWE;;;Valerio Cini, Hoeteck Wee;;;2026/2526;;;last_month;;;none;;;2026-10-18;;;lattice
 Homomorphic Encryption for High-precision Arithmetic of Approximate Numbers;;;Shihe Ma, Jiaming Liu, Anyu Wang, Xiaoyun Wang;;;2026/2524;;;last_month;;;none;;;2026-10-18;;;lattice
 GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzougui, Milos Pavlovic, Vladimir Shpilrain;;;2026/2523;;;last_month;;;none;;;2026-10-18;;;lattice
-Eﬃcient Fixed-Point Implementation of Mitaka;;;Shiduo Zhang, Paul Kirchner, Xiuhan Lin, Yang Yu;;;2026/2521;;;last_month;;;none;;;2026-10-17;;;lattice
+Eﬃcient Fixed-Point Implementation of Mitaka;;;Shiduo Zhang, Paul Kirchner, Xiuhan Lin, Yang Yu;;;2026/2521;;;last_year;;;none;;;2026-10-17;;;lattice
 Analysis of the Multi-Key Optimization for SPECK;;;Marco Baldi, Michele Battagliola, Rahmi El Mechri, Paolo Santini, Riccardo Schiavoni;;;2026/2514;;;last_year;;;none;;;2026-10-16;;;code
 Fully Homomorphic Encryption for Small Batches of Complex Numbers;;;Jules Dumezy;;;2026/2513;;;last_year;;;none;;;2026-10-16;;;lattice
 SLEEK: Sparse Quasi-Cyclic Codes with Closed-Form DFR Key Encapsulation;;;Alessandro Annechini, Alessandro Barenghi, Marco Gianvecchio, Gerardo Pelosi;;;2026/2512;;;last_year;;;none;;;2026-10-16;;;code
@@ -840,5 +840,3 @@ New Post-Quantum IBE leveraging maturity, efficiency and security of standard sc
 Nostalgia Cipher: Can Filtered LFSRs Be Secure Again? An Application to Hybrid Homomorphic Encryption with Sub-50 ms Latency;;;Nabil Chacal, Antonio Guimarães, Ange Martinelli, Pierrick Méaux, Romain Poussier;;;2025/2140;;;last_year;;;none;;;2025-11-23;;;lattice
 Scalable Private World Computer via Root iO: Application-Agnostic iO and Our Roadmap for Making It Practical;;;Sora Suegami, Enrico Bottazzi;;;2025/2139;;;last_year;;;none;;;2025-11-22;;;lattice
 Sharing the Mask: TFHE bootstrapping on Packed Messages;;;Bergerat Loris, Bonte Charlotte, Benjamin R. Curtis, Jean-Baptiste Orfila, Pascal Paillier, Samuel Tap;;;2025/2112;;;last_year;;;none;;;2025-11-17;;;lattice
-Quantum-safe Identity-binding Password Authenticated Key Exchange Protocols;;;Pratima Jana, Ratna Dutta;;;2025/2107;;;last_year;;;none;;;2025-11-16;;;lattice
-HRA-Secure Puncturable Attribute-Based Proxy Re-Encryption from Lattices for Secure Cloud Sharing;;;Tianqiao Zhang, Mingming Jiang, Fucai Luo, Yuyan Guo, Jinqiu Hou;;;2025/2105;;;last_year;;;none;;;2025-11-16;;;lattice
