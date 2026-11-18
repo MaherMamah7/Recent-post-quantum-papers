@@ -1,3 +1,4 @@
+Can Verifiable PIR Match the Online Efficiency of SimplePIR?;;;Xinxuan Zhang, Ruida Wang, Zirui Wang, Yuming Guo, Jikang Bai, Yuanju Wei, Yi Deng, Xianhui Lu;;;2611.22911;;;last_week;;;none;;;2026-11-17;;;lattice
 The ordered sum-rank metric and linearized multiplicity codes: NRT meets sum-rank;;;Umberto Martínez-Peñas;;;2611.19996;;;last_week;;;none;;;2026-11-15;;;code
 New constructions of optimal Ferrers diagram rank-metric codes for quasi-block monotone Ferrers diagrams;;;Yong Jin, Yuhao Ning, Dengming Xu, Chengming Duan;;;2611.19070;;;last_week;;;none;;;2026-11-14;;;code
 Latroids on Young's Lattice;;;Gianira N. Alfarano, Sebastian Degen;;;2611.15501;;;last_week;;;none;;;2026-11-11;;;code
@@ -323,4 +324,3 @@ Construction and Decoding of Error--Correcting Codes from Ideal Lattices of Fini
 FHE-Agent: Automating CKKS Configuration for Practical Encrypted Inference via an LLM-Guided Agentic Framework;;;Nuo Xu, Zhaoting Gong, Ran Ran, Jinwei Tang, Wujie Wen, Caiwen Ding;;;2511.18653;;;last_year;;;none;;;2025-11-23;;;lattice
 Indefiniteness makes lattice reduction easier;;;Antoine Joux;;;2511.16151;;;last_year;;;none;;;2025-11-20;;;lattice
 A Quantum-Secure and Blockchain-Integrated E-Voting Framework with Identity Validation;;;Ashwin Poudel, Utsav Poudel, Dikshyanta Aryal, Anuj Nepal, Pranish Pathak, Subramaniyaswamy V;;;2511.16034;;;last_year;;;none;;;2025-11-20;;;lattice
-A Deterministic Dimension Property of Twisted Goppa Codes;;;Kai Wang;;;2511.13601;;;last_year;;;none;;;2025-11-17;;;code

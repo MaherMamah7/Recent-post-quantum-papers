@@ -1,3 +1,4 @@
+Phase-Hiding Programmable Bootstrapping with Online Client Assistance;;;Xingke Chai;;;2026/2892;;;last_week;;;none;;;2026-11-14;;;lattice
 FALCON-PARE: Full-Range Side-Channel Key Recovery of Falcon via Prior-Enhanced Evidence;;;Shuyi Chen, Yuejun Liu, Jingdian Ming, Wei Cheng, Yuhan Zhao, Yongbin Zhou;;;2026/2888;;;last_week;;;none;;;2026-11-13;;;lattice
 Homomorphic Encryption and Bootstrapping for Real Matrices over Conjugate-Invariant Rings;;;Ilaria Chillotti, Hyojun Kim, Yeongmin Lee, Yongwoo Lee, Damien Ligier;;;2026/2887;;;last_week;;;none;;;2026-11-13;;;lattice
 Revisiting homomorphic AES evaluation with Hybrid Byte-Bit Packing;;;Lu Zhang, Xuan Shen, Ruida Wang, Xianhui Lu, Yin Zhang, Chao Li, Shaojing Fu;;;2026/2885;;;last_week;;;none;;;2026-11-13;;;lattice
@@ -7,7 +8,7 @@ Optimized Solving Strategy and Two-Step Estimator for LWE with Hints;;;Hanbin Ya
 From Dependent Ciphertexts to Sharp Bounds for Polynomial Evaluation in BGV;;;Chiara Marcolla, Nadir Murru, Matilda Urani;;;2026/2869;;;last_week;;;none;;;2026-11-11;;;lattice
 HIT: Single-Pass Inference for Single-Trace NTT Side-Channel Attacks;;;Yihan Nie, Yuxuan Wang, Yubo Zhao, Zixin He, Wenjing Zheng, Jintong Yu, Shifeng Sun, Chi Zhang, Pei Cao, Dawu Gu;;;2026/2865;;;last_week;;;none;;;2026-11-11;;;lattice
 Tightly Secure and Modular Post-Quantum TLS Handshakes;;;Biming Zhou, Jinrong Chen, Haodong Jiang, Rongmao Chen, Yunlei Zhao;;;2026/2864;;;last_week;;;none;;;2026-11-11;;;lattice
-$\mathsf{SVP}_\infty$ Is NP-Hard for Power-of-two Cyclotomic Ideals;;;Yansong Feng, Jiaqi Liu, Hengyi Luo, Yanbin Pan;;;2026/2861;;;last_week;;;none;;;2026-11-10;;;lattice
+$\mathsf{SVP}_\infty$ Is NP-Hard for Power-of-two Cyclotomic Ideals;;;Yansong Feng, Jiaqi Liu, Hengyi Luo, Yanbin Pan;;;2026/2861;;;last_month;;;none;;;2026-11-10;;;lattice
 TUTTI: Parallel CKKS Bootstrapping in under 3 ms on CPU;;;Robin Köstler, Antonio Guimarães;;;2026/2848;;;last_month;;;none;;;2026-11-09;;;lattice
 The isodual constant of the LLL potential: exact values and structure;;;Nick Howgrave-Graham;;;2026/2846;;;last_month;;;none;;;2026-11-09;;;lattice
 On Composing Oracle Separations;;;Willy Quach, Felix Rohrbach;;;2026/2845;;;last_month;;;none;;;2026-11-09;;;lattice
@@ -106,11 +107,11 @@ Blind-DLPA: An End-to-End Framework for Profiled Blind Side-Channel Analysis;;;P
 Provable Lattice Reduction in Nearly the Time of QR Factorization;;;Yang Zhou, Zhedong Wang, Mingsheng Wang;;;2026/2541;;;last_month;;;none;;;2026-10-19;;;lattice
 Implementing Predicate Encryption for Branching Programs: Private Computation over Key-Homomorphic Encodings Without FHE;;;Sora Suegami;;;2026/2539;;;last_month;;;none;;;2026-10-19;;;lattice
 Optimizing HQC with Enhanced Parallel Binary Polynomial Multiplication on GPUs;;;DongCheon Kim, JunHyeok Choi, Wai Kong Lee, Seog Chung Seo;;;2026/2538;;;last_month;;;none;;;2026-10-19;;;code
-High-Precision CKKS with Focal Units;;;Jung Hee Cheon, Junho Lee;;;2026/2531;;;last_month;;;none;;;2026-10-18;;;lattice
-How Secure are NTRU+ Keys? Analysing the Best Module Attacks;;;Paola de Perthuis, Filip Trenkić;;;2026/2527;;;last_month;;;none;;;2026-10-18;;;lattice
-Faster ABE for Turing Machines from Circular Evasive LWE;;;Valerio Cini, Hoeteck Wee;;;2026/2526;;;last_month;;;none;;;2026-10-18;;;lattice
-Homomorphic Encryption for High-precision Arithmetic of Approximate Numbers;;;Shihe Ma, Jiaming Liu, Anyu Wang, Xiaoyun Wang;;;2026/2524;;;last_month;;;none;;;2026-10-18;;;lattice
-GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzougui, Milos Pavlovic, Vladimir Shpilrain;;;2026/2523;;;last_month;;;none;;;2026-10-18;;;lattice
+High-Precision CKKS with Focal Units;;;Jung Hee Cheon, Junho Lee;;;2026/2531;;;last_year;;;none;;;2026-10-18;;;lattice
+How Secure are NTRU+ Keys? Analysing the Best Module Attacks;;;Paola de Perthuis, Filip Trenkić;;;2026/2527;;;last_year;;;none;;;2026-10-18;;;lattice
+Faster ABE for Turing Machines from Circular Evasive LWE;;;Valerio Cini, Hoeteck Wee;;;2026/2526;;;last_year;;;none;;;2026-10-18;;;lattice
+Homomorphic Encryption for High-precision Arithmetic of Approximate Numbers;;;Shihe Ma, Jiaming Liu, Anyu Wang, Xiaoyun Wang;;;2026/2524;;;last_year;;;none;;;2026-10-18;;;lattice
+GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzougui, Milos Pavlovic, Vladimir Shpilrain;;;2026/2523;;;last_year;;;none;;;2026-10-18;;;lattice
 Eﬃcient Fixed-Point Implementation of Mitaka;;;Shiduo Zhang, Paul Kirchner, Xiuhan Lin, Yang Yu;;;2026/2521;;;last_year;;;none;;;2026-10-17;;;lattice
 Analysis of the Multi-Key Optimization for SPECK;;;Marco Baldi, Michele Battagliola, Rahmi El Mechri, Paolo Santini, Riccardo Schiavoni;;;2026/2514;;;last_year;;;none;;;2026-10-16;;;code
 Fully Homomorphic Encryption for Small Batches of Complex Numbers;;;Jules Dumezy;;;2026/2513;;;last_year;;;none;;;2026-10-16;;;lattice
@@ -839,4 +840,3 @@ Low-Latency Fully Homomorphic Arithmetic Using Parallel Prefix Group Circuit wit
 New Post-Quantum IBE leveraging maturity, efficiency and security of standard schemes;;;Julien CAM;;;2025/2143;;;last_year;;;none;;;2025-11-23;;;lattice
 Nostalgia Cipher: Can Filtered LFSRs Be Secure Again? An Application to Hybrid Homomorphic Encryption with Sub-50 ms Latency;;;Nabil Chacal, Antonio Guimarães, Ange Martinelli, Pierrick Méaux, Romain Poussier;;;2025/2140;;;last_year;;;none;;;2025-11-23;;;lattice
 Scalable Private World Computer via Root iO: Application-Agnostic iO and Our Roadmap for Making It Practical;;;Sora Suegami, Enrico Bottazzi;;;2025/2139;;;last_year;;;none;;;2025-11-22;;;lattice
-Sharing the Mask: TFHE bootstrapping on Packed Messages;;;Bergerat Loris, Bonte Charlotte, Benjamin R. Curtis, Jean-Baptiste Orfila, Pascal Paillier, Samuel Tap;;;2025/2112;;;last_year;;;none;;;2025-11-17;;;lattice
