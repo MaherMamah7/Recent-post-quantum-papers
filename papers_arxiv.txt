@@ -1,8 +1,9 @@
+Retained Encrypted Search with Certified Split Joins;;;Yavor Litchev, Liwen Ouyang;;;2611.24265;;;last_week;;;none;;;2026-11-18;;;lattice
 Can Verifiable PIR Match the Online Efficiency of SimplePIR?;;;Xinxuan Zhang, Ruida Wang, Zirui Wang, Yuming Guo, Jikang Bai, Yuanju Wei, Yi Deng, Xianhui Lu;;;2611.22911;;;last_week;;;none;;;2026-11-17;;;lattice
 The ordered sum-rank metric and linearized multiplicity codes: NRT meets sum-rank;;;Umberto Martínez-Peñas;;;2611.19996;;;last_week;;;none;;;2026-11-15;;;code
 New constructions of optimal Ferrers diagram rank-metric codes for quasi-block monotone Ferrers diagrams;;;Yong Jin, Yuhao Ning, Dengming Xu, Chengming Duan;;;2611.19070;;;last_week;;;none;;;2026-11-14;;;code
-Latroids on Young's Lattice;;;Gianira N. Alfarano, Sebastian Degen;;;2611.15501;;;last_week;;;none;;;2026-11-11;;;code
-An Architecture for Real-Time Quantum Error Correction with Neutral Atoms;;;X. Wang, Y. Jing, Z. Yu, S. Wang, D. Niu, Y. Liu, T. Xiao, A. Yang, J. Han, Y. Wu, X. Lv;;;2611.15104;;;last_week;;;none;;;2026-11-11;;;code
+Latroids on Young's Lattice;;;Gianira N. Alfarano, Sebastian Degen;;;2611.15501;;;last_month;;;none;;;2026-11-11;;;code
+An Architecture for Real-Time Quantum Error Correction with Neutral Atoms;;;X. Wang, Y. Jing, Z. Yu, S. Wang, D. Niu, Y. Liu, T. Xiao, A. Yang, J. Han, Y. Wu, X. Lv;;;2611.15104;;;last_month;;;none;;;2026-11-11;;;code
 An Agile Homomorphic Encryption and ML-KEM Scheme for Privacy-Preserving Health Data Processing;;;Daniel Resende, Nadia El Mrabet, Ulrich K{ü}hne;;;2611.12367;;;last_month;;;none;;;2026-11-09;;;lattice
 A Privacy-Preserving UAV-Assisted Secure Wireless Communication and Computing System Based on Fully Homomorphic Encryption;;;Quanxi Zhou, Wencan Mao, Ye Tao, Manabu Tsukada, Kensuke Fukuda, Yusheng Ji;;;2611.12064;;;last_month;;;none;;;2026-11-09;;;lattice
 CAROUSEL: GPU-Accelerated Private Vector Search via Homomorphic Sketching;;;Sohaib, Divyakant Agrawal, Amr El Abbadi, Soamar Homsi;;;2611.10622;;;last_month;;;none;;;2026-11-07;;;lattice
@@ -36,8 +37,8 @@ The Entire Quantum Computer on a Classical Leash;;;Yael Tauman Kalai, Dakshita K
 Structural cryptanalysis of classic McEliece: Assessment of claims, costs and evidence;;;Ramses Fernandez;;;2610.31196;;;last_month;;;none;;;2026-10-22;;;code
 Free-XOR TFHE via Lazy Bootstrapping;;;Ali Ajorian, Osman Biçer;;;2610.29983;;;last_month;;;none;;;2026-10-21;;;lattice
 Regular Syndrome Decoding Is Easier Than Previously Estimated;;;Jiseung Kim, Minkyu Kim, Changmin Lee, Hochang Lee;;;2610.29175;;;last_month;;;none;;;2026-10-21;;;code
-On True Minimum Distances of Goppa Codes;;;Yaqi Chen, Hao Chen, Chao Liu, Huimin Lao;;;2610.26450;;;last_month;;;none;;;2026-10-19;;;code
-New Maximum Hermitian $d$-Codes and New Invariants from Skew Polynomial Rings;;;Paolo Santonastaso, Yue Zhou;;;2610.26048;;;last_month;;;none;;;2026-10-19;;;code
+On True Minimum Distances of Goppa Codes;;;Yaqi Chen, Hao Chen, Chao Liu, Huimin Lao;;;2610.26450;;;last_year;;;none;;;2026-10-19;;;code
+New Maximum Hermitian $d$-Codes and New Invariants from Skew Polynomial Rings;;;Paolo Santonastaso, Yue Zhou;;;2610.26048;;;last_year;;;none;;;2026-10-19;;;code
 Fast \(\ell_\infty\)-Reduction of Rank-2 Lattices in $\mathbb{R}^n$ via a New Reduced-Basis Notion;;;Bo Pang, Shaojing Zhang, Chengliang Tian;;;2610.24719;;;last_year;;;none;;;2026-10-17;;;lattice
 Quantum-Resilient Secure Protocol for Decentralized Edge-IoT Peer-to-Peer Energy Trading Systems;;;Ali Shahidinejad, Jamshid Aghaei, Mahdi Jalili;;;2610.19491;;;last_year;;;none;;;2026-10-14;;;lattice
 Non-additive symmetric rank-metric codes;;;Marta Messia, Ferdinando Zullo;;;2610.18061;;;last_year;;;none;;;2026-10-13;;;code
@@ -295,7 +296,7 @@ An Efficient Algorithm to Sample Quantum Low-Density Parity-Check Codes;;;Paolo 
 Simple Power Analysis of Polynomial Multiplication in HQC;;;Pavel Velek, Tomáš Rabas, Jiří Buček;;;2601.07634;;;last_year;;;none;;;2026-01-12;;;code
 A $q$-Polymatroid Framework for Information Leakage in Secure Linear Network Coding;;;Eimear Byrne, Johan Vester Dinesen, Ragnar Freij-Hollanti, Camilla Hollanti;;;2601.07567;;;last_year;;;none;;;2026-01-12;;;code
 Principal ideal problem and ideal shortest vector over rational primes in power-of-two cyclotomic fields;;;Gaohao Cui, Jianing Li, Jincheng Zhuang;;;2601.07511;;;last_year;;;none;;;2026-01-12;;;lattice
-Rank metric codes from Drinfeld modules;;;Giacomo Micheli, Mihran Papikian;;;2601.03653;;;last_year;;;none;;;2026-01-07;;;code
+Semifields and rank-metric codes from Drinfeld modules;;;Giacomo Micheli, Mihran Papikian;;;2601.03653;;;last_year;;;none;;;2026-01-07;;;code
 MOZAIK: A Privacy-Preserving Analytics Platform for IoT Data Using MPC and FHE;;;Michiel Van Kenhove, Erik Pohle, Leonard Schild, Martin Zbudila, Merlijn Sebrechts, Filip De Turck, Bruno Volckaert, Aysajan Abidin;;;2601.02245;;;last_year;;;none;;;2026-01-05;;;lattice
 Byzantine-Robust Federated Learning Framework with Post-Quantum Secure Aggregation for Real-Time Threat Intelligence Sharing in Critical IoT Infrastructure;;;Milad Rahmati, Nima Rahmati;;;2601.01053;;;last_year;;;none;;;2026-01-03;;;lattice
 Post-Quantum Cryptography Key Expansion Method and Anonymous Certificate Scheme Based on NTRU;;;Abel C. H. Chen;;;2601.07841;;;last_year;;;none;;;2026-01-02;;;lattice
