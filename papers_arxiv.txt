@@ -188,7 +188,7 @@ Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantee
 Practical Anonymous Two-Party Gradient Boosting Decision Tree;;;Chenyu Huang, Fan Zhang, Minxin Du, Sherman S. M. Chow, Huangxun Chen, Huaming Rao, Danqing Huang, Bo Qian, Peng Chen;;;2605.26903;;;last_year;;;none;;;2026-05-26;;;lattice
 Improved Johnson-type Bounds for Insertion-Deletion Codes;;;Yulin Yang;;;2605.25090;;;last_year;;;none;;;2026-05-24;;;code
 Improved Dual Attack and Trapdoor Sampling via Quantum Rejection Sampling;;;Cong Ling, Hao Yan, Nicholas Zhao;;;2605.24798;;;last_year;;;none;;;2026-05-24;;;lattice
-Higher Rank-Support Weights and q-Polymatroids;;;Koji Imamura, Shinya Kawabuchi, Keisuke Shiromoto;;;2605.23284;;;last_year;;;none;;;2026-05-22;;;code
+Higher Rank-Support Weights and $(q,m)$-Polymatroids;;;Koji Imamura, Shinya Kawabuchi, Keisuke Shiromoto;;;2605.23284;;;last_year;;;none;;;2026-05-22;;;code
 Decision-Aware Quadratic ReLU Replacement for HE-Friendly Inference;;;Rui Li, Wenyuan Wu, Weijie Miao;;;2605.22237;;;last_year;;;none;;;2026-05-21;;;lattice
 A Uniform Random-Lattice Tail Bound for the SVP Kissing-Profile Parameter;;;Yutong Zhang, Yaoran Yang;;;2605.21966;;;last_year;;;none;;;2026-05-21;;;lattice
 Constructions of Rank-Metric Codes of Small Tensor Rank;;;Matteo Bonini, Eimear Byrne, Giuseppe Cotardo;;;2605.21784;;;last_year;;;none;;;2026-05-20;;;code
