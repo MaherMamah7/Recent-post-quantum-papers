@@ -1,3 +1,15 @@
+LNRPIR: High Throughput PIR with Flexible Communication-Computation Trade-offs;;;Liren Xu, Zhe Li;;;2026/2950;;;last_week;;;none;;;2026-11-19;;;lattice
+LaTSEC: Lattice-Based Threshold Signatures with Native Non-Interactive Identifiable Abort and Compact Per-Party Storage;;;Muhammad Arzaki, Muhammed F. Esgin, Markku-Juhani O. Saarinen, Amin Sakzad, Ron Steinfeld;;;2026/2948;;;last_week;;;none;;;2026-11-19;;;lattice
+BOCCHI: Compact Blind SNARK via Malformation-Tolerant Ciphertext Aggregation;;;Ye Yu, Kexi Huang;;;2026/2946;;;last_week;;;none;;;2026-11-19;;;lattice
+A Transparent Post-Quantum Zero-Knowledge Argument for R1CS;;;Vu Hung Tung;;;2026/2943;;;last_week;;;none;;;2026-11-19;;;lattice
+Post-Quantum Adaptive Multiparty NIKE;;;Shafik Nassar, Brent Waters;;;2026/2938;;;last_week;;;none;;;2026-11-18;;;lattice
+Aggregating ML-DSA Signatures Without Recursion: A Cross-Field Argument for the Commitment Hash;;;Jipeng Zhang, Jiaheng Zhang;;;2026/2936;;;last_week;;;none;;;2026-11-18;;;lattice
+A Key Recovery Attack on TRIKE Based on Decoding Failures;;;Alessandro Annechini, Alessandro Barenghi, Gerardo Pelosi;;;2026/2935;;;last_week;;;none;;;2026-11-18;;;code
+Hardware/Software Co-Design of ML-DSA with Random Delay Insertion Against Correlation Power Analysis;;;Salvatore Coppa, Ettore Napoli;;;2026/2933;;;last_week;;;none;;;2026-11-18;;;lattice
+Karu64: An Open RVA23 Processor with Vector Keccak Support;;;Markku-Juhani O. Saarinen, Thomas Szymkowiak;;;2026/2932;;;last_week;;;none;;;2026-11-18;;;lattice
+When Confirmation Tags Are Not Enough: Full Key Recovery from Ordinary Decapsulation Outputs in a HCR-KEM;;;Rafik HAMZA;;;2026/2929;;;last_week;;;none;;;2026-11-18;;;lattice
+Shifting Dark Matter: Two-Query Key Recovery on a Post-Quantum OPRF;;;Hanbeom Shin, Insung Kim, Seokhie Hong, Dongjae Lee;;;2026/2928;;;last_week;;;none;;;2026-11-18;;;code
+On the Hardness of LWE with Trapdoor Hints and Applications to Fuzzy Cryptography;;;Divesh Aggarwal, Aayush Jain, Huijia Lin, Yuetian Wu;;;2026/2927;;;last_week;;;none;;;2026-11-18;;;lattice
 A Quasipolynomial Quantum Algorithm for the Vector Dihedral Coset Problem with Smooth Modulus;;;Aparna Gupte;;;2026/2925;;;last_week;;;none;;;2026-11-17;;;lattice
 The Swell Protocol: Invite-Bound Hybrid Key Agreement, a Double Ratchet with an ML-KEM Epoch Ratchet, and a Signed Server Statement;;;Ilyas Akbar Almadani;;;2026/2924;;;last_week;;;none;;;2026-11-17;;;lattice
 CKKS Acceleration for Next-Wave Homomorphic Encryption;;;Xuan Wang, Sanjay Deshpande, Jaehyung Kim, Jakub Szefer, Tajana Rosing, Patrick Longa;;;2026/2921;;;last_week;;;none;;;2026-11-17;;;lattice
