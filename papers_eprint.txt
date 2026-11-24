@@ -664,7 +664,7 @@ Progressive Sieving-Style Information-Set Decoding Algorithm;;;Tong Yu, Haodong 
 Rethinking r-PKP: a New Formulation for the Relaxed Permuted Kernel Problem;;;Giuseppe D'Alconzo, Andrea Gangemi, Lorenzo Romano, Giuliano Romeo;;;2026/631;;;last_year;;;none;;;2026-03-31;;;code
 Asymptotic Analysis of Ternary Sparse LWE;;;Byoungchan Chi, Nathan Cho, Jiseung Kim, Changmin Lee;;;2026/630;;;last_year;;;none;;;2026-03-31;;;lattice
 Efficient Conflict-Free NTT Hardware Architecture with Single-Port RAMs: Applications to ML-DSA;;;Henrique S. Ogawa, Thales B. Paiva, Marcos A. Simplicio Jr, Syed M. Hafiz, Bahattin Yildiz;;;2026/621;;;last_year;;;none;;;2026-03-30;;;lattice
-Breaking the One-Way Property of a SHA-3 Implementation via Fault Injection: Key Recovery Attacks on Post-Quantum Digital Signatures;;;Mona Sobhani, Sönke Jendral, Elena Dubrova, Mats Näslund;;;2026/619;;;last_year;;;none;;;2026-03-30;;;code
+Breaking the One-Way Property of a SHA-3 Implementation via Fault Injection: Key Recovery Attacks on Post-Quantum Digital Signatures;;;Mona Sobhani, Sönke Jendral, Mats Näslund, Elena Dubrova;;;2026/619;;;last_year;;;none;;;2026-03-30;;;code
 Spectral Method attacks Sparse LWE, Sparse LPN and Beyond;;;Shashwat Agrawal, Amitabha Bagchi, Rajendra Kumar;;;2026/614;;;last_year;;;none;;;2026-03-28;;;lattice
 Improving ML Attacks on LWE with Data Repetition and Stepwise Regression;;;Alberto Alfarano, Eshika Saxena, Emily Wenger, François Charton, Kristin Lauter;;;2026/612;;;last_year;;;none;;;2026-03-27;;;lattice
 Concrete Estimation of Correctness and IND-CPA-D Security for FHE via Rare Event Simulation;;;Mathieu Ballandras, Jean-Baptiste Orfila, Samuel Tap;;;2026/610;;;last_year;;;none;;;2026-03-27;;;lattice
