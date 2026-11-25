@@ -1,13 +1,15 @@
+A machine learning architecture for scaling of holographic quantum circuits;;;Cliff Sun, Michael L. Wall;;;2611.31867;;;last_week;;;none;;;2026-11-24;;;code
+High Throughput Meets Low Latency: CKKS Functional Bootstrapping on GPUs;;;Carlos Agulló-Domingo, Carlo Pascoe, Óscar Vera-López, Andreea Alexandru, Ahmad Al Badawi, José L. Abellán, Yuriy Polyakov;;;2611.31335;;;last_week;;;none;;;2026-11-23;;;lattice
 From Dependent Ciphertexts to Sharp Bounds for Polynomial Evaluation in BGV;;;Chiara Marcolla, Nadir Murru, Matilda Urani;;;2611.30499;;;last_week;;;none;;;2026-11-23;;;lattice
 Quantum-Resilient, PUF-Based, and Anonymity-Preserving Authentication and Key Agreement Scheme for UAV Networks;;;Bhavik Yadav, Bhavya Dixit, Gaurav S. Kasbekar;;;2611.30107;;;last_week;;;none;;;2026-11-23;;;lattice
 Packing Stern into L2: GPU-Accelerated Primal-Shortened ISD for High-Codimension Binary Goppa Key Recovery;;;Raullen Chai, Xinxin Fan;;;2611.29958;;;last_week;;;none;;;2026-11-23;;;code
-NPUFHE: An Efficient CKKS Execution System for Ascend NPUs;;;Ke Changke, Jian Wang, Xuan Xu, Yijing Zong, Jiqiang Liu;;;2611.29353;;;last_week;;;none;;;2026-11-22;;;lattice
+NPUFHE: An Efficient CKKS Execution System for Ascend NPUs;;;Ke Chang, Jian Wang, Xuan Xu, Yijing Zong, Jiqiang Liu;;;2611.29353;;;last_week;;;none;;;2026-11-22;;;lattice
 AscendFHE: Efficient Fully Homomorphic Encryption on Ascend NPUs;;;Honghui You, Haoping Yang, Wenzhe Wang, Lei Ju;;;2611.29301;;;last_week;;;none;;;2026-11-22;;;lattice
 TurboFHE: An Efficient and Scalable Multi-GPU Framework for Homomorphic LLM Inference;;;Honghui You, Haoping Yang, Wenzhe Wang, Lei Ju;;;2611.29244;;;last_week;;;none;;;2026-11-22;;;lattice
 Metadata-Private Voice Communication over Tor using Post-Quantum Key Encapsulation;;;Noah Zeinali Yazdi, Samuel Zeinali Yazdi;;;2611.27909;;;last_week;;;none;;;2026-11-20;;;lattice
 Felid: A Flexible and Efficient Design for Transformer Fine-Tuning over Encrypted Data;;;Linru Zhang, Jun Jie Sim, Xiangning Wang, Jiahao Zhong, Kaiyu Zhou, Huanyi Ye, Yongsen Zheng, Lushan Song, Xiaojian Liang, Yingting Liu, Yujing Sun, Huaxiong Wang, Pu Duan, Kwok-Yan Lam;;;2611.27175;;;last_week;;;none;;;2026-11-20;;;lattice
 Retained Encrypted Search with Certified Split Joins;;;Yavor Litchev, Liwen Ouyang;;;2611.24265;;;last_week;;;none;;;2026-11-18;;;lattice
-Can Verifiable PIR Match the Online Efficiency of SimplePIR?;;;Xinxuan Zhang, Ruida Wang, Zirui Wang, Yuming Guo, Jikang Bai, Yuanju Wei, Yi Deng, Xianhui Lu;;;2611.22911;;;last_week;;;none;;;2026-11-17;;;lattice
+Can Verifiable PIR Match the Online Efficiency of SimplePIR?;;;Xinxuan Zhang, Ruida Wang, Zirui Wang, Yuming Guo, Jikang Bai, Yuanju Wei, Yi Deng, Xianhui Lu;;;2611.22911;;;last_month;;;none;;;2026-11-17;;;lattice
 The ordered sum-rank metric and linearized multiplicity codes: NRT meets sum-rank;;;Umberto Martínez-Peñas;;;2611.19996;;;last_month;;;none;;;2026-11-15;;;code
 New constructions of optimal Ferrers diagram rank-metric codes for quasi-block monotone Ferrers diagrams;;;Yong Jin, Yuhao Ning, Dengming Xu, Chengming Duan;;;2611.19070;;;last_month;;;none;;;2026-11-14;;;code
 Latroids on Young's Lattice;;;Gianira N. Alfarano, Sebastian Degen;;;2611.15501;;;last_month;;;none;;;2026-11-11;;;code
@@ -35,7 +37,7 @@ GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzo
 HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2610.36808;;;last_month;;;none;;;2026-10-27;;;code
 Beyond LWE: Post-Quantum Assumptions under a Counterfactual Break of the Dihedral Coset Problem;;;Ramses Fernandez;;;2610.36731;;;last_month;;;none;;;2026-10-27;;;code,lattice
 Finite Fields: Root Sets, Frobenius, and Algebraic Structure;;;Hongfeng Wu, Li Zhu;;;2610.36727;;;last_month;;;none;;;2026-10-27;;;code
-Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2610.34404;;;last_month;;;none;;;2026-10-25;;;code
+Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2610.34404;;;last_year;;;none;;;2026-10-25;;;code
 Pacifo: An Efficient Fully Homomorphic Encryption-based Lightweight ResNet for Trustworthy Machine Learning as a Service;;;Yang Li, Gang He, Ruichen Zhang, Guangyuan Liu, Yinqiu Liu;;;2610.33525;;;last_year;;;https://github.com/BryceYangLi/Pacifo;;;2026-10-24;;;lattice
 Holo-NN: Holographic Nearest Neighbor Search via Compressive Sensing;;;Bryant Gipson;;;2610.33224;;;last_year;;;none;;;2026-10-23;;;lattice
 Embedding Large PQC KEMs in IKEv2;;;Daniel Herzinger, Marco Thomas, Tobias Handirk, Stefan-Lukas Gazdag, Daniel Loebenberger, Marian Margraf;;;2610.32356;;;last_year;;;none;;;2026-10-23;;;code,lattice
@@ -327,5 +329,3 @@ Birkhoff Measures, Birkhoff Sums, and Discrepancies;;;D. Ralston, F. M. Tangerma
 FastFHE: Packing-Scalable and Depthwise-Separable CNN Inference Over FHE;;;Wenbo Song, Xinxin Fan, Quanliang Jing, Shaoye Luo, Wenqi Wei, Chi Lin, Yunfeng Lu, Ling Liu;;;2511.22434;;;last_year;;;none;;;2025-11-27;;;lattice
 Quantum-Resistant Authentication Scheme for RFID Systems Using Lattice-Based Cryptography;;;Vaibhav Kumar, Kaiwalya Joshi, Bhavya Dixit, Gaurav S. Kasbekar;;;2511.20630;;;last_year;;;none;;;2025-11-25;;;lattice
 Two-Step Decoding of Binary $2\times2$ Sum-Rank-Metric Codes;;;Hao Wu, Bocong Chen, Guanghui Zhang, Hongwei Liu;;;2511.19812;;;last_year;;;none;;;2025-11-25;;;code
-CrypTorch: Unified PyTorch-based Auto-tuning Compiler for Private Machine Learning Inference;;;Jinyu Liu, Gang Tan, Kiwan Maeng;;;2511.19711;;;last_year;;;none;;;2025-11-24;;;lattice
-Construction and Decoding of Error--Correcting Codes from Ideal Lattices of Finite Ternary Gamma Semirings;;;Chandrasekhar Gokavarapu, D. Madhusudhana Rao;;;2511.19378;;;last_year;;;none;;;2025-11-24;;;code

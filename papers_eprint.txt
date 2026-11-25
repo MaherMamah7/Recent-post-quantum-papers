@@ -1,3 +1,4 @@
+Representation-Aware Kleptographic Attacks on Post-Quantum Cryptography;;;Sayan Das, Suraj Mandal, Thales B. Paiva, Prasanna Ravi, Debapriya Basu Roy, Anupam Chattopadhyay, Shivam Bhasin;;;2026/3001;;;last_week;;;none;;;2026-11-23;;;code,lattice
 LARK: Smaller and Faster Lattice-Based PRG;;;Yu Zhang, Jingnan He, Yijian Liu, Xianhui Lu, Dongshu Cai, Kunpeng Wang;;;2026/3000;;;last_week;;;none;;;2026-11-23;;;lattice
 One Type Fits All: A General Analysis of Representation Trees for Subset Sum, LWE and Decoding;;;Andre Esser;;;2026/2997;;;last_week;;;none;;;2026-11-23;;;code,lattice
 Decoding Cost Lens: Cost Estimation for Code-Based Cryptography;;;Tianrui Wang, Anyu Wang, Yuxuan Li, Qicheng Teng, Bo Pang;;;2026/2994;;;last_week;;;none;;;2026-11-23;;;code
@@ -25,9 +26,9 @@ Karu64: An Open RVA23 Processor with Vector Keccak Support;;;Markku-Juhani O. Sa
 When Confirmation Tags Are Not Enough: Full Key Recovery from Ordinary Decapsulation Outputs in a HCR-KEM;;;Rafik HAMZA;;;2026/2929;;;last_week;;;none;;;2026-11-18;;;lattice
 Shifting Dark Matter: Two-Query Key Recovery on a Post-Quantum OPRF;;;Hanbeom Shin, Insung Kim, Seokhie Hong, Dongjae Lee;;;2026/2928;;;last_week;;;none;;;2026-11-18;;;code
 On the Hardness of LWE with Trapdoor Hints and Applications to Fuzzy Cryptography;;;Divesh Aggarwal, Aayush Jain, Huijia Lin, Yuetian Wu;;;2026/2927;;;last_week;;;none;;;2026-11-18;;;lattice
-A Quasipolynomial Quantum Algorithm for the Vector Dihedral Coset Problem with Smooth Modulus;;;Aparna Gupte;;;2026/2925;;;last_week;;;none;;;2026-11-17;;;lattice
-The Swell Protocol: Invite-Bound Hybrid Key Agreement, a Double Ratchet with an ML-KEM Epoch Ratchet, and a Signed Server Statement;;;Ilyas Akbar Almadani;;;2026/2924;;;last_week;;;none;;;2026-11-17;;;lattice
-CKKS Acceleration for Next-Wave Homomorphic Encryption;;;Xuan Wang, Sanjay Deshpande, Jaehyung Kim, Jakub Szefer, Tajana Rosing, Patrick Longa;;;2026/2921;;;last_week;;;none;;;2026-11-17;;;lattice
+A Quasipolynomial Quantum Algorithm for the Vector Dihedral Coset Problem with Smooth Modulus;;;Aparna Gupte;;;2026/2925;;;last_month;;;none;;;2026-11-17;;;lattice
+The Swell Protocol: Invite-Bound Hybrid Key Agreement, a Double Ratchet with an ML-KEM Epoch Ratchet, and a Signed Server Statement;;;Ilyas Akbar Almadani;;;2026/2924;;;last_month;;;none;;;2026-11-17;;;lattice
+CKKS Acceleration for Next-Wave Homomorphic Encryption;;;Xuan Wang, Sanjay Deshpande, Jaehyung Kim, Jakub Szefer, Tajana Rosing, Patrick Longa;;;2026/2921;;;last_month;;;none;;;2026-11-17;;;lattice
 Adaptively Secure Batched IBE from LWE;;;Jiaqi Cheng, Pratish Datta;;;2026/2919;;;last_month;;;none;;;2026-11-16;;;lattice
 Recovering HQC Secret Key from Distance Spectrum using Side-Channel Attack;;;Magali Salom, Angélique Lopez, Valentin Vasseur, Gabriel Zaid;;;2026/2914;;;last_month;;;none;;;2026-11-16;;;code
 From Decoding Leakage to Full Key Recovery: A Single-Trace Attack on FALCON;;;Merve Karabulut, Panasayya Yalla, Reza Azarderakhsh, Mehran Mozaffari Kermani;;;2026/2908;;;last_month;;;none;;;2026-11-16;;;lattice
@@ -100,9 +101,9 @@ Falcon Key Recovery from Joint Sampler Leakages;;;Youngchang Kim, Yongseong Park
 When Algebraic Structure Meets Too Many Hints;;;Dongshu Cai, Yijian Liu, Xianhui Lu;;;2026/2654;;;last_month;;;none;;;2026-10-27;;;lattice
 Non-profiled Single-Trace ML-DSA Secret Key Recovery by Horizontal Distribution Analysis;;;Linus Backlund, Elena Dubrova;;;2026/2643;;;last_month;;;none;;;2026-10-26;;;lattice
 Subexponential Algorithms for LWE via Rejection Sampling on Superlattices;;;Ligeng Fan, Changpeng Shao, Hongbo Li, Dingkang Wang;;;2026/2640;;;last_month;;;none;;;2026-10-26;;;lattice
-Decision Attacks on Known-Covariance Ring-LWE via Public Gram Determinants;;;Anis Bkakria;;;2026/2638;;;last_month;;;none;;;2026-10-25;;;lattice
-Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2026/2637;;;last_month;;;none;;;2026-10-25;;;code
-Nearly Optimal Hardness for CVP and NCP with Preprocessing;;;Giacomo Fenzi, Guy Weissenberg;;;2026/2634;;;last_month;;;none;;;2026-10-25;;;lattice
+Decision Attacks on Known-Covariance Ring-LWE via Public Gram Determinants;;;Anis Bkakria;;;2026/2638;;;last_year;;;none;;;2026-10-25;;;lattice
+Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2026/2637;;;last_year;;;none;;;2026-10-25;;;code
+Nearly Optimal Hardness for CVP and NCP with Preprocessing;;;Giacomo Fenzi, Guy Weissenberg;;;2026/2634;;;last_year;;;none;;;2026-10-25;;;lattice
 On the Inapplicability of Residue-Confined Error Attacks to CRT-FHE with Non-Degenerate Error Distributions;;;Anil Kumar Pradhan, Abhraneel Dutta;;;2026/2633;;;last_year;;;none;;;2026-10-24;;;lattice
 On the Subtleties of Non-Malleability in IVC: Notions, Attacks and Constructions from Falsifiable Assumptions;;;Matteo Campanelli, Suvradip Chakraborty, Chaya Ganesh;;;2026/2631;;;last_year;;;none;;;2026-10-24;;;lattice
 Exact Error Bootstrapping and Comb Bootstrapping in FHEW/TFHE;;;Philippe Chartier, Mohammed Lemou;;;2026/2630;;;last_year;;;none;;;2026-10-24;;;lattice
