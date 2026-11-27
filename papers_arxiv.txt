@@ -36,11 +36,11 @@ Syndrome Trellis Decryption in Post-Quantum Cryptography;;;Meir Ariel;;;2610.398
 The use of post-quantum cryptography in the automotive context;;;Mariana do Carmo Barata Gonçalves, Valderi Reis Quietinho Leithardt;;;2610.38632;;;last_month;;;none;;;2026-10-28;;;lattice
 Recurrent Bipartite Graph Neural Networks for QC-MDPC Error Decoding in McEliece Cryptosystems;;;Parth Rajeshkumar Tandel, Elisabeth Fink;;;2610.38479;;;last_month;;;none;;;2026-10-28;;;code
 Rosemary: Efficient and Adaptable In-Storage Acceleration for Fully Homomorphic Encryption;;;Xuan Wang, Tianqi Zhang, Gabrielle De Micheli, Yujin Nam, Keming Fan, Augusto Vega, Minxuan Zhou, Tajana Rosing;;;2610.38262;;;last_month;;;none;;;2026-10-28;;;lattice
-Understanding Post-Quantum Cryptography Adoption: Practices, Challenges, and Evolution in Open-Source Software;;;Souhardya Saha Dip, Moshood A. Fakorede, Krishna Upadhyay, Umar Farooq;;;2610.38054;;;last_month;;;none;;;2026-10-27;;;lattice
-GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzougui, Miloš Pavlović, Vladimir Shpilrain;;;2610.37061;;;last_month;;;none;;;2026-10-27;;;lattice
-HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2610.36808;;;last_month;;;none;;;2026-10-27;;;code
-Beyond LWE: Post-Quantum Assumptions under a Counterfactual Break of the Dihedral Coset Problem;;;Ramses Fernandez;;;2610.36731;;;last_month;;;none;;;2026-10-27;;;code,lattice
-Finite Fields: Root Sets, Frobenius, and Algebraic Structure;;;Hongfeng Wu, Li Zhu;;;2610.36727;;;last_month;;;none;;;2026-10-27;;;code
+Understanding Post-Quantum Cryptography Adoption: Practices, Challenges, and Evolution in Open-Source Software;;;Souhardya Saha Dip, Moshood A. Fakorede, Krishna Upadhyay, Umar Farooq;;;2610.38054;;;last_year;;;none;;;2026-10-27;;;lattice
+GKS Fully Homomorphic Encryption: Security Analysis;;;John Graham, Soundes Marzougui, Miloš Pavlović, Vladimir Shpilrain;;;2610.37061;;;last_year;;;none;;;2026-10-27;;;lattice
+HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2610.36808;;;last_year;;;none;;;2026-10-27;;;code
+Beyond LWE: Post-Quantum Assumptions under a Counterfactual Break of the Dihedral Coset Problem;;;Ramses Fernandez;;;2610.36731;;;last_year;;;none;;;2026-10-27;;;code,lattice
+Finite Fields: Root Sets, Frobenius, and Algebraic Structure;;;Hongfeng Wu, Li Zhu;;;2610.36727;;;last_year;;;none;;;2026-10-27;;;code
 Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One;;;Philippe Gaborit;;;2610.34404;;;last_year;;;none;;;2026-10-25;;;code
 Pacifo: An Efficient Fully Homomorphic Encryption-based Lightweight ResNet for Trustworthy Machine Learning as a Service;;;Yang Li, Gang He, Ruichen Zhang, Guangyuan Liu, Yinqiu Liu;;;2610.33525;;;last_year;;;https://github.com/BryceYangLi/Pacifo;;;2026-10-24;;;lattice
 Holo-NN: Holographic Nearest Neighbor Search via Compressive Sensing;;;Bryant Gipson;;;2610.33224;;;last_year;;;none;;;2026-10-23;;;lattice
