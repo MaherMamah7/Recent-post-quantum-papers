@@ -1,3 +1,23 @@
+Parity Leakage and Sparse-Mask Sampling in Distorted-McEliece Pseudorandom Codes;;;Yongge Wang;;;2026/3068;;;last_week;;;none;;;2026-11-26;;;code
+Full Structure Recovery of Linearized Reed–Solomon Codes;;;Valentina Astore, Martino Borello, Alain Couvreur;;;2026/3067;;;last_week;;;none;;;2026-11-26;;;code
+One Algebra to Multiply Them All: Fast Homomorphic Linear Algebra in Every Encoding;;;Jonghoo Lee, Guillaume Hanrot, Seongsu Jeon;;;2026/3066;;;last_week;;;none;;;2026-11-26;;;lattice
+On the Hardness of Decomposed Learning with Errors Problems;;;Biswajit Mandal, Shashank Singh;;;2026/3061;;;last_week;;;none;;;2026-11-26;;;lattice
+Exploring Redundant PMNS Arithmetic for Side-Channel Leakage Reduction in ML-DSA;;;Tom Voitzwinkler, Alexandre Berzati, Andersson Calle Viera, Fangan-Yssouf Dosso, Nadia El Mrabet;;;2026/3060;;;last_week;;;none;;;2026-11-26;;;lattice
+On the NP-Completeness of Worst-Case (2,1)-Quasi-Cyclic Syndrome Decoding;;;Tianrui Wang, Anyu Wang, Xiaoyun Wang;;;2026/3059;;;last_week;;;none;;;2026-11-26;;;code
+BIFOLD: Memory-Efficient Homomorphic CNN Inference over Bivariate Rings;;;Rostin Shokri, Nektarios Georgios Tsoutsos;;;2026/3054;;;last_week;;;none;;;2026-11-26;;;lattice
+One-Bit-per-Gate Distributed Garbling and Constant-Round Malicious MPC;;;Hanjun Li, Huijia Lin, George Lu;;;2026/3052;;;last_week;;;none;;;2026-11-26;;;lattice
+Resource-Aware Deployment of NIST Additional PQC Signatures on Automotive ECUs;;;Dominik Marchsreiter, Georg Carle;;;2026/3049;;;last_week;;;none;;;2026-11-25;;;lattice
+Forging Encrypted Linear Checksums in Verifiable FHE: A Cryptanalysis of DataSeal;;;Jiseok Bang, Seungkwang Lee;;;2026/3047;;;last_week;;;none;;;2026-11-25;;;lattice
+Anamorphic Broadcast Encryption, Revisited;;;Dennis Faut, Chuanwei Lin, Tapas Pal, Andy Rupp;;;2026/3045;;;last_week;;;none;;;2026-11-25;;;lattice
+Quorus 2.0: Practical and Scalable Threshold Signature Scheme for NIST-Standardized ML-DSA;;;Alexander Bienstock, Leo de Castro, Antigoni Polychroniadou, Akash Shah, Akira Takahashi;;;2026/3044;;;last_week;;;none;;;2026-11-25;;;lattice
+Anamorphism Beyond One-To-One Messaging: PKE with Public-Key Anamorphic Broadcast Encryption;;;Xuan Thanh Do, Gaspard Meunier, Giuseppe Persiano, Duong Hieu Phan, Moti Yung;;;2026/3040;;;last_week;;;none;;;2026-11-25;;;lattice
+LUTune: Automated Lookup Table Optimization for Efficient TFHE-Based ML Inference;;;Rostin Shokri, Nektarios Georgios Tsoutsos;;;2026/3037;;;last_week;;;none;;;2026-11-25;;;lattice
+Dovetail: Group-Action Adaptor Signatures via a Heterogeneous Two-Block Construction;;;Kexiang Xiong, Gang Tang, Jie Chen, Debiao He;;;2026/3036;;;last_week;;;none;;;2026-11-25;;;code
+Bounding the security of the FALCON signature scheme in the quantum random oracle model;;;Kelsey A. Jackson, Carl A. Miller;;;2026/3034;;;last_week;;;none;;;2026-11-25;;;lattice
+FLoRA: LoRA Fine-Tuning for Language Models under Fully Homomorphic Encryption;;;Omar Ahmed, Nektarios Georgios Tsoutsos;;;2026/3033;;;last_week;;;none;;;2026-11-25;;;lattice
+Adams Bridge is Falling Down: A New Chosen Ciphertext Side-Channel Attack on the PQC Accelerator;;;Ruize Wang, Aikata, Péter Horváth, Thomas Szymkowiak, Markku-Juhani Saarinen, Lejla Batina;;;2026/3027;;;last_week;;;none;;;2026-11-24;;;lattice
+EpochPIR: Low Amortized Communication PIR at Near-Optimal Throughput;;;Rasoul Akhavan Mahdavi, Sarvar Patel, Joon Young Seo, Kevin Yeo;;;2026/3025;;;last_week;;;none;;;2026-11-24;;;lattice
+Beskar: Efficient Threshold ML-DSA via Preprocessed Rejection Sampling;;;Sebastian Kolby, Claudio Orlandi, Stanislas Pawlak;;;2026/3023;;;last_week;;;none;;;2026-11-24;;;lattice
 Efficient and Verifiable One-Shot Secure Aggregation with Dynamic Client Participation;;;Fucai Luo;;;2026/3021;;;last_week;;;none;;;2026-11-24;;;lattice
 Remote Fault Attacks on PIOP-based Post-Quantum Digital Signatures using Statistical Ineffective Fault Analysis;;;Sönke Jendral, Mona Sobhani, Elena Dubrova;;;2026/3019;;;last_week;;;none;;;2026-11-24;;;lattice
 CHARTS: Compute-efficient Homomorphic Anonymous Routing with Tag Sums;;;Anthony Flath, Ke Wu;;;2026/3012;;;last_week;;;none;;;2026-11-23;;;lattice
